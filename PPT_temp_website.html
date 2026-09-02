@@ -8,20 +8,20 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Outfit:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 
 <style>
 :root {
-  --ice: #f5f6f3;
-  --ink: #16232b;
-  --panel: #dce8e8;
-  --teal: #1f4b5c;
-  --aurora: #7fd9c4;
-  --amber: #e8a75d;
-  --muted: #65757b;
-  --line: #b9c8ca;
+  var(--ice): #F0F4F8;
+  --ink: #0B192C;
+  --panel: #FFFFFF;
+  --teal: #1E3E62;
+  --aurora: #0066FF;
+  --amber: #FF6500;
+  --muted: #64748B;
+  --line: #CBD5E1;
 }
 
 * {
@@ -32,13 +32,18 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-snap-type: y mandatory; /* Magic trick: forces perfect scrolling for screenshots */
 }
 
 body {
-  background: var(--ice);
+  background: #F0F4F8;
   color: var(--ink);
   font-family: Inter, Arial, sans-serif;
 }
+
+/* =========================
+NAVBAR
+========================= */
 
 nav {
   height: 72px;
@@ -47,62 +52,85 @@ nav {
   align-items: center;
   justify-content: space-between;
   border-bottom: 1px solid var(--line);
-  background: rgba(245, 246, 243, 0.95);
-  position: sticky;
+  background: rgba(240, 244, 248, 0.95);
+  position: fixed; /* Fixed so it overlays the 100vh sections perfectly */
+  width: 100%;
   top: 0;
   z-index: 1000;
   backdrop-filter: blur(12px);
 }
 
 .logo {
+  font-family: 'Outfit', sans-serif;
   font-weight: 700;
-  letter-spacing: .16em;
-  font-size: 17px;
+  letter-spacing: .1em;
+  font-size: 20px;
+  color: var(--aurora);
 }
 
 .navlinks {
   display: flex;
   gap: 27px;
   font-size: 11px;
-  color: #405158;
+  color: var(--teal);
+  font-weight: 500;
 }
 
 .navlinks a {
   color: inherit;
   text-decoration: none;
+  transition: color 0.2s;
 }
 
 .navlinks a:hover {
-  color: var(--teal);
+  color: var(--aurora);
 }
 
 .navbtn {
-  padding: 10px 15px;
-  border: 1px solid var(--ink);
-  color: var(--ink);
+  padding: 10px 18px;
+  background: var(--aurora);
+  color: white;
+  border-radius: 8px;
   text-decoration: none;
   font-size: 10px;
   font-weight: 600;
+  transition: opacity 0.2s;
+}
+.navbtn:hover {
+  opacity: 0.9;
 }
 
+/* =========================
+GENERAL
+========================= */
+
 .screen {
-  min-height: calc(100vh - 72px);
-  padding: 46px 5vw;
+  height: 100vh; /* Forces each section to be EXACTLY the height of a laptop screen */
+  padding: 85px 5vw 30px; /* Pads the top so the navbar doesn't cover content */
+  scroll-snap-align: start; /* Locks the scroll in place for perfect screenshots */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Vertically centers the content */
   position: relative;
   overflow: hidden;
 }
 
 .kicker {
-  color: var(--teal);
+  color: var(--aurora);
   font-family: "DM Mono";
   font-size: 10px;
   letter-spacing: .16em;
   text-transform: uppercase;
+  font-weight: 500;
 }
+
+/* =========================
+HERO
+========================= */
 
 .hero {
   max-width: 1250px;
-  margin: auto;
+  margin: 0 auto;
   display: grid;
   grid-template-columns: 1.12fr .88fr;
   gap: 42px;
@@ -111,76 +139,68 @@ nav {
 
 .hero h1 {
   max-width: 760px;
-  margin: 18px 0 25px;
-  font-family: Fraunces, serif;
-  font-size: clamp(50px, 6.3vw, 94px);
-  line-height: .93;
-  font-weight: 500;
-  letter-spacing: -.045em;
+  margin: 18px 0 20px;
+  font-family: 'Outfit', sans-serif;
+  font-size: clamp(40px, 5.5vw, 84px);
+  line-height: 1.05;
+  font-weight: 600;
+  letter-spacing: -.02em;
 }
 
 .hero p {
   max-width: 590px;
-  color: #526268;
-  font-size: 15px;
-  line-height: 1.7;
+  color: var(--muted);
+  font-size: 16px;
+  line-height: 1.6;
 }
 
 .actions {
   display: flex;
   gap: 12px;
-  margin-top: 27px;
+  margin-top: 24px;
 }
 
 .btn {
   display: inline-block;
-  padding: 13px 18px;
+  padding: 14px 22px;
   background: var(--ink);
   color: white;
   text-decoration: none;
-  font-size: 10px;
+  font-size: 11px;
   font-weight: 600;
+  border-radius: 8px;
 }
 
 .btn.alt {
-  background: transparent;
+  background: white;
   color: var(--ink);
-  border: 1px solid #89999d;
+  border: 1px solid var(--line);
 }
 
+/* =========================
+EXPEDITION
+========================= */
+
 .expedition {
-  min-height: 355px;
-  padding: 28px;
-  background: var(--ink);
+  min-height: 320px;
+  padding: 32px;
+  background: linear-gradient(135deg, var(--ink) 0%, var(--teal) 100%);
   color: white;
   position: relative;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  box-shadow: 18px 18px 0 #c9d9d9;
-}
-
-.expedition::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background:
-    linear-gradient(145deg, transparent 35%, rgba(127, 217, 196, .13)),
-    repeating-linear-gradient(
-      164deg,
-      transparent 0 29px,
-      rgba(255, 255, 255, .05) 30px,
-      transparent 31px
-    );
-  pointer-events: none;
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(11, 25, 44, 0.15);
 }
 
 .badge {
   display: inline-block;
   width: max-content;
-  padding: 7px 9px;
-  border: 1px solid rgba(127, 217, 196, .45);
-  color: var(--aurora);
+  padding: 7px 10px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 6px;
+  color: white;
   font-family: "DM Mono";
   font-size: 9px;
   letter-spacing: .12em;
@@ -188,16 +208,17 @@ nav {
 
 .expedition h2 {
   max-width: 420px;
-  font-family: Fraunces;
-  font-size: 38px;
-  font-weight: 500;
-  line-height: 1;
+  font-family: 'Outfit', sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 1.1;
+  margin-top: 10px;
 }
 
 .meta {
   display: flex;
   gap: 26px;
-  color: #b7c5c8;
+  color: rgba(255,255,255,0.7);
   font-family: "DM Mono";
   font-size: 9px;
   text-transform: uppercase;
@@ -208,24 +229,32 @@ nav {
   margin-top: 5px;
   color: white;
   font-family: Inter;
-  font-size: 12px;
+  font-size: 13px;
 }
+
+/* =========================
+STATS
+========================= */
 
 .stats {
   max-width: 1250px;
-  margin: 53px auto 0;
-  border-top: 1px solid var(--line);
+  width: 100%;
+  margin: 30px auto 0;
+  background: white;
+  border-radius: 16px;
+  padding: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.02);
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
 
 .stat {
-  padding: 18px;
-  border-right: 1px solid var(--line);
+  padding: 20px 24px;
+  border-right: 1px solid #F0F4F8;
 }
 
 .stat:first-child {
-  padding-left: 0;
+  padding-left: 24px;
 }
 
 .stat:last-child {
@@ -233,58 +262,72 @@ nav {
 }
 
 .stat b {
-  font-family: Fraunces;
-  font-size: 30px;
-  font-weight: 500;
+  font-family: 'Outfit', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--aurora);
 }
 
 .stat span {
   display: block;
-  margin-top: 3px;
+  margin-top: 5px;
   color: var(--muted);
   font-size: 10px;
   text-transform: uppercase;
   letter-spacing: .08em;
+  font-weight: 500;
 }
+
+/* =========================
+SECTION HEADER
+========================= */
 
 .sectionhead {
   max-width: 1250px;
-  margin: 0 auto 26px;
+  width: 100%;
+  margin: 0 auto 20px;
   display: flex;
   justify-content: space-between;
   align-items: end;
 }
 
 .sectionhead h2 {
-  margin-top: 9px;
-  font-family: Fraunces;
-  font-size: 45px;
-  font-weight: 500;
-  line-height: 1;
-  letter-spacing: -.03em;
+  margin-top: 8px;
+  font-family: 'Outfit', sans-serif;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: -.02em;
 }
 
 .sectionhead p {
   max-width: 400px;
   color: var(--muted);
-  font-size: 12px;
+  font-size: 13px;
   line-height: 1.6;
 }
 
+/* =========================
+BENTO
+========================= */
+
 .bento {
   max-width: 1250px;
+  width: 100%;
   margin: auto;
   display: grid;
   grid-template-columns: 1.35fr .8fr .8fr;
-  grid-template-rows: 190px 190px;
-  gap: 13px;
+  grid-template-rows: 170px 170px; /* Compressed for laptop height */
+  gap: 16px;
 }
 
 .card {
-  padding: 20px;
-  background: #edf2f0;
-  border: 1px solid var(--line);
+  padding: 20px 24px;
+  background: white;
+  border: 1px solid white;
+  border-radius: 16px;
   position: relative;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.03);
 }
 
 .card.dark {
@@ -300,88 +343,102 @@ nav {
 .card h3 {
   margin: 10px 0 8px;
   font-size: 17px;
+  font-family: 'Outfit', sans-serif;
 }
 
 .card.dark h3 {
-  font-family: Fraunces;
-  font-size: 29px;
-  font-weight: 500;
+  font-size: 26px;
+  font-weight: 600;
 }
 
 .card p {
   color: var(--muted);
-  font-size: 11px;
-  line-height: 1.6;
+  font-size: 12px;
+  line-height: 1.5;
 }
 
 .card.dark p {
-  color: #b6c5c7;
+  color: #94A3B8;
 }
 
 .live {
   float: right;
   color: var(--amber);
+  background: rgba(255, 101, 0, 0.1);
+  padding: 4px 8px;
+  border-radius: 4px;
   font-family: "DM Mono";
   font-size: 8px;
   letter-spacing: .1em;
 }
 
 .feed {
-  margin-top: 24px;
-  border-top: 1px solid #38505a;
+  margin-top: 20px;
+  border-top: 1px solid rgba(255,255,255,0.1);
 }
 
 .feed div {
   padding: 12px 0;
-  border-bottom: 1px solid #38505a;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
   display: flex;
   justify-content: space-between;
-  font-size: 10px;
+  font-size: 11px;
 }
 
 .feed small {
-  color: #8ea1a5;
+  color: var(--aurora);
   font-family: "DM Mono";
 }
 
 .arrow {
   position: absolute;
-  right: 20px;
-  bottom: 19px;
-  font-size: 17px;
+  right: 24px;
+  bottom: 24px;
+  font-size: 18px;
+  color: var(--aurora);
 }
 
 .pipeline {
   max-width: 1250px;
-  margin: 25px auto 0;
-  padding: 16px 20px;
-  background: var(--teal);
-  color: white;
+  width: 100%;
+  margin: 20px auto 0;
+  padding: 16px 24px;
+  background: white;
+  border-radius: 12px;
+  color: var(--ink);
   display: flex;
   align-items: center;
   justify-content: space-between;
   font-family: "DM Mono";
   font-size: 9px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.03);
 }
 
 .pipeline span {
   color: var(--aurora);
+  font-weight: 600;
 }
+
+/* =========================================================
+REAL POLAR MAP
+========================================================= */
 
 .mapgrid {
   max-width: 1250px;
+  width: 100%;
   margin: auto;
   display: grid;
   grid-template-columns: 1.35fr .65fr;
-  gap: 13px;
+  gap: 16px;
 }
 
 .map {
-  height: 440px;
+  height: 380px; /* Compressed for laptop height */
   position: relative;
   overflow: hidden;
-  border: 1px solid var(--line);
-  background: #dce9eb;
+  border-radius: 16px;
+  background: #E2E8F0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.03);
 }
 
 #polarMap {
@@ -391,11 +448,12 @@ nav {
   height: 100%;
 }
 
+/* MAP TOP BAR */
 .map-top {
   position: absolute;
-  top: 18px;
-  left: 18px;
-  right: 18px;
+  top: 16px;
+  left: 16px;
+  right: 16px;
   z-index: 500;
   display: flex;
   justify-content: space-between;
@@ -403,40 +461,126 @@ nav {
 }
 
 .map-title {
-  padding: 8px 11px;
-  background: rgba(245, 246, 243, .94);
-  border: 1px solid #aebfc1;
+  padding: 8px 12px;
+  background: white;
+  border-radius: 6px;
   font-family: "DM Mono";
   font-size: 9px;
   letter-spacing: .1em;
+  font-weight: 600;
 }
 
 .map-live {
-  padding: 8px 11px;
+  padding: 8px 12px;
   background: var(--ink);
   color: var(--aurora);
+  border-radius: 6px;
   font-family: "DM Mono";
   font-size: 8px;
   letter-spacing: .1em;
+}
+
+.map-status {
+  position: absolute;
+  top: 60px;
+  left: 16px;
+  z-index: 500;
+  display: flex;
+  gap: 6px;
+}
+
+.layer-btn {
+  padding: 6px 10px;
+  background: white;
+  border: none;
+  border-radius: 6px;
+  color: var(--muted);
+  font-family: "DM Mono";
+  font-size: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.layer-btn.active {
+  background: var(--aurora);
+  color: white;
+}
+
+.map-coordinates {
+  position: absolute;
+  right: 16px;
+  top: 60px;
+  z-index: 500;
+  padding: 6px 10px;
+  background: var(--ink);
+  color: white;
+  border-radius: 6px;
+  font-family: "DM Mono";
+  font-size: 8px;
+  pointer-events: none;
+}
+
+.map-count {
+  position: absolute;
+  left: 16px;
+  top: 95px;
+  z-index: 500;
+  padding: 6px 10px;
+  background: white;
+  border-radius: 6px;
+  color: var(--teal);
+  font-family: "DM Mono";
+  font-size: 8px;
+  font-weight: 600;
+}
+
+.map-caption {
+  position: absolute;
+  left: 16px;
+  bottom: 16px;
+  z-index: 500;
+  padding: 12px 16px;
+  background: white;
+  border-radius: 12px;
+  pointer-events: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.map-caption small {
+  color: var(--aurora);
+  font-family: "DM Mono";
+  font-size: 8px;
+  letter-spacing: .12em;
+  font-weight: 600;
+}
+
+.map-caption h3 {
+  margin-top: 4px;
+  font-family: 'Outfit', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1.1;
 }
 
 .map-legend {
   position: absolute;
-  right: 18px;
-  bottom: 18px;
+  right: 16px;
+  bottom: 16px;
   z-index: 500;
-  padding: 12px 14px;
-  background: rgba(245, 246, 243, .95);
-  border: 1px solid #aebfc1;
+  padding: 12px 16px;
+  background: white;
+  border-radius: 12px;
   font-family: "DM Mono";
   font-size: 8px;
   line-height: 2;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
 .legend-item {
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 8px;
 }
 
 .legend-circle {
@@ -452,99 +596,21 @@ nav {
   background: var(--amber);
 }
 
-.map-caption {
-  position: absolute;
-  left: 18px;
-  bottom: 18px;
-  z-index: 500;
-  padding: 15px 18px;
-  background: rgba(245, 246, 243, .94);
-  border-left: 3px solid var(--teal);
-  pointer-events: none;
-}
-
-.map-caption small {
-  color: var(--teal);
-  font-family: "DM Mono";
-  font-size: 8px;
-  letter-spacing: .12em;
-}
-
-.map-caption h3 {
-  margin-top: 4px;
-  font-family: Fraunces;
-  font-size: 26px;
-  font-weight: 500;
-  line-height: 1;
-}
-
-.map-status {
-  position: absolute;
-  top: 64px;
-  left: 18px;
-  z-index: 500;
-  display: flex;
-  gap: 6px;
-}
-
-.layer-btn {
-  padding: 7px 9px;
-  background: rgba(245, 246, 243, .92);
-  border: 1px solid #aebfc1;
-  color: var(--ink);
-  font-family: "DM Mono";
-  font-size: 7px;
-  cursor: pointer;
-}
-
-.layer-btn.active {
-  background: var(--teal);
-  color: white;
-  border-color: var(--teal);
-}
-
-.map-coordinates {
-  position: absolute;
-  right: 18px;
-  top: 64px;
-  z-index: 500;
-  padding: 7px 9px;
-  background: rgba(22, 35, 43, .9);
-  color: var(--aurora);
-  font-family: "DM Mono";
-  font-size: 7px;
-  pointer-events: none;
-}
-
-.map-count {
-  position: absolute;
-  left: 18px;
-  top: 110px;
-  z-index: 500;
-  padding: 7px 9px;
-  background: rgba(245, 246, 243, .9);
-  border: 1px solid #aebfc1;
-  color: var(--teal);
-  font-family: "DM Mono";
-  font-size: 7px;
-}
-
+/* LEAFLET */
 .leaflet-container {
-  background: #dce9eb;
+  background: #E2E8F0;
 }
-
 .leaflet-control-zoom {
-  border: 1px solid #aebfc1 !important;
+  border: none !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1) !important;
 }
-
 .leaflet-control-zoom a {
-  background: rgba(245, 246, 243, .94) !important;
+  background: white !important;
   color: var(--ink) !important;
-  border-color: #c0ccce !important;
+  border: none !important;
 }
-
 .leaflet-control-attribution {
-  background: rgba(245, 246, 243, .85) !important;
+  background: rgba(255,255,255,0.7) !important;
   font-size: 8px !important;
 }
 
@@ -554,16 +620,12 @@ nav {
   border-radius: 50%;
   background: var(--teal);
   border: 2px solid white;
-  box-shadow:
-    0 0 0 5px rgba(31, 75, 92, .18),
-    0 2px 7px rgba(0, 0, 0, .3);
+  box-shadow: 0 2px 7px rgba(0, 0, 0, .3);
 }
 
 .india-marker {
   background: var(--aurora);
-  box-shadow:
-    0 0 0 5px rgba(127, 217, 196, .25),
-    0 2px 7px rgba(0, 0, 0, .3);
+  border: 2px solid white;
 }
 
 .expedition-marker {
@@ -572,102 +634,88 @@ nav {
   border-radius: 50%;
   background: var(--amber);
   border: 2px solid white;
-  box-shadow:
-    0 0 0 5px rgba(232, 167, 93, .2),
-    0 2px 7px rgba(0, 0, 0, .3);
 }
 
 .station-label {
-  padding: 5px 7px;
+  padding: 6px 8px;
   background: var(--ink);
   color: white;
   border: 0;
-  border-radius: 0;
-  box-shadow: none;
+  border-radius: 6px;
   font-family: "DM Mono";
-  font-size: 8px;
+  font-size: 9px;
 }
+.station-label::before { border-top-color: var(--ink) !important; }
+.leaflet-popup-content-wrapper { border-radius: 8px; background: var(--ink); color: white; }
+.leaflet-popup-tip { background: var(--ink); }
+.popup-title { margin-bottom: 6px; font-family: 'Outfit', sans-serif; font-size: 18px; font-weight: 600; }
+.popup-meta { color: #94A3B8; font-family: "DM Mono"; font-size: 8px; line-height: 1.8; text-transform: uppercase; }
 
-.station-label::before {
-  border-top-color: var(--ink) !important;
-}
-
-.leaflet-popup-content-wrapper {
-  border-radius: 0;
-  background: var(--ink);
-  color: white;
-}
-
-.leaflet-popup-tip {
-  background: var(--ink);
-}
-
-.popup-title {
-  margin-bottom: 6px;
-  font-family: Fraunces;
-  font-size: 19px;
-}
-
-.popup-meta {
-  color: #aebfc2;
-  font-family: "DM Mono";
-  font-size: 8px;
-  line-height: 1.8;
-  text-transform: uppercase;
-}
+/* =========================
+COMMUNITY
+========================= */
 
 .community {
-  min-height: 440px;
-  padding: 27px;
-  background: var(--ink);
+  min-height: 380px; /* Compressed for laptop height */
+  padding: 28px;
+  background: var(--teal);
   color: white;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  border-radius: 16px;
 }
 
 .community h2 {
-  margin-top: 13px;
-  font-family: Fraunces;
-  font-size: 38px;
-  font-weight: 500;
-  line-height: 1;
+  margin-top: 10px;
+  font-family: 'Outfit', sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 1.1;
 }
 
 .community p {
-  margin-top: 14px;
-  color: #b8c5c7;
-  font-size: 11px;
-  line-height: 1.7;
+  margin-top: 10px;
+  color: rgba(255,255,255,0.8);
+  font-size: 12px;
+  line-height: 1.6;
 }
 
 .tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 7px;
-  margin-top: 20px;
+  gap: 8px;
+  margin-top: 16px;
 }
 
 .tag {
-  padding: 7px 9px;
-  border: 1px solid #53676c;
-  color: #d5e0e0;
+  padding: 8px 12px;
+  background: rgba(255,255,255,0.1);
+  border-radius: 6px;
+  color: white;
   font-family: "DM Mono";
-  font-size: 8px;
+  font-size: 9px;
 }
+
+/* =========================
+IMPACT
+========================= */
 
 .impact {
   max-width: 1250px;
+  width: 100%;
   margin: 16px auto 0;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  border-top: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
+  background: white;
+  border-radius: 16px;
+  padding: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.03);
 }
 
 .impact div {
-  padding: 15px 18px;
-  border-right: 1px solid var(--line);
+  padding: 16px 20px;
+  border-right: 1px solid #F0F4F8;
 }
 
 .impact div:last-child {
@@ -675,9 +723,10 @@ nav {
 }
 
 .impact b {
-  font-family: Fraunces;
-  font-size: 31px;
-  font-weight: 500;
+  font-family: 'Outfit', sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--ink);
 }
 
 .impact span {
@@ -687,72 +736,36 @@ nav {
   font-size: 9px;
   text-transform: uppercase;
   letter-spacing: .08em;
+  font-weight: 500;
 }
 
-footer {
-  padding: 22px 5vw;
+/* =========================
+FOOTER
+========================= */
+.footer-screen {
+  padding: 24px 5vw;
   display: flex;
   justify-content: space-between;
-  border-top: 1px solid var(--line);
-  color: #718084;
+  color: var(--muted);
   font-family: "DM Mono";
-  font-size: 8px;
+  font-size: 9px;
+  font-weight: 500;
+  scroll-snap-align: start;
 }
 
 @media (max-width: 800px) {
-  .navlinks {
-    display: none;
-  }
-
-  .hero,
-  .mapgrid {
-    grid-template-columns: 1fr;
-  }
-
-  .screen {
-    padding: 35px 6vw;
-  }
-
-  .hero h1 {
-    font-size: 52px;
-  }
-
-  .bento {
-    grid-template-columns: 1fr;
-    grid-template-rows: auto;
-  }
-
-  .card.radar {
-    grid-row: auto;
-    min-height: 360px;
-  }
-
-  .bento .card {
-    min-height: 170px;
-  }
-
-  .stats,
-  .impact {
-    grid-template-columns: 1fr 1fr;
-  }
-
-  .pipeline {
-    flex-wrap: wrap;
-    gap: 9px;
-  }
-
-  .map {
-    height: 380px;
-  }
-
-  .map-coordinates {
-    display: none;
-  }
-
-  footer {
-    flex-direction: column;
-    gap: 8px;
-  }
+  .navlinks { display: none; }
+  html { scroll-snap-type: none; }
+  .screen { height: auto; padding: 100px 5vw 40px; }
+  .hero, .mapgrid { grid-template-columns: 1fr; }
+  .hero h1 { font-size: 42px; }
+  .bento { grid-template-columns: 1fr; grid-template-rows: auto; }
+  .card.radar { grid-row: auto; min-height: 360px; }
+  .bento .card { min-height: 170px; }
+  .stats, .impact { grid-template-columns: 1fr 1fr; }
+  .pipeline { flex-wrap: wrap; gap: 9px; }
+  .map { height: 380px; }
+  .map-coordinates { display: none; }
 }
 </style>
 </head>
@@ -774,616 +787,235 @@ footer {
 </nav>
 
 <section class="screen" id="expeditions">
-
   <div class="hero">
-
     <div>
       <div class="kicker">Polar Research Intelligence Platform</div>
-
-      <h1>
-        Discover the science at the ends of the Earth.
-      </h1>
-
-      <p>
-        A unified digital platform connecting polar expeditions,
-        scientific research, datasets, publications, media and
-        community discoveries.
-      </p>
-
+      <h1>Discover the science at the ends of the Earth.</h1>
+      <p>A unified digital platform connecting polar expeditions, scientific research, datasets, publications, media and community discoveries.</p>
       <div class="actions">
         <a class="btn" href="#research">EXPLORE EXPEDITIONS</a>
         <a class="btn alt" href="#map-section">POLAR MAP</a>
       </div>
     </div>
-
     <article class="expedition">
-
+      <div><span class="badge">● ACTIVE EXPEDITION</span></div>
       <div>
-        <span class="badge">● ACTIVE EXPEDITION</span>
-      </div>
-
-      <div>
-        <div class="kicker" style="color:#9eb0b3">
-          Featured Expedition / 2026
-        </div>
-
+        <div class="kicker" style="color:#ffffff; opacity:0.8;">Featured Expedition / 2026</div>
         <h2>Antarctic Research Expedition</h2>
       </div>
-
       <div class="meta">
-
-        <div>
-          REGION
-          <strong>ANTARCTICA</strong>
-        </div>
-
-        <div>
-          STATUS
-          <strong>IN FIELD</strong>
-        </div>
-
-        <div>
-          UPDATE
-          <strong>2H AGO</strong>
-        </div>
-
+        <div>REGION<strong>ANTARCTICA</strong></div>
+        <div>STATUS<strong>IN FIELD</strong></div>
+        <div>UPDATE<strong>2H AGO</strong></div>
       </div>
-
     </article>
-
   </div>
-
   <div class="stats">
-
-    <div class="stat">
-      <b>48+</b>
-      <span>Expeditions archived</span>
-    </div>
-
-    <div class="stat">
-      <b>1,200+</b>
-      <span>Research publications</span>
-    </div>
-
-    <div class="stat">
-      <b>350+</b>
-      <span>Open datasets</span>
-    </div>
-
+    <div class="stat"><b>48+</b><span>Expeditions archived</span></div>
+    <div class="stat"><b>1,200+</b><span>Research publications</span></div>
+    <div class="stat"><b>350+</b><span>Open datasets</span></div>
   </div>
-
 </section>
 
 <section class="screen" id="research">
-
   <div class="sectionhead">
-
     <div>
       <div class="kicker">Source Intelligence</div>
-
-      <h2>
-        One platform.<br>
-        Every discovery.
-      </h2>
+      <h2>One platform.<br>Every discovery.</h2>
     </div>
-
-    <p>
-      Discover verified scientific knowledge alongside
-      emerging research signals from open technical and
-      community sources.
-    </p>
-
+    <p>Discover verified scientific knowledge alongside emerging research signals from open technical and community sources.</p>
   </div>
-
   <div class="bento">
-
     <article class="card dark radar">
-
       <span class="live">● LIVE RESEARCH RADAR</span>
-
-      <div class="kicker" style="color:#7fd9c4">
-        Automated discovery
-      </div>
-
+      <div class="kicker" style="color:var(--aurora)">Automated discovery</div>
       <h3>What is changing in polar research?</h3>
-
-      <p>
-        New research signals discovered across scientific
-        publications, GitHub and public research communities.
-      </p>
-
+      <p>New research signals discovered across scientific publications, GitHub and public research communities.</p>
       <div class="feed">
-
-        <div>
-          <span>Sea Ice Classification Model</span>
-          <small>GITHUB · 12m</small>
-        </div>
-
-        <div>
-          <span>Arctic Ocean Research Discussion</span>
-          <small>REDDIT · 28m</small>
-        </div>
-
-        <div>
-          <span>Antarctic Climate Trends</span>
-          <small>PAPER · 1h</small>
-        </div>
-
-        <div>
-          <span>Southern Ocean Temperature</span>
-          <small>DATASET · 2h</small>
-        </div>
-
+        <div><span>Sea Ice Classification Model</span><small>GITHUB · 12m</small></div>
+        <div><span>Arctic Ocean Research Discussion</span><small>REDDIT · 28m</small></div>
+        <div><span>Antarctic Climate Trends</span><small>PAPER · 1h</small></div>
+        <div><span>Southern Ocean Temperature</span><small>DATASET · 2h</small></div>
       </div>
-
     </article>
-
     <article class="card">
-
       <div class="kicker">DATASETS</div>
-
       <h3>Structured polar data</h3>
-
-      <p>
-        Explore accessible datasets for climate,
-        oceans, ice and biodiversity research.
-      </p>
-
+      <p>Explore accessible datasets for climate, oceans, ice and biodiversity research.</p>
       <span class="arrow">↗</span>
-
     </article>
-
     <article class="card">
-
       <div class="kicker">PUBLICATIONS</div>
-
       <h3>Research archive</h3>
-
-      <p>
-        Reports, papers and scientific knowledge
-        in one searchable layer.
-      </p>
-
+      <p>Reports, papers and scientific knowledge in one searchable layer.</p>
       <span class="arrow">↗</span>
-
     </article>
-
     <article class="card">
-
       <div class="kicker">AI RESEARCH ASSISTANT</div>
-
       <h3>Ask the archive.</h3>
-
-      <p>
-        Answers grounded in verified polar research,
-        not generic web results.
-      </p>
-
+      <p>Answers grounded in verified polar research, not generic web results.</p>
       <span class="arrow">↗</span>
-
     </article>
-
     <article class="card">
-
       <div class="kicker">VERIFICATION</div>
-
       <h3>Human validated.</h3>
-
-      <p>
-        Automated discovery is reviewed before
-        trusted content reaches the public archive.
-      </p>
-
+      <p>Automated discovery is reviewed before trusted content reaches the public archive.</p>
       <span class="arrow">↗</span>
-
     </article>
-
   </div>
-
   <div class="pipeline">
-    <span>AUTO DISCOVERY</span>
-    →
-    AI SUMMARIZATION
-    →
-    <span>HUMAN VALIDATION</span>
-    →
-    VERIFIED KNOWLEDGE
+    <span>AUTO DISCOVERY</span> → AI SUMMARIZATION → <span>HUMAN VALIDATION</span> → VERIFIED KNOWLEDGE
   </div>
-
 </section>
 
 <section class="screen" id="map-section">
-
   <div class="sectionhead">
-
     <div>
       <div class="kicker">Explore + Contribute</div>
-
-      <h2>
-        From fieldwork<br>
-        to shared knowledge.
-      </h2>
+      <h2>From fieldwork<br>to shared knowledge.</h2>
     </div>
-
-    <p>
-      Connect scientific activity with a living map
-      and a responsible community contribution layer.
-    </p>
-
+    <p>Connect scientific activity with a living map and a responsible community contribution layer.</p>
   </div>
-
   <div class="mapgrid">
-
     <article class="map">
-
       <div id="polarMap"></div>
-
       <div class="map-top">
         <div class="map-title">POLAR RESEARCH MAP / LIVE LAYER</div>
         <div class="map-live">● LIVE DATA</div>
       </div>
-
       <div class="map-status">
-        <button class="layer-btn active" data-layer="stations">
-          STATIONS
-        </button>
-
-        <button class="layer-btn active" data-layer="expeditions">
-          EXPEDITIONS
-        </button>
-
-        <button class="layer-btn active" data-layer="research">
-          RESEARCH
-        </button>
+        <button class="layer-btn active" data-layer="stations">STATIONS</button>
+        <button class="layer-btn active" data-layer="expeditions">EXPEDITIONS</button>
+        <button class="layer-btn active" data-layer="research">RESEARCH</button>
       </div>
-
-      <div class="map-coordinates" id="coordinates">
-        LAT — · LNG —
-      </div>
-
-      <div class="map-count" id="mapCount">
-        08 STATIONS · 01 ROUTE · 02 ZONES
-      </div>
-
+      <div class="map-coordinates" id="coordinates">LAT — · LNG —</div>
+      <div class="map-count" id="mapCount">08 STATIONS · 01 ROUTE · 02 ZONES</div>
       <div class="map-caption">
         <small>SOUTH POLAR REGION</small>
-
-        <h3>
-          Explore polar research<br>
-          on the map.
-        </h3>
+        <h3>Explore polar research<br>on the map.</h3>
       </div>
-
       <div class="map-legend">
-
-        <div class="legend-item">
-          <span class="legend-circle"></span>
-          RESEARCH STATION
-        </div>
-
-        <div class="legend-item">
-          <span
-            class="legend-circle"
-            style="background:#7fd9c4"
-          ></span>
-          INDIAN STATION
-        </div>
-
-        <div class="legend-item">
-          <span
-            class="legend-circle"
-            style="background:#e8a75d"
-          ></span>
-          EXPEDITION
-        </div>
-
-        <div class="legend-item">
-          <span class="legend-route"></span>
-          EXPEDITION ROUTE
-        </div>
-
+        <div class="legend-item"><span class="legend-circle"></span>RESEARCH STATION</div>
+        <div class="legend-item"><span class="legend-circle" style="background:var(--aurora)"></span>INDIAN STATION</div>
+        <div class="legend-item"><span class="legend-circle" style="background:var(--amber)"></span>EXPEDITION</div>
+        <div class="legend-item"><span class="legend-route"></span>EXPEDITION ROUTE</div>
       </div>
-
     </article>
-
     <article class="community" id="community">
-
       <div>
-
-        <div
-          class="kicker"
-          style="color:#7fd9c4"
-        >
-          Community Contributions
-        </div>
-
-        <h2>
-          Your discovery becomes part of the record.
-        </h2>
-
-        <p>
-          Researchers, students, travelers and expedition
-          members can contribute field photos, videos,
-          observations and research resources.
-        </p>
-
+        <div class="kicker" style="color:#ffffff; opacity: 0.8;">Community Contributions</div>
+        <h2>Your discovery becomes part of the record.</h2>
+        <p>Researchers, students, travelers and expedition members can contribute field photos, videos, observations and research resources.</p>
         <div class="tags">
-          <span class="tag">PHOTOS</span>
-          <span class="tag">VIDEOS</span>
-          <span class="tag">OBSERVATIONS</span>
-          <span class="tag">RESEARCH</span>
+          <span class="tag">PHOTOS</span><span class="tag">VIDEOS</span><span class="tag">OBSERVATIONS</span><span class="tag">RESEARCH</span>
         </div>
-
       </div>
-
-      <a
-        class="btn"
-        href="#"
-        style="
-          background:#7fd9c4;
-          color:#16232b;
-          width:max-content;
-        "
-      >
-        SUBMIT CONTRIBUTION →
-      </a>
-
+      <a class="btn" href="#" style="background:var(--aurora); color:white; width:max-content;">SUBMIT CONTRIBUTION →</a>
     </article>
-
   </div>
-
   <div class="impact">
-
-    <div>
-      <b>48+</b>
-      <span>Expeditions</span>
-    </div>
-
-    <div>
-      <b>350+</b>
-      <span>Datasets</span>
-    </div>
-
-    <div>
-      <b>1,200+</b>
-      <span>Publications</span>
-    </div>
-
-    <div>
-      <b>500+</b>
-      <span>Community discoveries</span>
-    </div>
-
+    <div><b>48+</b><span>Expeditions</span></div>
+    <div><b>350+</b><span>Datasets</span></div>
+    <div><b>1,200+</b><span>Publications</span></div>
+    <div><b>500+</b><span>Community discoveries</span></div>
   </div>
-
 </section>
 
-<footer>
+<div class="footer-screen">
   <span>POLARIS / POLAR RESEARCH INTELLIGENCE</span>
   <span>DISCOVERY → VALIDATION → KNOWLEDGE</span>
-</footer>
+</div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
 <script>
 const map = L.map("polarMap", {
-  center: [-78, 35],
-  zoom: 3,
-  minZoom: 2,
-  maxZoom: 8,
-  zoomControl: true
+  center: [-78, 35], zoom: 3, minZoom: 2, maxZoom: 8, zoomControl: true
 });
 
-const baseLayer = L.tileLayer(
-  "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
-  {
-    maxZoom: 19,
-    attribution:
-      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-  }
-).addTo(map);
+const baseLayer = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map);
 
 const stationsLayer = L.layerGroup().addTo(map);
 const expeditionLayer = L.layerGroup().addTo(map);
 const researchLayer = L.layerGroup().addTo(map);
 
 const stations = [
-  {
-    name: "Maitri Research Station",
-    country: "India",
-    coords: [-70.7697, 11.7339],
-    india: true
-  },
-  {
-    name: "Bharati Research Station",
-    country: "India",
-    coords: [-69.4086, 76.1873],
-    india: true
-  },
-  {
-    name: "Himadri Research Station",
-    country: "India",
-    coords: [78.92, 11.93],
-    india: true
-  },
-  {
-    name: "McMurdo Station",
-    country: "United States",
-    coords: [-77.8419, 166.6863],
-    india: false
-  },
-  {
-    name: "Amundsen–Scott South Pole Station",
-    country: "United States",
-    coords: [-90, 0],
-    india: false
-  },
-  {
-    name: "Concordia Station",
-    country: "France / Italy",
-    coords: [-75.1000, 123.3333],
-    india: false
-  },
-  {
-    name: "Rothera Research Station",
-    country: "United Kingdom",
-    coords: [-67.5689, -68.1275],
-    india: false
-  },
-  {
-    name: "Casey Research Station",
-    country: "Australia",
-    coords: [-66.2820, 110.5270],
-    india: false
-  }
+  { name: "Maitri Research Station", country: "India", coords: [-70.7697, 11.7339], india: true },
+  { name: "Bharati Research Station", country: "India", coords: [-69.4086, 76.1873], india: true },
+  { name: "Himadri Research Station", country: "India", coords: [78.92, 11.93], india: true },
+  { name: "McMurdo Station", country: "United States", coords: [-77.8419, 166.6863], india: false },
+  { name: "Amundsen–Scott South Pole Station", country: "United States", coords: [-90, 0], india: false },
+  { name: "Concordia Station", country: "France / Italy", coords: [-75.1000, 123.3333], india: false },
+  { name: "Rothera Research Station", country: "United Kingdom", coords: [-67.5689, -68.1275], india: false },
+  { name: "Casey Research Station", country: "Australia", coords: [-66.2820, 110.5270], india: false }
 ];
 
 const researchIcon = (india = false) =>
   L.divIcon({
     className: "",
     html: `<div class="research-marker ${india ? "india-marker" : ""}"></div>`,
-    iconSize: [14, 14],
-    iconAnchor: [7, 7]
+    iconSize: [14, 14], iconAnchor: [7, 7]
   });
 
 stations.forEach(station => {
-  const marker = L.marker(
-    station.coords,
-    {
-      icon: researchIcon(station.india)
-    }
-  ).addTo(stationsLayer);
-
-  marker.bindTooltip(
-    station.name,
-    {
-      direction: "top",
-      offset: [0, -8],
-      className: "station-label",
-      opacity: .95
-    }
-  );
-
+  const marker = L.marker(station.coords, { icon: researchIcon(station.india) }).addTo(stationsLayer);
+  marker.bindTooltip(station.name, { direction: "top", offset: [0, -8], className: "station-label", opacity: .95 });
   marker.bindPopup(`
-    <div class="popup-title">
-      ${station.name}
-    </div>
-
+    <div class="popup-title">${station.name}</div>
     <div class="popup-meta">
-      ${station.country}<br>
-      RESEARCH STATION<br>
-      LAT ${Math.abs(station.coords[0]).toFixed(3)}° S /
-      LNG ${Math.abs(station.coords[1]).toFixed(3)}°
+      ${station.country}<br>RESEARCH STATION<br>
+      LAT ${Math.abs(station.coords[0]).toFixed(3)}° S / LNG ${Math.abs(station.coords[1]).toFixed(3)}°
     </div>
   `);
 });
 
 const route = [
-  [-77.8419, 166.6863],
-  [-77.8497, 166.7570],
-  [-75.1000, 123.3333],
-  [-70.7697, 11.7339],
-  [-69.4086, 76.1873]
+  [-77.8419, 166.6863], [-77.8497, 166.7570], [-75.1000, 123.3333], [-70.7697, 11.7339], [-69.4086, 76.1873]
 ];
 
 L.polyline(route, {
-  color: "#e8a75d",
-  weight: 2,
-  opacity: .9,
-  dashArray: "7 8"
+  color: "var(--amber)", weight: 2, opacity: .9, dashArray: "7 8"
 }).addTo(expeditionLayer);
 
 route.forEach((point, index) => {
   if (index === route.length - 1) return;
-
   L.marker(point, {
-    icon: L.divIcon({
-      className: "",
-      html: '<div class="expedition-marker"></div>',
-      iconSize: [13, 13],
-      iconAnchor: [6.5, 6.5]
-    })
+    icon: L.divIcon({ className: "", html: '<div class="expedition-marker"></div>', iconSize: [13, 13], iconAnchor: [6.5, 6.5] })
   }).addTo(expeditionLayer);
 });
 
 const researchZones = [
-  {
-    center: [-70.7697, 11.7339],
-    radius: 85000
-  },
-  {
-    center: [-69.4086, 76.1873],
-    radius: 70000
-  }
+  { center: [-70.7697, 11.7339], radius: 85000 },
+  { center: [-69.4086, 76.1873], radius: 70000 }
 ];
 
 researchZones.forEach(zone => {
   L.circle(zone.center, {
-    radius: zone.radius,
-    color: "#7fd9c4",
-    weight: 1,
-    opacity: .55,
-    fillColor: "#7fd9c4",
-    fillOpacity: .08
+    radius: zone.radius, color: "var(--aurora)", weight: 1, opacity: .7, fillColor: "var(--aurora)", fillOpacity: .1
   }).addTo(researchLayer);
 });
 
-const mapBounds = [
-  [-90, -180],
-  [-60, 180]
-];
-
-map.fitBounds(mapBounds, {
-  padding: [20, 20]
-});
+map.fitBounds([[-90, -180], [-60, 180]], { padding: [20, 20] });
 
 map.on("mousemove", event => {
   const lat = Math.abs(event.latlng.lat).toFixed(2);
   const lng = Math.abs(event.latlng.lng).toFixed(2);
-
-  const latDirection = event.latlng.lat >= 0 ? "N" : "S";
-  const lngDirection = event.latlng.lng >= 0 ? "E" : "W";
-
-  document.getElementById("coordinates").textContent =
-    `LAT ${lat}° ${latDirection} · LNG ${lng}° ${lngDirection}`;
+  document.getElementById("coordinates").textContent = `LAT ${lat}° ${event.latlng.lat >= 0 ? "N" : "S"} · LNG ${lng}° ${event.latlng.lng >= 0 ? "E" : "W"}`;
 });
 
-const layerButtons = document.querySelectorAll(".layer-btn");
-
-layerButtons.forEach(button => {
+document.querySelectorAll(".layer-btn").forEach(button => {
   button.addEventListener("click", () => {
-
     const layer = button.dataset.layer;
-
     button.classList.toggle("active");
-
     const active = button.classList.contains("active");
-
-    if (layer === "stations") {
-      active
-        ? map.addLayer(stationsLayer)
-        : map.removeLayer(stationsLayer);
-    }
-
-    if (layer === "expeditions") {
-      active
-        ? map.addLayer(expeditionLayer)
-        : map.removeLayer(expeditionLayer);
-    }
-
-    if (layer === "research") {
-      active
-        ? map.addLayer(researchLayer)
-        : map.removeLayer(researchLayer);
-    }
-
+    if (layer === "stations") { active ? map.addLayer(stationsLayer) : map.removeLayer(stationsLayer); }
+    if (layer === "expeditions") { active ? map.addLayer(expeditionLayer) : map.removeLayer(expeditionLayer); }
+    if (layer === "research") { active ? map.addLayer(researchLayer) : map.removeLayer(researchLayer); }
   });
 });
 
-setTimeout(() => {
-  map.invalidateSize();
-}, 500);
+setTimeout(() => { map.invalidateSize(); }, 500);
 </script>
-
 </body>
 </html>
