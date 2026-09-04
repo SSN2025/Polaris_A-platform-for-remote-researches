@@ -1,0 +1,1821 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Content Studio | POLARIS</title>
+
+    <!-- Same fonts as homepage -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Outfit:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <style>
+
+        /* =========================
+           SAME COLOR SYSTEM
+        ========================== */
+
+        :root {
+            --ice: #F0F4F8;
+            --ink: #0B192C;
+            --panel: #FFFFFF;
+            --teal: #1E3E62;
+            --aurora: #0066FF;
+            --amber: #FF6500;
+            --muted: #64748B;
+            --line: #CBD5E1;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            background: var(--ice);
+            color: var(--ink);
+            font-family: Inter, Arial, sans-serif;
+        }
+
+
+        /* =========================
+           NAVBAR
+        ========================== */
+
+        nav {
+            height: 72px;
+            padding: 0 5vw;
+
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            border-bottom: 1px solid var(--line);
+
+            background: rgba(240, 244, 248, 0.95);
+
+            position: fixed;
+            width: 100%;
+            top: 0;
+
+            z-index: 1000;
+
+            backdrop-filter: blur(12px);
+        }
+
+        .logo {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 700;
+            letter-spacing: .1em;
+            font-size: 20px;
+            color: var(--aurora);
+        }
+
+        .navlinks {
+            display: flex;
+            gap: 27px;
+
+            font-size: 11px;
+            color: var(--teal);
+            font-weight: 500;
+        }
+
+        .navlinks a {
+            color: inherit;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        .navlinks a:hover,
+        .navlinks a.active {
+            color: var(--aurora);
+        }
+
+        .navbtn {
+            padding: 10px 18px;
+
+            background: var(--aurora);
+            color: white;
+
+            border-radius: 8px;
+            text-decoration: none;
+
+            font-size: 10px;
+            font-weight: 600;
+
+            transition: opacity 0.2s;
+        }
+
+        .navbtn:hover {
+            opacity: 0.9;
+        }
+
+
+        /* =========================
+           GENERAL
+        ========================== */
+
+        .screen {
+            min-height: 100vh;
+
+            padding: 120px 5vw 60px;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .kicker {
+            color: var(--aurora);
+
+            font-family: "DM Mono", monospace;
+            font-size: 10px;
+
+            letter-spacing: .16em;
+            text-transform: uppercase;
+
+            font-weight: 500;
+        }
+
+
+        /* =========================
+           HERO
+        ========================== */
+
+        .hero {
+            max-width: 1250px;
+            width: 100%;
+
+            margin: auto;
+
+            display: grid;
+            grid-template-columns: 1.1fr .9fr;
+
+            gap: 50px;
+
+            align-items: center;
+        }
+
+        .hero h1 {
+            margin: 18px 0 20px;
+
+            font-family: 'Outfit', sans-serif;
+
+            font-size: clamp(45px, 5.5vw, 80px);
+
+            line-height: 1.05;
+            font-weight: 600;
+
+            letter-spacing: -.02em;
+        }
+
+        .hero p {
+            max-width: 620px;
+
+            color: var(--muted);
+
+            font-size: 16px;
+            line-height: 1.7;
+        }
+
+        .actions {
+            display: flex;
+            gap: 12px;
+
+            margin-top: 28px;
+        }
+
+        .btn {
+            display: inline-block;
+
+            padding: 14px 22px;
+
+            background: var(--ink);
+            color: white;
+
+            text-decoration: none;
+
+            font-size: 11px;
+            font-weight: 600;
+
+            border-radius: 8px;
+        }
+
+        .btn.alt {
+            background: white;
+            color: var(--ink);
+
+            border: 1px solid var(--line);
+        }
+
+
+        /* =========================
+           AI CONTENT CARD
+        ========================== */
+
+        .studio-card {
+            min-height: 390px;
+
+            padding: 32px;
+
+            border-radius: 16px;
+
+            background:
+                linear-gradient(
+                    135deg,
+                    var(--ink),
+                    var(--teal)
+                );
+
+            color: white;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+            box-shadow: 0 20px 40px rgba(11, 25, 44, 0.18);
+        }
+
+        .badge {
+            display: inline-block;
+
+            width: max-content;
+
+            padding: 7px 10px;
+
+            background: rgba(255,255,255,0.1);
+
+            border-radius: 6px;
+
+            font-family: "DM Mono", monospace;
+            font-size: 9px;
+
+            letter-spacing: .12em;
+        }
+
+        .studio-card h2 {
+            margin-top: 18px;
+
+            font-family: 'Outfit', sans-serif;
+
+            font-size: 34px;
+            line-height: 1.1;
+
+            font-weight: 600;
+        }
+
+        .studio-card p {
+            margin-top: 12px;
+
+            color: rgba(255,255,255,.75);
+
+            font-size: 13px;
+            line-height: 1.6;
+        }
+
+        .studio-features {
+            display: flex;
+            flex-wrap: wrap;
+
+            gap: 8px;
+        }
+
+        .studio-features span {
+            padding: 8px 12px;
+
+            background: rgba(255,255,255,.1);
+
+            border-radius: 6px;
+
+            font-family: "DM Mono", monospace;
+            font-size: 8px;
+        }
+
+
+        /* =========================
+           SECTION HEADER
+        ========================== */
+
+        .sectionhead {
+            max-width: 1250px;
+            width: 100%;
+
+            margin: 0 auto 30px;
+
+            display: flex;
+            justify-content: space-between;
+            align-items: end;
+        }
+
+        .sectionhead h2 {
+            margin-top: 10px;
+
+            font-family: 'Outfit', sans-serif;
+
+            font-size: 42px;
+            line-height: 1.1;
+
+            font-weight: 600;
+
+            letter-spacing: -.02em;
+        }
+
+        .sectionhead p {
+            max-width: 400px;
+
+            color: var(--muted);
+
+            font-size: 13px;
+            line-height: 1.6;
+        }
+
+
+        /* =========================
+           CONTENT TYPES
+        ========================== */
+
+        .content-grid {
+            max-width: 1250px;
+            width: 100%;
+
+            margin: auto;
+
+            display: grid;
+
+            grid-template-columns:
+                1.4fr 1fr 1fr;
+
+            grid-template-rows:
+                210px 210px;
+
+            gap: 16px;
+        }
+
+        .content-card {
+            position: relative;
+
+            padding: 24px;
+
+            background: white;
+
+            border-radius: 16px;
+
+            box-shadow:
+                0 4px 12px
+                rgba(0,0,0,.03);
+
+            cursor: pointer;
+
+            transition:
+                transform .25s,
+                box-shadow .25s;
+        }
+
+        .content-card:hover {
+            transform: translateY(-5px);
+
+            box-shadow:
+                0 12px 25px
+                rgba(0,0,0,.08);
+        }
+
+        .content-card.featured {
+            grid-row: span 2;
+
+            background: var(--ink);
+            color: white;
+        }
+
+        .content-card h3 {
+            margin-top: 12px;
+
+            font-family: 'Outfit', sans-serif;
+
+            font-size: 20px;
+
+            font-weight: 600;
+        }
+
+        .content-card.featured h3 {
+            font-size: 30px;
+        }
+
+        .content-card p {
+            margin-top: 10px;
+
+            color: var(--muted);
+
+            font-size: 12px;
+            line-height: 1.6;
+        }
+
+        .content-card.featured p {
+            color: #94A3B8;
+        }
+
+        .content-icon {
+            font-size: 28px;
+        }
+
+        .arrow {
+            position: absolute;
+
+            right: 24px;
+            bottom: 22px;
+
+            font-size: 20px;
+
+            color: var(--aurora);
+        }
+
+        .mini-feed {
+            margin-top: 25px;
+
+            border-top:
+                1px solid
+                rgba(255,255,255,.12);
+        }
+
+        .mini-feed div {
+            padding: 12px 0;
+
+            display: flex;
+            justify-content: space-between;
+
+            border-bottom:
+                1px solid
+                rgba(255,255,255,.12);
+
+            font-size: 11px;
+        }
+
+        .mini-feed small {
+            color: var(--aurora);
+
+            font-family: "DM Mono", monospace;
+
+            font-size: 8px;
+        }
+
+
+        /* =========================
+           CONTENT GENERATOR
+        ========================== */
+
+        .generator {
+            max-width: 1250px;
+            width: 100%;
+
+            margin: auto;
+
+            display: grid;
+
+            grid-template-columns:
+                .9fr 1.1fr;
+
+            gap: 18px;
+        }
+
+        .generator-panel {
+            padding: 28px;
+
+            background: white;
+
+            border-radius: 16px;
+
+            box-shadow:
+                0 4px 12px
+                rgba(0,0,0,.03);
+        }
+
+        .generator-panel h2 {
+            font-family: 'Outfit', sans-serif;
+
+            font-size: 24px;
+            font-weight: 600;
+
+            margin-top: 8px;
+        }
+
+
+        /* FORM */
+
+        label {
+            display: block;
+
+            margin-top: 22px;
+            margin-bottom: 8px;
+
+            color: var(--teal);
+
+            font-family: "DM Mono", monospace;
+
+            font-size: 9px;
+
+            letter-spacing: .08em;
+        }
+
+        select,
+        textarea {
+            width: 100%;
+
+            padding: 13px;
+
+            border:
+                1px solid
+                var(--line);
+
+            border-radius: 8px;
+
+            background: var(--ice);
+
+            font-family: Inter;
+
+            outline: none;
+        }
+
+        textarea {
+            min-height: 110px;
+
+            resize: vertical;
+        }
+
+        select:focus,
+        textarea:focus {
+            border-color:
+                var(--aurora);
+        }
+
+        .generate-btn {
+            width: 100%;
+
+            margin-top: 22px;
+
+            padding: 14px;
+
+            border: none;
+
+            background:
+                var(--aurora);
+
+            color: white;
+
+            border-radius: 8px;
+
+            font-family: Inter;
+
+            font-size: 11px;
+            font-weight: 600;
+
+            cursor: pointer;
+        }
+
+
+        /* =========================
+           PREVIEW
+        ========================== */
+
+        .preview {
+            padding: 32px;
+
+            min-height: 500px;
+
+            background: white;
+
+            border-radius: 16px;
+
+            box-shadow:
+                0 4px 12px
+                rgba(0,0,0,.03);
+        }
+
+        .preview-top {
+            display: flex;
+
+            justify-content: space-between;
+            align-items: center;
+
+            padding-bottom: 20px;
+
+            border-bottom:
+                1px solid
+                var(--line);
+        }
+
+        .preview-top h2 {
+            font-family: 'Outfit', sans-serif;
+
+            font-size: 24px;
+        }
+
+        .ready {
+            padding: 6px 10px;
+
+            border-radius: 6px;
+
+            background: #E8F5FF;
+
+            color: var(--aurora);
+
+            font-family: "DM Mono", monospace;
+
+            font-size: 8px;
+        }
+
+        .generated-type {
+            margin-top: 35px;
+
+            color: var(--aurora);
+
+            font-family: "DM Mono", monospace;
+
+            font-size: 10px;
+
+            letter-spacing: .12em;
+        }
+
+        .preview h1 {
+            margin-top: 15px;
+
+            font-family: 'Outfit', sans-serif;
+
+            font-size: 38px;
+
+            line-height: 1.15;
+        }
+
+        .preview-date {
+            margin-top: 12px;
+
+            color: var(--muted);
+
+            font-size: 11px;
+        }
+
+        .preview-content {
+            margin-top: 30px;
+
+            color: #475569;
+
+            font-size: 14px;
+
+            line-height: 1.8;
+        }
+
+        .preview-actions {
+            display: flex;
+
+            gap: 10px;
+
+            margin-top: 30px;
+        }
+
+        .action-btn {
+            padding: 11px 16px;
+
+            border:
+                1px solid
+                var(--line);
+
+            border-radius: 8px;
+
+            background: white;
+
+            color: var(--ink);
+
+            font-size: 10px;
+
+            cursor: pointer;
+        }
+
+        .action-btn.primary {
+            background:
+                var(--ink);
+
+            color: white;
+
+            border-color:
+                var(--ink);
+        }
+
+
+        /* =========================
+           PIPELINE
+        ========================== */
+
+        .pipeline {
+            max-width: 1250px;
+            width: 100%;
+
+            margin: 25px auto 0;
+
+            padding: 18px 24px;
+
+            background: white;
+
+            border-radius: 12px;
+
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            font-family: "DM Mono", monospace;
+
+            font-size: 9px;
+
+            box-shadow:
+                0 4px 12px
+                rgba(0,0,0,.03);
+        }
+
+        .pipeline span {
+            color:
+                var(--aurora);
+
+            font-weight: 600;
+        }
+
+
+        /* =========================
+           FOOTER
+        ========================== */
+
+        footer {
+            padding: 24px 5vw;
+
+            display: flex;
+
+            justify-content: space-between;
+
+            border-top:
+                1px solid
+                var(--line);
+
+            color:
+                var(--muted);
+
+            font-family:
+                "DM Mono",
+                monospace;
+
+            font-size: 9px;
+        }
+
+
+        /* =========================
+           MOBILE
+        ========================== */
+
+        @media(max-width: 800px) {
+
+            .navlinks {
+                display: none;
+            }
+
+            .screen {
+                padding:
+                    110px 5vw
+                    50px;
+            }
+
+            .hero,
+            .generator {
+                grid-template-columns:
+                    1fr;
+            }
+
+            .content-grid {
+                grid-template-columns:
+                    1fr;
+
+                grid-template-rows:
+                    auto;
+            }
+
+            .content-card.featured {
+                grid-row:
+                    auto;
+            }
+
+            .content-card {
+                min-height:
+                    200px;
+            }
+
+            .sectionhead {
+                flex-direction:
+                    column;
+
+                align-items:
+                    flex-start;
+
+                gap: 15px;
+            }
+
+            .pipeline {
+                flex-wrap:
+                    wrap;
+
+                gap: 12px;
+            }
+
+            footer {
+                flex-direction:
+                    column;
+
+                gap: 10px;
+            }
+
+        }
+
+    </style>
+
+</head>
+
+
+<body>
+
+
+    <!-- ================= NAVBAR ================= -->
+
+    <nav>
+
+        <div class="logo">
+            POLARIS
+        </div>
+
+
+        <div class="navlinks">
+
+            <a href="index.html">
+                HOME
+            </a>
+
+            <a href="index.html#expeditions">
+                EXPEDITIONS
+            </a>
+
+            <a href="index.html#research">
+                RESEARCH
+            </a>
+
+            <a href="index.html#map-section">
+                POLAR MAP
+            </a>
+
+            <a href="content-creation.html"
+               class="active">
+
+                CONTENT STUDIO
+
+            </a>
+
+        </div>
+
+
+        <a href="#generator"
+           class="navbtn">
+
+            CREATE CONTENT
+
+        </a>
+
+    </nav>
+
+
+
+    <!-- ================= HERO ================= -->
+
+    <section class="screen">
+
+        <div class="hero">
+
+
+            <!-- LEFT SIDE -->
+
+            <div>
+
+                <div class="kicker">
+                    AI Powered Scientific Outreach
+                </div>
+
+
+                <h1>
+                    Transform discoveries into stories.
+                </h1>
+
+
+                <p>
+
+                    Convert expedition reports, scientific
+                    datasets, research publications and media
+                    archives into meaningful content for
+                    institutional websites and social media.
+
+                </p>
+
+
+                <div class="actions">
+
+                    <a class="btn"
+                       href="#generator">
+
+                        CREATE CONTENT
+
+                    </a>
+
+
+                    <a class="btn alt"
+                       href="#content-types">
+
+                        EXPLORE FORMATS
+
+                    </a>
+
+                </div>
+
+            </div>
+
+
+
+            <!-- RIGHT SIDE -->
+
+            <article class="studio-card">
+
+                <div>
+
+                    <span class="badge">
+
+                        ✦ CONTENT STUDIO ACTIVE
+
+                    </span>
+
+
+                    <h2>
+
+                        From research data
+                        to public outreach.
+
+                    </h2>
+
+
+                    <p>
+
+                        Select verified material from the
+                        Polaris archive and transform it
+                        into accessible stories.
+
+                    </p>
+
+                </div>
+
+
+                <div class="studio-features">
+
+                    <span>WEBSITE</span>
+
+                    <span>SOCIAL MEDIA</span>
+
+                    <span>CAPTIONS</span>
+
+                    <span>ANNOUNCEMENTS</span>
+
+                </div>
+
+            </article>
+
+
+        </div>
+
+    </section>
+
+
+
+    <!-- ================= CONTENT TYPES ================= -->
+
+    <section class="screen"
+             id="content-types">
+
+
+        <div class="sectionhead">
+
+            <div>
+
+                <div class="kicker">
+                    Outreach Formats
+                </div>
+
+
+                <h2>
+
+                    One discovery.<br>
+                    Multiple stories.
+
+                </h2>
+
+            </div>
+
+
+            <p>
+
+                Transform verified scientific knowledge
+                into different forms of communication
+                for researchers, institutions and
+                the general public.
+
+            </p>
+
+        </div>
+
+
+
+        <div class="content-grid">
+
+
+            <!-- FEATURED -->
+
+            <article class="content-card featured">
+
+                <div class="kicker"
+                     style="color:#0066FF">
+
+                    AI CONTENT GENERATION
+
+                </div>
+
+
+                <h3>
+
+                    Turn archive material
+                    into meaningful stories.
+
+                </h3>
+
+
+                <p>
+
+                    Polaris uses archived expedition
+                    reports, scientific research,
+                    datasets and media as the source
+                    for creating outreach content.
+
+                </p>
+
+
+                <div class="mini-feed">
+
+                    <div>
+
+                        <span>
+                            Expedition Report
+                        </span>
+
+                        <small>
+                            → ARTICLE
+                        </small>
+
+                    </div>
+
+
+                    <div>
+
+                        <span>
+                            Research Dataset
+                        </span>
+
+                        <small>
+                            → SUMMARY
+                        </small>
+
+                    </div>
+
+
+                    <div>
+
+                        <span>
+                            Expedition Photo
+                        </span>
+
+                        <small>
+                            → CAPTION
+                        </small>
+
+                    </div>
+
+
+                    <div>
+
+                        <span>
+                            Scientific Discovery
+                        </span>
+
+                        <small>
+                            → SOCIAL POST
+                        </small>
+
+                    </div>
+
+                </div>
+
+            </article>
+
+
+
+            <!-- WEBSITE -->
+
+            <article class="content-card">
+
+                <div class="content-icon">
+                    📰
+                </div>
+
+
+                <div class="kicker">
+                    WEBSITE
+                </div>
+
+
+                <h3>
+                    Research Articles
+                </h3>
+
+
+                <p>
+
+                    Generate clear articles and
+                    scientific stories for
+                    institutional websites.
+
+                </p>
+
+
+                <span class="arrow">
+                    ↗
+                </span>
+
+            </article>
+
+
+
+            <!-- SOCIAL MEDIA -->
+
+            <article class="content-card">
+
+                <div class="content-icon">
+                    📱
+                </div>
+
+
+                <div class="kicker">
+                    SOCIAL MEDIA
+                </div>
+
+
+                <h3>
+                    Social Posts
+                </h3>
+
+
+                <p>
+
+                    Transform discoveries into
+                    engaging and shareable
+                    social media posts.
+
+                </p>
+
+
+                <span class="arrow">
+                    ↗
+                </span>
+
+            </article>
+
+
+
+            <!-- CAPTION -->
+
+            <article class="content-card">
+
+                <div class="content-icon">
+                    📷
+                </div>
+
+
+                <div class="kicker">
+                    MEDIA
+                </div>
+
+
+                <h3>
+                    Photo Captions
+                </h3>
+
+
+                <p>
+
+                    Generate descriptions and
+                    captions from photographs
+                    and expedition media.
+
+                </p>
+
+
+                <span class="arrow">
+                    ↗
+                </span>
+
+            </article>
+
+
+
+            <!-- ANNOUNCEMENT -->
+
+            <article class="content-card">
+
+                <div class="content-icon">
+                    📢
+                </div>
+
+
+                <div class="kicker">
+                    INSTITUTIONAL
+                </div>
+
+
+                <h3>
+                    Announcements
+                </h3>
+
+
+                <p>
+
+                    Create professional
+                    institutional updates
+                    and announcements.
+
+                </p>
+
+
+                <span class="arrow">
+                    ↗
+                </span>
+
+            </article>
+
+
+        </div>
+
+
+    </section>
+
+
+
+    <!-- ================= GENERATOR ================= -->
+
+    <section class="screen"
+             id="generator">
+
+
+        <div class="sectionhead">
+
+            <div>
+
+                <div class="kicker">
+                    Content Generator
+                </div>
+
+
+                <h2>
+
+                    Create from<br>
+                    verified knowledge.
+
+                </h2>
+
+            </div>
+
+
+            <p>
+
+                Select archived scientific material
+                and choose how you want the
+                information to be communicated.
+
+            </p>
+
+        </div>
+
+
+
+        <div class="generator">
+
+
+            <!-- GENERATOR FORM -->
+
+            <article class="generator-panel">
+
+
+                <div class="kicker">
+
+                    NEW CONTENT
+
+                </div>
+
+
+                <h2>
+
+                    What would you
+                    like to create?
+
+                </h2>
+
+
+
+                <!-- SOURCE -->
+
+                <label>
+
+                    SOURCE MATERIAL
+
+                </label>
+
+
+                <select id="source">
+
+                    <option>
+                        Antarctic Research Expedition Report
+                    </option>
+
+                    <option>
+                        Southern Ocean Temperature Dataset
+                    </option>
+
+                    <option>
+                        Antarctic Climate Research Publication
+                    </option>
+
+                    <option>
+                        Expedition Photography Archive
+                    </option>
+
+                </select>
+
+
+
+                <!-- CONTENT TYPE -->
+
+                <label>
+
+                    CONTENT FORMAT
+
+                </label>
+
+
+                <select id="format">
+
+                    <option value="article">
+                        Website Article
+                    </option>
+
+                    <option value="social">
+                        Social Media Post
+                    </option>
+
+                    <option value="caption">
+                        Photo / Video Caption
+                    </option>
+
+                    <option value="announcement">
+                        Institutional Announcement
+                    </option>
+
+                </select>
+
+
+
+                <!-- AUDIENCE -->
+
+                <label>
+
+                    TARGET AUDIENCE
+
+                </label>
+
+
+                <select id="audience">
+
+                    <option>
+                        General Public
+                    </option>
+
+                    <option>
+                        Students
+                    </option>
+
+                    <option>
+                        Researchers
+                    </option>
+
+                    <option>
+                        Scientific Community
+                    </option>
+
+                </select>
+
+
+
+                <!-- EXTRA -->
+
+                <label>
+
+                    ADDITIONAL INSTRUCTIONS
+
+                </label>
+
+
+                <textarea
+                    id="instructions"
+                    placeholder="Describe the message or style you want..."
+                ></textarea>
+
+
+
+                <button
+                    class="generate-btn"
+                    onclick="generateContent()">
+
+                    ✦ GENERATE CONTENT
+
+                </button>
+
+
+            </article>
+
+
+
+            <!-- PREVIEW -->
+
+            <article class="preview">
+
+
+                <div class="preview-top">
+
+                    <h2>
+                        Content Preview
+                    </h2>
+
+
+                    <span class="ready">
+
+                        READY
+
+                    </span>
+
+                </div>
+
+
+
+                <div class="generated-type"
+                     id="previewType">
+
+                    WEBSITE ARTICLE
+
+                </div>
+
+
+
+                <h1 id="previewTitle">
+
+                    Exploring the Changing
+                    Antarctic Environment
+
+                </h1>
+
+
+
+                <div class="preview-date">
+
+                    Generated from verified
+                    Polaris archive material
+
+                </div>
+
+
+
+                <div class="preview-content"
+                     id="previewContent">
+
+                    Antarctica provides scientists with
+                    valuable information about Earth's
+                    changing climate and environmental
+                    systems.
+
+                    <br><br>
+
+                    Through scientific expeditions,
+                    researchers collect important data
+                    about oceans, ice formations,
+                    biodiversity and changing climate
+                    conditions.
+
+                    <br><br>
+
+                    Polaris helps transform these
+                    discoveries into accessible stories,
+                    making scientific knowledge easier
+                    to share through institutional
+                    websites and public outreach.
+
+                </div>
+
+
+
+                <div class="preview-actions">
+
+                    <button class="action-btn">
+
+                        ✏ EDIT
+
+                    </button>
+
+
+                    <button class="action-btn"
+                            onclick="copyContent()">
+
+                        📋 COPY
+
+                    </button>
+
+
+                    <button class="action-btn primary">
+
+                        PUBLISH →
+
+                    </button>
+
+                </div>
+
+
+            </article>
+
+
+        </div>
+
+
+
+        <!-- PIPELINE -->
+
+        <div class="pipeline">
+
+            <span>
+                VERIFIED ARCHIVE
+            </span>
+
+            →
+
+            SOURCE ANALYSIS
+
+            →
+
+            <span>
+                AI GENERATION
+            </span>
+
+            →
+
+            HUMAN REVIEW
+
+            →
+
+            PUBLIC OUTREACH
+
+        </div>
+
+
+    </section>
+
+
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer>
+
+        <span>
+
+            POLARIS /
+            POLAR RESEARCH INTELLIGENCE
+
+        </span>
+
+
+        <span>
+
+            DISCOVERY →
+            KNOWLEDGE →
+            OUTREACH
+
+        </span>
+
+    </footer>
+
+
+
+    <!-- ================= JAVASCRIPT ================= -->
+
+    <script>
+
+        function generateContent() {
+
+            const format =
+                document.getElementById("format").value;
+
+            const previewType =
+                document.getElementById("previewType");
+
+            const title =
+                document.getElementById("previewTitle");
+
+            const content =
+                document.getElementById("previewContent");
+
+
+            if (format === "article") {
+
+                previewType.textContent =
+                    "WEBSITE ARTICLE";
+
+                title.textContent =
+                    "Exploring the Changing Antarctic Environment";
+
+                content.innerHTML = `
+
+                    Antarctica provides scientists with
+                    valuable information about Earth's
+                    changing climate and environmental
+                    systems.
+
+                    <br><br>
+
+                    Through scientific expeditions,
+                    researchers collect important data
+                    about oceans, ice formations,
+                    biodiversity and changing climate
+                    conditions.
+
+                    <br><br>
+
+                    Polaris transforms verified research
+                    into accessible stories that help
+                    connect scientific discoveries with
+                    the wider public.
+
+                `;
+
+            }
+
+
+            else if (format === "social") {
+
+                previewType.textContent =
+                    "SOCIAL MEDIA POST";
+
+                title.textContent =
+                    "Science at the Edge of the World 🌍";
+
+                content.innerHTML = `
+
+                    What can Antarctica teach us about
+                    our changing planet?
+
+                    <br><br>
+
+                    Every expedition contributes new
+                    knowledge about climate, oceans,
+                    ice and the unique ecosystems of
+                    the polar regions.
+
+                    <br><br>
+
+                    🔬 Explore the science.
+                    🌍 Discover the planet.
+                    📚 Share the knowledge.
+
+                    <br><br>
+
+                    #Antarctica #PolarResearch
+                    #ClimateScience #Polaris
+
+                `;
+
+            }
+
+
+            else if (format === "caption") {
+
+                previewType.textContent =
+                    "MEDIA CAPTION";
+
+                title.textContent =
+                    "Science Beyond the Horizon";
+
+                content.innerHTML = `
+
+                    A moment captured during scientific
+                    exploration in one of the world's
+                    most extraordinary environments.
+
+                    <br><br>
+
+                    Every photograph preserves a part
+                    of the expedition story — from
+                    research and discovery to life in
+                    the polar regions.
+
+                    <br><br>
+
+                    📷 Polaris Expedition Archive
+
+                `;
+
+            }
+
+
+            else if (format === "announcement") {
+
+                previewType.textContent =
+                    "INSTITUTIONAL ANNOUNCEMENT";
+
+                title.textContent =
+                    "New Polar Research Materials Added to the Archive";
+
+                content.innerHTML = `
+
+                    Polaris is pleased to announce the
+                    addition of new expedition reports,
+                    scientific datasets and research
+                    materials to the digital archive.
+
+                    <br><br>
+
+                    These resources will help students,
+                    researchers and the wider public
+                    explore valuable scientific
+                    knowledge from polar expeditions.
+
+                    <br><br>
+
+                    Explore. Discover. Share.
+
+                `;
+
+            }
+
+        }
+
+
+
+        function copyContent() {
+
+            const title =
+                document.getElementById(
+                    "previewTitle"
+                ).innerText;
+
+
+            const content =
+                document.getElementById(
+                    "previewContent"
+                ).innerText;
+
+
+            navigator.clipboard.writeText(
+
+                title + "\n\n" + content
+
+            );
+
+
+            alert(
+                "Content copied to clipboard!"
+            );
+
+        }
+
+    </script>
+
+
+</body>
+
+</html>
+```
