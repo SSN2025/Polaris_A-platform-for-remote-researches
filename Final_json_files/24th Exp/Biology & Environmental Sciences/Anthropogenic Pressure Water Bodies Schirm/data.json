@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_22a",
+  "document_id": "NCPOR-5C2560",
+  "source_file": "RRChapter-22A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/964/1/RRChapter-22A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-22A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "313Study on Anthropogenic Pressure on Water Bodies Situated in...............\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 313-324\nStudy on Anthropogenic Pressure on Water Bodies\nSituated in Schirmacher Oasis and\nLarsemann Hills, Antarctica\nAshwani Wanganeo and Rajni Raina nee Wanganeo\nDepartment of Limnology, Barkatullah University, Bhopal, India\nABSTRACT\nWith the opening up of the route to the Antarctica, anthropogenic activities\nof various types are being experienced which are getting reflected in the freshwater\nbodies. The variation in chemical composition of different water bodies in\nSchirmacher Oasis and in Larsemann Hills of Indian base signifies the role of the\nrespective catchment areas. The inflow from glaciers and accumulated snow are\nalso responsible for governing the metabolic activity of the Antarctic water bodies.\nBesides, the hydrological detention governing the nutrient accumulation in water\nbodies has been found to be the main parameter responsible for the chemical and\nbiological status of these water bodies.\nThough temperature and light intensity are the chief factors in Antarctica yet\nthe enhancement in nutrient levels has been found to give a shift in the primary\nproductivity and nutrient levels towards higher side in the Antarctic water bodies.\nINTRODUCTION\nPresent paper sums up the limnological status of water bodies located\nwithin the geographical coordinates, 77o 45’ 51.5\" to 70o 48’S and 11o 44’\n2.7\" to 11o 55’W (Schirmacher Oasis) and 69 o 24.428’S and 76o 12.339’E\n(Larsemann Hills). These water bodies are accessible only during summer\nperiod. Water bodies situated at the higher elevations of the Schirmacher\nOasis remain frozen during austral summer also, depicting their true amictic\nnature because the higher latitudes experience rapid fall in atmospheric\ntemperature compared to the lower latitudes.\nIn contrast to the Himalayan water bodies situated at an elevation of\nmore than 3000 m a.s.l. (open up at a maximum atmospheric temperature\nof 15\noC), the Antarctic water bodies open up at low maximum atmospheric\ntemperature of 6-7 oC. These water bodies reveal cold monomictic thermal\n314 Ashwani Wanganeo and Rajni Raina nee Wanganeo\nbehaviour. The biological population found in these water bodies has\nrevealed the highest adaptability to the cold climatic conditions as they\nstart growing rapidly with the first melt of glaciers. Most of the biological\nspecimens have been found to complete their life cycle within a short\nduration of time span as the water bodies remain open for just two months.\nThe hydrological regime governing the metabolic activity has been found\nto vary with respect to the different morphological characteristics of the\nwater bodies present both in Schirmacher Oasis and Larsemann Hills. The\nmain source of freshwater to the water bodies situated in Schirmacher Oasis\nis from melting glaciers during austral summer while such type of feeding\nglaciers  are lacking in Larsemann Hills. The source of water in the\nLarsemann Hills is from the accumulated snow in their respective\ncatchments. The nearness of sea is responsible for increasing the salinity\nof some water bodies in the Larsemann Hills which is lacking in Schirmacher\nOasis water bodies. As such, all water bodies in Schirmacher Oasis are of\nfreshwater type.\nOwing to the fact that these freshwater resources are the chief source\nof potable water, the present study gains much more importance keeping in\nview the mounting anthropogenic pressure.\nMATERIALS AND METHODS\nAnalysis of some physico-chemical parameters like atmospheric\ntemperature, water temperature, transparency, pH, conductivity and total\ndissolved solids (TDS) were made during sampling. The rest were analyzed\nat the base station. All physico-chemical characteristics have been\ndetermined after APHA (1995). For qualitative and quantitative analysis\nof plankton, known (100 l.) volume of freshwater was filtered through\nplankton net (64µm mesh size) followed by their immediate preservation\nin Lugol’s solution for phytoplankton and in formalin solution (4%) for\nzooplankton. Identification and enumeration were done in India under an\ninverted microscope (Wanganeo and Wanganeo 1991 and 2006). Primary\nproductivity measurements were made after Gaarder and Gran (1927) using\nlight and dark bottle method.\nRESULTS AND DISCUSSION\nIce bound Schirmacher Oasis with low lying hills of about 50-200 m\nhigh is studded with numerous shallow water bodies, with very few\nrelatively deep water bodies to be recognized as lakes. The water bodies\nrange from 0.02-0.75 km\n2 in surface area. Vertical freezing of the water\nbodies depends upon its morphometric features especially the depth and\nlatitudinal and altitudinal placement.\n315Study on Anthropogenic Pressure on Water Bodies Situated in...............\nThe present study revealed significant oscillating changes, towards\nhigher trophic status of the water bodies experiencing mo",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "4] Biology & Environmental Sciences",
+    "subcategory": "Study on Anthropogenic Pressure on Water Bodies in Schirmacher Oasis and Larsemann Hills, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:45.547877Z"
+  }
+}

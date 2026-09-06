@@ -1,0 +1,72 @@
+{
+  "id": "article_4_2",
+  "document_id": "NCPOR-AA000F",
+  "source_file": "ARTICLE+4_2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/376/3/ARTICLE+4_2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+4_2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 55-70 \nReport on Meteorological Programme During Summer Period\nof Tenth Indian Expedition to Antarctica\nR.K. SHARMA\nIndia Meteorological Department\nIntroduction\nThe Antarctic weather influences the global climate to a great extent. In order to\nstudy meteorological features over Antarctica and correlate these with Indian\nweather, the meteorological observational programme of IMD has been a regular\ncomponent of each Indian expedition to Antarctica. The programme has been\naugmented from time to time for obtaining various types of data.\nScientific Objectives\nThe major objectives of the meteorological programme during the summer of\nTenth Expedition were as follows:\n(i) Regular surface and upper-air observations during enroute cruises and at\nice-shelf.\n(ii) Continuance of on-going meteorological observational programme at Indian\nstation 'Maitri' for building up climatology data-set and logistic support for\nvarious scientific activities of the Expedition.\n(iii) Maintenance/calibration and checking of all meteorological instruments,\nreplacement of unserviceable equipment etc.\n(iv) Updating of inventory register of equipments/stores/tools etc.\nObservational Programme\nDuring cruises \nRegular surface observations at 3 hrs interval for onward cruise (w.e.f. 0000\nUTC of November 28,1990) and return cruise (w.e.f. 0000 UTC of March 3, 1991)\nwere collected and recorded in the MET-96 registers. The main synoptic observa-\ntions at 0000, 0600, 1200 & 1800 UTC were transmitted over telex to IMD HQ at\nNew Delhi for onward transmission over Global Telecommunication Network\n56 R.K. Sharma \n(GTN). Analysed isobaric facsimile (FAX) charts were received for surface and 5 0 0\nhPa level from Molodezhanya and/or Pretoria. APT pictures were also received\nfrom NOAA 10 & 11 Polar Orbitting Satellites. Weather predictions/inferences\nwere drawn from the aforesaid available data.\nRadiosonde ascents for vertical profile of temperature, humidity and pressure\nwere also taken during the enroute cruises whenever the ship encountered wind\nspeed less than 20 knots. 26 radiosonde ascents could be taken in all during onward\nand return voyages of the ship.\nAt Maitri \nAt ice-shelf \nParallel surface observations, alongwith those at Maitri, were carried out till\nMarch 2, 1991. Three parallel radiosonde ascents were released at ice-shelf, along-\nwith ozonesonde/radiosonde ascents at Maitri for relative study of vertical profile\nof atmosphere.\nThe on-going meteorological programme at Maitri continued during the Expedi-\ntion as schedule. This included regular surface observations, continuous r ecording\nof temperature, pressure, wind speed and direction, surface ozone and global solar\nradiation. The upper-air ascents such as ozonesonde/radiosonde, turbidity measure-\nments, reception of fax charts and APT pictures were also taken.\nPreliminary Findings from Analysis of Meteorological Data and Other\nObservations\nIn general, the weather was fair during onward and return voyages except for\nsmall period when ship negotiated rough sea weather. Though strong surface winds\ncrossing 23 knots were experienced for more than 36 days at Maitri during the\nperiod January 1, 1991 to February 15, 1991 and for 26 days (with 9 days break in\nobservations at Antarctica ice-shelf) during the period January 1, 1991 to March 1,\n1991 at Antarctica ice-shelf; a strong blizzard was experienced on February 18,\n1991 with heavy snow drift by surface winds crossing 45m/sec (at times gusting to\n55-60 m/s) aboard M.V. Thuleland ship at Antarctic sea-shelf. This had caused\ndamage to Hellical Antenna & Co-axial cable of Radiosonde Ground Equipment,\nlaboratory container, rotors of one of the Naval Chetak helicopters and windvane,\nmounted atop of the ship.\nThe latitudinal variations of surface pressure in a narrow belt, 4-6 degrees\nlatitudes width, around Forties/Fifties are almost sinusoidal in nature (Figs 1 & 2 ) ,\napparently, due to the geostrophic winds attributable to sharp pressure gradients. A \nperusal of FAX charts dated 10th December, 1990, 12 UTC (Fig.3) alongwith Fig. 1,\nauthenticates the rough weather/sea confronted during onward voyage. Similarly\n57Report on Meteorological Programme During Summer Period.. \nSURFACE OBSERVATION DURING VOYAGE FROM MURMAGAO TO\nANTARTICA\nFig. 1. Latitudinal variation of 12 UTC parameters/observations during onward voyage from Goa \nto Antarctica. \nFig.2 helps draw inferences for rough sea/weather associated with pressure gradi-\nents during return voyage.\nThe Antarctic continent is surrounded with many low pressure systems, gener-\nally centred/moving in the latitudinal belt 50-60° around Antarctic continent, which\nsubscribes to a typically unique climatology of the region.\nStrangely, Maitri witnessed light rainfall in the evening of 17th January, 1991.\nThe unusual rainfall in the frozen continent is attributable to the followi",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Report on Meteorological Programme during Summer Period of Tenth Indian Scientific Expedition to Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:50.302677Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_25",
+  "document_id": "NCPOR-21A45F",
+  "source_file": "ARTICLE+25.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/433/3/ARTICLE+25.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+25",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 347-355 \nCommunication Report — XII Wintering\nVIKAS DHASMANA\nIndian Navy\nIntroduction\n1. This report covers communications related work done during period from 01\nFeb' 95 to 31 Jan' 96. The report aims to highlight the major events as well as\noffers suggestions for further improvement in future.\nPersonnel\n2. The following comprised the communication team.\n(a) Lt Vikas Dhasmana Communication Officer\n(b)S.S.Yadav CHELR Radi o Electrician\n(c) H.S. Chauhan PO(Tel) Telegraphist\nHF Communication\nHF Link with New Delhi\n3. The Traffic between Maitri and Dept. of Ocean Development (DOD), Army\nSignal Centre was handled by HF circuit between Maitri and Comcen Delhi.\n4. HF link worked satisfactorily and was able to fulfill the requirements of\nexpedition. While the overall performance of the link was satisfactory, however\nthe day to day performance depended upon the Geomagnetic and Ionospheric\npropagation conditions. The propagation conditions were poor from May to\nM y ' 95 and from Sep to early Oct' 95 and during days of heavy magnetic\nactivities. Apart from propagation and geomagnetic conditions, blizzards,\nstrong winds and heavy snowfall with wind also affected the HF communica-\ntion due to heavy build up of static charge which even caused damage to HF\nreceivers. The details of contacts as follows:\n(a) Total number of no contact days - 63\n(b) Total number of poor contact days - 22\n348 Vikas Dhasmana \n5. All the no contact and poor contact days were during polar nights. The other\npoor contact days were spread during the rest of the period. The main reason\nof these unsatisfactory condition were:\n(a) Poor ionospheric conditions\n(b) Geomagnetic disturbances\n(c) High-static build up\n6. The details of magnetic activity was taken from IIG equipment kept in\nsummer hut. Since magnetic disturbance and magnetic storms are very often in\npolarregions and continuous absenceof sun during polar nights causes a change\nin electron concentration hence a change in ionospheric condition is observed.\nHence it is definite that HF communication is not, as it is in the rest of the world.\n7. The traffic was of routine nature and was cleared within 24 hrs except when\nthe delay was more due to poor link.\nTraffic Pattern\n8. Must of the traffic was private in nature from members for their families and\nvice versa. This traffic was handled on HF. The official message from Maitri\nto NHQ, DOD, IMD, Army Headquarters via Army Signal Centre was passed\non HF. However most of the traffic to DOD was handled on Fax at the discretion\nof the leader.\n9. With the commissioning of E-mail facility at Maitri from Mar' 95 onwards\nthe load on HF communication was reduced and only at times when E-mail link\nwas down the traffic on HF link increased.\nPersonal Messages\n10. Personal messages formed the bulk of traffic handled. The out traffic of\npersonal messages was more than that it was responded by the relatives and\nfriends of members. It was also observed that DOD is prompt in posting the\nmessages to the destination.\nCost Saving\n11. A total of 478 messages were handled on HF. This includes messages from\nMaitri to DOD/NHQ/Army Signal Centre and messages from AHQ/Air\nHQs/DOD/NHQ to Maitri. The total traffic handled 33300 words. If the same\nwere to be transmitted on Satcom the cost would had worked out to a heavy\namount. Apart from DOD/NHQ, messages were also exchanged between MV\nPOLAR BIRD and Maitri on her return Voyage to India in March' 95.\nCommunication Report - XII Wintering 349\nSatellite Communications\n12. Two Inmarsat Terminals are available at Maitri Station to link Maitri with\nrest of the world by satellite. This is mainly used to send/receive official Telex\nmessages as well as private/official Fax and Phone messages. F,ax is popular\namong expedition members as it sends their handwritten letters to their families.\nThe time utilised is counted towards individual's personal telephone time. The\nsecond MTI I nmarsat Terminal Commissioned last year is totaly dedicated for\nE-mail facility. The new terminal is not provided with any Fax/Telex attach-\nment.\n13. Two Satcom terminals in Maitri were lying non-operational since May' 92\nfor the want of spares, however both terminals are being backloaded to India\nas per DOD's orders since both are beyond local repairs.\n14. Weather data from Maitri was collected by the India Meteorological\nDepartment (IMD), Delhi at 0015, 0615, 1215 and 1815 hrs (UTC) daily on\nTLX. The line w a s connected by IMD office at Delhi.\n15. The satellite terminal worked satisfactorily except on occasions the satellite\nantenna gets unlocked, presumably, due to low temperatures and high velocity\nwinds. There is no access hatch for the dome to put heaters or in case of any\nbreakdown to do any repairs. This problem was explained to the Station\nCommander in the month of March' 95, however till todate has yielded no\nposi",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "7]Logistics",
+    "subcategory": "Communication Report—XII Wintering",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:25.391562Z"
+  }
+}

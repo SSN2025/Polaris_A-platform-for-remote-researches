@@ -1,0 +1,72 @@
+{
+  "id": "article_9",
+  "document_id": "NCPOR-781591",
+  "source_file": "ARTICLE+9.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/385/3/ARTICLE+9.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+9",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 159-180 \nReport on the Participation by the Bhabha Atomic Research\nCentre in the Tenth Indian Expedition to Antarctica\nT. V. RAMACHANDRAN AND M.C. BALANI\nBhabha Atomic Research Centre, Bombay\nAbstract\nThe Antarctic continent can be expected to provide reference levels for all environmental and\npollution studies due to its remoteness and restricted human activities. The Bhabha Atomic Research\nCentre has participated in the Xth Expedition primarily to collect background baseline data on natural\nradioactivity, heavy metal concentration in soil and water, and biological specimens. While radioac-\ntivity data and some limited heavy metal concentration data have already been collected on air, water\nand soil samples from participation in 8th and 9th expeditions: this is the first time BARC made\nattempts to collect biological samples as well. Fairly complete data base has been built up on all these\nsamples and these are presented in this report. The analytical procedures followed at BARC were\nmainly by the use of standard chemicals and approved standardisation techniques in case of inorganic\nparameters and standard reference gases, wherever required.\nIntroduction\nMan's impact on the oceanic environment has always been the cause for great\nconcern. Several investigations on the natural radioactivity levels and on the heavy\nmetal concentrations over the ocean as well as on remote locations have been\ncarried out by various nations in the world. In order to obtain a background baseline\ndata over the South Indian ocean and on the Antarctic continent, extensive sampling\nhas been carried out on air, water, soil, and other environmental samples from\nBARC participation in the Xth Expedition during November 27,1990 to March 26,\n1991.\nNatural Radioactivity Levels in the Atmosphere\nRadon (Rn222) and its short lived daughters are the most important radionuclides\npresent in the ambient as well as in indoor atmosphere from the point of view of\nradiation risk to the population. Extensive measurements of natural radioactivity222 220 \nlevels in the atmosphere due to Rn and Thoron (Rn ) have been carried out\n222\nenroute to and at Antarctic to obtain the Rn levels pr evailing over Arabian sea\nand South Indian ocean region as well as around the Antarctic continent. The\n160 T,V. Ramachandran and M.C. Balani \nmeasurement consists of collection of air particulate matter on a glass fiber filter of\nsize 5 inch diameter (having a collection efficiency of 100 % for short-lived Rn\ndaughters), for a known period of time (two hours duration) using a high volume\nsampler of 450 liters per minute, installed at the front foxil of the research vessel.\nThis location is selected to avoid external contamination from the ship boilers and\nkitchen. The collected filter paper sample is counted for its gross alpha activity\nusing a ZnS(Ag) counter of 35% counting efficiency, of 0.45 cpm as background.\nFrom the gross alpha counts, the Rn222 levels were estimated taking into account\nthe collection time, flow rate, counting efficiency, the period of collection and also\nassuming radioactive equilibrium among the short lived daughters, which is valid\nover the ocean surfaces.\nOn an average, six to seven air particulate samples at periodic interval of time\nper day were collected and analysed. The overall errors due to  sampling and\nprocessing is about ±25 %. The sampling was also carried out at Antarctica. In all\n338 air particulate samples were collected during the cruise. Estimated ambient\nRn222 levels are summarised in Table 1. Measured Rn222 levels were found to\ndecrease steadily from 2.4 Bq m-3 at Goa, to 0.04 Bq m-3 at the equator and to 0.0159\nBq m-3 towards 70°S. Around Indian Antarctic station, Maitri, it varied from 0.02\nto 0.030 Bq m-3 with a mean of 0.0296 Bq m-3.\nExtremely low concentration, observed consistently of the order of 0.037 Bq m-3\nfrom 20° S downwards to South pole, is mainly due to the long path length and time\ntaken for the air masses to travel to reach the South pole. This can also be due to the\nshift of south east trades below the equator and to the westerly wind towards 40° S.\nExtremely low concentrations of observed atmospheric radioactivity, due to Rn222\nand its short-lived daughters, have to be taken into account while evaluating the\nbudget of Rn222 in the atmosphere as well as the possible levels of pure maritime\nair. These are also very useful in evaluating the residence times and the continental\ncomponents in maritime air due to mixing. Decreasing trend of Rn222 levels towards\nSouth pole shows the prevalence of maritime air with long trajectories over the\n222\nTable 1: Measured Rn Levels Over the Ocean and at Antarctica\nLocation\n15°N-13°N\n13°N - 10°N\n10°N - Equator\n0°S- 10°S\n10°S - 20°S\nAntarctica - 0.296\nMean\n(Bqm-3)\n2.22\n1.258\n0.281\n0.033\n0.033\nLocation\n20°S - 30°S\n30°S - 40°S\n40°S - 50°S\n50°S - 60°S\n60°S",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 22
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Report on the Participation by the Bhabha Atomic Research Centre in the Tenth Indian Expedition to Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:54.981587Z"
+  }
+}

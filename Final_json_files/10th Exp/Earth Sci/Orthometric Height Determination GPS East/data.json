@@ -1,0 +1,72 @@
+{
+  "id": "article_8_2",
+  "document_id": "NCPOR-3ED998",
+  "source_file": "ARTICLE+8-2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/382/4/ARTICLE+8-2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8-2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 145-150 \nOrthometric Height Determination Using GPS in East Antarctica\nV. P. SRIVASTAVA, H.B. MADHWAL AND A. PRIM\nSurvey of India, Dehra Dun\nAbstract\nGPS observations were made in East Antarctica during the X Indian Scientific Expedition for\nproviding geographical controls. Heights above MSL, i.e. the geoid, is an essential parameter in\ngeographical coordinates for mapping and other Survey application. The Global Positioning System\n(GPS) provides three dimensional coordinates—latitude, longitude and height—with reference to the\nWorld Geodetic System 84 (WGS 84) ellipsoid. This paper describes a method by which the heights\nabove the Instantaneous Mean Sea Level (IMSL) can be obtained in an inaccessible area where\nclassical techniques for determination of MSL cannot be adopted. The main drawback in this method\nis that sufficient observation over a long period and from more sites have to be collected.\nIntroduction\nGlobal Positioning System (GPS) is an all weather positioning system, which can\nprovide the relative positions of points that are separated by tens of kilometres.\nAdditionally, the GPS system can provide the required level of precision in position\nwith one to two hours observation, without requiring the intervisibilities of stations.\nThe relative positions are obtained with reference to a geocentric reference system.\nThe difference of heights between the two ends of a baseline gives us the height of\nthe Antenna positions located on the control points.\nFor all mapping and other allied purposes, including geophysical researches, one\nneeds orthometric height of all the control points and not the height above the\nFig. 1. Relationship between orthometric and ellipsoidal height. \n146 V.P. Srivastava el al. \nellipsoid. Th e orthometric height of a point is defined as the vertical distance\nrecorded along the plumb line between a point on the earth's surface and the geoid.\nIn most cases the orthometric height is also considered the mean sea level elevation\nof the point. Fig. 1 gives the relationship between the ellipsoidal height, h, the geoid\nseparation, N, and orthometric height, H, which are related by the following equation:\nH = h - N \nBy using this equation, we may easily determine the orthometric height (Liddle,\n1989). In the present report, geoidal undulation (N) of the area was not known, but\nfor a small area, we may consider an average geoid undulation.\nWhen locating one or more points relative to another known point the relation-\nship between the difference in or thometric height, ΔH, and difference in the\nellipsoid height, Δh, (Gilliland, 1984) may be represented by : \nWhere ΔN is the difference in the geoid separation.\nThis is generally the approach used when applying GPS techniques for geodetic\npurposes. The practical application of equation (2) has the advantage that any\nsystematic error in h and N will have minimal or no effect on the determination of\nthe orthometric height difference, provided these errors have the same or similar\nmagnitude at each point (Gilliland, 1986).\nPrinciple\nFig. 2 schematically illustrates the principle of orthometric height determination.\nDuring the X Scientific Expedition to Antarctica, the ship was anchored onto the\nice shelf of East Antarctica. GPS observations were made between station S1, which\nwas situated at the corner of the ship's deck and station M on the Schirmacher oasis.\nThe distance between the two points was about 90 km.\nThe height difference between the Antenna position and the instantaneous sea\nlevel was measured paripasu with GPS observation.\nA similar technique was adopted by selecting station S2 on the edge of the ice\nshelf. The distance between stations S2 & M was about 89 km. The height of station\nM was estimated from the observations on S1 & S2 stations. The height above the\ninstantaneous sea level for station M was estimated using the equation, given in Fig. 2.\n...(2)\nOrthometric Height Determination... 147\nFig, 2, Schematic illustration of instantaneous mean sea level (IMSL) determination in Antarctica \nusing GPS. \nObservation and Processing\nTo establish the accurate height of station M from the sea level, observations\nwere made on two dates and at two different places at an interval of 50 days using\nGPS receivers.\nThe data was collected for about 1 hour for each vector at a time when the satellite\nconfiguration was better in geometry. Temperature and pressure were recorded for\napplying tropospheric corrections. Special care was taken for centering the GPS\nreceivers over the point and for the measurement of antenna height. The vertical\ndistance from the instantaneous sea level to the antenna site was used for reduction\nof height of antenna at stations S1 & S2.\nBaselines were processed using the post processing software POPS 3.\n148\nV.P. Srivastava et al. \nResults\nTable 1 gives the results obtained after final comput",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Orthometric Height Determination Using GPS in East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:59.681634Z"
+  }
+}

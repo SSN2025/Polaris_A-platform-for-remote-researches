@@ -1,0 +1,72 @@
+{
+  "id": "article_35",
+  "document_id": "NCPOR-EF85B6",
+  "source_file": "ARTICLE+35.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/480/3/ARTICLE+35.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+35",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No.13, pp 413-416 \nA MEDICAL REPORT FOR THE WINTERING\nPERIOD OF 15\nth\n INDIAN ANTARCTIC EXPEDITION\nA.C.P. Tripathi\n1\n and Romesh Lai\n2\n1\nIndo-Tibetan Border Police\n2\nLady Harding Medical College\nMedical Attendance\nAntarctica is the direst, coldest and most isolated part of the globe.\nProlonged exposure to isolation, extreme cold, long periods of light and\ndarkness, restricted activity, lack of space and social cut-off, affect the human\nbody as well as the mind. Apart from physical illnesses, of which the individual\nis aware, at times there are psychological stresses as well, of which a person\nmay not be aware, but these are exhibited in his behaviour. Some then seek\nsolace in drinks, thereby making their body system susceptible to more ill-\nnesses. At times it is reflected in their eating habits, which make them gain more\nthan the desired weight, leading to more problems.\nA total of 226 cases were attended to at Maitri station, during the 15\nth\nexpedition-wintering period, between 1\nst\n March, 1996 to 4\nth\n January 1997.\nMost cases were minor ailments and responded well to treatment. Injuries\nconstituted 63 cases (28%), of which 61 nos. were of minor nature requiring\nfirst aid and dr essing only. There was delayed wound-healing in one case of\nincision for drainage of pus, following prolonged conservative treatment of\nankle sprain. The reduction in the incidence of injuries is attributed to the fact\nthat special emphasis was placed on prevention and safety measures, which\nhave paid dividends.\nDetails of cases attended to, are as follows:\nSerial No.\n1\n2\n3\n4\n5\n6\nDiagnosis\nGIT Cases\nHelmenthesis\nAtf Poisoning\nAllergic Rashes\nDental\nOral Cavity\nNo. of cases\n24\n3\n1\n6\n4\n6\n414 A.C.P. Tripathi & Romesh Lal\nSerial No.\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\nDiagnosis\nJoint Pain\nDermatitis\nMyalgia\nHeadache\nFungal Infection\nLumbigo\nMalaria Recurrent\nFolliculitis\nEnt\nVertigo\nAnorexia\nAvitaminosis\nSinusitis\nAnxiety Neurosis\nInjuries\nNo. of cases\n5\n10\n14\n8\n5\n11\n1\n1\n2\n3\n2\n1\n2\n1\n63\nCases of Special Interest\nOne case of contact dermatitis on the back and side of the chest was\neffectively treated but the nature of the antigen could not be identified. In yet\nanother case, there was dermatitis of the hand dorsal surface not responding to\nlocal corticosteroid, was treated with systematic steroid. In this case also, the\nindividual was from the EME working with different types of vehicular fuels,\noils and lubricants. He was advised to avoid it but due to working conditions,\nit was not possible for him to avoid it.\nOne case of blunt injury to the eye leading to Subconjunctival haemorrhage\nwas managed effectively with complete restoration of vision.\nOne case of  repeated ankle sprain while on conservative management \ndeveloped cellulitis and later frank pus.\nThe neighbouring Russian station, Novolazarevskaya, had  a wintering\nteam without a medical officer during 1'996. The Indian Doctors attended to\ntheir medical requests also. The Leader of the Russian team was very grateful\nfor the service provided by our Doctors and presented them with a special letter\nof thanks written by the Russian Arctic and Antarctic Research Centre.\nProcedures Carried out\n1. X-Ray - radiographs were taken in cases of limb-injury and the sus-\npected case of bone tuberculosis.\nA Medical Report for the Wintering Period  415\n2. Dental  carries filling was done in 5 cases of our team and 10 cases of\nRussian team.\n3. In one case incisional drainage for formation of pus in a case of ankle\nsprain was done.\n4. Laboratory tests were done wherever required and within the limited\nmeans available.\nStatus of Expendable and Non-expendable Medical Stores\nMedical stores and equipment were taken over from Sq. Leader Anantha,\nMedical Officer of the wintering team of 14\nth\n expedition. Stock of medicines\nand other expendable store is satisfactory. State of equipment and instruments\nfor undertaking even an emergency major surgery is satisfactory, though space\nis the critical limiting factor. The following major equipment are available in\nthe station and are in working condition : ECG machine, ECG automatic\nmachine, BPL cardiac defibrillator cum monitor, Umider 15 ma portable x-ray\nmachine, suction apparatus, Boyles Anesthetic apparatus field type, East Rad-\ncliffe respirator, Philips surgical diathermy apparatus and field type portable\nelectric autoclave, autoanalyser for Biochemical analysis, a small refrigerator\nfor storing life saving drugs. Empty cylinders of Nitrous Oxide and Oxygen\nhave been sent back for refilling.\nRecommendations\n1. Training  : All medical officers should be made fully conversant with\nbasic techniques of radiology, blood transfusions, laboratory tests and\ndental procedures, by sending them well before the expedition, to these\nbranches for a practical training as is done in case of EME and Engineers\nof Army. They should be acquain",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "6]Engineering And Logistics",
+    "subcategory": "A Medical Report for the Wintering Period of 15th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:09.150373Z"
+  }
+}

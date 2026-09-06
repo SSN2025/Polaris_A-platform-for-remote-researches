@@ -1,0 +1,72 @@
+{
+  "id": "article24",
+  "document_id": "NCPOR-16BB33",
+  "source_file": "article24.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/284/3/article24.pdf",
+  "bibliographic": {
+    "title": "article24",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 321-330 \nShort Term Variation in Particulate Organic Matter in the Shelf \nWaters of the  Princess Astrid. Coast, Antarctica \nV.K. DHARGALKAR AND N.B. BHOSLE \nNational Institute of Oceanography, Dona P aula, Goa-403004 \nAbstract \nParticulate matter collected at a single station in the shelf waters of Princess Astrid \ncoast (70°S, 11°E) Antarctica, during the austral summer (Jan-Feb. 1986) was analysed \nfor phytoplankton biomass (Chl a), living carbon (ATP-C), particulate o rganic carbon \n(POC) and its constituent fractions including particulate carbohydrates (PCHO), particulate \nproteins (PP) and particulate lipids (PL). \nChl a, ATP and POC varied from 0.051 to 3.1, 0.33 to 1.81 and 305 to 1850 μg \nl\n-1\n respectively, whereas PCHO, PP and PL ranged from 8 to 176, 22 to 132 and 8 to \n209 μg 1\n-1\n respectively. Data on these parameters showed large day to day variations \nand probably suggest patchy distribution. \nIntroduction \nIn the oceanic environments suspended particulate organic matter (POM) is \ngenerally derived from primary production by phytoplankton (Deuser et al., \n1981). The POM in shallow coastal and shelf waters, on the other hand, is \ninfluenced by terrestrial particles and resuspension of bottom sediments (Degens \nand Ittekkot, 1985; Nelson et  al,  1987). \nRecently, much more attention has been focussed on large particles (>50μg), \ngenerally collected by sediment traps, in order to understand origin, fate, transport \nand composition of particulate organic material during its transport through \nwater column (Hanjo, 1978; Ittekkot et  ah,  1984; Bodungen et  al,  1986, Nelson. \net al.,  1987). Some advances have also been made in understanding th e distribution \nand composition of suspended POM collected by conventional sampling bottles \n(Copin-Montegut and Copin-Montegut, 1983; Gordon and Cranford, 1985; \nDortch, 1987; Saino and Hattori, 1987). These studies suggested that useful \ninformation on the dynamic water processes such as primary production in \nsurface waters, transformation during vertical and lateral transport of suspended \nPOM through water column can be obtained by studying the distribution and \ncomposition of suspended POM (Bishop, 1977; Gordon and Cranford, 1985; \nHarrison  et al,  1987; Saino and Hattori, 1987). \n322 V. K. Dhsrgalkar and N. B. Bhosle \nIn this paper, preliminary data on the short-term variation in  living carbon, \nphytoplankton biomass, POM and its consti tuent fractions such as carbohydrates, \nproteins and lipids during austral summer (Jan to Feb 19.86) at a single station \nnear the ice shelf have been presented. \nMaterials and Methods \nSeawater samples were collected twice a week using 5 1 Niskin sampler \nwhen the ship was alongside of the ice shelf (70°S, 11°E) during January-February, \n1986. Three discrete depths (just below sea ice, 10 and 30 m) were sampled \nwithin the  euphotic zone which wer e predetermined using Secchhi disc. The \nwater samples were filtered through pre-ignited W hatman glass fibre fi lter papers \n(47 mm dia, 1.2 μm pore size). Suspended matter left on filter paper was analysed \nin triplicate for particulate organic carbon (POC), p articulate carbohydrates \n(PCHO), particulate proteins (PP) and particulate lipids (PL). The POC and PL \nwere analysed following the method of Parsons et al.  (1984). The PCHO  a n d  \nPP were determined as suggested by Hitchcock (1977) and Lowry (1951), \nrespectively. The chlorophyll a was measured fluorometrically (Par sons et  al., \n1984). In order to estimate adenosine triphosphate (ATP), water samples were \nfiltered through sterilized Millipore filters (0.45 μm pore size) and analyzed as \nphoton emitted by the luciferin-luciferase system on an SAI Photometer after \nextraction in hot tris-buffer (Parsons et  al,  1984). ATP values were multiplied \nby 250 to obtain livin g carbon (Karl, 1980). \nResults and Discussions \nDuring the period of observations (Jan-Feb) nutrient concentrations were \ngenerally high (Naqvi, 1986). Nitrate, inorganic phosphate and silicate varied \nfrom 19.6 to 20.9, 1.6 to 2.3 and 56.7 to 58.1 μm d m\n-3\n respectively. This \nimplies that plankton growth was not lim ited due to nutrient starvation. \nChlorophyll a (Chl a) concentrations varied from 0.051 to 3.1 μg l\n-1\n within \neuphotic depths (Table I). Chl a concentrations often but not always, were \nhigher at 30 m as compared to surface suggesting accum ulation of phytoplankton \nat this depth. This is probably due to the inhibitory effect of surface radiation \n(Liebezeit, 1984). Higher values of chl a were observed during first week of \nFebruary and then again decreased during later period. This indicates considerable \nday-to-day variations in the chl a. Microscopic examination of water samples of \nvertical tows showed the presence of  Fragilana sp.,Nitzschia  sp.,  Thallssiosira \nsp., Biddulphia  sp.,  Euca",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "5]Biology and Oceanography",
+    "subcategory": "Short Term Variation in Particulate Organic Matter in the Shelf Waters of the Princess Astrid Coast, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:36.617361Z"
+  }
+}

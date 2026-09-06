@@ -1,0 +1,72 @@
+{
+  "id": "chapter_2",
+  "document_id": "NCPOR-6B650B",
+  "source_file": "Chapter+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1015/1/Chapter+2.pdf",
+  "bibliographic": {
+    "title": "Chapter+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 293-298\nMedical Report of the 25th Indian \nExpedition to Antarctica\nDr. (Mrs) Devyani D. Borole\nNational Centre for Antarctic and Ocean Research, Goa\nThe Medical Services at Maitri Hospital was taken over on 12th \nFebruary, 2006 from Dr. Bandopadhyay, in-charge of Medical Services of \nXXIV ISEA. After making inventory of available stocks the new stock \nbrought by the XXV ISEA were added. During the summer as both the \nWintering team were present there was heavy pressure on medical facilities, \nattended to dermatological problems like tineacapitis, tineacruris, dryness \nof skin, seborrhea, indigestion, cold, cough, hypertension, wax in the ear, \nconstipation with hemorrhoids and joint pains backache and boils, minor \ninjuries, arthritis, etc.\nA detailed plan was devised to have regular check for the entire team \nfrom the month of March, 2006 for any health and psychological problems. \nInitially a detailed clinical history of all the members was prepared with \ngeneral checkup of cardiac, respiratory, abdominal, oral, neurological and \nmental condition. It required biochemical, pathological and diagnostic tests \nsuch as Blood sugar, X-rays, ultra sonography, ECG etc were carried out. \nNecessary preventive counseling was done to maintain good health in \nAntarctic conditions; it was made mandatory for all expedition members \nto undergo periodic tests such as blood sugar, ECG. All members were \nadvised to*work out in Gym and to have a control on their diet. All expedition \nmembers were explained the necessity of taking prophylactic multi-vitamins, \ncalcium, iron supplements etc and the consequences of their deficiency.\nMedicines were stored as prophylactic medicines, general use \nmedicines and emergency medicine. Medicines requiring cold storage were \nstored in the refrigerator. The general and day to day use drugs were \narranged in MI room.\nThe prophylactic drugs were distributed on monthly basis to all \nexpedition members during routine medical checkup.\n\n294 Devyani D. Borole\nAn emergency drug trolley was prepared with emergency drugs, \nnecessary minor surgery instruments, a bed, ultra sonography machine, \nECG machine, sterilizer and an oxygen source etc.\nA First aid medical kit was separately allotted for Convoys with \nnecessary training to Capt. K. Kingston & two convoy members. It was \nchecked & updated after every Convoy.\nAll the diagnostic equipments were periodically checked & \nmaintained.\nAll the expired medicines amounting to 8 crates were back loaded for \nIndia with other materials. The Dental chair which was lying unused in the \noperation theater was brought to MI room after repair and was put to use \nfor the examination & dressing. X-Ray machine was serviced & kept ready \nfor use. A proper Dark room to develop X-Rays was created in the Operation \nTheater complex and all the needed material have been stored. Flooring of \nthe Operation Theater was renovated after it was destroyed in the past by a \nfire from electric heater. The Dental Chair was shifted to M.I. room as it is \nconvenient for examination & dressing of the patient in the sitting position.\nDuring the Second Monthly medical checkup it was found that 20 \nexpedition members had significant weight gain. Of these 6 were found to \nhave developed mild hypertension, 1 had severe hypertension (blood \npressure being 170/120 mm of Hg) and had to be started on Anti­\nhypertensive medication to bring down the blood pressure. They were \nadvised to reduce weight, restrict salt and relaxation to control the blood \npressure, all these persons were being closely followed up and their blood \npressure was checked daily. Besides the periodical examinations team \nmembers were encouraged to avail the medical service available whenever \nrequired. And to confide with the doctors however small problem may \nseem. For the period 13th February till 30th April the total 160 visits to the \nMI Room were made.\nMembers were advised to visit Gym on regular basis. Capt. Kingstong \ntook the responsibility of Gym in-charge & instructor. The Gym facilities \nwere utilized well by the participants.\nOn mutual basis medical facilities were shared with Russian Station. \nRussian doctors had sought Anti Hypertensive medicines and Anesthesia \ndrugs were supplied to the Russian station.\n\nMedical Report 295\nThe following case report needs special mention.\nOn 1st April around 09:00 at Sankalp point when the trailer was being \nhooked to the Piston Bulley vehicle Nb/Sub Mangesh Ganapat Chavan \nsustained crush injury of the left hand. The injury was attended immediately \nand with X-ray report, revealed fracture dislocation of the 5th metacarpal at \nthe base with medial displacement of the long distal fragment, seen \noverriding the base of the 4th Metacarpal bone. In view of fracture & \ndislocation of the bone of the hand with displacement in borderline range, \nit was decided to seek ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "6] Engineering And Logistics",
+    "subcategory": "Medical Report of the XXV Indian Expedition to Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:59:49.559484Z"
+  }
+}

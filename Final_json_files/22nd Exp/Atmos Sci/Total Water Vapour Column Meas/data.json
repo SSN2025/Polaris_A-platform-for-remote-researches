@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_20_2c_pp_103_108",
+  "document_id": "NCPOR-3094A3",
+  "source_file": "Technical+Publication+No.+20%2C+pp+103-108.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/876/1/Technical+Publication+No.+20%2C+pp+103-108.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+20%2C+pp+103-108",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "22] Scientific Report of Twenty Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Second Indian Expedition to Antarctica, Scientific Report, 2008 \nMinistry of Earth Sciences, Technical Publication No. 20, pp 103-108 \nTotal Water Vapour Column Measurement Over \nSchirmacher Region, East Antarctica \nS. L. Jain, B. C. Arya, Ashok Kumar and Sachin D. Ghude \nRadio and Atmospheric Sciences Division \nNational Physical Laboratory, New Delhi-110012 (India) \nABSTRACT \nTotal Water Vapour Column has been measured at Maitri (70° 45'S, 11 44'E), \nAntarctica using Microtop Sun-photometer during 22nd Indian Scientific Expedition to \nAntarctica. The annual mean water vapor was found out to be 0.45 cm in the year 2003. \nColumnar water vapour has been observed maximum in the month of January during \nobservational period. Day-to-day variation of water vapour and surface temperature showed \npositive correlation suggesting that day-to day variation of water vapour is highly related to \nlocal meteorological conditions. In the present communication obtained results are discussed \nin detail. \nKey Words: Sun-photometer, Water Vapour and Antarctica \nINTRODUCTION \nWater in its various phases constitutes the critical ljnk between the \nchemical component of global change and the dynamics, radiation and climate \ncomponents. It is the major absorber of infrared and thermal radiation in the \nEarths atmosphere and strongest contributor to greenhouse effect. The \namount of water vapour varies widely throughout the atmosphere and the \naverage content fluctuates about a mean, determined by the other greenhouse \ngasses, and the nature of the Earth land surface. Since the water vapour \npartial pressure increases with temperature, the action of water vapour as \ngreenhouse gas in free troposphere lead to a further enhancement of \ngreenhouse effect and is considered as a positive feedback. \nIn the upper troposphere and lower stratosphere the radiative1 and \nchemical2 effects of water vapor are large and atmospheric concentration \nvaries considerably with the temperature and relative humidity. In global \nclimate models, almost half of the projected increase in temperature due to \na doubling of carbon dioxide in the atmosphere results from the effects of \n104 S.L. Jain et al. \nincreased water vapour3. Recent studies have shown a stratospheric cooling \nin regions of H20 increases, of magnitude similar to that due to stratospheric \nozone loss indicating a significant additional cause of observed stratospheric \ntemperature decrease. Total water vapour column amounts is very low in \nAntarctica, however it plays a significant role in ozone depletion4. A recent \nstudy has shown that water vapor concentration determines the effectiveness \nof the heterogeneous reaction and under stratospheric conditions affects \nthe ozone chemistry and plays significant role in the Antarctic ozone depletion \nby providing reaction site as polar stratospheric clouds in the form of H20 \nice5. \nMeasurements have been done at low and mid latitudes6 but at the \npolar latitudes and high altitudes a little is known about the water vapor \ncontent and its seasonal variation. Also, surface measurement database for \nwater vapor is in scarcity and therefore regular monitoring is of great \nimportance for understanding the hydrological cycle in depth for global change \nstudies7. In view of the above, Microtop-II89 sun photometer has been used \nto measure total water vapour column at Maitri (Antarctica) during 2003 \nand summer period of year 2004. The observations were taken \nthroughout the expedition on hourly basis during clear sunny days. Correlation \nof total water vapour column has also been made with surface \ntemperature. In the present communications the results obtained are \ndiscussed in detail. \nEXPERIMENTAL SETUP \nThe MICROTOP-II is a five channels hand held microprocessor based \nsun photometer. The Block diagram of the instrument is shown in Fig. 1. \nThe instrument is equipped with five optical collimators having a full field of \nview of 2.5 °. All the channels are integrated with a narrow-band interference \nfilter and a photodiode appropriate for the particular wavelength range. Each \nchannel looks directly the solar disc at once when the image of the sun is \ncentered at the cross hairs of the sun target. When the radiation falls onto \nthe photodiodes through collimators, it gives an electrical current \nproportional to radiant power cut off by photodiode, which then \namplified and converted into digital form in a high resolution A/D converter. \nSignals are processed in a series of 20 conversions per second. Out of the \nfive channels at 300,305,312,940 and 1020 nm, the first three filter channels \nwere used to derive atmospheric total column ozone and rest of the two for \nwater vapour. \nTotal Water Vapour Column Measurement Over Schirmacher... 105 \nRESULTS \n106 S.L. Jain et al. \nColumnar water vapour averaged for every month during 2003 is \ndepicted in Table 1, which show the maximum concentration in January and \nminimum in August. Higher water vapour co",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Science",
+    "subcategory": "Total Water Vapour Column Measurement Over Schirmacher Region, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:20.870572Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "pages_279_303",
+  "document_id": "NCPOR-419C11",
+  "source_file": "Pages+279-303.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/918/1/Pages+279-303.pdf",
+  "bibliographic": {
+    "title": "Pages+279-303",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic Expedition\nMinistry o f Earth Sciences, Technical Publication No. 21, pp 279-303\nEnvironmental Management Services at  \nMaitri, Antarctica\nG Veerabhadraiah and Anil Jain\nEnvironment Division, Engineers India Ltd., New Delhi\nEngineers India Limited (EIL) started its association with the Indian \nAntarctic Program by participating in the summer part of the 23rd Indian \nAntarctic Expedition (XXIII-IAE). EIL provided its services in reviewing \nWastewater Management at Maitri, the permanent Indian Research Station \nin Antarctica. The work carried out by Environment Division of EIL for the \nstudy Wastewater Management at Maitri is covered here.\nIn order to carry out the study, a 10 point methodology has been adopted \ncovering various aspects such as collecting front-end information, review \nof design data, obtaining operating and site specific information and their \nanalysis to arrive at final conclusions and recommendations. Site work was \ninitiated with collection of all available data/information with respect to \nexisting wastewater management facilities. In order to get the design, \noperating and maintenance details of existing biodiscs treating the effluent \nfrom Maitri, EIL communicated with system suppliers i.e. Klargester \nEnvironmental Engineering, UK. A database has been created with all the \ninformation obtained and the same was made available to Expedition Leader. \nAlso collected relevant data on wastewater generation and its handling \nassociated with summer camp facilities. Historical operating data available \nfrom earlier expeditions has been compiled. Also collected site-specific \ndata as well as feedback from leaders of past expeditions and inmates \n(wintering personnel) of Maitri to obtain the first hand information. At the \nend of the expedition, various interim measures have been suggested for up \nkeeping of the wastewater management facilities pending the execution of \nmodifications required, and the same were discussed and explained to \nExpedition Leader and Logistic Team.\nAfter the expedition, the existing system has been reviewed with all \nthe available information collected at site and the fresh data collected from \nNCAOR. Conclusions have been made highlighting various limitations of\n\n280 G . Veerabhadraiah & Anil Jain\nthe existing facilities along with the recommendation to overcome the same \nsuggesting the action plan. While submitting the report, a presentation has \nalso been made to the Technical Committee in this regard. Subsequently \nEIL has submitted proposal to implement the modifications required \nsuggesting the methodology of execution in phased manner.\nEngineers India Limited (EIL) having its headquarters in New Delhi \nand offices in India and abroad, is a premier consulting organization in \nSouth-east Asia which provides value-added services in varied fields of \nengineering using state-of-the-art technology. EIL is looking forward to \nactively contribute towards this mission of great importance to mankind \nand to the nation by offering its services for any engineering and \ntechnological requirements.\nINTRODUCTION\nMaitri - India's permanent Antarctic station was built in 1989 and is \nlocated in Schirmacher Oasis region in Princes Maud Land in East \nAntarctica. It serves for year round scientific exploration and research studies \nby various organizations. Every year, Indian expedition is conducted with \nscientists, engineers, and logistic personnel with half the team stay for only \naustral summer and the rest for the entire year. Maitri wais designed for \nabout 25 personnel with basic infrastructure and life support systems. \nSummer team stays in specially designed timber huts.\nM/s National Centre for Antarctic & Ocean Research (NCAOR), Goa, \nunder Department of Development (DOD), Government of India, is the \nnodal organization for the co-ordination and implementation of the Indian \nAntarctic Program including the up-keep of India's permanent (year round) \nstation - Maitri at Antarctica. In 2003, M/s NCAOR invited Engineers India \nLimited (EIL), New Delhi to participate in Indian Antarctic Expedition to \ncarryout structural assessment of Maitri and review of its wastewater \nmanagement system. This report is about the work carried out by \nEnvironment Division of EIL for the review of wastewater management \nsystem.\nFIELDS OF INVESTIGATION\nThe existing wastewater treatment units and associated facilities \nrequired detailed study for review and their improvement to meet the \napplicable effluent discharge standards inline with Madrid Protocol\n\nEnvironmental Management Services at Maitri, Antarctica 281\nrequirements as well as to eliminate contamination of drinking water lake \nwhich is at lower elevation compared to the building and its effluent handling \nunits.\nKeeping in view the nature of the study concerned, following 10-Point \nmethodology was adopted to carry out the study.\n•  Front-end information from DOD Reports\n•  Site visit for first hand informa",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 25
+  },
+  "taxonomy": {
+    "category": "5] Engineering & Communication",
+    "subcategory": "Environmental Management Services at Maitri- Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:44:04.813938Z"
+  }
+}

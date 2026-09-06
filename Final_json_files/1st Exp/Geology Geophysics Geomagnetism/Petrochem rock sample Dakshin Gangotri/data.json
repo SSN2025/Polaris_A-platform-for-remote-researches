@@ -1,0 +1,72 @@
+{
+  "id": "article_17",
+  "document_id": "NCPOR-9A6595",
+  "source_file": "ARTICLE+17.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/187/3/ARTICLE+17.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+17",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Petrochemical  Studies  of  the  Rock  Sample\nFrom  Dakshin Gangotri,  Antarctica\nA. V. Murali, 1 K.  R.  Krishnamoorthy 1 and C. S. Pichamuthu 2\nABSTRACT\nPetrography, major, minor and trace element studies (including REE) have been carried out on the rock sample obtained from\nDakshin Gan gotri Antarctica. The study reveals that:\n1. the rock is composed dominantly of plagioclase, quartz, garnet and biotite with minor amounts of microcline (with perthetic\nintergrowths), hypersthene, magnetite and accessory apatite and zircon grains,\n2. the in itial hypidiomorphic granular texture of the rock is affected by subsequent dynamic metamorphism, and\n3. it has high SiO 2 (65.38%) and high CaO/K 2O(3.6) and Th/U (~30) ratios with enriched REE contents (La = 200X;\n(La/Lu) N = 7) and negative europium (Eu/Eu* = 0.5) anomaly.\nBased on petrographic and chemical data the rock is identified as felsic charnockite (enderbite) with superimposed effects of\nlater dynamic metamorphism which is discussed in detail.\nINTRODUCTION\nAntarctica has long been recognised as an important component of Gondwanaland forming the\ncentral locking piece in the natural reconstruction of the sourthern continents. Its geology has many\npoints in common with that of peninsular India (Pichamuthu, 1966).\nThe first Indian Antarctica Expedition Team landed on the Antarctic continent on January 9, 1982\nand collected rock samples from Dakshin Gangotri  (Lat. 70°45' 12.96\"S; Long 11°38' 13.62\"E). The\npurpose of the present paper is to report the petrographic data and chemical characteristics of the rock\nsample from Dakshin Gangotri  and evaluate its geochemical significance.\nSAMPLE AND ANALYTICAL METHODS\nAbout 150 g of the sample (with biotite showing distinct foliation) was supplied by the National\nInstitute of Oceanography, Goa, for the present study. Two thin sections cut parallel and perpendicular\nto the foliation plane, were prepared for petrographic study of the sample. About 70 g of the sample, was\ncrushed to —200 mesh (ASTM) for major, minor and trace element determinations.\nSilica, ferrous iron and calcium were determined by classical methods (Jeffery, 1975) and aluminium,\ntitanium and total iron following Shapiro and Brannock's (1962) procedure. Na, K, Mn, Mg, Co and Zn\ncontents were determined by Atomic Absorption Spectrophotometry (AAS) and Vanadium (Sarkar and\nRao, 1982) and phosphorus (Riley, 1958) by colorimetry. Instrumental Neutron Activation Analysis\n(INAA) procedure (Murali et al., 1979) has been adopted for the determination of Na, Mn, Co, Sc, La, Ce,\nSm, E u , Tb, Yb, Lu and Th contents and uranium has been determined by DNAA technique (Reddy and\nSankar Das, 1974). The INAA values of Na, Mn and Co agree well (within 2-4%) with the AAS values.\nBoth the sample from Antarctica (ANT-82) as well as the reference samples were analysed in\nduplicate or triplicate. The data presented in Tables I and II indicate the precision and accuracy of the\nresults.\nPETROGRAPHY\nThe rock is composed dominantly of plagioclase, quartz, garnet, biotite and minor amounts of\nmicrocline, hypersthene and magnetite. Apatite and zircon are found as accessories. A brief description of\nthe important minerals is given below: \n_______________________________________________________________________________________________________________________________\n1 Analytical Chemistry Division, BARC, Trombay Bombay-400 085.\n2 Department of Mines & Geology, Bangalore - 560 001.\n153\nPetrochemical Studies of the ...\n___________________________________________________________________________________________________________________________________________\nThe rock appeared to be originally hypidiomorphic granular but is now inequigranular due to\ndynamic effects. The effects of dynamic metamorphism manifest as follows:\n1. broken grains of garnet and quartz.\n2. plagioclases show bent twin lamellae.\n3. flakes of  biotite are twisted and bent.\n4. quartz, feldspar and even biotite grains show strain shadows.\n5. a retrograde breakdown of garnet and hypersthene to biotite.\nPlagioclase: Plagioclase is  bimodal in habit and grain size. The larger grains are usually characterised by\nbent twin lamellae. The  smaller grains are fresh and twinned and do not show evidences of strain after\ncrystallization.\nQuartz: As in the case of plagioclase, some quartz grains show strain shadows and some are free from\nstrain.\nGarnet: Garnet is pale pinkish brown and fractured and has inclusions of quartz and magnetite but does\nnot generally show sieve texture. Along the fracture plane and borders, garnet is found to be breaking\ndown to biotite.\nBiotite: Biotite is dark brown or reddish brown in colour. Some grains show well developed prismatic\ncleavage. It is generally found as alteration product of either garnet or hypersthene.\nMicrocline: Microcline shows typical cross-hatched twinning and perthitic intergrowths.\nHypersthene: The hypersthene is dark green or colourless with feeble pleochroism. Some of the grains",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "5]Geology,Geophysics,Geomagnetism & Glaciology",
+    "subcategory": "Petrochemical studies of the rock sample from Dakshin Gangotri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:44.919739Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_15",
+  "document_id": "NCPOR-92CF42",
+  "source_file": "ARTICLE+15.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/246/3/ARTICLE+15.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+15",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Technical Notes on Renewable Energy Systems to be Used at the\nIndian Station\nAshok Puri\nBharat Heavy Electricals Limited, Hardwar \nABSTRACT\nRenewable energy systems utilising the wind and solar energy have shown promising results in\nAntarctica. This paper describes the various renewable energy systems that are proposed to supplement\nthe existing conventional sources of energy.\nINTRODUCTION\nTwo forms of energy find ready use at the Indian camp at Dakshin Gangotri, electricity and\nheat. Both electricity and heat are presently generated with the help of diesel sets. Diesel sets are by\nnature reliable and quick starting type of generating equipment. They, however, have some inherent\ndisadvantages, namely, that of maintenance and large requirement of fuel. The transportation and\nstorage of fuel on the frozen continent is both troublesome and provides a fire hazard. It would there-\nfore be prudent that alternative energy sources be installed at the camps in Dakshin Gangotri and\nMaitree Hills. Winds and solar energy are the two abundant sources of energy, which if harnesed,\ncan perhaps cater to the total energy needs of the entire Indian stations in Antarctica. These renew-\nable energy systems have no fuel requirement and are almost maintenance free.\nWIND MILLS\nThe weather data recorded at the Indian station and at Novolazharevskaya, strongly indicates\nthe presence of strong katabatic winds throughout the year. An average speed of 10-15 m/s, going\nupto 65 m/s have been recorded at the Indian station.\nThe wind data have been analysed and a frequency distribution curve has been drawn (Fig. 1).\nThe study shows that for the maximum utilisation of wind turbine, the cut-in, design and cut-out\nwind speeds should be 20 kmph, 40 kmph and 60 kmph respectively.\nAlso, the wind is available throughout the year and the direction is mostly from SE (±22.5).\nThus to make the design simple, reliable and strong enough to withstand the high winds, it would be\ndesirable to have a wind mill without turntable and tail for automatic changing direction to face the\nwind. A manual systems for the same may, however, be provided. Wind turbines of about 2.5 kW\ncapacity are being presently used in India. Average wind speeds of about 18 kmph are available in\nIndia. The annual average wind speeds recorded at the Indian station is about 35 kmph. With cubic\nlaw of power with velocity, 8 times power from the same machine can be generated (Fig. 2). However,\nfor higher wind speeds, the rotor would rotate at higher speeds giving problems of material strength.\nThus, for the first unit as a test prototype, the size should be limited to 2.5 kW capacity. This\nmachine shall require a diameter of about 2 metres and a tower height around 7 metres. The genera-\ntor should be a DC generator with constant output voltage irrespective of rpm and should be utilised\nfor battary charging and room heating. These machines can also be used effectively for water pump-\ning applications at the Maitree station.\n205\nRenewable Energy Systems \nSTATION = NOVO\nDATA  PERIOD  =  12  YEARS\nMAX. WIND SPEED = 45 m / s \nNO. OF HOURS PER YEARS\nHOURLY  MEAN  WIND  SPEED m /sec.\nFig. 1.  Annual frequency distribution of wind speed at the USSR station-\nNovolazarevskaya. The data are based on observations for 13 years.\nWIND VELOClTY(m|sec)\nFig. 2. Expected power output from the wind electric generator.\n206\n2800\n2500\n2000\n1500\n1000\n500\n0 5 10 15 20 25 30 35 40 45 50\n_________________________________________________________________________________________________________________________________________________________________________________________\n2700\n2500\n2000\nPOWER\n(Watts)\n1500\n1000\n500\n0\n51 0 15 18\nPuri\nThese systems can be deployed as a hot water source for persons, kitchen and room heating etc.\nThese should work on Thermosyphon principle in a closed loop, thereby eliminating the use of\npumps. Thus to start with, these systems should be of a low capacity, say 100 litres per day. As the\nworking fluid can not be water due to f reezing problem, an antifreeze can be mixed in suitable\nproportion. The total system consists of a solar collector, support structure for the collector, insulated\nstorage tank, insulated pipe lines and necessary instrumentation to monitor the operation of the\nsystem.\nSOLAR HEATING SYSTEMS\n(Plate 1)\nAmbient temperature remains in the range of -12°C to +4°C, during the period December to\nFebruary. Peak insolation levels are of the order of 400-500 W/m2. Solar energy available during the\nAntarctic summer (December to February) is about 62% of the annual solar energy available.\nWherein the sunlight is avilable for more than 18 hours a day. Although snow blizzards are quite\nintense during the non-sunny periods, they are fairly less frequent in the summer months.\nAs both the Indian stations are likely to remain fully inhabited by large parties during the\nsummer months, it may be worthwhile to explore the possibility of using solar heating systems in\nAntarctica. The main ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "5]General",
+    "subcategory": "Technical Notes on Renewable Energy Systems to be used at the Indian Station",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:38.781835Z"
+  }
+}

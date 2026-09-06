@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_18_2c_pp_233_241",
+  "document_id": "NCPOR-AB8345",
+  "source_file": "Technical+Publication+No.+18%2C+pp+233-241.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/823/1/Technical+Publication+No.+18%2C+pp+233-241.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+18%2C+pp+233-241",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twentieth Indian Expedition to Antarctica, Scientific Report, 2006 \nMinistry of Earth Sciences, Technical Publication No. 18, pp 233-241 \nStress, Anxiety and Loneliness Among 20th Indian \nExpeditioners at Antarctica during Summer \nVinay Mishra \nDepartment of Psychology and Social Work \nThe Bhopal School of Social Sciences, Habibganj, Bhopal- 462024 (M.P.), India \nAbstract \nThe ice-covered land of Antarctica seems to appear to the social scientists as \nstressful due to various reasons, which includes the extreme environmental conditions \nprevailing there. With the backdrop of the condition prevailing at Antarctica, it was \nplanned to examine the nature and extent of stress under Antarctic conditions, to \nunderstand the coping mechanism and direct action taken by people to combat stress, to \nunderstand and analyze the correlation between various stressors and to administer and \nascertain anxiety levels and perceived loneliness among the groups (N=48) belonging to \n20th Indian expedition to Antarctica. The results revealed that the conditions prevailing \nat the Antarctic base seems to play a major role where all the factors seems to have mingled \nand affected each other in either positive or negative manner. Looking at the cultural \nbackground of the subjects the sexual behavior was found to be appropriate among the \nrespondents. Furthermore, the result of the study reveals a low level perception of \nloneliness and anxiety. The coping behavior of the respondents was found to be \nappropriate. Looking at the results, it could be concluded that the subjects were not much \nvulnerable to stress as has been indicated by the western scholars. The social, cultural, \nfamily and traditional background of the participants seems to have its' hand in \ndetermining the present findings. \nKeywords: Stress; Anxiety; Loneliness; Antarctica. \nIntroduction \nAntarctica is the highest, driest, and windiest of the earth's continents. \nBecause it has no permanent indigenous inhabitants, it has been referred \nto as \"The Ice\" by those who work and live there and has viewed it as \nhaving enormous potential as a natural laboratory for the social and \nbehavioral scientists (Palinkas, 2002). This potential lies in both the nature \nof environment and the nature of those who struggle to live and work in \nthis environment. \nThe ice-covered land of Antarctica seems to appear to the social \nscientists as stressful due to various reasons, which includes the extreme \n234 Prof. Vinay Mishra \nenvironmental conditions like extreme cold conditions, complete dark \nwinter climate overcast conditions and erratic wind pressure (Adya, 1988; \nJohnson, 1985; Joshi, 1995), isolation from family and friends (Strange \n& Klein, 1973), interpersonal conflicts and working conditions. \nStress has become an inseparable part of human life and can be \nobserved in every sphere of life. In conditions of physical extremities, such \nas that prevailing in the Antarctic, the routine undergoes a drastic alteration \nand stress relieving agents such as families, friends, and neighbours cease \nto exist. This requires an individual to psychologically shift gears to adapt \nto the new situation. Problems related to the individual's adjustment to \nclose group interdependence, monotony of environment and absence of \naccustomed sources of emotional gratification have been studied among \ngroups of volunteers subjected to isolated Antarctic living for six to eight \nmonths at isolated bases. Reactions such as low concentration insomnia, \nheadaches, hostility, depression etc. were found to be prominent in the \nstudied subjects (Haythron & Altman, 1967; Mullin, 1960; Nardini, 1962; \nRohrer, 1961). \nIn recent years, the area of psychological stress has made \nsignificant advances in understanding the relationship between physical \nenvironmental stresses and well-being. It deals with the impact of a \nwide range of negative outcome that otherwise seem to defy adequate \nexplanation. With the beginning of influential work of Selye (1956) \nand Lazarus (1966), followed by studies of Glass and Singer (1972) \non unabated noise, the environmental stress concept has led to ample \namount of research on the properties of environment and its \nrelationship with human behavior and health. \nDespite these, the studies related to the psychological stress and \ncoping in relation to environment prevailing in extreme conditions of \nAntarctica is still a hot among behavioral scientists (Bell & Garthwaite, \n1987; Palinkas, 1992, 2002). Thus with the above background the \ninvestigator undertook following objectives: \n1. To understand the nature and extent of stress under Antarctic \nconditions. \n2. To administer and ascertain anxiety levels and perceived loneliness \namong the expeditioners. \n3. To understand the coping mechanism and direct action taken by \npeople to combat stress, if any. \n4. To understand and analyze the correlation between various \nstressors. \nStress, Anxiety and Loneliness Among Expeditioners a",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "5] Medical Sciences",
+    "subcategory": "Stress, Anxiety and Loneliness Among 20th Indian Expeditioners at Antarctica during Summer",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:16.830222Z"
+  }
+}

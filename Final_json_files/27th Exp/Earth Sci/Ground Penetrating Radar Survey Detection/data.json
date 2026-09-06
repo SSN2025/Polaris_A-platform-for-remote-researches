@@ -1,0 +1,72 @@
+{
+  "id": "chapter_5",
+  "document_id": "NCPOR-9A6C62",
+  "source_file": "Chapter+5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1083/1/Chapter+5.pdf",
+  "bibliographic": {
+    "title": "Chapter+5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ground Penetrating Radar Survey for Detection of\nShelf Ice Depth and Its Spatial Variation in Central\nDronning Maud Land, East Antarctica\nK. K. Singh, H. S. Gusain, V . D. Mishra and R. P. Shukla\nSnow and Avalanche Study Establishment, Chandigarh\nABSTRACT\nIce shelves are a permanent feature of Antarctica; these not only bind but also shape\nthe continental ice sheet. However shelf ice is fluctuating in nature, due to direct contact\nwith the sea. Changes in extent of shelf ice with varying climatic conditions can be\ninterpreted using various remote sensing satellites; but these satellites do not yet have the\ncapability to retrieve depth information. Radio-echo sounding provides an efficient tool to\nmeasure ice depth.\n        Ground Penetrating Radar (GPR) survey has been carried out for detection of shelf\nice thickness and to analyze its spatial variation near Princess Astrid Coast during 27 th\nIndian Antarctic Expedition to Antarctica. Thickness information of shelf ice has vital\nimportance for the expedition, as tons of load of cargo items has to be placed over shelf\nice.\n        GPR (Mala Geoscience) of frequency 50 MHz (Unshielded, Bistatic antenna) was\nused to determine the ice thickness. Longitudinal and transverse GPR profiles were carried\nout to cover the survey area, along with GPS for geographic information. GPR data were\ncollected in reflection mode and the time window was decided on the basis of the required\ndepth of penetration; however long time windows were used for receiving echoes from\ndeeper shelf ice. Data are stored in 16-bit integer raw data format and for post processing\nGround Vision software has been used. Dark current and time gain filters were further\nused to enhance the quality of radar signal.\n        The survey results show that the shelf ice thickness varies between 20 to 60 m. 3-D\nmap of the surveyed area was prepared using the latitude and longitude information from\nthe GPS and the depth information from the GPR. After combining various GPR profiles,\nit is observed that the shelf ice thickness decreases while moving towards the sea in north\ndirection and it increases away from the sea edge towards the south. Sharp reflections of\nradio waves from two different levels (depth) were observed at few locations in radargram,\nalthough these reflections are from very limited area but their interpretation is a further\narea of research.\nKeywords: Antarctica, Dronning Maud Land, GPR, Ice Shelf.\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 85-94\n86                                                 K.K. Singh, et al.\n1.0  INTRODUCTION\nAntarctica the southernmost continent comprises the area of the earth\nsouth of 600 and having area around 10% of the land surface of the earth.\nThe Antarctic ice sheet consists of three distinct morphological zones as\neast (Great), west and the Antarctic Peninsula. The largest is East Antarctica\nwhich covers around 10.35 × 106 km2 and is dominated by the high Antarctic\nplateaus. Antarctica has 98% of its total area covered with ice. The Antarctic\nice sheet, whose average thickness is 2.45 km, has the maximum thickness\nof approximately 4.8 km at some places ( Rasal et al, 1999 ). It contains\naround 68% of world’s fresh water.\nIce shelves are a permanent feature of certain parts of the Antarctica\nand are extension of the continental ice, which floats over the sea after\ncrossing the main land. There is a constantly changing balance between\nprocesses— ice flow from the continent, snow fall, bottom freezing, bottom\nmelting, the calving of ice bergs; which adds or melts the ice. The stability\nof ice shelf rests on maintaining this equilibrium (Asthana, 2002). The\nedges of ice shelves make up 44% of the coastline of the continent, with\nthe remainder consisting of grounded ice walls (36%), ice streams and\noutlet glaciers (13%) and rock (5%) (Drewry, 1983). Most ice shelves are\n100-500 m thick, although thicker areas do occur, such as near the seawards\nedge of the Filchner-Ronne ice shelf. The thickness of the Filchner-Ronne\nice shelf varies from 300 m at the seawards edge up to 1600m at the\ngrounding line (Jenkins and Doake, 1991).\nThe radar sounding is one of the techniques, which has been used\nsuccessfully in Antarctica for snow accumulation studies (Richardson et\nal., 1997 and Sinisalo et al., 2003). According to their study this radar-\nbased method is found more suitable for estimating the accumulation rate,\nthan using the stakes for measurements. Most of the materials attenuate or\nscatter the radio waves; however the cold ice is relatively transparent to\nradar waves and in glaciology deep penetrating radar have been used since\n1950s to map the bedrock beneath glaciers and ice sheets (Bogorodsky et\nal., 1985). GPR has been used to determine the accumulation rates in\nAntarctic firn (Forster et al., 1991). The 50 MHz Mala antennas clearly\ndetected  bedrock return from glaciers up to depth about 300m i",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "2] Earth Sciences",
+    "subcategory": "Ground Penetrating Radar Survey for Detection of Shelf Ice Depth and Its Spatial Variation in Central Dronning Maud Land, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:12:40.815993Z"
+  }
+}

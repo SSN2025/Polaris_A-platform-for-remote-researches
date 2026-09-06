@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_3_17",
+  "document_id": "NCPOR-5CB14A",
+  "source_file": "Technical+Publication+No.+19%2C+pp+3-17.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/833/1/Technical+Publication+No.+19%2C+pp+3-17.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+3-17",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 3-17 \nXXI Indian Antarctic Expedition—An Overview \nR.P. Lai \nLeader & Station Commander Maitri, Antarctica \nIndian Scientific Expedition to Antarctica is challenging, adventurous \nand a National commitment for the quest of science. India has long \ncommitment of Antarctic Programme as a result of which National Centre \nfor Antarctic and Ocean Research (NCAOR) was established to look after \nall the activities related to Polar Logistics & Sciences. Now more than 60 \nNational Laboratories are involved in our Indian Antarctic Programme. \nThe 21st Indian Scientific Expedition to Antarctica comprised 49 members \ndrawn from 20 scientific institutions/organizations was set to achieve yet \nanother goal of our National Antarctic Programme. The main task of the \nexpedition was continuation of efforts for further advancement of \nmultidisciplinary scientific fields. For the first time Dr. PC. Pandey, Centre \nDirector, NCAOR, accompanied the expedition team to Antarctic for \ngetting first hand information on different aspects of the expedition \nactivities for future improvements in logistics and scientific activities and \na state of art equipment, Gas Chromatograph was to be installed along \nwith many other innovative projects. \nHis Excellency Shri Mohammad Fazal Governor of Goa launched \nXXI Indian Antarctic Expedition at National Centre for Antarctic & Ocean \nResearch, Goa on 5th January 2002. Team consisting of 25 Winter Member \nand 24 Summer Member was flown from Goa to Mumbai on 6th January \n2002 and then to Cape Town via Johannesburg. Team members boarded \nM. V. Magdalena on 7th Jan 2002. Dr. Harsh K. Gupta, Secretary, \nDepartment of Ocean Development (DOD), Government of India; Dr. P. \nC. Pandey, Centre Director, National Centre for Antarctic and Ocean \nResearch (NCAOR) and Sri T.V.P. Bhaskar Rao, Director Logistics, \nNCAOR addressed team members on board ship on 8th January 2002 and \nteam was given sendoff by them. Sri Hiranand Purkait, Deputy Secretary, \nDOD, Government of India, Dr. N. Khare, Programme Manager (Science), \nNCAOR and members of Indian High Commission Office were also \npresent at the port on this occasion. Dr. S. L. Jain and Maj. R .K. Sharma \n4 R.P. Lai \nwere appointed as Deputy Leaders with due permission from Secretary \nDOD. Ship sailed at 1746 Hrs UTC on 8th Jan 02 and crossed 40° S on \n10th January 02 at 0450 UTC \nDifferent committees were made to manage the distribution of polar \nclothing, Mess, Cargo Handling, and Academic activities. Polar clothing \nwas distributed to team members and scientific presentations from \nmembers started on 11th Jan 02. Scientific observations by IMD, ZSI and \nGSI started form 9th Jan 02. Sailing was very smooth and first Iceberg \nwas sighted at 47° 53' S 16° 21' E on 11th Jan 02. We crossed 60° S on \n14th and Antarctic Circle on 15th Jan 02. Ship reached Polynya and fast \nice 8 NM off India Bay on 16th Jan at 1500 Hrs UTC without much \ndifficulty. This was shortest time taken by any Antarctic Expedition \nlaunched from Cape Town, South Africa. \nHelicopters were taken out from hold on 17th Jan and first courtesy \nflight to Maitri landed at Maitri main helipad at 1520 UTC. Weather \ndeteriorated after two hours and next flight from ship could took off only \non 22nd Jan. Expedition Leader and Dr. P.C.Pandey went to NOVO on \nfoot for courtesy visit on 20th Jan 02 and was taken to different station \nfacility for visit. Dr. S L. Jain was appointed Camp Commander with Dr. \nA. V. K. Keshav Prasad as Deputy Camp Commander. On 22nd Jan 22 \nsorties were flown and 27 persons and their personal & scientific baggage, \nwere shifted to Summer Camp at Maitri. Weather again deteriorated and \nnext flying could be resumed only on 29th Jan. \nScientific and logistic activities continued at Summer Camp and ship \nduring this period. SODAR & Bio-meter were installed at ship and \nINMARSAT-M terminal, CODAN HF set and Gas Chromatograph were \ninstalled and inaugurated by Dr. P. C. Pandey, Centre Director, NCAOR \nat Maitri. No flying was possible on 26th Jan the Republic Day; it was \ncelebrated at Ship and Maitri simultaneously. On 29th Jan 8 sorties were \nflown and 11 persons and their personal & scientific baggage, were shifted \nto Summer Camp at Maitri. Windmill generator was installed for charging \nof repeater batteries. All summer demand items were shifted to Maitri and \nhanded over to old wintering team. Dr. Pandey shifted to ship on same \nday and ship was moved for his visit to South African Antarctic Station, \nSANAE-IV. \nWe reached SANAE-IV base on 01 Feb 02 at 1600 UTC and were \nwelcomed by Station Commander Mr. S. Oosthuizen and outgoing leader \nDr. Foruck Parker. Dr Pandey were taken to all station facilities and \nexplained scientific and logistics aspects of all South African National \nAntarctic Programme (SANAP). After shifting Dr. P. C. Pandey to Sou",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "XXI Indian Antarctic Expeditin- An Overview",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:29.625927Z"
+  }
+}

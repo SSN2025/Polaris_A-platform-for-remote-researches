@@ -1,0 +1,72 @@
+{
+  "id": "article_7",
+  "document_id": "NCPOR-A8CB24",
+  "source_file": "ARTICLE+7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/547/3/ARTICLE+7.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+7",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eighteenth Indian Expedition to Antarctica. Scientific Report, 2002 \nDepartment of Ocean Development. Technical Publication No. 16. pp 135-152 \n135\nSeismological Station at Maitri, Antarctica\nIndra Mohan 1, L. Prem Kishore 1.I. Prasad Raju 1 and Saurabh Baruah 3 \n1 National Geophysical Research Institute, Hyderabad- 500007\n2 Regional Research Laboratory, Jorhat 7850 06\nABSTRACT\nA new seismological station (code named MAIT) equipped with matched 3-\ncomponent short period digital and a vertical short period analog seismographs has\nbeen commissioned at Maitri, the Indian Antarctica base station. The station became\noperational from 26\nth\n Jan. 1998. A noise survey for selecting a suitable site and feasibil-\nity study with the aim of operation of Broad-band seismographs at the station subse-\nquently was carried out during the Antarctica summer, in Jan-Feb, 1997. While the\nnormal background noise due to artificial and natural sources was found to be very low,\na very high level of noise was observed due to heavy winds during the blizzards which\nrage the icy continent very often. A thermally insulated vault has been specifically\ndesigned and buried underground as the Broad-Band seismographs are very sensitive\nto the temperature and pressure variations. The vault has been further provided with\nan electronically controlled device which maintains inside temperature at 15° +/- 0.5°\nCelcius. The digitization is done @ 50 samples per second and recording is done in\ncontinuous mode on 24 bit digitizer. An internal G P S with the data acquisition system\nprovides accurate time. The station continued to operate uninterruptedly since Dec.\n] 998. The digital and analog data was analyzed daily and the phase data was e-mailed\nto NORJ Hyderabad weekly. The complete digital data was archived on DAT tapes. In\nthis report the details of instrument , their calibration, and details of specially designed\nseismometer vault have been described. The station has been in continuous operation.\nINTRODUCTION:\nWith the objective of installation of a permanent state-of-the-art digital Broad-\nband seismological station at Maitri, the Indian Antarctica base station, a reconnais-\nsance for site selection and a feasibility study was carried out during the XVI Indian\nScientific Expedition to Antarctica in Jan-Feb, 1997. The aim of the station is to monitor\nearthquakes in and around Antarctic continent, the region with very low level of seis-\nmic activity, if any, and mainly monitoring of global distant teleseismic earthquakes.\nThis station would be specifically useful in the locations of hypocentres in the Indian\nOcean, south of Asia and South America and southern and central Africa.\n136\nIndra Mohan et al. \nPresently only a three component short period digital Seismic system has been\ncommissioned along with a short period vertical analog seismograph. The station was\nformally inaugurated by Mr. Alexander Kandratiey. the leader of 42\nnd\n Russian Antarc-\ntica Expedition to NOVO  base station, on 26\nth\n January 1998, on the occasion of the\nIndia's Republic Day celebrations at the Maitri station.\nThe station coordinates are : \nLatitude: 70°45.94'South Longitude 11\n0\n 44.13'East\nElevation: 115 meters Station Code: MAIT\nThe location of the seismological station in the MAITRI complex is\nshown in Fig. 1.\nSEISMIC STATUS\nThe Antarctic continent is seismically very quiet. Its surroundings are also less\nactive except in portions near New Zealand in east, which is far away from the present\nstation. No large earthquakes are known to have occurred in the Antarcrctic region\nduring the last 100 years or so, which the seismographs under operation worldwide\nwould have detected. No information was available about the low and medium level\nearthquakes due to the absence of any habitation and very few seismological stations\nin the southern hemispere. The operation of a seismological stations in Antarctica are\nvery useful as they provide valuable control on global hypocentral determinations for\nthe earthquakes in higher latitudes in the southern hemisphere. The exposed bedrock\nin the Antarctic continent amounts to less that 2% of its surface area along the margins\nof the continent. This puts restriction on the location of the seismic stations in\nAntarctica as operation of stations in the ice-covered areas is difficult during the winter\nmonths. Even most of the base stations of various countries are located along the\nexposed lands. However USA is maintaining SPA station at the South Pole with an ice\ncover of about 2,900 meters.\nA temporary station was operated in Antarctica as early as 19θ2-1903 at Scott-\nBase. Later on, various countries between 1940-52 operated some more stations inter-\nmittently. During the International Geophysical Year (1957), four stations were operated\nat MIR, SBA, WILKES and ADELIE (Richter, 1958). Two World Wide Seismological\nStations Network (WWSSN) stations of U S A are in operation since 1963-64 at SBA\nand SPA. Subsequently, many countries have in",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 18
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Seismological station at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:03.064391Z"
+  }
+}

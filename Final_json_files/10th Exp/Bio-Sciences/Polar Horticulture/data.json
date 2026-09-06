@@ -1,0 +1,72 @@
+{
+  "id": "article_15",
+  "document_id": "NCPOR-AF8137",
+  "source_file": "ARTICLE+15.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/391/3/ARTICLE+15.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+15",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 231-249 \nPolar Horticulture Report of Tenth Antarctic Expedition\nR. P. JOSHI\nDefence Agricultural Research Laboratory, Defence Research & Development Organization,\nHaIdwani-263 139\nIntroduction\nAntarctica lacks higher forms of plants except few species of grasses. However,\nlower plant species like algae, mosses and lichens exist, maintain their survival\nduring winter and grow very slowly in summer when snow melts in lakes and\nstream begin to flow, In such a place where there is a harsh combination of rapidly\nchanging temperature, strong dry winds, irregular nutrient and water supply, fre-\nquent snow drifts and blizzards, the only way of growing plants is through protected\ncultivation.\nDARL suggested a plan for establishing a green house for cultivation of vegeta-\nbles at Maitri, in the Schirmacher Oasis (Queen Maud Land-East Antarctica). In a \nproperly oriented green house, as at Maitri, auxiliary heating is not required during\nsummer months except during high speed winds and blizzards. During Ninth\nAntarctic Expedition some vegetables like tomato, coriander and few flowers were\ngrown in greenhouse. The environmental control systems were non functional. The\ntemperature was being maintained manually to some extent.\nTaking into consideration the space available for cultivation, it was decided to do\nexperiments in hydroponics and peat moss. Instead of pots, wooden and cardboard\nboxes with inner polythene lining were used for proper utilization of the available\nspace. Due to the limitation in green house size, all the aspects projected for\nwintering period could not be undertaken. However, the important ones viz.,\nestablishment of hydroponic system for growing vegetables in greenhouse and\nperformance of different vegetables during polar night and day at Maitri were\nattended to. Vegetable crops grown during the polar night and days were mainly\ntomato, cucumber, chilli, capsicum, brinjal, beans and leafy vegetables like corian-\nder, methi,  spinach, lettuce, celery, radish etc. Some of these crops were in\nhydroponics and peat moss but the leafy vegetables were mainly tried in peat moss.\nTo have regular production of vegetables at Maitri, seeds of respective vegeta-\nbles were sown as and when the space was available. During the summer season of\n1990-91 the sowing of different vegetable seeds was done on priority basis. Data\n232\nR.P. Joshi \nregarding their germination and growth etc. was taken. The hydroponic system was\ndesigned and fabricated and made functional on 8th Feb. 1991. Tomato was the\nmain crop in hydroponics; other crops were grown in peat moss. Successful\nproduction of tomato, cucumber, chilli, lettuce, coriander, methi, spinach, apart\nfrom flowers etc., was an achievement during the expedition.\nMaterials and Methods\nEstablishment of Hydroponic System \nThe artificial culture for growing plants in some medium other than soil has\nplayed a vital role in the advancement of knowledge about plants and their require-\nment (Bridwell, 1974; Douglas, 1976; Resh, 1981 etc). Higher yields of various\ncrops have been reported. Hydroponics basically is the method of growing plants in\nwater with certain essential macro nutrients i.e., calcium, phosphorus, potassium,\nmagnesium, sulphur, nitrogen and micronutrients like zinc, copper, boron, molyb-\ndenum, manganese and iron. These are solely responsible for plant growth and\ndevelopment.\nStructurally many systems exist for hydroponic cultivation but one developed at\nMaitri was a modified closed type of nutrient film technique. A 490 cm long, 60 cm\nwide and 8 cm high frame was made using 2.5 cm thick wooden planks. It was fixed\non a raised long platform towards the east side of the green house. It was lined\ninternally by thick double sheet of polythene. One opening at 5 cm and another at 2 \ncm were made and flexible conduit pipes were attached. The former was for\nincoming nutrient supply and latter for drainage. One plastic tank of 150 litre\ncapacity was placed below the level of the trench. Small pump was installed with , \nits suction fixed at the bottom of the reservoir and its delivery to the inlet of\ncultivation trench. The drainage pipe of cultivation trench was kept above the\nreservoir, making it a closed system. The slope of the cultivation trough was\nadjusted in such a way that there was no stagnation of solution. It also helped in\nuniform flow of nutrient solution and aeration to the roots of growing plants.\nThe importance of aeration of the rooting media for growth of plant has long been\nrecognized and has been the subject of a considerable amount of research (Grable,\n1966). It is difficult to separate the effect of aeration, supply of water and nutrients\nand mechanical resistance in soil. In nutrient solution, the situation is simpler as the\nsupply of water to roots is never limiting and the mechanical resistance of the media\nto root ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 19
+  },
+  "taxonomy": {
+    "category": "4]Bio-Sciences",
+    "subcategory": "Polar Horticulture Report of Tenth Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:03.532095Z"
+  }
+}

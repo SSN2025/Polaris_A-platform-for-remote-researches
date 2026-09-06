@@ -1,0 +1,72 @@
+{
+  "id": "chapter_10",
+  "document_id": "NCPOR-D69FC2",
+  "source_file": "Chapter+10.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1136/1/Chapter+10.pdf",
+  "bibliographic": {
+    "title": "Chapter+10",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "ABSTRACT\nBeing the national mapping agency of India, Survey of India has the mandate to\nprovide the map on Antarctica region. Since 10 th Expedition to Antarctica (1991-92),\nSurvey of India has been taking part   actively in scientific activity/map mapping of unique\nterrain.\nDuring the first few expeditions the horizontal and vertical control was provided to\nestablish the datum for future mapping needs. In the successive expeditions, mapping on\nscale 1:5,000 with contour interval  5m  and  scale 1:1,000 with contour interval 1 m has\nbeen taken up.\nINTRODUCTION\nFrom 23rd expedition (2003-04), Survey of India has also started stud-\nies of Inter Plate Movement between Indian and Antarctic plates. Neo-\ntectonic studies and glacier movement studies in the Antarctica region were\nalso started. For plate movement studies 7 days campaign mode GPS ob-\nservation is carried out at Maitri during each expedition.  For neo-tectonic\nstudies so far 28 stations have been established and campaign mode obser-\nvations will be carried out during future expeditions.\nSince 26 th Expedition, Survey of India has started survey work in\nLarsemann Hills. The map of area around new station site at Larsemann\nHills on scale 1 :2,500 with contour interval 5 m has already been published.\nAs per the requirements, mapping of the station site on 1:1,000 scales with\ncontour interval 1 m was completed during 27th expedition.\nIn addition to the mapping, Survey of India has also provided survey-\ning related technical assistance to other organizations.\nSurvey of India will continue to participate in the expeditions and will\ncontribute to the research in terms of surveying, mapping and better under-\nstanding of the region.\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 273-278\nLarge Scale Mapping of Schirmarcher Oasis and\nLarsemann Hills\nK V Ramana Murthy, Maheshwar Singh, Manjeet Singh and Vimal Kishor\nSurvey of India, Dehradun\n274                                        K V Ramana Murthy, et al.\nObjectives\n Establishment of horizontal and vertical reference frame for detail\nmapping and scientific activities.\n Large scale mapping of the Schirmarcher Oasis on scale 1:5,000\nwith contour interval of 5 meters\n Establishment of relative gravity network of 1 km. mesh at\nSchirmarcher Oasis, connecting all GPS stations.\n Preparation of different gravity anomaly maps of the Schirmarcher\nOasis region in Antarctica on 1:5,000 scale with contour interval of 1mgal.\n To monitor the plate movement of the continent with respect to\nIndian plate.\n Studies for neo-tectonic activities of the Antarctica region.\n Large scale mapping of Larsemann Hills on scale 1:5,000 with\ncontour interval of 5 meters\nObjective of SOI in Antarctica for the Year 2008-09:\na) At Larsemann Hills, Bharati Island, Antarctica:\nThe project of Survey of India in Larsemann Hills, Antarctica is to\ncarry out 7-days GPS observation campaign at Survey of India Reference\nPoint near Apple hut for studying the inter plate movement between Indian\nand Antarctic plates.\nTo carry out Large Scale mapping on 1:5,000 scale of survey with 5\nmetre Contour Interval for an area bounded between\n Latitudes 69° 25' 00\" S and 69° 25' 30\" S and Longitudes 76° 11'\nOO\"E and 76° 14' 30\"E.\n Latitudes 69° 24' 45\" S and 69° 25' 00\" S and Longitudes 76° 13'\n30\"E and 76o 14' 30\" E.\nb) At Schirmarcher Oasis, Maitri, Antarctica\ni. The project of Survey of India in Schirmarcher Oasis, Maitri, Ant-\narctica is to carry out 7-days GPS observation campaign at Survey of lndia\nReference Point  south of  Priyadarshani  Lake for studying the inter plate\nmovement between Indian and Antarctic plates.\nii. To carry out Large Scale mapping on 1:5,000 scale of survey with\n5 meter Contour Interval for an area  bounded  between  Latitudes  70°  44'\n30 \"S  and 70° 45'00\"S and Longitudes 11° 40' 30\" E and  11° 43' 00 \"E.\n 275  Large Scale Mapping of Schirmarcher Oasis....\nData Collection I Instruments used\nFor 7-days GPS observation campaign at Larsemann hills and\nSchirmarcher Oasis for studying the inter plate movement between Indian\nand Antarctic plates Trimble GPS-5700 dual frequency Geodetic  receiver\nwas used in static mode with 30 second epoch interval.\nThe raw data was downloaded in laptop from GPS receiver immedi-\nately after completion of each day GPS observations. The raw data was\nconverted into Rinex format for further processing and archiving in G .&R.B.,\nDebra Dun.\nFor Large scale mapping on 1:5,000 scale with 5 metre contour inter-\nval at Larsemann hills and Schirmacher Oasis GPS path finder was used\ncombined with conventional method of Plane Tabling. Details capturing\nand contouring is done in the field itself.\nWork done at Larsemann Hills\nThe allotted task of 7-days GPS observation campaign at Survey of\nIndia reference Point near Apple hut in Larsemann hills was completed\nsuccessfully for studying the inter plate movement between Indian and\nAntarctic plates .\nThe ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology and Climate Change",
+    "subcategory": "Large Scale Mapping of Schirmarcher Oasis and Larsemann Hills",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:21:10.609939Z"
+  }
+}

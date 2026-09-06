@@ -1,0 +1,72 @@
+{
+  "id": "chapter_11",
+  "document_id": "NCPOR-1DE792",
+  "source_file": "Chapter+11.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1137/1/Chapter+11.pdf",
+  "bibliographic": {
+    "title": "Chapter+11",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 279-286\nHydrodynamics of the Indian Ocean sector of\ncoastal Antarctica\nAlvarinho J. Luis and Vinit Lotlikar\nESSO-National Centre for Antarctic and Ocean Research, Ministry of Earth\nSciences, Govt. of India, Headland Sada, Goa 403804, India\nABSTRACT\nThe report addresses preliminary results from the temperature  and  salinity profiles \nrecorded by using XCTD probes deployed  along the  ship track from  Prydz bay (68.69°S, \n75.29°E) to India bay (69.26°S,  12.94°E)  during the 28 th Indian Scientific Expedition to \nAntarctica. The data was collected during 11th - 17th February, 2009,onboard M. V. Emerald \nSea. In the Prydz bay region, cold Antarctic Surface Water sinks to deeper depth near 70°E. \nThis region is dominated by closed cyclonic gyre adjacent to the Amery Ice Shelf. Being a \nclosed circulation, there is inflow of cold water from the east near  the West Ice Shelf and \noutflow near Cape Darnley  and due to its confined nature waters tend  to be more salty  in \nthis region. In the India Bay region, high salinity is encountered with salinity range of 34.5 \nand above  in  regions  where  Circumpolar  Deep  Water is present.  Isohaline  at  this  site \nsuggest upwelling  of  warm  waters  towards  the  subsurface. At  the  surface  some  regions \nshow less saline water,  with  salinity ranging  from  33  to  33.5,  due  to presence  of fresh \nwater from  melting  of  ice.The  T-S diagram  shows  the  presence  of  Circumpolar  Deep \nWater, Antarctic Bottom  Water, Antarctic  Surface  Water, Continental  Shelf  Water and \nsignatures of Winter Water.At 70°E an eastward transport of 2.5Sv is associated with high \ngeostrophic velocity of ~15cms-1 at surface, while at 50°E southward transport of 1.2Sv is \nassociated with  a poleward  velocity of  2.5  cms -1.Comperatively high  values of  heat  and \nsalt content are observed at at 60°E, 40°E and 20°E, which could be attributed to warm and \nsaline Circumpolar Deep water.\nKeywords: XCTD data, thermohaline structure, heat content, geostrophic currents\nINTRODUCTION\nThe coastal Antarctic circulation has been poorly understood and docu-\nmented because of lack of hydrographic data, which is due to requirement\nof expensive logistics (research vessel and operating costs) and inclement\nweather. Very few historical (bottle and CT D casts ) ship transect s with\nhigh spatia l resolutio n hydrographi c dat a ar e availabl e i n ga ps i n this\nsector.The most important feature of this sector is the Antarctic Coastal\nCurrent which is the southernmost current of the southern Ocean. It flows\nwestward parallel to the Antarctic coastline. The current is a n important\ncomponent of th e very active air-sea exchange in this are a tha t leads to\n280  Alvarinho J. Luis, et al.\ndeep convection and production of deep ocean water masses. The Antarc-\ntic Bottom Water and Antarctic Intermediate Water obtain their fundamen-\ntal characteristics (Tchernia and Jeannin, 1980) in this region. A large hori-\nzontal pressure gradient in the frontal zone over the continental slope inten-\nsifies the wind-driven flow and produces the high velocity core of the Ant-\narctic Coastal Current.\nFahrbach et al. (1994) reported that freshening of the upper one kilo-\nmeter of near-surface coastal/ocean waters increases the sea surface height \nnear the coast thereby, leading to the onshore pressure  gradient. The re-\nsulting geostrophic flow is in the same direction as the wind-driven flow \nand this leads to the intensified Antarctic Coastal  Current.  Tchernia and \nJeannin (1980) found that in the areas of the current closest to shore, it \nexhibited small loops of 4 to 6 km diameter that lasted 4 to 8 days. \nThe loops became larger, more frequent, and of longer duration. They \nhypoth-esized that the southernmost areas of the current are steered on the \nleft by the continental margin, providing stability. When the current flows \nfarther offshore at greater depths and turns to the east on account of the \nCoriolis force. This causes the circulation to become more unstable, \nleading to large  amplitude meanders of the Antarctic Coastal Current \nwhich pinch off ed-dies which eventually drifts offshore and enters the \ncyclonic circulation.  The modern approach to understanding the \ncomplex role of convective  mixing, deepening of the mixed layer \nthrough action of polar easterlies, and transport of the water \ncharacteristics by eddies and Antarctic Coastal Cur-rent is through a \ncombination of field measurements like the one proposed here, long-term \nmicrowave measurements from space and numerical mod-eling.\nOBJECTIVES\nRepeated hydrographic observations are required to compare and \nquantify changes in the hydrodynamics over a period of many years; \nhow-ever, such observations are impractical because of the high costs \nof char-tering research vessel. To overcome this problem, we have \ninitiated a project  to rec",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology and Climate Change",
+    "subcategory": "Hydrodynamics of the Indian Ocean sector of coastal Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:21:06.022414Z"
+  }
+}

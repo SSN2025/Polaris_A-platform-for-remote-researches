@@ -1,0 +1,72 @@
+{
+  "id": "pages_11_20",
+  "document_id": "NCPOR-92776F",
+  "source_file": "pages+11-20.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/908/1/pages+11-20.pdf",
+  "bibliographic": {
+    "title": "pages+11-20",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic Expedition\nMinistry o f Earth Sciences, Technical Report No. 21, pp 11-20\nTechnical Report of 23r d  Indian Scientific \nExpedition to Antartica— An overview\nSrinivasan Jayaram\nExpedition Leader and Station Commander\nThe Technical Report of 23r d  Indian Scientific Expedition \nto Antarctica (IASE) for the year 2003 -  2004 is poised at a poignant juncture \nof Indian Scientific Expeditions to Antarctica. As Expedition Leader and \nStation Commander of 23r d  IASE, it is indeed a good fortune to witness a \nparadigm shift from a change at the helm and a complete reorientation of \nthe scientific programmes resulting in a major quality jump and value addition. \nAs this report is being prepared and submitted, it is appropriate to highlight \nthese changes and value additions put in place by the National Center for \nAntarctic Research and Ocean Studies -  NCAOR -  the mother of / umbrella \nof all scientific programmes in Antarctica -  and now, the Arctic too.\nNCAOR is currently going through some overhauls in its decade long/ \n10-year long existence, to adopt to the new requirements of Polar science \nThis also coincides with the coming into existence the Ministry of Earth \nSciences, Government of India. This also heralds the significant scientific \nfeat of leaping, as it were, from the Antarctic to the Arctic. A great deal of \nreorganization has already taken place in the last three years / two years \nacross scientific programs, state-of-art Laboratory facilities and a strategic \nnew Logistics Programme to meet new requirements and challenges. The \nemphasis on collaboration with young scientists / research workers for \nadvancing the frontiers of Polar Science is only one of the several such \nparadigm changes taking place at this point of time.\nClimate change and key related issues of B iodiversity and \nsustainability are by far the biggest issues the world is facing today. \nThere is an unprecedented surge of international awareness about climate\n\n12 Srinivasan Jayaram\nchange, energy, oil, food production, biodiversity and degradation of natural \nresources. NCAOR has clearly focused on these burning issues as there is \na new urgency and stakes have become higher.\nREPORT OF XXIII INDIAN ANTARCTIC EXPEDITION\nThe present report is a collection of scientific papers that have emerged \nfrom the scientific programs carried out during the austral summer of year \n2004 (January to March) followed by the polar winter of 2004 (April to \nDecember). In essence, the report pertains to work in continuation of the \non-going programmes of the previous year, with some new additional \nprogrammes.\nThe scientific papers have been grouped under (a) Meteorology \nand Atmospheric Sciences; (b) Earth Sciences, Glaciology & Global \nChange; (c) Biology and Environmental Sciences; (d) Engineering and \nCommunication; (e) Human Physiology and Medicine; and (f) Logistics \nSupport. The multi-disciplinary nature of scientific programmes with their \ncore participating organizations and supporting institutions are shown in \nthe following table.\n(a) Earth Sciences, Glaciology & Global \nChange\nNGRI, GSI, SOI, NHO\n(b) Meteorology and Atmospheric Sciences IMD, NPL, IIG\n(c) Biology and Environmental Sciences BSI, NCAOR\n(d) Engineering and Communication DEAL, EIL, SERC\n(e) Human Physiology and Medicine DIPAS, CCRAS\n(f) Logistics Support Indian Army (EME, ES.3); MI \nRoom\nSIGNIFICANT HIGHLIGHTS\nWithout falling into the trap of “first time” metaphor, there have been \nsome new programmes with a freshness of approach and a historic visit by \nthe Hon’ble Minister of Science and Technology to Antarctica.\n(a) Earth Sciences, Glaciology & Global Change\nThe first ever reference gravity station at Indian Antarctic base in \nMaitri, was successfully established by National Geophysical Research\n\nTechnical Report of 23r d  ISEA 13\nInstitute (NGRI) Precise Absolute Gravity measurements for deformation \nstudies were obtained. The most crucial requirement of maintaining a \ntemperature within the range of 158 to 258 Celsius was achieved by \ninstalling auto-cut-off heater during Absolute Gravity measurements. We \nhave also connected earlier gravity observations with AGM reference point \nand reoccupied five GPS stations of Survey of India by digital relative \nGravimeter. Continuous magnetic observations were also made for 20 days \nand a magnetic traverse across litho units in Schirmacher area carried out.\nA second team of NGRI earned out the on-going programme of work \npertaining to: (i) Daily operation of the Seismological Observatory, (ii) \nDaily operation of the GPS Tracking Station at MAITRI, (iii) Storage, \nPreliminary Analysis of Data periodically, and (iv) Backup of the Digital \nSeismic Data and GPS Data in addition to regular checking of the Systems, \nUPS, Batteries and Power supplies, etc.\nThe National Hydrographic Office (NHO) collected bathymetric and \nphysical oceanographic data (sound velocity, sea temperature profile and \nwater conductiv",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "Technical Report of 23rd Indian Scientific Expedition to Antarctica- An Overview",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:53.851252Z"
+  }
+}

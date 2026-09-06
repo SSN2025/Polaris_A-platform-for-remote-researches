@@ -1,0 +1,72 @@
+{
+  "id": "article_20",
+  "document_id": "NCPOR-477170",
+  "source_file": "ARTICLE+20.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/184/3/ARTICLE+20.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+20",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Parameterization of the Marine Boundary Layer for Use in Circulation\nModellings and Duct Propagation in the Indian Ocean\nINTRODUCTION\nThe boundary layer in the first metres above the sea surface is of crucial importance in the air-\nsea transfer of momentum and for the exchange of heat and water vapour between ocean and\natmosphere. It is here that the basic  processes occur which ultimately influence the general\ncirculation. Under certain conditions, this interfacial layer may lead to so-called an 'evaporation duct'\nchannel for over-the-horizon microwave propagation.\nThis report presents maritime meteorological observations in the boundary layer, made in a \ncruise to the Antarctica, and their parameterization in the form of latitudinal profiles. The resulting\nmodelled profiles of temperature and humidity arc compared with the ones adopted in certain\ncirculation models.\nWork is in progress to calculate (i) thickness of evaporation duct over sea and (ii) turbulence\nstructure parameter along the path of the cruise.\nOBSERVATIONS\nThe meteorological observations of temperature (at 2 m and 13 m), humidity and wind speed\n(both at 13 m) and atmospheric pressure were made by the author during the cruise of the Second\nIndian Scientific Expedition to the Antarctica in 1982-83. The observations were made abroad the\nship-of-opportunity, Polar Circle. The observations span the latitudinal range of 15˚N to 70˚S.\nRESULTS\nThe latitudinal distributions of temperature, humidity and pressure were obtained both for the\nupleg and downleg journeys in December, 1982 and March, 1983 respectively (Fig. 1, 2, 3). The\nmean profiles may rightly describe the northern winter conditions.\n131\nABSTRACT\nI In >it»iiiHKnvl.tviiuulH-lHsiU'ttHU-tir» 1iltlivt'ihi-M',isiiiljii-isiil(iiiiialimp(tiun(.umtht' 1ur-\ns i M iMitslu id uiMiiirimint and lui the tAt luiii'i- ul heai ,uul w.ttei v.tpmti between wean ,itul atinos-\npheie Itislirreiltatsheb,isn pun essi s <n uti uhuliulliiu.iudv mllueiue (he f.eneial uuulatmn Most\nul tin* w i n ci I iifiuUmn models |(i( Ms) dillei m then |uiameieti/ation si hemes in (he boundaiy\nl.iym litis paper ntt'siMiK nuiitinte imneuinluj'iwil (ibsciv.ilitms m the hnuruliiiy l.iyci, made in a \nmust* in \\iit.ihtn,tt,ihtiniil,istiip ul opputiiiuit\\)und then paiaineieiiAtiion in thelutniol ltttttuilin.il\nproltlcs ul the nir.tn tneteomlumial pautneieis lln ubseivations ul  telative liuitiuhty mc uimpaied\nwith lite published simulated model umiputatiun ul niuistuie with the ihico-diniensional CiC'M ul Cieo\npbvsital I bud IHn.uniis I abwatuiy U,H)|  )  »l  i'limetnn tlniveistty, II K A \nThe meteorological observations of temperature, humidity (both at 1 5 m and 13m),wind speed \nand diii'itiitn (at i \"» in) and atiiiospbetie pressure wete made by the autbui dining the second Indian\nSuentilu I xjuulititm lit the Aiitaulaa in 19«.> HI, using an automatic weather station.\nABSTRACT\nP.K. Pasricha\nNational Physical Laboratory, New Delhi 110 012 \nParameterization of the Marine Bouandary\n____________________________________________________________________________________________________\nFig. 1 Temperature and re lative humidity variation during upleg\n132\nRELATIVE HUMIDITY (%) \nTEMPERATURE (˚C)\nANTARCTICA 1982 83\nDOWN LEG TEMPERATURE AT 40 FEET\nRELATIVE HUMIDITY\nLATITUDE\nANTARCTICA 1 9 8 2 83\nUP LEG\nTEMPERATURE AT 40 FEET\nRELATIVE HUMIDITY\nTEMPERATURE(˚C)\nFig. 2 Temperature and rel ative humidity variation during downleg\nLATITUDE",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "5]Meteorolgy and Radio Physics",
+    "subcategory": "Parameterization of the marine boundary layer for use in circulation modellings and duct propagation in the Indian Ocean",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:23.591493Z"
+  }
+}

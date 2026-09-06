@@ -1,0 +1,72 @@
+{
+  "id": "article_29",
+  "document_id": "NCPOR-C0C018",
+  "source_file": "ARTICLE+29.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/473/3/ARTICLE+29.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+29",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 371-375 \nROLE STRESS PROFILES OF SCIENTISTS AND\nDEFENCE PERSONNEL IN FIFTEENTH\nANTARCTIC EXPEDITION\nD. Dutta Roy' and N.C. Deb2\nIndian Statistical Institute,\nPsychology Research Unit,\n2Electronics and Communication Science Unit\nAbstract\nRole stress mean differences across scientists and defence personnel were investigated.\nResults showed significant mean differences between groups on role expectation conflict.\nSome suggestions to reduce the role stress level are cited.\nIntroduction\nIn stress research on Antarctic expeditions, much attention was paid to\nassess the psychiatric disturbances (Bell and Garthwaite, 1987; De Monchaux\net al, 1979; Strange and Klein, 1973; Palami, 1963; Mullin, 1960), depression\n(Biersner and Hogan, 1984), personality traits (Dutta Roy, 1992), and state\nanxiety levels (Dutta Roy and Deb, 1995; 1996) of the expeditioners. Studies\nassumed environmental changes as important predictor of stress in Antarctica.\nLike physical environment, some psycho-social factors like loneliness and role\nstress might cause the psychiatric disturbances among the expeditioners. Pre-\nsent study attempts to describe role stress pattern among the expeditioners. No\nattention was paid to study the role stress pattern of expeditioners in earlier\nstudies.\nRole stress occurs when one perceives difficulty to integrate the different\nroles made upon him (Bentell and Greenhaus, 1983). Role stress was found to\nbe correlated with job related tension and alienation (Singh, Agarwala and\nMulhan, 1991). Pareek (1993), in the context of organisation, identified ten role\nstress variables as : \na) Inter role distance (IRD) : Conflict between the different roles one\noccupies.\n372 D. Dutta Roy & N. C.Deb \nb) Role stagnation (RS) : When new role demands that an individual\noutgrow the previous one and take charge of the new role effectively.\nc) Role expectation conflict (REC) : Conflicting expectations from the\nseniors, juniors and peers.\nd) Role erosion (RE): The functions which one would like to perform, are\nbeing performed by some other role.\ne) Role overload (RO) : When role occupant feels that there are to many\nexpectations from the significant others in his role set.\nf) Role isolation (RI): In role set, the role occupant may feel that certain\nroles are psychologically closer to him, while others are at a much\ngreater distance.\ng) Personal inadequacy (Pin) : When a role occupant feels that he is not\nprepared to undertake the role effectively.\nh) Self-role distance (SRD) : Conflict between the self concept and the\nexpectations from the role, as perceived by the role occupant.\ni) Role ambiguity (RA) : Conflict arises when the individual is not clear\nabout the various expectations that people have from his role.\nj) Resource inadequacy (RIn) :It arises when the resources required by\nthe role occupant for performing the role effectively are not available.\nRole stress differences \nIn Antarctic expedition, both scientists and defence personnel play some\nroles which are not in conformity with their occupation. For example, scientists\nassume scientist's role (collection, analysis and interpretation of data) and non-\nscientist's role (maintenance of life saving system as generator, boiler plant,\nvehicle maintenance, sweeping, cooking, firing the toilets). Defence personnel\nenact sometimes non-defensive roles like assisting scientists for collection of\ndata. This observation suggests that both groups would perceive some difficulty\nin integrating different roles assigned to them. It was assumed that role stress\npattern of both scientists and defence personnel would be different due to\ndifferent socialising processes. On the basis of above discussion, focus of the\npresent research was to investigate the significant difference in role stress levels\nbetween scientists and non-scientists.\nRole Stress Profiles of Scientists and Defence Personnel  373\nMethods\nSample\nData were collected from 10 scientists and 9 defence personnel during their\nstay in Antarctica. Scientists were elder (Mean age = 40.50, SD = 7.59) than\nnon scientists (Mean age = 35.67, SD = 5.10). In Antarctica, scientists and\ndefence personnel enacted different roles. On Sunday, scientist in pairs, on duty,\nprepared breakfast, lunch and dinner for all. They swept the common rooms\nand fired the toilets regularly. Defence people provided transport support to the\nscientists and sometimes assisted scientists in collection of data.\nInstruments\nRole stress was assessed through Pareek's role stress scale (Pareek, 1993).\nThe scale includes 50 items measuring above discussed ten variables. Re-\nsponses are, \"rarely feel this way (score = 0), occasionally feel this way\n(score = l), sometimes feel this way (score = 2), frequently feel this way (score-\n3), always feel this way (score = 4)\". For analysis of the data more meaningfully,\nscore 2 was conceived as t",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "5]Human Physiology And Psychology",
+    "subcategory": "Role Stress Profiles of Scientists and Defence Personnel in Fifteenth Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:02.930164Z"
+  }
+}

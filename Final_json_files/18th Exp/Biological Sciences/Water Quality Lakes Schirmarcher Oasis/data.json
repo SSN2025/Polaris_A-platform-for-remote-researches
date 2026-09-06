@@ -1,0 +1,72 @@
+{
+  "id": "article_13",
+  "document_id": "NCPOR-E02DB6",
+  "source_file": "ARTICLE+13.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/553/3/ARTICLE+13.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+13",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eighteenth Indian Expedition to Antarctica, Scientific Report, 2002 \nDepartment of Ocean Development. Technical Publication No.16. pp 273-292 \n273\nWater Quality: Lakes of Schirmacher Oasis,\nAntarctica\nPradeep Kumar*, Mohammed Reza Shokri* * and Indu Mehrotra*\n*Deptt. of Civil Engineering, University of Roorkee, Roorkee,\n* * Iranian National Centre for Oceanography, Tehran, Iran\nABSTRACT:\nThe Antarctic continental margins are remarkably known for the diverse group\nof takes, ponds, and even streams. These water bodies may chemically range from\ndistilled water of crystal clarity to salt-laden brines. Thirty-eight lakes out of a total of\naround hundred at Schirmacher Oasis, Antarctica were selected and surveyed during\nthe austral summer (Jan. - Feb. 1999). These included (a) twenty-two glacier-fed and\nglacier-fed intermountainous lakes, (b) twelve intermountainous lakes, and (c) four\ngrounding-line lakes.\nConductivity was found to be as low as 5.5 μS/cm in case of a glacier-fed lake\njust adjacent to continental ice and as high as 546.44 μS/cm in case of an inter-moun-\ntainous lake, a variation of about 100 times. pH ranged from 6-7.8, almost increasing\nwith increase in conductivity. However, in one of the intermountainous lakes, pH was\nrecorded to be as low as 4.8. Except one lake, turbidity was observed in the narrow\nrange of 0.50 N T U - 1.60 N T U . Three fourth of the lake waters had turbidity <t NTU.\nHowever, in one of the glacier-fed lakes it was observed to be as high as 5.6 \"NTU.\nSpatial variation in total ionic composition was quite noticeable. It varied from\n0.102 meq/L - 10,584 meq/L, a variation of about 100 times. Ca\n2\n+ was found to be the\ndominant cation and HCO,- the dominant anion in majority of the glacier-fed lakes while\nin case of most of the intermountainous and all the grounding-line lakes Na+ and Cl-\nwere the dominant cation and anion respectively. Waters of different Schirmacher lakes\nwere found of sixteen water types. Among them Na+ - C1, and Ca\n2+\n - HCO, types\ndominated. Considering the small area in which these lakes are situated, the variation in\nwater types was quite significant. In >50%  o f  t h e  lake waters analyzed (a) alkaline\nearths > alkaline metals, (b) strong acidic anions > weak acidic anions, and (c) non-\ncarbonate hardness > carbonate hardness.\nIt could be concluded that perhaps no two natural waters are of the same\ncharacteristics. Even at a remote place like Schirmacher Oasis of only about 20 km in\nlength and maximum width of only about 3.5 km, characteristics of unaltered, unpol-\nluted polar lakes vary widely.\nPradeep Kumar et al. \n274\n1. INTRODUCTION:\nThe fresh water lakes of Schumacher Oasis, Antarctica represent physical,\nchemical, and biological integration of particularly attractive ecological units for basic\nstudy. In spite of the hazardous climatic conditions, such isolated, unaltered, and un-\npolluted polar ecosystems have been investigated by many research workers. Some of\nthese lakes harbour important fauna and flora of Antarctic continent. Available infor-\nmation indicate that major emphasis has so far been placed on their faunistic (Matondkar\nand Gomes, 1983;Ingole and Parulekar, 1987;Ingoleetal., 1987; Verlencaretal., 1988;\n96), and floristic aspects (Komarker and Ruzickal, 1966; Verlencar et al., 1988; 96). Some\nwork has been done on water characteristics (Bardin and Leflat, 1965; Ghosh et al.,\n1997; Nair et al., 1998), nutrient status (Verlencar et al., 1988; 96), and presence of\nselective heavy metals (Ghosh et al., 1997; Nair et al.. 1998) in some selected lakes of the\nSchirmacher Oasis. During the present investigation, selected physical and chemical\ncharacteristics of water samples from thirty-eight lakes of Schirmacher Oasis were de-\ntermined.\n2. STUDY AREA:\nOf all the continents, Antarctica is the fairest. It is white and unspoiled, spa-\ncious and austere, and fashioned in the clean, antiseptic quarries of an ice age. Thus, it\nis unique among continents. More than 98% of its surfaces is composed of a single\nmineral i.e. ice. It is the coldest, windiest, driest, thickest, most isolated, least known and\nmost mysterious. It contains more than 70%  of the world's fresh water. The combination\nof ice, cold and aridity is a lethal mix for most forms of life and only a few organisms are\nable to survive in this freezing desert. However, there are little patches during the\nsummer, where temperatures rise above freezing and water flows over the rocks and\nsoil. These are known as oases in a vast icy desert.\nOne such oasis on the periphery of East Antarctica with a large number of clear\nand blue lakes of different shapes and sizes is known as Schirmacher Oasis. It is about\n70 km south of Prince Astrid Coast & forms a part of Dronning Maud Land. The\nphysico-geographical conditions of the oasis have been described in detail by Simonov\n(1971). The Schirmacher Oasis has a maximum width of 3.5 km, & a length of about 20km.\nIt is oriented approximately in east-we",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 20
+  },
+  "taxonomy": {
+    "category": "4]Biological Sciences",
+    "subcategory": "Water Quality_ Lakes of Schirmarcher Oasis, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:12.221340Z"
+  }
+}

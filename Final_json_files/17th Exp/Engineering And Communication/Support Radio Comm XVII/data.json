@@ -1,0 +1,72 @@
+{
+  "id": "article_22",
+  "document_id": "NCPOR-A5158E",
+  "source_file": "ARTICLE+22.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/533/3/ARTICLE+22.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+22",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica. Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication So. 15. PP 247-251 \nSUPPORT RADIO COMMUNICATION DURING\nXVII ANTARCTIC EXPEDITION\nP. Kundu\nDEAL, Dehradun\nAbstract\nDuring the summer of the XVII expedition, the author along his\nteam members successfully commissioned an INMARSAT A and a M \nterminal, installed e-mail and INTERNET facility, a VHF Repeater and\na HF Log Periodic Antenna at Maitri that were of great use.\nIntroduction\nThe XVII Indian Scientific Expedition to Antarctica, under\nthe leadership of Mr.K. R. Sivan sailed off from Goa on 8th Dec.\n1997. The expedition team was comprised of 50 members from\nvarious organisations. Defence Electronnics Applications Laboratory\n(DEAL), Dehradun was entrusted with the  responsibility of\nproviding total communication support to the entire expedition.\nThe Ship MV Polarbird, which was chartered for the\nexpedition reached the Antarctica coast on 2nd Jan. 1998. Helicopter\noperations were s tarted immediately to shift both men and equipment\nto the Indian Antarctic Base, MAITRI. The expedition leader\nprojected the requirement of maintaining regular communication\nbetween the ship and MAITRI: It was therefore decided that one\ncommunication person would man the r adio station on-board the\nship while two persons will shift to the MAITRI station.\nSubsequently on-board communication person was replaced by one of\nthe members of wintering over DEAL team. All the assigned\ncommunication tasks were carried out successfully and the summer\ncamp was formally closed on 25th Feb. 1998.\n248 P. Kundu \n1. Commissioning  of  INMARSAT-A terminal\nIndian Antarctic Base, MAITRI is connected with rest of the\nworld through telephone, fax and telex  via INMARSAT satellite.\nThis time one INMARSAT-A satellite terminal (Magnavox MX2400)\nhas been commissioned for e-mail and INTERNET connectivity. The\nterminal has been installed at GIRNAR hut (e-mail hut). One MTI\nINMARSAT-A terminal is already mounted there, which was\ndamaged during last wintering and could not be repaired due lack\nof spare parts. Instead of dismanting MTI antena dome, the new\nMagnavox antenna dome is mounted in front of the GIRNAR hut.\nConsidering the high wind speed and snow hazard aspects, one rigid\nmetallic platform has been made for the dome.\nThe Magnavox satellite terminal has been directed to  point\nIndian Ocean Region INMARSAT satellite (00873). The ID number\nof the terminal are given below : \nPrimary : 1641212\nSecondary : 1641213\n2. Commissioning of portable satellite terminal for field\ncamps and convoy\nSince beginning of Indian Antarctic Expedition one of the\nchallenging jobs is to provide a r eliable communication link to the\nremotely placed field camp. Due to lack of line of s ight (LOS) and\nlong distance, it is not possible to connect some field camps with\nmain station through VHF link. Again HF  communication link\ndepends on  geomagnetic conditions and solar cycles. Hence for\nsafety sake of the remotely placed camp, HF link can not be the\nonly communication medium. In XVII IAE, reliable satellite\ncommunication facilities have been introduced to the field camp and\nconvoy.\nThe OMNIPHONE protable satellite communication terminal\nfor INMARSAT-M has voice and data transmission facilities. With\nthis lightweight briefcase model of satellite ter minal the GSI camp\nat Humboldt, which is 120 km away from M AITRI was always\nconnected to not only main station but also rest of the world. This\nhas given moral boosting and security feelings to the is olated\nSupport Radio communication during XVII IAE  249 \nexpedition members.\nThe same terminal has been effectively used during convoy\nmovement also. Due to portability and various provisions for power\nsupply, this terminal is very much useful at camp site as well as\nconvoy. It can be used for emergency communication to get\nconnected Antarctica with rest of the world. The terminal can be set\nto lock with Indian Ocean Region (00873) or East Atlantic Ocean\nRegion (00871) satellite depending on the location of terminal. The\nfour ID numbers of the OMNIPHONE terminal are given below : \nTel -. 684040246 Fax : 684040247\nData : 684040248 PABX : 684040249\n3. Establishment of E-mail / INTERNET Connectivity\nIn the present infor mation era, Antarctica can not be\nisolated. Now Indian Antarctic base is up to date with all latest\ninformation through World Wide Web sites. MAITRI has got e-mail\nand INTERNET account through VSNL gateway. THE DEAL\ncommunication team in XVII IAE has es tablished e-mail and\nINTERNET connectivity at MAITRI on 15th Jan. 1998.\nWith INTERNET facilities, now any expedition member\nwho is isolated for year long can access to the latest information\nand data of scientific development in their respective fields from\nthrough out the world. Even member can exchange their views with\nexperts from any part of the world.\nThe e-mail facility has given a very efficient and cost\neffective communication link between MAITRI",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "5]Engineering And Communication",
+    "subcategory": "Support Radio Communication during XVII Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:33.056050Z"
+  }
+}

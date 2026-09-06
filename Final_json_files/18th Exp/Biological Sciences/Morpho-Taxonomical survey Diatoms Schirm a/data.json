@@ -1,0 +1,72 @@
+{
+  "id": "article_11",
+  "document_id": "NCPOR-8EBF6B",
+  "source_file": "ARTICLE+11.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/551/3/ARTICLE+11.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+11",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "213\nEighteenth Indian Expedition to Antarctica. scientific Report 2002 \nDepartment of Ocean Development. Technical Publication No. 16 pp 213-226 \nMORPHO-TAXONOMICAL SURVEY OF DIATOMS IN\nSCHIRMACHER OASIS, EAST ANTARCTICA\nR.K. GUPTA\nBotanical Survey of India\nNorthern Circle. Dehradun-248 195\nAbstract:\nThe present communication deals with the morpho-taxonomic and floristics studies of\n10 species of diatom belonging to families Achnanthaceae. Fragilariaceae,\nGomphonemaceae, Naviculaceae and Nitzschiaceaele of the class, Bacillariophyceae,\nwhich have been collected from various habitats of the Schirmacher Oasis, East Antarc-\ntica. The dominant algal flora was constituted by cyanobacteria. while members of\nBacillariophyceae were low in frequency represented in nature. The composition of the\nalgal species has heen compared among the three coordinates and the study reveals\nthat the Western. Schirmacher is comparatively more suitable site for algal habitats.\nIntroduction:\nThe life conditions in Antarctica are very harsh. Among the autotrophic organ-\nisms, mainly cryptogamic plants are represented in the polar rock deserts and their\nwater bodies. Of these, the algae, lichens and mosses are the most conspicuous ele-\nments thriving due to the limited availability of light, water and nutrients to extreme low\ntemperature conditions. Among the higher plants only two kinds of native vascular\nplants have been reported from; the subantarctic region.\nThe Schirmacher Oasis (70°46'04\"-70°44'21\"S; 11°49'54\"-1 l°26'03\"E)is a group\nof relatively ice free, low lying-hills, in the Eastern Dronning Maud land, East Antarc-\ntica is approximately 70 km south of Princes Astrid Coast. It has a maximum width of 2.7\nkm and a length of 17 km and is oriented in East-West direction. The elevation of Oasis\nranges between 0 to 228 m with an average of 100 m.\nThe division Bacillariophyta comprises a single class Bacillariophyceae, the\nmembers of which are popularly known as the diatoms. The diatoms are a well defined\ngroup characterized by the presence of silicified walls and a structure composed of two\nvalves, one overlapping the other.\nR.K.Gupta.\n214\nAlthough some contributions have been made on the systematic and distribu-\ntional data of Antarctic diatoms from various parts of the Antarctica, yet there are\nseveral areas and habitats which are still unexplored due to insufficient sampling or\nimperfect investigation. There is thus a need for thorough exploration and sampling of\nalgal species in this area.\nHirano (1965) provided the list of 2 3 6 algal taxa from the Antarctic continent,\nwhich includes taxonomy, ecology, life cycle and productivity of various groups of\nalgae. Pankow el al. (1991) estimated ca 700 taxa of non-marine algae from Antarctica.\nOf these 200 taxa occur in terrestrial habitats. These estimates are tentative as there are\nmajor gaps in our knowledge of diversity of Antarctic algae. A detailed study of diver-\nsity, distribution and dispersal of Antarctic terrestrial algae was given by Broady (1996).\nSome algologist also made contributions on diatoms from the various part of\nAntarctica. Ohtani (1986) reported Hantzschia amphioxys Navicula Muticopsis,\nNavicula sp. and Pinnularia borealis on the moss community, from Langhovde Yukidori\nvalley in the vicinity of Syowa station. Ohtani et al. (1991) detected 4 diatom species\nfrom the soil of the Yukidori valley and Langhovde using the contact slide method.\nAndreoli et al. (1992) studied the photoautotrophic picoplankton from some lakes lo-\ncated near the Italian Antarctic station of Terra Nova. Andreoli et al. (1993) studied\nphotoautotrophic picoplankton in the Antarctic Ross sea. Andreoli et al. (1995) inves-\ntigated the floristic composition and biomass of diatoms (58 species) and dinoflagellates\n(34 species) in Terra Nova Bay (Ross sea), Bolter (1996) analysed the soil microbial\ncommunities including autotrophs and heterotrophs from the King George island and\nArctowski station. Broady (1996) listed unicells diatoms of Achnanthes, Eunotia,\nHantzschia, Navicula and Pinnularia from the terrestrial habitat and also compared\nthe diatom genera from inland mountain ranges and coastal vestfold hills, continental\nAntarctica. Amilli et al. (1998) recorded 65 taxa of marine phytoplankton (diatoms,\ndinoflagellates, silicoflagellates and cyanoprokaryotes) in the transect from the cold\nregion of the Antarctic (Weddell Sea) up to Laplata Bay, Argentine in the late austral\nsummer. They found the diatoms to be the dominant group in a South-North transect\nfrom the Seal-Bay (Princess, Martha Land, Antarctic) and suggested that the\nphytoplankton species of the cold Antarctic region disappeared around 50°S where\nthere is a steep water temperature gradient. Broady and Weinstein (1998) found 2 spe-\ncies of lichens, 6 cyanobacteria, 1 diatom, lO chlorophytes and 2 mycelial fungi from La\nGorce mountains at an altitude of about 1750 m. Spaulding et al. (1999) undertrook\ntaxonomic and systematic studies a",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "4]Biological Sciences",
+    "subcategory": "Morpho-Taxonomical survey of Diatoms in Schirm archer Oasis, east Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:40.250310Z"
+  }
+}

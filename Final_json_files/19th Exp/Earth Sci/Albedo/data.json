@@ -1,0 +1,72 @@
+{
+  "id": "article_6",
+  "document_id": "NCPOR-CFE798",
+  "source_file": "ARTICLE+6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/569/3/ARTICLE+6.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+6",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 47-64 \nAlbedo Studies in Antarctica\nMahender Kumar\nSnow & Avalanche Study Establishment, Manali\nIntroduction\nIn polar region, where vast stretches of snow and ice are available,\ndifference in Albedo values of different surfaces and sea water results in\ndifferential heating and leads to local (katabatic winds) and global (upper\nwesterlies) atmospheric circulation. The atmospheric circulation model\nthus requires Albedo of snow/ice medium and its variation with different\nphysical parameters as an essential component. Estimation of different\nradiative energy flux e.g. short and long wave, latent and sensible heat\nenergy fluxes also require detailed understanding of Albedo of snow. This\nmakes the study of Albedo in different mediums imperative in Antarctica\nfor development of any atmospheric circulation model. Apart from the\natmospheric circulation modeling approach, Albedo also plays a significant\nrole in estimation of snow ablation rates. The estimation of mass balance\nof Antarctic ice sheet through remote sensing also requires a detailed\nunderstanding of ground Albedo measurements and its seasonal variation,\nwith various meteorological parameters for snow.\nThe Albedo, (i.e. ratio of reflected to the incident short wave solar\nradiation) of any surface, controls the amount of radiative energy being\nreflected backward thereby \nSnow is the brightest substance of considerable extent on the surface of\nour planet and because of its high Albedo compared to other natural surfaces,\nseasonal and perennial snow cover plays significant role in the global energy\nbalance. The connection between snow Albedo and climate has long been\nrecognized as an important feedback mechanism. The snow Albedo\nfeedback mechanism is looked upon as a positive feedback that occurs\nwhen warmer temperatures reduce the snow covered area, revealing a darker\nsubstrate and promoting increased radiative heating.\nTo the human eye, the vast Antarctic ice sheet gives the impression of\nhomogeneity. However, large seasonal fluctuations in surface climate at\nthese high latitudes create substantial changes in surface energy balance.\nMahender Kumar \n48\nAlthough snow/ice Albedo has been identified as a sensitive boundary\ncondition in general circulation models (GCMs), most of the current GCMs\nhave been using simplistic representation of Albedo that vary only as\nfunctions of latitude and ai r temperature. The more physically based\ntreatment of snow/ice Albedo takes into account changes in s n o w g rain\nsize and type, age of snow pack, liquid water content, solar zenith angle,\ncloud amount and type and light absorbing impurities in the snow. These\nparameters are coupled with each other and individual factor quantification\nhas not yet been achieved. The current study aims at bridging these  gaps\nas well as estimating the changes in surface energy balance in different\nsnow/ice media. Keeping this in view, attention was focused on studying\nthe variation in snow-met parameters,  radiative fluxes, short-wave\nreflectance (Albedo) and surface energy balance over a part of the Dronning\nMaud Land, East Antarctica. This report examine and compares physical\nprocesses and the factors controlling Albedo over the continental shelf\ncovered with thick layer of high density snow with that over the blue-ice\n(continental ice).\nAim of Albedo Studies in Antarctica\nThe Albedo studies were aimed at the following objectives:\n(a) To Albedo dependence of snow Albedo on the following param-\neters:\n(1) Cloud amount & cloud type\n(2) Snow surface wetness\n(3) Solar elevation angle\n(4) Age of snow.\n(b) Determinations of Albedo distribution over various parts of i c e shelf,\ncontinental ice & snow medium . \n(c) To determine the magnitude of energy exchange in different snow/\nice medium.\nTheory of Radiative Energy Exchange Between Snow/Ice Surface\nand Atmosphere\nConsider a snow/ice-covered surface. If there'is no horizontal transport\nof heat, conservation of energy requires that, at any point on the surface-at\nany instant.\nB = S + L + H + LE + Qg +Qp - dU/dt\nAlbedo Studies in Antarctica \n49\nWhere\nB = net flux into or out of the surface\nC = net short-wave energy absorbed by surface\nL = net long-wave energy radiated / absorbed by the surface\nH = sensible heat flux to the air\nLE = latent heat flux to the air\nQg = heat flux absorbed by the surface from ground through snow/\nground interface\nQp = heat energy added to the  surface due to precipitation in the\nform of rain\nDU/dt = change in the internal energy of the surface layer\nAll these terms are measured/calculated in W/m2 and positive for\nflux toward the surface, negative for fluxes away from the surface. For this\nstudy the last three terms are negligible components in daily energy balance\nof a surface when compared to the other terms. Therefore, neglecting those\nterms we get\nB = S + L + H + LE\nThe first two terms",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 18
+  },
+  "taxonomy": {
+    "category": "2]Earth Sciences",
+    "subcategory": "Albedo Studies In Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:06.949502Z"
+  }
+}

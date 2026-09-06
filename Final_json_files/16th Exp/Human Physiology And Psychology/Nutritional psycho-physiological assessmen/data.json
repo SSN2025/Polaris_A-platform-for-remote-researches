@@ -1,0 +1,72 @@
+{
+  "id": "article_22",
+  "document_id": "NCPOR-E2B980",
+  "source_file": "ARTICLE+22.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/627/3/ARTICLE+22.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+22",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nNutritional and psycho-physiological\nassessment of members of the XVI Antarctica expedition\nNARINDER K. SATIJA, ANAJANA G. VIJ AND K. SRIDHARAN\nDefence institute of physiology and allied sciences luknow road,\nTimarpur Delhi - 110 054\nAbstract\nThe present studies are aimed to evaluate the effects of physiological stress\nand metabolic requirements necessary to maintain homeostasis and physical and\nmental functions during stay at Antarctica in expedition members. Nutritional\nand psycho-physiological assement of the members of the XVI Indian Scientific\nExpedition to Antarctica was carried alongwith supplementation of vitamins,\nviz., vitamins, viz., vitamin C and vitamin E to reduce the oxidative stress.\nThrity two members of the XVI Inidan Scientific Expendition to Antarctica\nwere taken for the study. Initially, all the members were briefed about the scope\nof the project and their informal consent obtained. After this, initial paramenters\nlike age, height, weight, etc alongwith body composition which included body\nfat, lean body mass, amount of water in terms of percent and volume, BMR and\nhematological parameters including platelet aggregation were recorded. On the\nbasis of age, height and weight, the subjects were divided into four groups as\nrecorded. On the basis of age, height and weight, the subjects were divided into\nfour groups as control (no supplementation with vitamins), experimental groups\n(supplemented with vitamin C, vitamin E and vitamin C and vitamins). After 15\ndays all the above mentioned parameters were measured regularly except plate-\nlet aggregation which was done only after an interval of one  month and just\nbefore leaving Antarctic station Maitri.\nFor most of the time, the expeditioners enjoyed a comfortable free-living\nenvironment with only brief exposures to the outside elements, except for two\nexpeditioners remained in a tent outside the  main station for 35 days another\nbatch of three expeditioners who stayed outside for twenty days. They were ex-\nposed to the typica l Antarctic environment. The station area was maintained at\n19-22 ° C whereas the outside temperature was between -8°C to +8°C station\nalso has sports facilities, library and enter tainment room where the expeditioners\nrelax, play indoor games such as cards, chess, and table-tennis, and watch video\nfilms and listen music.\nThe ration for expeditioners consisted of canned and fresh (for some time)\nfruit, fruit juices, freshly cultured yoghurt, frozen meat, firsh and poultary items.\nPerishable fresh fruit and vegetables were available for a limited period, although\n342\nNarinder K. Satija, Anajana G. Vij and K. Sridharan \nfruit and vegetables suitable for cold storage were available for longer period. A \ngood vareity of frozen, canned and pulses were also available. In fact, if the\nexpeditioner did not like the food made for the whole of the group, he was free to\nmake food of his choice.\nBODY WEIGHT increased throughout in all groups but in the ;control group\nthe gain was maximum. It increased from initial weight of 58.6+ 5.6 kg to the\nfinal weight of 63.0+7.5 kg taken just before starting return journey. Gain in\nothers was also noted but the gain in body weight was less as compared to that\ncontrol group. The gain in body weight was minimal in the group the received C \nand vitamin E.\nPer cent BODY FAT continuously increased from initial value of 20.9% to\nfinal value of 23.9% at the end of study period in the control group. Similar was\nthe trend in the group that received vitamin E alone. But those who took vitamin\nC and a combination of vitamin C and vitamin E showed less increase in their\nbody fat as conpared to those who were without any vitamin supplementation.\nHEMATOLOGICAL parameters-hemoglobin, platelets, WBC, RBC, packed\ncell volume, etc. were measured in all the four groups initially and after 15 days\n(on reaching Antarctica) and after 30 days. Hemoglobin increased from the ini-\ntial in Hb was less in the other groups supplemented with vitamin C and a com-\nbination of vitamin C and vitamin E. But the change in Hb was very much less in\nthose who received vitamin E alone. Similar trends has been observed with packed\ncell volume, platelet counts also.\nIn addition to these, lipid profile - cholesterol, high-density-lipoprotein cho-\nlesterol, triglycerides, protein, gamma-gultamyl transferase, cholinesterase, uric\nacid have been estimated. The data showed that the changes observed in lipid\nprofile in non-supplemented group were different from those received vitamin C \nand vitamin E indicating beneficial effects.\nIn conclusion, it ma y be stated that supplementation with vitamin C and\nvitamin E will have the potential to produce beneficial changes in the body weight,\nper cent body fat, hemoglobin, lipoprotein lipid profile. However the gain in\nbody weight may be due to decreased ener",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 28
+  },
+  "taxonomy": {
+    "category": "5]Human Physiology And Psychology",
+    "subcategory": "Nutritional and psycho-physiological assessment of members of the XVI Antarctica expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:42.292076Z"
+  }
+}

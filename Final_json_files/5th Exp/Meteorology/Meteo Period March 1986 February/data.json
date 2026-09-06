@@ -1,0 +1,72 @@
+{
+  "id": "article18",
+  "document_id": "NCPOR-AA87CE",
+  "source_file": "article18.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/277/3/article18.pdf",
+  "bibliographic": {
+    "title": "article18",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SECTION-III\nMETEOROLOGY\n/»\nFifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No.  5,  pp. 259-281 \nMeteorological Studies at Antarctica During\nThe Period March, 1986 to February, 1987.\nT.V.P. BHASKARA RAO\nIndia Meteorological Department,\nNew Delhi-110003\nAbstract\nA permanently manned  meteorological observatory was established at the Indian\nResearch Station, Dakshin Gangotri, during the Third Indian Scientific expedition to\nAntarctica, for continuous recording of meteorological parameters. The observatory is\nequipped with instruments to monitor the weather systems approaching and affecting the\nStation. Valuable data has been collected so far and such studies were continued during\nthe period of March, 86 to Feb., 87 also, the results of which are presented in this paper.\nAn automatic weather station (DCP) was also installed during the Fifth Indian Expedition,\nthrough which hourly data is being recorded and transmitted on real time basis to New\nDelhi through Indian National satellite INSAT-1B.\"\nThe meteorological data collected during the period of the report has also been\ncompared with mean climatological values of some nearby stations.\nIntroduction\nMeteorological observation programme has been an integral part of the Indian\nScientific Expeditions to Antarctica ever since the first expedition to the icy\ncontinent during Antarctic Summer of 1981-82. The permanent Station at Dakshin\nGangotri was established by India in January, 1984 during the Third Expedition.\nA manned meteorological observatory has since been functioning at the Station\nround the year.\nThe observatory at Dakshin Gangotri is equipped with autographic instru-\nments for continuous recording of meteorological parameters e.g. surface wind\ndirection and speed, pressure and temperature. It also has the facility for\nmeasurement of surface and global radiations, surface ozone and atmospheric\nelectrical potential gradient. Periodic balloon ascents are also taken to obtain\nvertical profile of upper air  temperature, humidity and radiation fluxes. It  also\nhas the equipment for  the reception of weather charts broadcasts from forecasting\noffices in the region and the Automatic Picture Transmission (APT) equipment\n260 T. V. P. Bhaskara Rao \nfor reception of cloud imageries from the polar orbiting weather satellites. The\nmeteorological station at  Dakshin Gangotri is thus a well equipped weather\nobservatory which is capable of recording various meteorological observations\nas well as watching and monitoring the weather systems which may approach\nand affect the station during the course of next few days.\nProgramme\nDCP Installation \nThe Indian Meteorological Programme planned for Third Wintering Team\nwas to continue the ongoing observational programme and to make further\nefforts for the modernization of the station. For the latter purpose an Automatic\nWeather Station was established on experimental basis during the Fifth Expedition.\nIt was aimed to conduct experiment on the reception of  hourly surface meteorolog-\nical observations of Dakshin Gangotri through Indian Geostationary Satellite\nINSAT-1B. In  this connection a Data Collection Platform (DCP) was installed\nat the station. The sensors and the helical antenna of the DCP were installed\non the top of the three container assembly structure. The electronic component\nand the power supply unit of the DCP were kept in thermally insulated boxes\nin the middle container of the assembly. During the third wintering period, a \nclose watch on the  performance of? this DCP system was kept and detailed\nreport has been separately published in the  Annual Report. 1987-88 of the\nDepartment of Ocean Development, New Delhi.\nReal-time Transmissions \nAnother significant item of the programme of the Third Wintering Team\nwas the commencement of the transmission of the coded meteorological observations\nof Dakshin Gangotri  on real-time basis. The  meteorological observatory at\nDakshin Gangotri was allocated station index number (89510) by the World\nMeteorological Organisation (WMO) to. facilitate international exchange of the\nobservations recorded at the Indian station. Surface observations of four main\nSynoptic hours viz. 00, 06, 12 and 18 GMT, are transmitted to IMD New Delhi\nthrough Telex System within 15-20 minutes of the time of observation for the\ninternational exchange over Global Meteorological Telecommunication Network.\nDakshin Gangotri has  thus become part of the WMO network of Meteorological\nStations in Antarctica.\nOngoing Programme \nThe ongoing meteorological programmes which continued during the Third\nWintering period, included  the following:\n(I) Study of daily, seasonal and annual variations of surface atmospheric\npressure, winds, air temperature and cloud cover.\n(ii) Study of vertical structure of the Antarctic atmosphere.\nMeteorological Studies... 261\n(iii) Study of  atmospheric changes with reference to specific situations.\n(iv) Radiation bu",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 24
+  },
+  "taxonomy": {
+    "category": "4]Meteorolgy",
+    "subcategory": "Meteorological Studies at Antarctica During The Period March, 1986 to February, 1987",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:32.381077Z"
+  }
+}

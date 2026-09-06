@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_18_2c_pp_37_51",
+  "document_id": "NCPOR-E6F7BC",
+  "source_file": "Technical+Publication+No.+18%2C+pp+37-51.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/808/1/Technical+Publication+No.+18%2C+pp+37-51.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+18%2C+pp+37-51",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twentieth Indian Expedition to Antarctica, Scientific Report, 2006 \nMinistry of Earth Sciences, Technical Publication No. 18, pp 37-51 \nMagnetic Pulsations over Antarctica: Results from the \nThree-Station Triangulation Experiment \nS. Gurubaran1, K. Jeeva1, M. Sridharan2, S. Singh3, \nA. Dhar3, A. N. Hanchinal3 and G. Rajaram3 \n'Equatorial Geophysical Research Laboratory, Indian Institute of Geomagnetism, \nKrishnapuram, Tirunelveli, 2Magnetic Observatory, Indian Institute of \nGeomagnetism, Pondicherry, 3Indian Institute of Geomagnetism, \nPanvel, Navi Mumbai (e-mail: gurubara@sancharnet.in) \nAbstract \nResults from the magnetic field observations carried out during the summer \ncampaign of the XX Indian Antarctic Expedition (2000-2001) are presented in this work. \nSimultaneous data from three locations (Maitri, Dakshin Gangotri and the third near Sigurd \nMountain) were made use of in order to identify the ground magnetic signatures of the \ndistant geospace processes that occurred on 24 January 2001. An isolated pulsation event \n(a westward propagating disturbance) in the Pi3 category was recorded at all the three \nstations during this period. Triangulation of magnetic records reveals velocities of this \nwaveform to be ~1 km/s. The present work clearly highlights the importance of continuing \nmagnetic field measurements in the icy continent, as space weather is an important area \nthat is gaining attention in recent times. \nKeywords: Ionosphere, antarctic geomagnetism, solar wind-magnetosphere \ninteractions, currents, magnetic fields. \nIntroduction \nThe geographical location of Maitri is unique in that under quiet \ngeomagnetic conditions the station is under the influence of the mid-\nlatitude ionospheric Sq current system. As the magnetic disturbances grow \ndue to the enhanced solar wind-magnetosphere interaction, the atmosphere \nover Maitri comes increasingly under the auroral oval. The auroral oval \nexpands under such conditions to envelop the sky over Maitri. \nPast experiments conducted at the Indian Antarctic station clearly \ndistinguished the disturbed time behaviour of the geomagnetic field \nvariations from their quiet-time characteristics (Kalra et al. 1995, for \nexample). Many important processes occur on the nightside of the Earth \nwherein the geomagnetic field is stretched to form a long 'tail' by the \n38 S. Gurubaran et al. \nstreaming charged particle flow from the Sun. The field lines forming the \ntail are 'energized' whenever the interplanetary magnetic field (IMF) turns \nsouthward as this favours magnetic field reconnection on the dayside of \nthe Earth. The reconnected field is swept across towards the nightside. \nThe magnetic field ultimately releases the energy in the form of sporadic \nbursts in the tail region that manifest as substorms in the ground \ngeomagnetic data (see McPherron 1991, for a review on magnetospheric \nsubstorms). The channel in which this energy is routed through is the \nsubstorm current wedge that takes a westward path in the high latitude \nionosphere. Field-aligned currents constitute the edges of this current \npattern (Kisabeth & Rostoker 1973, for example). Simultaneously, the \nenergy extracted from the solar wind may be dissipated in the ionosphere \nthrough the directly driven process leading to an enhancement of the \nconvection driven auroral electrojets in the dawn and dusk sectors \n(Rostoker 1999, for a recent review). This process coincides with the \ngrowth phase of a magnetospheric substorm. \nThe Indian Institute of Geomagnetism (IIG) continues to operate \nfluxgate magnetometers at the Indian Antarctic station, Maitri (70°45' S, \n11°45'E, geographic; 66°S, 53°21E, geomagnetic). A proton precession \nmagnetometer and a riometer have also been operational for quite some \ntime at this station. \nThe present work focuses on the electrodynamic conditions prevalent \non 24 January 2001 when there was an opportunity to conduct a 3-station \ntriangulation experiment for monitoring the movement of auroral current \nloops. Intense geomagnetic activity was recorded on this day (ZKp = 26\") \nwith moderate storms observed at mid and low latitudes. \nGeomagnetic pulsations were recorded during this campaign at three \nlocations separated from each other by 100-200 km distance, which is the \nscale size of the Hall current loop drifting with the auoral surge. Apart \nfrom Maitri, fluxgate magnetometers were operated at Dakshin Gangotri \n(70°05'S, 12°E) and a third station near Sigurd Mountain (71°20'S, \n7°38'E). A triangulation of magnetic field variations at these stations \nprovided information about the velocity of the mobile current systems. \nAppropriate cross correlation analysis has been performed to quantify the \nresults that compare well with earlier results (Kalra et al., 1998, Rajaram \net al., 2002). Using traditional power spectral analysis, the period of the \ndominant pulsation is identified. \nExperiment \nDuring the summer month (January) of 20th Indian Antarctic \nExpedition, IIG op",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Magnetic Pulsations over Antarctica_ Results from the Three-Station Triangulation Experiment",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:59.463589Z"
+  }
+}

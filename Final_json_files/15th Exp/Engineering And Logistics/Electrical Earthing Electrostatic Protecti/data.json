@@ -1,0 +1,72 @@
+{
+  "id": "article_33",
+  "document_id": "NCPOR-4D32D2",
+  "source_file": "ARTICLE+33.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/478/3/ARTICLE+33.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+33",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 401-408 \nELECTRICAL EARTHING A N D\nELECTROSTATIC PROTECTION AT ANTARCTICA\nR.N. Sarwade and P.K. Dey\nResearch & Development Establishment (Engineers)\nBackground\nIndian Antarctic Station, Maitri, is situated at 70° 4 5 ' south latitude and\n11°40' east longitude on a small ice-free region of Antarctica, called Schir-\nmacher Oasis. The term Oasis is used because this region is endowed with\nsurrounding lakes. These lakes are frozen during winter and for major part of\nthe summer, on the surf ace. Construction of Maitri is on jacked up steel\nfoundation columns. The water supply to the station, which houses scientists,\nlabs is taken from Priyadarshini lake through a 200 m long heated copper\npipeline. The station is powered by three phase diesel generators. This power\nis used for operating boilers for heating water supply, lighting, communication,\ncomputers, workshop and instrumentation of various conducted experiments.\nProblem\nElectrical power distribution over a wide area necessitates electrical earth-\ning for the purpose of  protection against lightening and shock. Next more\nimportant purpose is protection of electronic instrumentation used for various\nmeasurements from Electro-Magnetic Interference and static charge nuisance,\ncommonly observed in cold and dry environment.\nIt was observed that ground to neutral electrical potential-difference was\nvarying at alarmingly high levels of the order of 100V. I nvestigations con\nducted showed very low soil conductivity due to existence of permafrost. Power\nground at each of the genset was thus ineffective. Equipment ground at var ious\nlocations were equally ineffective. In addition, balancing of the loading in all\nthree phases was doubtful.\nSteps taken to achieve effective grounding, methodology used, analysis\ncarried out to establish data effect of weather parameters are discussed.\n402 R.N. Sarwade & P.K. Dey \nMethodology\nAn electrical cage was fabricated from 65 mm x 12 mm x 1000 copper\nflats, eight in numbers. It was lowered in 3 m deep water of Priyadarshini lake\nwith the help of the helicopter. This grid'was in turn connected by laying of 300\nm long cable upto the foundation columns of Maitri.\nOne more cage was fabricated in the same manner as above and was\nlowered in the waste water ditch. This in turn was connected to the foundation\ncolumns, (Fig.l).  The electrical potential  difference measured successively\nafter each of the above steps, gradually decreased from 80 V to 45 V to 25 V,\nand finally to 1.5 V. It was continuously monitored even during winter.\nWinter Observations and Analysis\nThe cage dropped in kitchen waste water ditch was nearer to the boundary\nof the ditch. In winter, the freezing of water starts from boundary. Soon after\nthe time when water in the vicinity of the cage was completely frozen, increase\nin potential difference between ground to neutral was noticed. Further inspec-\ntion lead to the following findings:\n• Braided copper used for connecting the cage to main ground was cor-\nroded due to sulphadising.\n• Many joints on the way were found to be corroded.\n• Ground connection to Bhaskara power block was found to be broken.\nThe difference in ground and neutral potential was  measured regularly.\nChart-1 shows its variation over the year. It is clearly seen that till Feb 96, the\ndifference was 100 V plus. The earthing was provided in Feb 96, as described.\nThe chart shows rise during July-Aug 96. It is seen, (Charts-2,3,4),  the\nminimum temperature is - 42°C around 21\nst\n July 96, due to which water around\nthe cage was totally frozen and the result was increased  potential difference\nduring July and August, of the order of 40 V. The rise in ground potential during\nOct-Nov 96 is due to mechanical failure of the laid cable.\nRectification\n• Copper cage was shifted from boundary to the centre of the ditch and af-\nter excavation of ice, the cage was lowered to the bed of the ditch and\nwas covered with a mixture of coal, salt, sand.\nElectrical Earthing and Electrostatic Protection \n403\nELECTRICAL EARTHING\n FOR\n \"MAITRI\" ANTARCTICA \nFig.1\n404 R.N. Sarwade & P.K. Dey \n• The buried cage was connected to main ground (foundation columns of\nthe station) with a thick copper strip, instead of braided copper as ear-\nlier.\n• All the joints were cleaned and properly connected.\n• New earthing cable was laid, connecting Bhaskara power block with the\nmain ground.\nEARTHING LAY-OUT AT ANTARCTICA\nBHASKAHA GENSET ADTTYA GENSET\nFig.\n 2 \nNANDADEVI\nTIRUMALA\nGIRNAR\nLASER HUT\nElectrical Earthing and Electrostatic Protection 405\nR.N. Sarwade & P.K. Dey 406\n15\n10\n5\n0\n-5\n-10\n-15\n-20\n-25\n-30\n-35\nCHART 2 \nElectrical Earthing and Electrostatic Protection 407\nR.N. Sarwade & P.K. Dey 408",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "6]Engineering And Logistics",
+    "subcategory": "Electrical Earthing and Electrostatic Protection at Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:12.631288Z"
+  }
+}

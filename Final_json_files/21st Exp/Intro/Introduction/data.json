@@ -1,0 +1,72 @@
+{
+  "id": "cover_pages",
+  "document_id": "NCPOR-34D387",
+  "source_file": "cover_pages.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/832/1/cover_pages.pdf",
+  "bibliographic": {
+    "title": "cover_pages",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SCIENTIFIC REPORT OF \nTWENTY FIRST \nINDIAN ANTARCTIC EXPEDITION \nTECHNICAL PUBLICATION No. 19 \nNATIONAL CENTRE FOR ANTARCTIC & OCEAN RESEARCH \n(MINISTRY OF EARTH SCIENCES) \nHEADLAND SADA, VASCO, GOA-403804 \n2007 \nCompiled & Edited by : R.P. Lal \nLeader & Station Commander \nMaitri, Antarctica \nPrinted at: National Institute of Science Communication and \nInformation Resources, C.S.I.R. \nDr. K.S. Krishnan Marg, New Delhi-110 012 \nPrime Minister \nMESSAGE \n[For Shri R.P. Lal, Station Commander and \nall the Members of XIX Winter Team, 'Maitri' \nAntarctica] \nI felicitate you and all the team members at the Indian \nStation 'Maitri' on the occasion of Antarctic Mid Winter Day. \nThe National Antarctic programme has been achieving \ncontinuous success on account of the diligent efforts made by \nyou and your colleagues. I have no doubt that your sincere \nand fearless work in such trying conditions will achieve fruition. \nThe people of India admire the courage and determination \nshown by all of you. \nI wish all of you a happy and successful stay in \nAntarctica and a safe return home. \n(A.B. VAJPAYEE) \nNew Delhi \nMay 23. 2002 \nMay, 2002 \nDear Shri Lal, \nMy warm greetings to you all on the occasion of the Antarctic \nMid Winter Day. Your courage and perseverance makes the Indian \nAntarctic programme a success. \nWe are all proud of you who have volunteered to brave the \nAntarctic winter and complete the tasks assigned. \nBest wishes for a successful stay and safe return home. \nWith best wishes, \nYours sincerely, \nFOREWORD \nSince its inception in 1981, the.Indian Antarctic Programme has evolved \ninto a sustained scientific campaign with a clear cut focus to understand the \nmysteries of nature which are preserved in Antarctica. For the last forty years, \nthe Antarctic Treaty has provided a stable framework for human activities in \nAntarctica, thus making available scientific information for the benefit of posterity. \nThe Antarctic atmosphere has been subject to changes in recent decade due to \nglobal pollution, long-range transport from other continents, and local pollution \nfrom stations and other activities like tourism. \nThe successful conclusion of the 21s1 Indian Antarctic Expedition and \nscientific results generated, as reflected in this Report, have further consolidated \nour knowledge in various domains of polar science. The Expedition has been \nremarkable in many ways. A Gas Chromatograph was installed to study Green \nhouse gases such as methane, CO2, and water vapour. Environmental cleaning \nof station, installation of incinerator to incinerate kitchen waste and relocation of \nfuel dump was also given equal importance. The station cleanliness was well \nappreciated by visitors from several countries. \nThe present Report is an outcome of an excellent scientific work by a \nmultidisciplinary team under the capable leadership of Shri R.P. Lai from India \nMeteorological Department. I am sure that this Technical Report will serve as a \nvaluable source of data and information in the field of Polar Sciences and \nlogistics. \nPREFACE \nIndian Scientific Expedition to Antarctica has been the National Mission with \nlots of challenges, adventures and prestige. Science has been the main currency of all \nthese expedition. India has long been committed to Antarctic Programme as a result \nof which National Centre for Antarctic and Ocean Research (NCAOR) was established \nto co-ordinate the entire gamut of the activities related to Polar Logistics & Sciences. \nTrue to the sprit of the National Programme more than 60 National Laboratories / \nDepartments/ Organizations are involved to carry out various scientific experiments in \nAntarctica. \nThe XXI Indian Scientific Expedition to Antarctica comprised 49 members \ndrawn from 20 scientific institutions/organizations was set to achieve yet another goal \nof our National Antarctic Programme. The main task of the expedition was \ncontinuation of efforts for further advancement of multidisciplinary scientific research. \nA state of the art equipment namely, Gas Chromatograph was installed along with \nmany other innovative projects such as Bio-potentialities of snow dwelling and \nepiphytic bacteria of Antarctica. \nThe completion of the XXI Indian Antarctic Expedition is a reflection of fulfilling \nthe above goal in appreciating and understanding the various enigmas of nature \ncontrolled by this remote continent. It is most heartening to note that this expedition \nhas successfully completed its assigned scientific and logistics task as reflected in this \nreport. \nShri R. P. Lai of India Meteorological Department, the Leader of this expedition \ndeserves all our deep appreciation for concerted efforts made by the entire team \nunder his able guidance for achieving the targets of this mission and bringing out this \nreport. \nThe publication of this technical report heralds the completion of yet another \nscientific mission of the country paving way for new challenges. \nCONTENTS \nPage \nMessage \nPrime Minister",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 17
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "Introduction",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:32.932926Z"
+  }
+}

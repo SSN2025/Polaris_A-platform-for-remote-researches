@@ -1,0 +1,72 @@
+{
+  "id": "article_17",
+  "document_id": "NCPOR-95F369",
+  "source_file": "ARTICLE+17.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/219/3/ARTICLE+17.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+17",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "231\n1 Centre for Earth Science Studies Trivandrum India\nINTRODUCTION\nABSTRACT\nThird Indian Expedition to Antarctica Scientific Report 1986 \nDepartment of Ocean Development Technical Publication No 3 pp. 231 239 \nMagnetic Characteristics in  Antarctica over Geological Contacts\nin Schirmacher Hill Region and the Ice Self near,\nDakshin Gangotri (70°05'37\"S, 12º00'00\"E)\nHarh K Gupta 1 and Ajay Kumar Varma 1\nTotal intensity measurements of earth's magnetic field were carried out at Schirmacher Hill\nregion and on the ice shelf in the vicinity of the Indian Permanent Station, Dakshin Gangotri using a \ncouple of proton precession magnetometers. During the magnetic surveys strong diurnal fluctuations\nwere often observed. Several sets of data were rejected when diurnal corrections could not be effec-\ntively made. Finally three magnetic traverses totalling about 3 line km with average station interval\nof 7 m and 6 short criss crossing magnetic profiles totalling over 2 line km in the Schirmacher Hill region\nwere found suitable for further processing. The geological contacts between garnet biotite gneiss and\nsulphide bearing banded gneiss are found to be associated with sharp magnetic anomalies of the order\nof several hundred nT. The criss-cross magnetic profiles in the augen gneiss terrain permitted contour-\ning magnetic anomalies at 100 nT interval. Quantitative interpretation of five anomalies which could\nbe due to basic intrusives has been carried out using conjugate points and symmetrical curve procedure\nand geometric parameters of possible causative bodies are estimated. In the P rinces Astrid Coast\nregion a total of 60 line km of magnetic profile data were found suitabe for analys s 40 line km being\nat 260 m stat on interval and 20 km at 1 km interval. These profiles exhibit low amplitude short wave\nlength magnetic anomalies superimposed over a broad anomaly. The two are treated separately. Ana-\nlysis using Hil bert transform and graphical methods yielded comparable results. The broad anomaly\ncould be interpreted as being caused by an about 12 km thick body with ts top at a depth of about 3.5\nkm and a polarization angle of about 60°.\nGeomagnetic measurements in Antarctica have been an integral part of geophysical investiga-\ntions undertaken from the very beginning. During the first International Polar Year (1882-83) simul-\ntaneous studies of meteorology, geo- magnetism and aurorae were undertaken at twelve stations in Arctic\nand two stations in Antarctica. Later magnetic measurements in Antarctica got much impetus during \nthe International Geophysical Year (1957-58) and subsequent International Years of Quiet Sun.\nGeomagnetic investigations in Antarctica were initiated by the First Indian Scientific Expedi-\ntion to Antarctica when the total magnetic intensity of earth as well as field components X, Y and Z were\nmonitored for a few days in January 1982 at Princess Astrid Coast (lyengar and Rajaram, 1983).\nDuring the Second Expedition, eight magnetic profiles over the shelf ice extending to distance of upto\n10 km southward from the shelf edge in the vicinity of the Indian summer camp (70°S, 12°E) were\nundertaken. The observed magnetic anomaly of 150 to 20 0 nT was interpreted in terms of a basic\nintrusion (Mittal and Mishra, 1985). Arora et al (1985) have contoured the total intensity magnetic\nobservations along the above mentioned eight profiles. During the same expedition Rangarajan et\nal (1985) have reported two intense magnetic disturbances on January 10 and February 4,1983 and\ntwo magnetic substorms on February 12 and 13, 1983. These observations were made at 69°59 S,\n11°55 E (Dipole latitude 65°30 S, longitude 54°30'E).\nMAGNETIC CHARACTERISTICS OVER GEOLOGICAL CONTACTS NEAR DAKSHIN GANGOTRI\nDuring th e expedition, detailed total intensity magnetic measurements were carried out using a \ncouple of Geometries Model G 816/826 Proton Precession Magnetometers. These magnetometers are\nquite robust and easy to handle in difficult field conditions, and have a sensitivity of 1 nT. For the first\ntime detailed measurements were made along a number of profiles over the exposed rocks in the Schir-\nmacher Hill region crossing different geological litho units. Additionally, north-south running profiles\nwere extended to distance of over 20 km south of the Indian Permanent Base Station, Dakshin \nGangotri. Results of these investigations are presented here.\nDIURNAL VARIATION MEASUREMENTS\nThe main purpose of diurnal variation measurements was to make necessary corrections to the\nfield observations carried out at the Schirmacher Hill region and on the ice shelf. One magnetometer\nwas continuously used for this purpose. Several sets of field observation data had to be rejected since\nmagnetic storm like conditions prevailed during the time when field observations were made. Addi-\ntionally, at Schirmacher Hill field camp (70°45'S, 11°37'E) and at the ice shelf (70°06'S,12°00'E)\ncontinuous magnetic observations were taken for several",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "4]Geology and Geophysics",
+    "subcategory": "Magnetic characteristics in Antarctica over geological contacts in Schirmacher Hill region and the ice shelf near, Dakshin Gangotri (70° 05'37_S, 12° 00'00_E).",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:53.980335Z"
+  }
+}

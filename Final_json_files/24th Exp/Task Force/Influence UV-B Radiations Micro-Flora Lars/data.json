@@ -1,0 +1,72 @@
+{
+  "id": "rchapter_29a",
+  "document_id": "NCPOR-E5A0C8",
+  "source_file": "RChapter-29A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/971/1/RChapter-29A.pdf",
+  "bibliographic": {
+    "title": "RChapter-29A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "371Influence of UV-B Radiations on Micro-Flora in Larsemann Hills,.........\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 371-372\nInfluence of UV-B Radiations on Micro-Flora in\nLarsemann Hills, Ingrid Chirstensen Coast,\nEast Antarctica\nJaswant Singh\nDepartment of Environmental Sciences, Dr. R. M. L. Avadh University,\nFaizabad\nField survey for identification and collection of Lichen, moss and\naquatic algae were carried out between 17\nth\n and 20\nth\n of February 2005, at\nLarsemann Hills. Samples of Lichens, Mosses and aquatic Algae were\ncollected for the study of pigment concentration, induction of ultraviolet\nabsorbing compounds and their survival mechanism under the influence of\nUV-B radiations in the southern lower latitudes. Lichens were the major\ncomponent of this area, growing luxuriantly on rocks and decaying cushions\nof moss tufts in ice free areas. It seems that Lichens of this area are\ncharacterized by a high degree of adaptations as the harsh environmental\nconditions were not congenial enough for the survival of the floral\ncomponents. Most of the moss cushions had already decayed, the lakes\nwere frozen and hence collection of mosses and aquatic algal species were\nextremely difficult. Therefore, the most resistant surviving species, one\nOccurrence of Micro-floral assemblages on the\nrocky out crop and around the vicinity of lakes\n\n372 Jaswant Singh\neach of moss and algae could only be collected. Measurements of UV-B\nradiation also could not be carried out for want of power supply for the\ninstrument at Melon hut (Igloo Satellite Cabin).",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "6] Task Force",
+    "subcategory": "Influence of UV-B Radiations on Micro-Flora in Larsemann Hills, Ingrid Chirstensen Coast, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:55:05.574320Z"
+  }
+}

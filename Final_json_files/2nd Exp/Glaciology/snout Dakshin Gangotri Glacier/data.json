@@ -1,0 +1,72 @@
+{
+  "id": "article_13",
+  "document_id": "NCPOR-6908A1",
+  "source_file": "ARTICLE+13.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/177/3/ARTICLE+13.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+13",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "A  Note  on  the  Snout  of  Dakshin Gangotri  Glacier,  Antarctica\nM.K. Kaul, S.K. Chakraborty and V.K. Rama\nGeological Survey of India \nABSTRACT\nThe nearest exposed la ndmass to the Indian Research Sta tion Antarctica in the Queen Maud\nLand is the Schirmacher Range  (Dakshin Gangotri). A characteristic Feature of the southern periphery of\nthis range is a number of glacier outlets overriding the rock surface. The nature and morphology of these\nglaciers d iffer conspicuously from the shelf ice north of this range. One of these glac iers was selected as\npart of glaciologi cal studies in this area and det ailed mapping of the snout position was car ried out. The\nglacier was named  Dakshin Gangotri  glacier after the Indian Research Station of the same name.\nINTRODUCTION\nThe nearest exposed landmass to the Indian Research Station at Antarctica in the Queen Maud\nLand, is th e Schirmache r range  (Dakshin Gangotri.)  A characteristic feature of the southern\nperiphery of this range is a number of glacier outlets overriding the rock surface. These typify the\nPiedmont glacier derived from the inland polar ice which once flowed over the Schirmacher hills.\nThe nature and morphology of these glaciers differ conspicuously from the shelf ice north of this\nrange. In contrast to the northern periphery characterised by an  abrupt and steep fall towards the\nexpanse of shelf ice, the southern periphery underlies the polar ice, which cascades down gently or\nwith minor perturbations over the bed rock.\nThese outflowing glaciers of ice have the character of either a vertical cliff or a protruding\ntongue. The former type are in a dynamic state and waste by calving down, while the latter type\nappear to be  more static, apparently adjusting gradually to various secular changes. One of the latter\ntype (Fig 1) named  Dakshin Gangotri glacier was selected for detailed mapping of its snout\nportion.\nPHYSICAL FEATURES\nGlacier front\nThe outline of the glacier front was plotted by tachaeometry (Fig 2) from a nearby survey\nstation, the height of which as established by altimetry, is approximately 70 m.  The glacier snout\ndoes not show any sinuosity, rather exhibits a smooth slightly concave front with the central portion\ndrawn in by about 7 m compared to the peripheries. The elevation of the ice front varies from 66 to 69\nm a.s.1. \nMeltwater channels\nThe snout ice is characterised by a number of meltwater channels from which the water\npercolates deep into the glacier bottom, and emanates partially from the ice bedrock interface. This\nis common both to the frontal and southern periphery of the snout. The northern periphery is\nstudded to the rock surface without the presence of any melt water. The frontal part of the snout and\nits northern margin, calve dow n frequently.\n91\nSnout of  Dakshin Gangotri  Glacier\nCrevasses\nFour major crevasses, transverse to the snout front were present in January, 1983. These deep\ntuts were developed into melt water channels Water from one of these crevasses was seen cascading\ndown like a waterfall at the southern end of the snout. \nProglacial lake \nA proglacial lake covering an area of 45 m by 70 m, exists m front of the glacier. This lake drains \ninto a bigger lake through small channel along its northern margin Pieces of glacier ice frequently \nfloat in this lake. \nMORAINES\nThe glacier is devoid of any supraglacial moraines Rock-dust and small size rock particles are\nembedded in the upper part of the snout. In the proglacial zone, scattered ground-moraine is\nencountered, especially in the area bordering the  eastern margin of the lake and the eastern flank of\nthe snout. No striated or polished boulders were noticed. The erosional and the depositional\nactivities of the glacier are manifest in lakes and ground-moraines.\n92\nFig.2. Map  of the polar ice tongue  (Dakshin Gangotri\nGlacier) Schirmacher  Hills Antirctica\nFig.1. Photograph showing part of the snout of\nDakshin Gangotri Glacier\nKaul, Chakraborty & Raina\nCRYOCONITE HOLE\nA reconnaissance of the continental ice  sheet, from which the glacier tongue emanates further\nsouth of the snout, revealed the presence within the ice of a conspicuous solitary hole measuring\nabout 40 X 30 cm, and about 75 cm deep and filled at the bottom. The sides reveal well preserved\nstratigraphic banding and some layering of fine sandy material Reported from other parts of\nAntarctica ice sheet also, this feature is supposed to have formed due to decreased albedo, because of\nthe localised concentration of sand particles.\nCONCLUSIONS\nMonitoring of such glacier tongues of th e inland ice sheet has a bearing on the state of flow of\nthe polar ice cap, from which they emanate Any change in the physical aspects of the ice front\nreflects the overall ice regimen.\n93",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "4]Glaciology",
+    "subcategory": "A note on the snout of the Dakshin Gangotri Glacier Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:21.371999Z"
+  }
+}

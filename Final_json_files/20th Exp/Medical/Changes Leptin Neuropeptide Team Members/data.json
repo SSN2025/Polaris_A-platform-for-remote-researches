@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_18_2c_pp_215_231",
+  "document_id": "NCPOR-204C0A",
+  "source_file": "Technical+Publication+No.+18%2C+pp+215-231.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/822/1/Technical+Publication+No.+18%2C+pp+215-231.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+18%2C+pp+215-231",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twentieth Indian Expedition to Antarctica, Scientific Report, 2006 \nMinistry of Earth Sciences, Technical Publication No. 18, pp 215-231 \nChanges in Leptin and Neuropeptide Y in Team \nMembers of Indian Antarctic Expedition \nPraveen Vats, Som Nath Singh, Radhey Shyam, Vijay Kumar Singh, \nT N Upadhyay, S B Singh and P K Banerjee \nDefence Institute of Physiology and Allied Sciences, \nLucknow Road, Timarpur, Delhi - 110 054, India \nE-mail : vatsp2001@rediffmail.com \nAbstract \nAntarctic expeditioners face different extremes of environmental conditions along \nwith social isolation and sexual deprivation, which create a combination of physico-social \nfactors that complicate normal human activity at a polar station. Adaptation in that new \ncondition is always associated with some metabolic changes with alteration in nutritional \nrequirements and utilisation. The present study was undertaken with the aim to assess \nthe changes in appetite regulatory peptides i.e. leptin and neuropeptide Y and to know \nactual energy intake and expenditure of the Antarctic expeditioners. The study was \nconducted in three phases viz. Phase I at Goa (basal), Phase II 48h after reaching \nAntarctica and Phase III after one month of stay at Antarctica. Blood samples were \ncollected in each phase for biochemical estimations. Energy and nutrient intake were \nanalysed from the duplicate plate samples of the expeditioners. Energy expenditure was \ncomputed using Time and Motion Study. It was observed that after reaching Antarctica \nthe expeditioners have very active life style and the total energy expenditure was found \nto be 3120 ± 474 kcal/day. The actual energy intake was found to be 3911 ±310 kcal/ \nday. This indicates that the very reason for the body weight gain was positive energy \nbalance and not the sedentary life style. Studies on appetite regulatory peptides viz. leptin \nand neuropeptide Y were attempted first time in extreme environmental conditions of \nAntarctica. After reaching Antarctica plasma leptin levels (mean ± SEM) decreased from \nnormal basal values 5.66 (± 0.59) ng/ml (Phase I) to 4.40 (± 0.37) ng/ml (Phase II), even \nthough there was an increase in body fat. Concomitantly there was increase in plasma \nneuropeptide Y levels from 0.303 (± 0.004) ng/ml to 1.211 (± 0. 27) ng/ml (p<0.001). \nThe changes observed in leptin and neuropeptide Y levels may be responsible for increase \nin appetite and gain in body weight at Antarctica \nKeywords: Antarctica, leptin, neuropeptide Y, energy intake, energy expenditure, \nboy weight. \nIntroduction \nHuman sojourn to various inhospitable places i.e. Arctic, Antarctic, \nhigh altitude, tropics, space etc.Different places have their own \n216 Praveen Vats, Som Nath Singh, Radhey Shyam et al. \nenvironmental features. Problems in Antarctica stem out of extreme cold, \nlow humidity, almost continuous snowstorms, the strong down slope and \nhurricane winds, the long polar days and nights, the high level of cosmic \nradiation, magnetic storms and increased ionisation. In addition to these \nenvironmental factors, the marked sensory deprivation, social isolation and \nsexual deprivation create a combination of physico-social factors that \ncomplicate normal human activity at a polar station. \nObservations concerning the influence of cold climates on food \nintake or body weight have frequently been at variance. An increase in \ncaloric intake during winter has been, reported by Milan and Rodahl \n(1961), while observations made by Easty (1967) in Antarctica indicate a \nmarked fall. Some workers reported increase in total body weight along \nwith body fat during residency in Antarctica both in summer and winter \n(Majumdar et al., 1994; Satija et al., 1998), whereas others have reported \nloss in body weight during Antarctic expedition (Wilson, 1960; Hicks, \n1966). \nLeptin, the product of the ob gene, was first, identified as an \nadipocyte-secreted protein (Zhang et al., 1994), but is also produced by \nthe placenta and stomach (Masuzaki et al., 1997(a); Bodo et al., 1998). \nCirculating leptin inform the brain about adipocyte mass, thereby \ncontrolling appetite and body weight homeostasis (Halaas et al., 1995; \nPelleymounter et al, 1995). Plasma leptin concentration correlates with \nfat mass and body mass index (BMI) in human (Halaas et al., 1995; \nPelleymounter et al., 1995). The circulatory levels of leptin are also, \ncorrelated with body weight and circulating insulin (Segal et al., 1996; \nZimmet and Collier, 1996). Leptin levels exhibited a circadian variation \nand show a peak at about 0200-0300 hrs. This nocturnal peak exceeds \ndaytime values by about 30-100% and is present in both rodents as well \nas human beings (Sinha et al., 1996). \nNeuropeptide Y (NPY), a 36 amino acid peptide, is, believed to play \nan important role in the hypothalamic mediation of energy balance in \nrodent (Frankish et al., 1995). It is the most abundant neuropeptide in the \ncentral and peripheral nervous system and has been shown to h",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 17
+  },
+  "taxonomy": {
+    "category": "5] Medical Sciences",
+    "subcategory": "Changes in Leptin and Neuropeptide Y in Team Members of Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:18.920962Z"
+  }
+}

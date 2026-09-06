@@ -1,0 +1,72 @@
+{
+  "id": "article_10",
+  "document_id": "NCPOR-BF3D1F",
+  "source_file": "ARTICLE+10.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/212/3/ARTICLE+10.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+10",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian Expedition to Antarctica Scientific Report 1986 \nDepartment of Ocean Development Technical Publication No 3 pp 149 159 \nSpatial Distribution of Krill  (Euphausia Superba)  and Other\nZooplankton off Queen Maud Land, Antarctica\nK. J. Mathew 1\nABSTRACT\nThe Euphausia superba Dana popularly known as the k rill is the richest single species resource\nof the Antarctic waters and they form the chief forage for whales seals, birds, fishes and squids of this\necosystem. Severa l estimates regarding the magnitude of kriII resource which has a circumpolar distri-\nbution within the Antarctic Convergence have been made. H owever paucity of substantial data added\nwith the behavioural characteristics of these animals such as forming into patches, shoals, schools and\nswarms have made it difficult to assess the real stock of these protein rich organisms.\nKeeping the above mentioned problems in view a se ries of zooplankton samples were collected\nduring the Third Indian Expedition to Antarctica (1983- 84) over an area of more than 60,000 square\nkilometres between latitudes 67°30 S and 68°00 S and longitudes 14°00 E and 20°00 E off Queen\nMaud Land just outside the pack ice towards the beginning of winter in March 1984. The standing\ncrop of zooplankton including the krill in the area investigated has been estimated to be 99 8 cc per\n1000 m3 of water. The volume of plankton obtained from different stations varied between 10 02 and\n248 82 cc per 1000 m 3 of water.\nLarge concentrations of krill as has been reported earlier by others were not observed because\nof the heavy blooming of a diatom in the area. The average biomass of euphausiids mainly composed\nof the krill in the area studied has been found to be 4 45 cc per 1000 m3 of water. They were repre-\nsented at an average rate of 212 individuals (9 93 gm) per 1000 m 3 of water. Eleven other groups of\nzooplankton were also present in the area sampled of which copepods chaetognaths appendicularians\nand fish eggs were the most abundant.\nINTRODUCTION\nThe southern ocean south of the Antarctic Convergence is highly pro ductive at all levels of the\nfood web because of the special environmental features existing there. The krill  (Euphausia superba) \nwith its immense stock is an important resource in these waters and plays a vital role in the A ntarctic\nmarine economy . Attempts ar e being made by several nations to exploit this protein rich largest single\nspecies resource which is said to surpass the fish stock in the entire world oceans. However b efore\nstarting large scale exp loitation it is but nece ssary to have proper knowledge about the available stock\nareas of abundance seasonal variations etc which would help in the judicious exploitation and obtain-\ning maximum sustainable yield. The stock estimation would be rather easier for a resource like krill\nwhose p resent mortality is on account of natural death and of predation by other animals only. But\nthe practical problems involved in reaching these areas render it difficult for a direct estimation of the\nresource. In spite of such difficulties major attempts have been made since long to study the Antarctic\necology in relation to the living organisms especially the zooplankton including the krill.\n1Central Marine Fisheries Research Institute Cochin\n149\nSPATIAL DISTRIBUTION OF KRILL (EUPHAUSIA SUPERBA) AND OTHER ZOOPLANKTON\nThe various aspects of krill - ecological, biological, chemical and economical-are being inten-\nsively studied the world over. From the point of view of commercial exploitation the immediate\nrequirement is a knowledge about their geographical distribution and abundance. The various studies\non geographical distribution of  E superba have been reviewed by Mauchline and Fisher (1969) and\nMauchline (1980). The estimates of the krill stock made by different workers by and large range very\nwidely which suggest that a realistic estimate is yet to be made. In view of their importance in the\nAntarctic marine economy according to Mauchline (1980) so much new knowledge on the krill should\nbe obtained. One of the primary objectives of the international programme - the BIOMASS - is the\nestimation of the biomass of E superba.\nLeaving aside the krill if the general fertility is considered it could be seen that the polar seas\nare highly productive at the primary as wel l as secondary levels. The general characteristics and dis-\ntribution of Antarctic plankton have been studied by Voronina (1968). Voronina and Naumov (1968)\nVoronina and Zadorina (1974) and Voronina et al  (1981).\nThe present paper embodies the results of an investigation carried out during the Third Indian\nExpedition to Antarctica (1983-'84) on the spatial distribution of  zooplankton especially the krill, and\nalso the relationship among plankton, euphausiids and th e krill over an area of more than 60,000 km 2\noff the Queen Maud Land, Antarctica.\nMATERIAL AND METHODS\nZooplankton samples were collected from a wide geographic area covering more than 6",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "3]Oceanography and Biology",
+    "subcategory": "Spatial distribution of Krill (Euphausia Superba) and other Zooplankton off Queen Maud Land,Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:49.563932Z"
+  }
+}

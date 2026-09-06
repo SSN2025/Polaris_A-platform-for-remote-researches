@@ -1,0 +1,72 @@
+{
+  "id": "article_2b5",
+  "document_id": "NCPOR-6E9C35",
+  "source_file": "ARTICLE%2B5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/340/3/ARTICLE%2B5.pdf",
+  "bibliographic": {
+    "title": "ARTICLE%2B5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 57-64 \nA Comparative Study of the Variability in the Observed\nOzone and that Obtained from a Statistical Model of\nCatalytic Destruction over Antarctica\nP.K. PASRICHA\nNational Physical Laboratory, New Delhi-110 012\nAbstract\nIn this paper, day-to-day fluctuations in total ozone during the \"ozone hole\" period (using the\nTOMS data) over the Indian Antarctic Station, Maitri have been studied. First, a statistical correlation\nanalysis is performed on the fluctuations to reveal a characteristic correlation period (To) in the\nfluctuations. The extent of the effective data sample (T) to be analysed is also made known. The rms\nvariability in the, mean ozone level σT is then given in terms of the rms scatter of the observed total\nozone values (σ i), To and T. A value σT of during the \"ozone hole\" period of September 1987 is found\nto be about 6 D.U., which is 3 D.U. above the \"noise\" rms uncertainty associated with the TOMS data.\nNext, this \"signal\" rms variability of 3 D.U. estimated in the \"ozone hole\" period is compared with\nthe statistical fluctuations inherent in the process of destruction of ozone through chlorine and bromine\ncatalysis in the lower stratosphere.\nIn the applications of stochastic theory to chemical kinetics, a catalytic process is represented by\na \"death process\". Accordingly, model estimates of the variabilities associated with chlorine and\nbromine catalysis (≈ 87.5 % and 12.5 %, respectively) are made. The resultant rms variability in the\nmean ozone level requires the values of To and T, and is also shown to be about 3 D.U. Finally, the\nfluctuations in total ozone in other non- \"ozone hole\" months have been analysed.\nIntroduction\nMean values of total ozone using the TOMS data are available since 1979, and show an yearly\ndecreasing trend over Antarctica. The phenomenon of \"ozone hole\" refers to a decrease in the\nvalues of total ozone over Antarctica in the local spring compared to that in the winter period\n(Farman et al,  1985). Thi s ozone depletion is spread over an altitude range of about 12 to 22\nkm, in the lower stratosphere. Further, large \"Characteristic\" fluctuations are observed in the\nvalues of total ozone on day-to-day time scales during the \"ozone hole\" period.\nIt is now well-accepted that the depletion of ozone in the stratosphere during the spring\nis explained by (i) formation of a polar vortex in the Antarctic winter, with the consequent\nformation of Polar Stratospheric Clouds (PSCs) and (ii) heterogeneous catalytic destruction\nof ozone with enhanced species of chlorine,  in the presence of particulate matter on PSCs\n(Solomon  et al.,  1986; McElroy  et al., 1986a, b;  Anderson et al., 1991).\nIn the present paper, the \"characteristic\" fluctuations in total ozone on day-to-day time\nscales during the  \"ozone hole\" period are explained as due to statistical fluctuations inherent\n58 P.K. Pasricha \nin the catalytic destruction of ozone. First, the fluctuations in total ozone are non-random in\nnature and, therefore, the rms variability in the mean ozone  level obtained by ordinary\nstatistical methods needs to be suitably modified to account for \"persistence\" in  a \"time\nseries\" (Bartels, 1935; Bloomfield etal, 1983; Forbush ef a/., 1983; Pasrichaef  al, 1991).\nPersistence damps out any harmonic relationship that might exist between successive data\npoints. A model correlation analysis is performed on the  fluctuations in total ozone over a \nperiod of five years (1987 to 1991), as reported in the TOMS data, over the Indian Antarctic\nStation Maitri (70°S, 12° E). Next, the application of the stochastic theory to chemical\nkinetics indicates inherent statistical fluctuations in the mean density in a catalytic (first\norder kinetics) process. (Bharucha-Reid, 1960; McQuarrie, 1969). The rms variability in the\nmean ozone level during the  \"ozone hole\" period estimated by the two approaches is\ncompared. Further, estimates of the rms variabilities in the mean ozone levels in other non-\n\"ozone hole\" months are analysed.\nObserved Variance in the Total Ozone Values over Antarctica\nAutocorrelation functions of the fluctuations in total ozone in various months are\ncomputed, except for the period from May to June for which no data are available. A sa mple\nof fluctuations in  total ozone analysed represents an autocorrelated time series in which\nindividual data points are not independent of one another. A measure of persistence in the\nautocorrelated time series is the correlation period (T 0), which may be evaluated thr ough\nsuitable statistical models. Data points spaced T0 apart are thus uncorrelated. The corrected\nvariance al in the observed values of total ozone (after removing persistence an d making\nthem random) is related to the variance of of the scatter in the observed ozone values\nthemselves (obtained by ordinary methods) through the relation;\no-c\n2 = T 0 /Stc?  ...(1",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "3]Atmospheric Sciences",
+    "subcategory": "A Comparitive Study of the Variability in the Observed Ozone and that Obtained from a Statistical Model of Catalytic Destruction over Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:09.569279Z"
+  }
+}

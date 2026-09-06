@@ -1,0 +1,72 @@
+{
+  "id": "article37",
+  "document_id": "NCPOR-F10A04",
+  "source_file": "article37.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/325/3/article37.pdf",
+  "bibliographic": {
+    "title": "article37",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp.  473-487\nProspects of Horticulture in Antarctica\nM.C. JOSHI* AND B.K. BANERJEE**\n*Defence Agricultural Research Laboratory, Almora-263602\n**Defence Materials and Stores Research and Development Establishment\nKanpur-208013\nAbstract\nHorticultural experiments to cultivate some vegetables indoors were initiated during\nthe Fifth Indian Expedition, at both Dakshin Gangotri and Maitree. Plants grew at both\nplaces well showing that the local soil is as good as the Indian soil. Preliminary surveys\nat DG and Maitree revealed that it is possible to obtain congenial indoor temperature.\nThe indoor lighting and solar illumination were found to be inadequate. These, however,\ncould be brought to the required level by doing the necessary adjustments.\nIntroduction\nAntarctic flora, typical of a desert tundra, is mostly restricted to  lichens,\nmosses and other lower forms, though  totalling about 800 plant species (Benton,\n1980) some of them growing as far poleward as 80°S. Vascular flora in Antarctica\nconsists of only three species of flowering plants (Greene and Greene, 1963),\ngrowing mostly in Graham Land and its  offshore islands, limited to the 64th\nparallel (Llano, 1962).\nLittle floral growth is possible at  below-freezing temperatures (monthly\nmeans for all months) (Trewartha, 1954), as in most of Greater Antarctica (near\n0°C in coastal  areas in summer) (Phillpot, 1963). 'However, the temperature of\nbare ground where it exists (ca 0.05% of the whole Antarctic surface) can be\nconsiderably higher than that of the  surrounding air when the sun shines, creating\na microclimate to support existing flora. Additionally, the local average temperatures\nat Maitree, as per available data, are higher than those at  Dakshin Gangotri,\nthough with a broadly similar profile (Fig. 1) . An apparent rising trend in the\nlocal temperature, as suggested by the receding snow cover in part of the\nSchirmacher hills (original landing strip of Novolazarevskaya station laid bare in\nabout ten years), could well be the basis for an interesting experiment to grow\ntrees behind the Priyadarshini lake at Maitree, perhaps  with cold resistant seeds\n(Tikhomirov, 1962), or at least some lower vascular plants.\nM. C. Joshi and B. K. Banerjee 474\nAs a prelude to  experiments to grow trees, more conservative experiments\nto grow vegetables (some salad crops, to start with) and flowers in Antarctica\nwere planned in the Vth Expedition. Vegetable seeds (for indoor cultivation in\nAntarctica) were provided by the Defence Agricultural Research Laboratory\n(DARL), Almora. Cold  resistant flower seeds (for sowing around the Priyadarshini\nlake), collected from high altitudes (12,000 - 15,00 0 feet) in the Himalayas, were\nunfortunately held up in India due to a transport breakdown and were n o t\navailable for experiments in the Vth Expedition. The experiments on indoor\ncultivation described hereinafter were aimed at studying the suitability a n d\nadequacy (for plant growth) of local materials and under the existing conditions\nof temperature, illumination, and space at Dakshin Gangotri and Maitree.\nAccordingly, two experiments were carried out to grow some salad crops with:\n(a) Indian soil, snowmelt water, and Irish manure (as available) at Dakshin\nGangotri Station (DGS) in artificial illumination and, (b) local soil, lake water,\nand manure at Maitree in sunlight.\nThe outcome of  these experiments reveal encouraging prospects. Plants grew\nat both places, though they lacked vegetative development (apparently due to\nProspects of Horticulture... 475\ninadequate illumination). The local materials at Maitree were as congenial to\nplant growth as normal Indian materials. The observations resulting from these\nexperiments throw useful light on horticultural experiments in  Antarctica.\nMaterials and Method\nSoil (ca 150 kg) from the Kodar farm near Ponda (Goa) was carried to\nDakshin Gangotri for the experiment there. This soil, a sandy loam (typical\ncoastal soil), contained an assortment of gravel (upto 3 cm); apparently it had\na fair proportion of clay and held water well. The local soil at Maitree (from\nthe bank of the Priyadarshini lake) contained a lot of sand besides a few gravel\nand very little clay (Table I). Its capacity to hold water was poor, though it\nwas found to be very wet while digging up.\nSnow-melt water (central supply) was used for irrigation at DGS. Water\nfrom the Priyadarshini lake, freely used for cooking and drinking, was used for\nthe experiment at  Maitree; this water was found to be mildly acidic and contained\na trace of some minerals (Table II).\nManures and fertilizer commonly used in India to augment yield were not\navailable for the experiments in Antarctica. A different natural (organic) manure,\nviz., sphagnum or peat bog moss, was used instead. Some quantity of an imported\nIrish variety of this manure was available at DGS, and th",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "x]General",
+    "subcategory": "Prospects of Horticulture in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:55.248602Z"
+  }
+}

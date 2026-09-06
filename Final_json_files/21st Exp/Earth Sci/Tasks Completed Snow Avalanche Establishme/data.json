@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_215_223",
+  "document_id": "NCPOR-EC9401",
+  "source_file": "Technical+Publication+No.+19%2C+pp+215-223.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/883/1/Technical+Publication+No.+19%2C+pp+215-223.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+215-223",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 215-223 \nReport of Tasks Completed By Snow and Avalanche \nStudy Establishment (S.A.S.E.) during Summer \n(Jan-Feb 2002)- XXI IAE \nRajiv K Das \nSnow and Avalanche Study Establishment \nObjective 1: Microstructural Studies \nThe SASE team of Sh. Rajiv K Das and Sh. Sudesh Jamwal carried \nout microstructural studies by making thin section of ice sample of the \ncontinental ice using microtome machine and hot plate. Sh Sudesh Jamwal \ntook extensive training on microstructural studies before going to \nAntarctica. \nWork done \nA cold laboratory was established at Maitri Station. Dr.P.C. Pandey, \nDIRECTOR NCAOR, inaugurated it on 27th Jan. 2002. The laboratory \nconsists of one Microtome machine for making samples of ice to be \nobserved under the magnifying microscope. The microscope is fitted with \na high-resolution camera arrangement for taking pictures of-^the samples. \nThis work is under the project for microstructure analyses of ice. \nMethodology \nThe ice samples were collected from the ice cap near Sankalp point, \nwhich is about 5 km from the Maitri station. Initially the chain saw was \nused to cut out ice blocks of 60cm thickness, but due to failure of the \nmachine, later ice axe and iron rods were used. As a result the team could \nnot collect sample from more depth. The samples were brought to Maitri \nstation in plastic bags and kept in the deep freezer. \nIce samples were then cut into small blocks of 2-3 cm with \nmicrotome machine. After flattening the surfaces, the sample was put on \nthe hot plate for smoothening the surfaces through melting. The same \n216 . . Rajiv K Das \nthen bonded to a clean glass slide. A thin sample of 0.5mm (approx.) was \nprepared by melting the opposite surface. The melted water was removed \nfrom the sample surface, dyed with proper solution and then observed under \nthe microscope. \nResults \nAs the team couldnot take ice samples from much depth, not much \nvariation in ice grain structure was observed. The grains were of bigger \nsize and significant amount of air bubbles was also observed in the surface. \nThese air bubbles were trapped into the ice layer during the glaciating \nperiod. \nRemarks \nThe experiments will continue during the winter period as well. \nSamples will be collected whenever the convoy moves. \nFig. 1: SASE cold lab at Maitri Fig. 2: Microscope and camera \narrangement in the cold lab \nFig. 3: Thin ice section of samples taken from Sankalp point as observed under \nmicroscope in the cold lab \nReport of Tasks Completed By Snow and Avalanche Study .... 217 \nObjective 2: Energy Budget Model based on reflectance and Glacio-\nmeteorological parameters of Antarctic Ice through ground based \nobservations \nThe SASE team worked throughout the summer for collection of \nglacio-met data for the simulation of Energy Budget Model. The objective \nwas to set up an Automatic Weather Station to collect Snow-met data and \nalbedo values over Antarctic ice. Sh Rajiv K Das had gone extensive \ntraining for the installation and upgradation of Automaic Weather Stations \nbefore leaving for Antarctica. In addition to the AWS the team also \ninstalled an Albedometer near Maitri station and integrated it with an EPR \nrecorder for recording albedo variations near Maitri. \nWork done \nAutomatic Weather Station: One Automatic Weather station was \ninstalled at Sankalp point on continental ice on 2nd Feb 2002. Wind Speed, \nWind Direction, Relative Humidity, Atmospheric Temperature, \nAtmospheric Pressure, Snow Depth sensors and Albedometer were \nintegrated with the Weather Station. The sensors are programmed so as \nto log data hourly. Charging of the battery of the Weather Station is through \nsolar panel. The whole system is functioning properly. \nWind Electric Generator: One Wind Electric Generator was also \ninstalled at Sankalp point near the automatic weather station as an alternate \nsource for charging the battery during polar night. The Wind Electric \nGenerator was integrated with the automatic weather station on 9th Feb \n2002. \nAWS on shelf ice at Dakshin Gangotri could not be installed as the \ninstrument was found to be non-operational. The instrument requires repair \nand hence backloaded. \nAlbedometer: One Albedometer was also installed near Maitri. The \nAlbedometer was integrated with an EPR recorder. The EPR recorder is \nplaced inside Maitri. \nMethodology \nTo estimate the energy budget of continental ice the SASE team \ninstalled one AWS near Sankalp point, approximately 5 kms from Maitri. \nThough SASE installed one AWS in the XlXth Expedition, it couldn't log \ndata during the polar nights, as battery charging was not possible during \nabsolute darkness. Moreover, the tower would tilt / fall during summer \n218 Rajiv K Das \nbecause the metallic tower got heated up and as a result the ice at the base \nof the tower melted. \nTaking into consideration these problems, the SASE ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "4] Earth Sciences",
+    "subcategory": "Report of Tasks Completed by Snow and Avalanche Study Establishment (SASE) During Summer (Jan- Feb 2002)- XXI IAE",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:00.617917Z"
+  }
+}

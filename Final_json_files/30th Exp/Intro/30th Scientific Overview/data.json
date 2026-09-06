@@ -1,0 +1,72 @@
+{
+  "id": "3_30isea_note_from_expedition_leader_27s_desk",
+  "document_id": "NCPOR-017590",
+  "source_file": "3.30ISEA_Note+from+Expedition+Leader%27s+Desk.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1258/1/3.30ISEA_Note+from+Expedition+Leader%27s+Desk.pdf",
+  "bibliographic": {
+    "title": "3.30ISEA_Note+from+Expedition+Leader%27s+Desk",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "30] Scientific Report of Thirtieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": null,
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "30th Indian Scientific Expedition to Antarctica_ An Overview",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:23:53.015850Z"
+  }
+}

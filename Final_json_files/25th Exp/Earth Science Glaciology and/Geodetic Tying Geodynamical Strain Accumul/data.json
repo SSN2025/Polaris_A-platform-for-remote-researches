@@ -1,0 +1,72 @@
+{
+  "id": "chapter_7",
+  "document_id": "NCPOR-397D37",
+  "source_file": "Chapter+7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/996/1/Chapter+7.pdf",
+  "bibliographic": {
+    "title": "Chapter+7",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 151-161\nGeodetic Tying of Antarctica and India for \nGeodynamical and Strain Accumulation Studies in the \nSouth of Indian Peninsula with Continuous GPS \nMeasurements at Maitri During 25th IAE\nS.V.R. Ramachandra Rao, N. Ravi Kumar and E.C. Malaimani\nNational Geophysical Research Institute \nUppal Road, Hyderabad, India\nABSTRACT\nTo holistically understand the geodynamical and crustal deformation \nprocesses in the south of Indian peninsula between India and Antarctica, two global \nnetworks (IND and ANT) have been chosen that geodetically connect the two \ncontinents. The IGS Station at Diego Garcia (DGAR) is the common station between \nthe two networks. 10 years of data from 1997 to 2007 were used. By these global \nnetworks’ analyses, the stations HYDE and MAIT are geodetically tied through \nDGAR. Very long baselines have been estimated from HYDE and also from \nKerguelen (KERG) to other chosen IGS stations in and around India and Antarctica. \nOur analysis and results using ANT network show an increase in the baseline lengths \nbetween Kerguelen in Antarctica plate and other stations such as SEY1, DGAR \nand COCO and shortening of baseline lengths between HYDE in Indian plate and \nall these above stations using IND network. The analysis using ANT network also \nshows lengthening of baselines from Kerguelen to the sites Yaragadee (YAR1) and \nTidbinbilla (TID2) in Australian plate; and Seychelles (SEY1) in Male plate, COCO \nin the diffuse plate boundary between India and Australia and DGAR in Capricorn \nplate at the rates of 5.3 cm/yr, 3.8 cm/yr, 5.6 mm/yr, 3.03 cm/yr and 5.5 cm/yr \nrespectively. The high rate of movement of COCO Island in comparison to \nSeychelles could be the result of excessive strain accumulation due to the Indo- \nAustralia diffuse plate boundary forces acting upon this region. The estimated \nelastic strain accumulation shows an increasing trend of 1.27x1 O'8 yr1 in the south \nof Indian peninsula. Our results show the precision of approximately 3-4 mm \n(North), 5-6 mm (East), and 10-12 mm (vertical) for the estimation of site \ncoordinates. These results provide new information on the direction and rate of \nIndian plate motion, the driving mechanisms of Indian plate and intraplate seismicity \nof the Indian Ocean on the whole.\nKeywords: Indian Ocean Basin, Strain accumulation, Geodetic tying, Very long \nbaselines\n\n152 S. V.R. Ramachandra Rao et al.\nINTRODUCTION\nVery few studies have been conducted on the larger oceanic part of \nthe Indian plate using space geodesy. To holistically determine the \nkinematics of the Indian OceanBasin between Antarctica and India, the \ndata available are very sparse and characterization and the delineation of \nthe plate boundaries especially in the Indian Ocean are poor. We, therefore, \nused GPS geodesy to improve the understanding of the complex plate \nmotions, diffuse and poorly located plate boundaries, and striking intraplate \ndeformation that characterize the Indian Ocean basin. This study addresses \nseveral of these issues mentioned below:\n1. How rigid is the Indian Plate and Indian OceanBasin?\n2. Does relatively high level of intraplate seismicity on the oceanic \npart of the Indian Plate indicates internal deformation in excess of \nother plates? and,\n3. Is this related to Indo-Eurasian collision and the uplift of Himalayas?\nAll these lead to the new hypothesis that it is possible that at least \npart of the problem in describing the plate kinematics of the Indian Ocean \nBasin relates to the unique set of forces on the boundaries. These boundary \nforces may have lead to frequent plate boundary reorganizations in the past \nand generation of either small plates such as the Capricorn Plate or a diffuse \nboundary zone between India and Australia(Gordon et al. 1998) \ncomplicating kinematic interpretations. These boundary forces may also \ncontribute to non-rigid behavior of the Indian Plate. In any event, the \ndeformation of equatorial Indian Ocean lithosphere is not ephemeral, but \nlong-lived (Gordon, 1998). The net result of these complexities is that the \nplate kinematics of the region remains less well described compared to \nother regions and the issue of plate kinematics is inextricably linked to the \nquestion of plate rigidity. Despite the extensive studies on plate tectonics \nusing geophysical investigations in the larger oceanic part of the Indian \nplate, major issues remain unresolved. Motions across some of the plate \nboundaries seem well constrained as implied by good agreement between \nspace geodetic and geologic models (Stein and Sella, 2004). In others \napparent discrepancies exist.\nGPS Data Acquisition\nNGRI’s permanent GPS Station at Maitri, Antarctica is continuously \noperational since 1997 and simultaneously having become a permanent\n\nGeodetic Tying o f Antarctica & India for ... 153\ngeodetic marker, it started contributing to the Scientific Com",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2] Earth Science, Glaciology and Global Change",
+    "subcategory": "Geodetic Tying of Antarctica and India for Geodynamical and Strain Accumulation Studies in the South of Indian Peninsula with Continuous GPS Measurements at Maitri During 25th IAE",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:56:16.498021Z"
+  }
+}

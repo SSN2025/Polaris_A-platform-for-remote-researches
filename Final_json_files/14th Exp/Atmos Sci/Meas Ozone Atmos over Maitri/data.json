@@ -1,0 +1,72 @@
+{
+  "id": "article_8_1",
+  "document_id": "NCPOR-AB6671",
+  "source_file": "ARTICLE+8_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/414/3/ARTICLE+8_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 93-97 \nThe  Measurement  of  Ozone  in  the  Atmosphere  Over\nMaitri  in  Antarctica  by  Laser  Heterodyne  Spectrometer\nB.C. ARYA and S.L. JAIN\nNational Physical Laboratory,\nDr. K.S. Krishnan Road, New Delhi-110 012, India\nAbstract\nThe measurements of ultra high resolution absorption line spectra of ozone at V3 band\nnear 9.5 (μm has been obtained by laser heterodyne spectrometer using carbon di-oxide laser\nas a local oscillator in Maitri (70° 46' S, 11 ° 45' E) Antarctica. The observations were made\nfrom 15 Jan. to 20 Feb. 95 on clear available sunny days. The vertical concentration profile\nof ozone has been retrieved through inversion of the measured absorption line profile. In the\npresent communication results obtained are discussed.\n1. Introduction\nIn the recent years the global ozone depletion and ozone hole phenomenon\nover Antarctica has intensified ozone research around the world. Ozone, a \nminor constituents of the atmosphere is important because it protects life on the\nearth from harmful part of solar ultra-viole t radiation and also significant for\ncontrolling stratospheric temperature. Total ozone in th e atmosphere has been\nmeasured globally with the help of  Dobson- spectrometers by monitoring the\nabsorption of solar ultra-violet radiation at selected wavelengths in 280-340 nm\nwavelength range. Ozone meas urements has also been carried out by ozone-\nsonds placed on rockets andballoons. On global basis ozone has been monitored\nby satellit e using total ozone mapping spectrometers (TOMS) also.\nIn the infrared region of the spectrum where the fundamental vibrational-\nrotational absorptions bands of most of the atmospheric molecules are located\nand a study of window region (8-14 μm) with high resolution instruments give\na quantitative information and their concentrations at various altitudes. The\nlaser heterodyne spectrometer due to its high spectral resolution can resolve the\nindividual s pectral lines formed in the upper stratosphere thus has unique ability\nto accurately measure the  altitude profile of th e constituents from remote\nlocation. Unlike the Dobson measurements (the infrared heterodyne spectrome-\n94 B. C. Arya et al.\nter is unaffected by tropospheric aerosols. The interference due to overlapping\nabsorptions lines  are minimized as a result of  its high resolution.\nThe posibility of remote measurement of atmospheric ozone by laser\nheterodyne technique was first suggested by  Menzies (1). Frerking and\nMuehlner (2) studied the solar absorption spectra of atmospheric ozone with a \ntunable diode laser heterodyne spectrometer. Abbas  et al. (3) obtained a vertical\nprofile of atmospheric ozone with a CO\n2\n laser heterodyne spectrometer. The\natmospheric N\n2\nO spectrum near 1180 cm\n-1\n was observed by Glenar  et al.  (4)\nusing tunable diode laser. Jain and Arya (5,6) obtained vertical profile of O\n3\n,\nH\n2\nO and NO\n2\n using a CO\n2\n laser heterodyne system.\nIn view of the  above the laser heterodyne spectrometer was s etup at M aitri,\nAntarctica during 14th Antarctic expedition to monitor ozone. The absorption\nline spectra of ozone with high resolution were taken during clear available\nsunny days from 15 Jan. to 20 Feb.1995.\n2. Experimental Technique\nThe laser heterodyne is a passive technique in which CO\n2\n laser line P(24)\nin the region 1043.163 cm\n-1\n were tunned near the absorption line of ozone in\nV3 band. The solar radiation is sent in the fixed direction in the laboratory by\nPolar Heliostat stationed outside the Laser Heterodyne hut at Maitri, Antarctica.\nThe incoming solar radiation is chopped and filter out. The CO\n2\n laser line and\nsolar radiation are combined via zinc-selenide beamsplitter and co -aligned with\nthe help of a He-Ne laser. The two radiations are focussed by lens on the liquid\nnitrogen cooled high speed Mercury Cadmium Telluride Photovoltaic Detector\nof band width  (1000MHz), which acts as a mixer as well as a narrow band filter.\nThe detected signal is difference fr equency (IF). The IF signal thus obtained is\namplified in a wide band RF amplifier (5 - 1200 MHz) and passed through\nvarious RF filter channels at line center and the wing of the line to resolve the\nline completely. The signal at various channels is synchronously detected. The\nblock diagram of  the system is shown in Fig. 1. The system's details are given\nelsewhere (5).\n3. Results and Discussion\nThe pressure broadened absorption line width varies with altitude which\nin turn used to get high profile of ozone. The absorption at the line centre is\nstrongly influenced by the upper altitude molecules while absorption at the wing\nof the line will be influenced by the lower altitude molecules.  The measurement\nof the total absorption at  several frequencies spread over 30-1000 MHz were\nThe Measurement of Ozone in the Atmosphere  95\nFig.l: Block diagram of the experiment \n96 B. C. Ar",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "The Measurement of Ozone in the Atmosphere over Maitri in Antarctica by Laser Heterodyne Spectrometer",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:52.158484Z"
+  }
+}

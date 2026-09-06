@@ -1,0 +1,72 @@
+{
+  "id": "article_17",
+  "document_id": "NCPOR-2B3FDB",
+  "source_file": "ARTICLE+17.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/181/3/ARTICLE+17.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+17",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Meteorological  Studies  at  Antarctica\nC.R. Sreedharan and A.K. Sharma\nIndia Meteorological Department Lodi Road New Delhi 110 003 \nABSTRACT\nMeteorological data was collected over the seas be tween India and Antarctica and over Antarctica\nitself At A ntarctica a full fledged surface observatory was set up with remote recording facilities for\natmospheric temperature windspeed and direction h umidity global r eflected and ultraviolet radiation\nand temperature of ice at different depth levels\nINTRODUCTION\nExtensive meteorological measurements were earned out during the Second Indian Scientific\nExpedition both  from the ship during the voyage between Goa and Antarctica and from the\nAntarctica continent itself\nMEASUREMENTS\nFrom the Ship\n(i)\n(ii)\n(iii)\nThree hourly measurements of temperature,pressure, humidity, windspeed an d wind direc\ntion at the deck level\nContinuous recording of surface ozone\nUpper air measurements of temperature, humidity, windspeed and wind direction using\nradiosondes\nFrom Antarctica\n(i)\n(ii)\n(iii)\nThree hourly measurements of temperature, pressure, humidity, windspeed and wind\ndirection from the ship\nContinuous recording of  windspeed, wind direction, humidity, air temperature, temperature\nunder the ice surface and incoming, reflected and ultra-violet radiation\nContinuous recording of surface ozone\nUpper air soundings for temperature, ozone etc(iv)\nINSTRUMENTATION\nThe entire instrumentation for the  expedition was designed and develope d by the India\nMeteorological Department Equipment used for various measurements ar e listed below -\n(a)\n(b)\nTemperature\nHumidity\nThermistor telethermometer\nHumicap - semiconductor humidity sensor\n107\nMeteorological Studies\nCup generator anemometer\nSelsyn windvane\nAneroid barograph/precisio n aneroid barometer\n(i) Radiosonde (ii) Ozonesonde\nPyranometers\nUV radiometer\nSurface ozone measuring system.\n(c) Windspeed\n(d) Wind direction\n(e) Pressure\n(f) Upper air observations\n(g) Incoming and reflected\nradiation\n(h) Ultraviolet radiation\n(i) Surface ozone\nIn addition, the ship carried a facsimile equipment for reception of weather pictures from\nvarious countries.\nRESULTS\nPreliminary results from the analysis of the data collected are given below\nMeteorological conditions over Antarctica during January-February, 1983\nContinuous recordings of temperature, pressure, humidity, windspeed and wind direction were\nmade from the base camp situated at 69 0S lat, 12 E long from 10 Jan to 20 February 1983\nInstruments were installed in the open following standard exposure practices and connected by\ncables to the recorders kept in the tent nearly 30 metres away from the observatory\nTemperature\nThe air temperatures were mostly subzero during our entire stay in the continent. The  lowest\ntemperature recorded was 15 C below zero and the highest  was 8 C above zero\nThe average temperatures over Antarctica during January and February are depicted in Fig 1.\nIt may be seen that the average diurnal variation is of the order of 7 C and from January to February\nthere is a gradual decrease of about 2 to 3 0C for the average temperature at any time.\nPressure\nPressure during the entire expedition was recorded by aneroid barograph and cross checked\nwith precision aneroid barometer. Average pressure for each day has been worked out and plotted in\nFig .2. \nIt may be seen that over the oceans on an average, the atmospheric pressure is around 1012 mb\n(as expected) except over the oceans within 2000 km  of Antarctica where the average pressure is\naround 1000 mb. During a storm which crossed near the track of the ship there was an abrupt fall of\npressure by nearly 60 mb (drop, from 1030 to 970 mb) in 24 hours Over the Antarctica continent\nitself, the average pressure was of the order of 990 mb.\nThe lowest pressure recorded in the continent was during the blizzard when the pressure\ndropped from 985 to 970 mb.\n108\nSreedharan & Sharma\nWinds\nWind speeds and wind direction throughout the expedition were monitored using equipment\ninstalled in the ship as well as equipment installed at the base camp Average windspeed was worked\nout for each day and is presented in Fig 3.\nAVERAGE TEMPERATURE °C\nFig.1. Average hourly temperature at Dakshin Gangotri(Base Camp) \nMeteorological Studies\n110\nFig. 4.  Two omegasondes ascents depicting upper air winds in tropical and Antarctica region.\nThe salient points that emerge from the Fig 3 are ( i) Average windspeed over oceans is about\n25 kmph ( ii). In the roaring forties the windspeeds increased to peak value of 60 kmph ( iii). Over\nAntarctica the windspeeds were highly variable. Prolonged spells of light winds were interspersed\nwith spells of high winds. During our 52 days stay in Antarctica there were 4 windy spells the peak\nwindspeeds progressively increasing each time and touching gale speeds of 140 kmph dun ng 18 to 20\nFebruary 1983. It is also interesting to note that the highest windspeed the tents could withstand is\nof the order of 60 kmph. All our tents were",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "5]Meteorolgy and Radio Physics",
+    "subcategory": "Meteorological studies at Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:29.937973Z"
+  }
+}

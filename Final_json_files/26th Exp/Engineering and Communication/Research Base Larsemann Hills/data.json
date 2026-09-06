@@ -1,0 +1,72 @@
+{
+  "id": "433_440_pg",
+  "document_id": "NCPOR-255BF8",
+  "source_file": "433-440+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1036/1/433-440+pg.pdf",
+  "bibliographic": {
+    "title": "433-440+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "433\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 433-440\nNew Indian Research Base at Larsemann Hills\n(Antarctica)\nJ. A. A. Silveira\nDy. Chief Engineer, MPT and Technical Committee Member, NCAOR\nABSTRACT\nThe site for the proposed research base at Larsemann Hills, East Antarctica\nwas visited and first hand evaluation of the topography, landing approach, water\nsources, wind pattern, construction/maintenance logistics, etc., has been\ncompleted. The exact location and alignment of the proposed station could be\nconcluded in consultation with the Architects.  An aerial survey and video\nphotography of the total area has also been completed. Observations/\nRecommendations on the proposed site for the new station are enclosed as\nAnnexure.\nINTRODUCTION\nThis Report has been prepared for the National Centre for Antarctic\nand Ocean Research, Goa as part of process for establishing the 3 rd\npermanent Indian Research Base at Larsemann Hills in Antarctica.\nThe design of the new Indian Station is at a conceptual stage and\nthe expedition to Larsemann Hills was primarily to make an in-depth\nassessment of the site and associated factors. This would be of immense\nhelp to NCAOR to evaluate and examine various proposals submitted by\nfirms across the globe for the proposed research base before finalizing\nthe best suited conceptual design.\nThe design is expected to meet the requirements of the Antarctica\nTreaty Protocol and the NCAOR would be able to demonstrate at the\nnext ATCM in New Delhi with plans of their new station and India’s\ncontinued commitment to working responsibly and cleanly in Antarctica.\nSite Information\nThe location selected for the new Indian Research Base in the\nLarsemann Hills region is at: 69\n° 24’ 28” South Latitude and 76 ° 11’ 14”\n434\nEast Longitude. The Larsemann Hills is an ice free area of 40 square\nkilometers located approximately halfway between the Vestfold Hills\nand the Amery Ice shelf on the south eastern coast of Prydz Bay,\nPrincess Elizabeth Land, East Antarctica. The basic inputs about the site\nconditions of the Larsemann Hills region are as below:\nApproach\nThe bathymetric surveys in the approach passage to the proposed\nsite (an unknown promontory in between Stornes and Broknes peninsula,\nsurrounded by Thala Fjord and Quilty Bay) has established that the\naverage depth to the bedrock was 200 metres. Though no beach landing\nis available, the north eastern part shows a favourable gradient that can\nbe developed into an offloading point. The proposed location of the new\nresearch base is at a distance of around 7 km from the nearest airstrip\nwhich could be made approachable through a well marked land route on\nthe south eastern side of the promontory. Aerial view of the proposed site\n(Fig. 1) (an unknown promontory in between Stornes and Broknes\npeninsula, surrounded by Thala Fjord (on left) and Quilty Bay (on right).\nFig. 1: Aerial view of the proposed site (an unknown promontory in between\nStornes and Broknes peninsula, surrounded by Thala Fjord (on left) and Quilty\n      Bay (on right)\nJ.A.A. Silveira\n435\nClimate\nThe area witnesses persistent, strong katabatic winds that blow\nfrom the North-East. Minimum daily temperature recorded is - 39\ndegrees Celsius, whereas maximum daily temperature recorded is + 8\ndegrees Celsius. Precipitation occurs as snow and is unlikely to exceed\n250 mm water equivalent annually. Direction of wind is mostly from\nEast and South-East direction.\nHydrology\nThe promontory in the Larsemann Hills has 7 lakes ranging in\nsalinity from fresh water to slightly saline, and in size from shallow\nponds to large ice-deepened basins, although most are small and shallow\n(2-5m). The surfaces of all the lakes freeze during winter and most thaw\nfor up to 2 months in summer allowing them to be well-mixed by the\nregular katabatic winds. Most lakes are fed by snow melt and some have\nentrance and exit streams that flow persistently during summer. Fresh\n(potable) water supply will have to be generated from the group of lakes\nlocated in the northern part of the promontory. The sea water (using RO)\ncould be utilized for other non-potable purposes.\nRefer Annexure showing the promontory\nProposed Structure and Materials (conceptual)\nThe proposed structure is a load carrying system that not only\nmaximizes prefabrication but at the same time minimizes expensive and\ntime consuming operations.\nNew Indian Research Base at Larsemann Hills (Antarctica)\nFig. 2: View from jetty side of approach to the promontory\n436\nThe concept for the new station is the use of standardized container\nmodules in the load carrying system designed as a steel structure\nenhancing the stability of the overall building. The system is planned and\ndesigned taking long term needs into account.\nThe anticipated costs of operating, maintaining and servicing the\nsystems are given top priority. The elements of the platform structure\ndesigned is to be fabricated from deformed rol",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "5] Engineering and Communication",
+    "subcategory": "New Indian Research Base at Larsemann Hills (Antarctica)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:10:21.411668Z"
+  }
+}

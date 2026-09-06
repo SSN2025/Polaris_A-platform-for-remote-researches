@@ -1,0 +1,72 @@
+{
+  "id": "article_22_1",
+  "document_id": "NCPOR-235810",
+  "source_file": "ARTICLE+22_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/363/3/ARTICLE+22_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+22_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 275-282 \nLife Support Systems at Indian Antarctic Station: Maitri\nR.S. GANGADHARA\nR.D.E. (Eng.)\nDefence Research & Development Organisation, Pune\nAbstract\nThe life support systems at Indian Antarctic Station Maitri, comprising central heating, electricity\ngeneration and supply, water supply and waste disposal systems are run and maintained throughout\nthe year. The various equipments used and procedural details are dealt with in the text.\nIntroduction\nLife support system in the cold and windiest region must function under severe climatic\nconstraints. Thermal considerations and analysis are necessary for freeze protection, foun-\ndation stability, thermal stress and economical operation of various components of the life\nsupport systems in a location, such as Antarctica. Although the thermal characteristics are\nprecisely defined, the application and control of the same is complicated. In practice, it is\noften the unexpected or unforeseen conditions that result in danger or failures.\nThe following life support systems exist in Maitri Station:\n1. Central Heating System\n2. Water Supply System\n3. Electricity generation and Supply System\n4. Waste Disposal System\nCentral Heating System (CHS)\nThe Central Heating System comprises four numbers of oil fired hot water generators\n(Boilers), distribution piping and radiators, the latter located in working and living rooms.\nReturn hot water from various radiators is collected in an expansion tank.\nWater from this tank is fed to the boiler through feed pump for heating and circulation.\nInitially, the heat transfer fluid was based on Mono-Ethylene Glycol and water in the ratio\nof 60: 40. Shortly after commissioning, the Central heating system suffered heavy corrosion\nresulting in choking of  pipe lines and radiators. The anti-freeze fluid was drained and the\ncentral heating system was flushed with potable water. Accumulated corrosion products\nwere cleared and necessary repairs and replacements were carried out. The system was then\nfilled with potable water instead of anti-freeze fluid. The corrosion in the heating system\nreduced to a little extent, however choking of radiators and failure of pipe lines still\ncontinued. The system was open to the risk of freezing in the event of stoppage of boilers.\n276 R.S. Gangadhara \nDescription of CHS\nFig. 1. Aviation fuel fired, hot water boilers in the Boiler room of Maitri station. \nHot water Generators \nHot water generators consist of 4 numbers  of aviation fuel fired boilers (Fig.l) for\nproducing hot water upto a maximum temperature of 80 to 85 °C. The boilers are of 2,00,000\nKCal/hr (6 GPH) capacity with a 25 mm helical coil. The coils ar e made of carbon steel\nmaterial of boilers qualit y confirming to DS 3059.\nFuel Supply \nFuel supply consists of 2 numbers of  MS tanks of size 1.5 m x 1 m x 1.75 m having a \ncapacity of 2500 litres each and a daily tank of 0.75 m x 0.90m x 0.90m size. These tanks\nare made out of MS. Weekly tank is filled from a bulk storage tank, kept outside the station.\nDaily fuel tank is filled from the weekly tank. Pumping is automatically done to the daily\ntank through the level controllers. Fuel is supplied to boilers from the daily tank.\nPrimary Heating Circuits \nPrimary heating circuit of the complex consists of 4 numbers of hot water generators\nconnected in parallel. Hot water circulates through various coils fitted inside the tanks,\nradiators (installed in rooms) and expansio n tank (installed in  boiler room). Water from the\nexpansion tank is fed to hot water generators (boilers) through circulating pumps.\nLife Support Systems... 277\nHot Water Supply \nHot water, to utilities like bathrooms, wash basins etc. is supplied from a hot water tank\nof 1000 ltrs capacity. The hot antifreeze-mixture required for duct heating of the fresh water\nline, between the pumphouse and main station, is supplied from a water tank Fitted inside\nboiler room. Both these tanks are fitted with heating coils through which hot water from\nboiler is circulated for heating.\nCold Water Supply \nTwo numbers of stainless steel tanks of capacity 2,500 litres, are provided within the\nboiler room. Fresh water from the lake is pumped into these tanks every day. Water stored\nin these tanks is heated through hot water heating coils connected to primary hot water\nheating circuit. Water fro m these tank is supplied to expansion tank, hot water tanks,\nbathrooms, kitchen, wash basins, laundry room etc.\nRoom Heating \nLiving and other rooms are heated by hot water radiators of size l m x 1m.. They are\nmade out of MS elliptical tubes and pipes. Hot water from central heating system is\nconnected to these radiators. Temperature of the rooms is normally maintained at 24° C.\nSnow Melt Plant \nSnow melt plant, of stainless steel make having capacity of 1,000 litres, is installed inside\nthe boiler room. A hot water coil and a hot wat",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "8]Logistics",
+    "subcategory": "Life Support Systems at Indian Antarctic Station_ Maitri",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:38.869819Z"
+  }
+}

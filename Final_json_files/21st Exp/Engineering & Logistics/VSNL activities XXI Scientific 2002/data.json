@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_291_295",
+  "document_id": "NCPOR-FF06B6",
+  "source_file": "Technical+Publication+No.+19%2C+pp+291-295.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/887/1/Technical+Publication+No.+19%2C+pp+291-295.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+291-295",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 291-295 \nReport of VSNL activities during XXI—Indian \nScientific Expedition to Antarctica - 2002 (Summer) \nB.T. Rokade \nVidesh Sanchar Nigam Limited, At post - Arvi, \nTaluka - Junnar, Dist - Pune. Pin - 410412 \nOBJECTIVE 1 : INSTALLATION OF INMARSAT - M \nMARITIME TERMINAL (IMN 641902723) \nUnpacking \nUnpacking of four number of boxes received from the NCAOR, \nDOD ,Goa was done and checked the contents with the enclosed packing \nlist. Inspected units and parts for possible transport damages and found \neverything is in good condition. \nThe terminal DC power supply unit (11-30V) was not received along \nwith the material; it is arranged with a spare Aplab power supply unit of \nNGRI, Hydrabad. \nSite Selection \nA survey of existing set up of Inmarsat terminals carried out for \nantenna location and position. Considering the geographical location of \nthe Indian base station Maitri and weather conditions like accumulation \nof snow, blizzards, wind speed and wind direction, availability of power \nsupply points and proper grounding for the equipment's, selected a \ntemporary site near to Nandadevi summer camp hut. \nTesting \nInstalled the antenna dome near to Nandadevi hut temporarily. \nArranged the Below Desk Equipment (BDE) i.e. Saturn Mm Main Control \nUnit, Handset, IBM PC, Panasonic Fax machine inside the Nandadevi \nsummer camp hut. \nSet all the required parameters in the main control unit of the \nterminal along with Azimuth / Elevation angle. Started tracking Indian \n292 B.T. Rokade \nOcean Satellite ( IOR ) but due to very low Elevation look angle i.e.3 \ndeg could not succeed. Later tried for AOR (E) satellite and found the \nsystem is locking to it and calls are getting materialised. Carried out \nseveral voice call testing by using different LESs and with different \nlocation of antenna to find out the maximum signal strength and good \nvoice quality. Continued with the testing for locking the system to IOR \nsatellite by changing the location of antenna. Finally terminal got locked \nto the IOR satellite at the location between Nandadevi and Anapurna \nsummer hut. \nDr.P C Pandey, Director of NCAOR made the inaugural test call to \nArvi LES. Tested terminal for Voice, Fax, Data and Internet connectivity \nthrough Arvi LES and other LESs. This was repeated several times, in \ndifferent weather conditions. \nFinal Setup \nAfter successful testing for both IOR and AOR (E) satellite it was \ndecided to finalised the set up in the Nandadevi hut. A antenna mast is \ndesigned and fabricated with the help of Army engineers group to \nwithstand the antenna in blizzard condition. Installed the antenna \npermanently in the barrel with cement concrete. \nOBJECTIVE 2 : DOCTORANYWHERE. COM APPLICATION \nSOFTWARE FACILITY AT MAITRI \nWork done it \n(a) Installed the PCI to USB card in the PC \n(b) As there was no CD ROM drive along with the material received \na CD ROM drive was arranged from the PC Room of Maitri and \ninstalled Doctoranywhere.com application software and Intel \npocket PC camera software. \nTesting \nWith the help of newly commissioned Inmarsat - M terminal, tested \nthe working of doctoranywhere.com application software successfully by \ndirect online chatting with Mr.Sachin Rawat of M/s doctoranywhere.com, \nPune. Also following two medical cases tested successfully by using this \napplication software. \nReport of VSNL activities During XXI—Indian Scientific Expedition .... 293 \nCase-1 Fracture on elbow (Test Case) \nMr Sachin of Doctoranywhere.com Pune obtained an prior \nappointment with orthopaedic surgeon of Sancheti Hospital Pune. \nUploaded the elbow fracture test case to Sancheti Hospital, Pune by \nproviding case history and photograph of x-ray. After downloading the case \nby Sancheti Hospital's expert doctor,he gave his expert comments. \nCase 2 (Actual Case) \nWith above successful test result we decided to submit a case of \nMajor Atul Apte (Winnter Team Member - XXIAE) who had developed \ncervical lymphadenopathy (acute abscess ) on right side of his neck. We \ntook a prior appointment with Dr Suprashant Kulkarni, MS (General \nsurgery) of Lokmanya Hospital, Pune. \nDr.Mortulia (Winnter Team Member - XX IAE) had a online \ndiscussion with Dr. Kulkarni and then we up loaded the case history and \nthe photograph of acute abscess to Dr Kulkarni of Lokmanya Hospital. \nAfter downloading the case he examined the case history and \nphotograph, he send us expert opinion immediately as below, \nDear Doctor, \nI have reviewed the case that you have sent me. On the basis of the \ninformation that I have received, I have the following comments : \nEXOP: \nMany thanks for kind reference! \nCase capsule noted. \nImages seen. \nFrom the images the presentation is of acute abscess, though the clinical \nhistory suggests acute on chronic process. \nThe abscess requires drainage at the earliest.If the pt is in Antarctica, \nremote from me",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "5] Engineering & Logistics",
+    "subcategory": "Report of VSNL activities during XXI- Indian Scientific Expedition to Antarctica- 2002 (summer)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:07.762863Z"
+  }
+}

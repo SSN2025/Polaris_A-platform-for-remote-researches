@@ -1,0 +1,72 @@
+{
+  "id": "pages_231_277",
+  "document_id": "NCPOR-B953C1",
+  "source_file": "pages+231-277.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/917/1/pages+231-277.pdf",
+  "bibliographic": {
+    "title": "pages+231-277",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "ENGINEERING AND \nCOMMUNICATION\n\nTwenty Third Indian Antarctic Expedition\nMinistry o f Earth Sciences, Technical Publication No. 21, pp 231-277\nStructural Assessment of Maitri Building \nat Antarctica\nG. Raghava & S.G.N. Murthy\nStructural Engineering Research Centre, Chennai\nABSTRACT\nStructural assessment of Maitri building in Antarctica was carried out by two \nscientists of SERC during the XXIIIIAE. This report gives the details of work \ncarried out, defects, damage and deterioration found in the structure, and \nobservations made during the study.\nThickness measurement of supporting columns was made by using an \nultrasonic thickness gauge. The measurements show fairly uniform readings \nthroughout the structure. No drastic localised reduction of thickness was observed \nanywhere in the columns. This rule out any localised excessive corrosion of the \nmembers. During visual examination of the supporting structure, cracks were \nidentified in nine supporting columns. Length of crack in the supporting columns \nof the main block varies from 7 cm to 50 cm and extends below ground level in some \ncolumns. It is physically seen that some cracks are through-thickness cracks for \npart of the length. An evaluation of safety of cracked columns and possible repair \nmeasure is included. Blocks A and C of the station warrant immediate replacement. \nReasons for the same have been explained in the report with photographs. Other \nobservations made during the structural assessment have also been given in the \nreport. Data of acceleration obtained from Maitri during gusty winds have been \nanalysed using FFT and acceleration spectrum has been obtained. It is noted that \nthe data obtained are not adequate to determine the wind sensitivity of the structure. \nA thorough investigation with measurements at higher wind speeds is necessary.\nINTRODUCTION\nIndia launched its first scientific expedition to Antarctica in the year \n1981. The first permanent station ‘Dakshina Gangotri’  was established during \nthe third expedition in the year 1983-84. This station was located at 70°05’  \nSouth Latitude and 12°00’  East Longitude on ice shelf on Princess Astrid \ncoast. The thickness of ice shelf is reported to be 150 m in this region. The \nsite is reasonably close to the ice-shelf edge (1). Dakshina Gangotri got \nburied under accumulated snow over years and was abandoned in the year \n1990-91. In the year 1989, a new permanent station ‘M aitri’  was\n\n232 G . Raghava & S. G.N. Murthy\ncommissioned. Maitri lies at the ‘Schirmacher Region’  of east Antarctica at \n70°45’58\" South Latitude and 11°43’56\" East Longitude (2). This is an ice- \nfree mountainous terrain where the problem of permanent accumulation of \ndrifting snow does not exist. There is a lake called ‘Priyadarshini’  in the \nvicinity of the station. In the last 15 years, around 370 scientists, technicians, \nand officers and other personnel from the army and navy have over-wintered \nsafely and successfully in this station. Presently, 25 members from 9 different \norganizations are over-wintering in this station.\nAs against the original design life of ten years, Maitri has already \nserved as a permanent station of the Indian scientists for the last fifteen \nyears. Because of some damage observed in the structure and also because \nof the fact that the structure has already completed fifteen years of service \nas against the design life of ten years, Structural Engineering Research \nCentre (SERC), Chennai was asked to carry out ‘Structural assessment of \nthe Maitri building in Antarctica’.  G. Raghava and S.G.N. Murthy, Scientists \nfrom SERC, participated as team members of the XXIII Indian Scientific \nExpedition to Antarctica and carried out the structural assessment of the \nMaitri Structure. They were a part of the expedition team during December\n2003 -  April 2004. They actually stayed in the summer camp huts in the \nMaitri region during January and February 2004 and carried out the structural \nassessment.\n. SCOPE AND OBJECTIVES OF THE PROJECT\nThe following were the scope and objectives of the project:\n• Detailed visual examination of the structure, identification of \nlocations which require further detailed inspection/examination\n• Collection of samples of the materials used in the construction of \nthe structure and collection of any other relevant data and \ninformation relevant to the structure\n• Collection of data from accelerometers using impact hammer \ntechnique\n• Preparation of report giving details of the condition assessment \nof the existing structure, analysis/interpretation of results of various \nmeasurements and recommendations to improve/strengthen the \nexisting structure if feasible.\n\nStructural Assessment of Maitri Building at Antarctica 233\nSTRUCTURAL ASSESSMENT OF MAITRI STATION  \nDetails of Maitri Station\nMaitri was indigenously developed and constructed in Antarctica by \nR&DE (Engineers), Pune. Fig. 1  gives a site plan of Maitri location. Fig. 2 \ngives an aerial view of the M",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 50
+  },
+  "taxonomy": {
+    "category": "5] Engineering & Communication",
+    "subcategory": "Structural Assessment of Maitri building at Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:50:02.297282Z"
+  }
+}

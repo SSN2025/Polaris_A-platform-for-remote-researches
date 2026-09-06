@@ -1,0 +1,72 @@
+{
+  "id": "article_27",
+  "document_id": "NCPOR-05F554",
+  "source_file": "ARTICLE+27.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/632/3/ARTICLE+27.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+27",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendilion to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. I to 36 \nReport of the environmental task force\nRASIK RAVINDRA\nDoD observer\nIn persuance of the recommendations of the National Group on Monitoring\nof Antarctic Environment, it was decided by the National Co-ordination Com-\nmittee to send a Task Force, dedicated solely to environmental monitoring and\nmassive clean-up operation in the area around Indian Antarctic base, Maitri. The\nTask Force which formed a part of the XVI Indian Antarctic Expedition\ncomprised : \nShri Rasik Ravindra, Environmental Officer-cum-observer\nCapt. V. Saini\nNb Sub Dalwinder Singh\nHav Suresh Singh\nHav Md Nazim Khan\nHav Darshan Singh\nNK Aghav Baburam\nL/NK Umesh Kumar\nThe Environmental Task Force (hereafter referred to as ETF) was assigned\nfollowing jobs to be accomplished during the austral summer of XVI Indian Ant-\narctic Expedition (IAE) : \na. Identification of an alternate site for summer camp in the vicinity of Maitri,\nb. Identification and  backloading of disused equipment, machinery, vehicles\nand other structures, etc.,\nc. Environmental clean-up of Maitri and its environs. Back loading of the waste,\nd. Study of sewerage pit, incineraters and biodegradation plants.\nSelection of alternate site for summer camp\nBackground Information \nThe existing summer camp is situated about 200 meters north of Maitri\nstation at the southern bank of Priyadarshini lake. Initially the summer camp had\nonly three huts supplied by a U.K. based firm and erected during IV IAE. These\nhuts, named as kitchen hut (Annapurna), Scientist's hut (NPL hut/Nandadevi)\nand Hyderabad/Tirumala hut, have 23'xl6' working space in ground floor, The\n430\nRasik Ravindra \nlofts have partitions to provide sleeping berths for 12 persons in each hut.\nAs the number of scientists in summer component of the expeditions gradu-\nally increased, some knock down type of huts were erected subsequently giving\nrise to a cluster of dwellings along necessary utility facilities, such as toilet,\nurinal, bath module, etc., communication room, Laser heterodyne hut, Recre-\nation room, several masts for scientific programme were added gradually. The\nnet result has been the mushrooming of temporary modules and structures largely\nin an unplanned manner without a proper layout plan. Some of the unnecessary\nand unrequired structures, such as green house dome and railway track also found\ntheir way.\nThe Alternate Site \nTo overcome the existing environmental hazzards posed by the close prox-\nimity of the kitchen, bath, toilet and urinals to the Priyadarshini lake (which\nsupplies the drinking water to the station), it was decided by the Department of\nOcean Development (DOD) to select an alternate site for the summer complex\nwhere living and laboratory facilities could be provided to about 40 expedition\nmembers (mostly scientists).\nExtensive traverses were taken by me in different parts of Schirmacher Oa-\nsis. Existing topographical maps, prepared by Survey of India and Arctic and\nAntarctic Research Institute of Russia, were also scanned. The assignment of\nselection of site for the alternate camp had to be given top priority as the area was\nto be taken up by the survey of India team for a detailed topographical mapping\non 1:1000 scale, with 1 m contour interval.\nOut of six different sites surveyed, three probable location were shortlisted.\nThese were:\n1. Area around erstwhile German hut in the western Schirm acher,\n2. Area north of Pridyadarshini lake,\n3. Area east of Maitri station on maitri - Novolazeraveskya road.\nSeveral aspects, such as proximity to the Maitri station (which would con-\ntinue to provide essential services like medial, communication, etc.), availability\nof approach road for the movement of men and material, availability of perma-\nnent source of fresh water (having regular source of intake of meIt water) and\navailability of suitable area for sewage discharge into a low topographical area\naway from the catchment of Priyadarshini lake, were considered for selecting the\nideal site among the above three probable locations.\nThe site, mentioned at serial No.3, was found to be most suitable, satisfying\nmost of the important criteria. This site is located between 500 and 700m east of\nMaitri station and is connected to latter by a land surface motorable road. While\nthe drinking water would continue to be supplied by the Priyadarshini lake, the\ntreated grey liquied can be discharged in a naturally occurring depression, fur-\nther east, that does not fall in the catchment area of the lake.\nReport of the Environmental Task Force  431 \nThe detailed topographic survey of the area by Survey of India has been\ncompleted. Preliminary apprisal of the area shows a naturally occurring water\ndivide between the catchment of Priyadarshini lake and the depression / lake\nearmarked for sewage disposal.\nEnvironmental tasks\nThe area around Maitri was surveyed jointly with the Leaders ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "6]Engineering And Environmental Studies",
+    "subcategory": "Report of the Environmental Task Force",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:43.513919Z"
+  }
+}

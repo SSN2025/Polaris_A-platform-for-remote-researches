@@ -1,0 +1,72 @@
+{
+  "id": "chapter_6",
+  "document_id": "NCPOR-C8BCC2",
+  "source_file": "Chapter+6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1120/1/Chapter+6.pdf",
+  "bibliographic": {
+    "title": "Chapter+6",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "ABSTRACT\nSampling of aerosols was carried out at two East Antarctic sites during 20 th January\nto 3 rd February 2009 at Larsemann Hills (LH) and 23 rd February - 7 th March 2009 near\nMaitri station at Schirmarcher Oasis (SO), using a high volume sampler. The elemental\nconcentration was analyzed through Ion Chromatography. Sea salt aerosol (Na) dominated\nthe elements forming 90-92% of the total elemental mass concentration. Crustal aerosols\nwere enriched with Sc and Co whereas Mo, Cd, Sb enrichment in aerosols indicated\nanthropogenic sources in both the study regions. Further, the Efc of Pb showed crustal\nsource in Larsemann Hills but anthropogenic influence in aerosols near Maitri at\nSchirmarcher Oasis. During blizzards, the aerosols were found to be enriched with\nanthropogenic elements like Cd, Mo and Cu at both the sampling sites. This enrichment of\naerosols with trace elements during blizzard events could be of important implications\nsince one event can deposit 2-3 fold higher concentrations of trace elements on the snow,\nas blizzards are often accompanied by snow fall and snow drift. Further the rocky outcrops\nof Larsemann hills play a significant role in generating coarse crustal aerosols enriched with\nCo, Cr and Pb and the station activities near Maitri enrich the aerosols with Sb and Pb.\nThis study not only draws a comparative analysis of aerosols at two east Antarctic sites\nbut also provides the baseline data on aerosol trace elemental concentration before the third\nIndian Antarctic station, Bharati was commissioned at Larsemann hills.\nKeywords: crustal aerosols, anthropogenic, enrichment factors, East Antarctica\n1. INTRODUCTION\nAntarctica provides the cleanest atmospheric environment, relatively\nuntouched by human activities and isolated by the southern ocean an\ncircumpolar vortex from neighbouring continents. This provides an\nideal opportunity for studying the background of aerosols far from other\ncontinents (Artaxo et al., 1992, Mouri et al. 1997, Arimoto et al. 2008).These\nhigh latitudes are experiencing more rapid climate change than other re-\ngions in our planet which makes them an important natural laboratory to\nobserve the changing climatic effects and further initiate effective environ-\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 61-74\nTrace elemental variability in aerosols near the two\nIndian Antarctic research stations during austral\nsummer\nRoseline C. Thakur*1\n1ESSO-National Centre for Antarctic and Ocean Research,\nHeadland Sada, V asco da gama, Goa-403804\n*roseline.cutting@gmail.com\n62  Roseline C. Thakur\nment management plans for their preservation. To decipher the anthropo-\ngenic inputs related to the increasing research station activities in Antarc-\ntica, it is essential to have a baseline data on the trace metal composition of\nthe aerosols and their possible sources. V arious particulate and aerosol\nmaterial are atmospherically transported over Antarctica (Lambert et al.,\n1990) and get deposited on the snow. However, the mechanisms involved\nin aerosol transport and possible sources are not fully understood (Ikegawa\net al., 1997). Although some studies have documented the human impact\non the Antarctic environment (Wolff et al., 1999;Tin et al., 2009), the defi-\nnition of natural baseline levels of trace metals in Antarctic snow and their\nspatial and temporal variability are still largely unknown. Considering the\nrole of Antarctica as a gauge of global contamination levels and trends,\nsuch studies have significant scientific rationale (Gasparon & Matschullat\n2006). In order to better understand the human interferences in the heavy\nmetal cycling in Antarctic atmosphere and thus impacting the snow depos-\nits, spatially distributed studies are crucial. The study of trace metals in\nAntarctica has been carried out since 1974 to study the long range impact\nof continental pollution (Maenhaut et al.,1983; Weisel et al., 1984, Arimoto\net al., 1985, Arimoto et al., 1987 Zhou et al.,1990). Such studies revealed\nthat large-scale pollution of elements like Pb started in the most remote\nareas of Southern Hemisphere since the 1880s and for elements such as\nCr, Cu, Ag, Bi, and U since the beginning of the twentieth century. Previous\nobservations of trace elements in aerosols were made at South Pole (Duce\net al., 1975, Zoller et al., 1974; Arimoto et al., 2008)  coastal West Antarc-\ntica (Mishra et al., 2004; Saxena & Ruggiero 2013) and coastal east Ant-\narctica (Xu & Gao 2014). Since seasonal patterns of heavy metal concen-\ntrations deposited in snow have been observed in Lambert Glacier basin,\nEast Antarctica (Hur et al., 2007) and signatures of human inferences on\neast Antarctic snow have also been documented (Thamban & Thakur 2013),\natmospheric trace elements over coastal East Antarctica (CEA) need to\nbe studied to infer the sources, mechanisms of transport and deposition of\ntrace elements to Antarctic snow.\nThe source of heavy metal",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Trace elemental variability in aerosols near the two Indian Antarctic research stations during austral summer",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:20:26.985642Z"
+  }
+}

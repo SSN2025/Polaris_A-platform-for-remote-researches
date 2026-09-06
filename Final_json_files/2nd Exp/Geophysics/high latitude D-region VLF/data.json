@@ -1,0 +1,72 @@
+{
+  "id": "article_8",
+  "document_id": "NCPOR-CF9CF5",
+  "source_file": "ARTICLE+8.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/172/3/ARTICLE+8.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Studies  of  High  Latitude  D-Region  Using  VLF  Observations\nA. Sen Gupta, G.K. Goel and B.S.  Mathur\nNational Physical Laboratory New Delhi 110 012 \nINTRODUCTION\nMeasurements of phase variation of 12 9 kHz signals from OMEGA, Argentina (43 0S 65 2 0W)\nwere made at the Indian Antarctic Base Camp (70 0S, 11 0E) during the IInd Indian Antarctica\nExpedition. The path was 5060 km long and traversed mainly mid-high latitudes. The length of the\npath was enough for only the 1st order mode  n = 1 (Wait and Spies, 1964) to be predominant during\ndaytime. The phase recording was made with TRACOR 599K VLF receiver and 1 m 2 loop antenna,\nthe reference being Rubidium frequency standard. The period of measurement was 17.1.1983 to\n16.2.1983.\nRESULTS\nIn the present paper we discuss two features of the phase measurements in light of the\nprocesses taking place in the  high latitude D-region.\nQuiet-time solar control of  the D-region\nIn our previous study during the 1st Indian Antarctic Expedition it was concluded (Sen Gupta,\n1983) that the solar zenith angle control of the D-region lonisation during daytime is identical at low\nand high latitudes. This conclusion was based on VLF phase variation data obtained from a trans\nequational path Goa-ReUnion and a high latitude path Antarctic base-Omega Argentina, during\nthe 1st Indian Expedition. In the present work the above conclusion has been reconfirmed using the\ndata obtained over the Antarctic base-Argentina path.\nIn Fig 1 we show an illustrative example of diurnal phase variation for two successive days in\nJanuary '83. This period is roughly same as that during the 1st expedition enabling a comparison Fig\n2 shows the relationship between the daytime phase in Fig 1 and the parameter (I - cos  x) where  x \nis the solar zenith angle\n and the bar indicates an  average over the propagation path. The relation\nbetween phase and (1 - cos  x)  in Fig 2 is a straight line whose slope is found to be 100. This is in\ngood agreement with the earlier result (Sen Gupta 1983) which showed values of slope around 11.\nWe thus reconfirm our  earlier conclusion that the D-region electron density varies linearly with (1 -\ncos\n x)  and the slope  of this variation is identical at equatorial and high latitudes region during\ndaytime.\nStorm time behaviour\nFig 3 shows a sequence of phase variations on six days, 3 8 February, 1983. During this period\nthere was an  enhanced geomagnetic activity as discussed by Rangarajan et al  (1984) 3rd February\nwas a magnetically quiet day and so the phase variation on this day are considered  to be normal quiet\ntime behaviour. On 4th February at 2145 IST there was a Storm Sudden Commencement (SSC)\nfollowing which there was severe geomagnetic activity on 5th, 6th and 7th February, 1983. This was\nrecorded by the total field magnetometer set up at the base camp by the II G group (Rangarajan,\nPrivate Communication). On examining Fig 3 we find that following the SSC there is a sudden phase\nanomaly (SPA) with a slow and gradual recovery On the following day 5th February the daytime\n65\nStudies of High Latitude D Region\nphase value is considerably lower than the normal and is undergoing large changes The lower phase\nreading indicates enhancement of the  D region electron demsty This 1 confirmed by the\nsimultaneous Riometer Observations also (Saha etal 1984) as excess absorption event Preliminary\n66\nSen Gupta Goel & Mathur\nREFERENCES\nRangarajan G K L A D Cruz and A R Patil P 53 of this Report\nSaha A K R Venkatachari A Sen Gupta and G K Rangarajan P 63 of this Report\nSen Gupta A (1983) Scientific Report of First Ind an Expedit on to Antarctica Tech Pub No 1 46 52\nWatt JR and K P Spies (1964) NBS Tech Note No 300 \nWesturlund S F II Reder and C Abom (1969) Planet Space Science  17 1329\n67",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "3]Geophysics and Geomagnetism",
+    "subcategory": "Studies of high latitude D-region using VLF observations",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:13.601169Z"
+  }
+}

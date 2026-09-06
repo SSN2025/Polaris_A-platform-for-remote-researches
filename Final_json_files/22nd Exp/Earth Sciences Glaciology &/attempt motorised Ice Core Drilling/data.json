@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_20_2c_pp_199_211",
+  "document_id": "NCPOR-BDF132",
+  "source_file": "Technical+Publication+No.+20%2C+pp+199-211.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/871/1/Technical+Publication+No.+20%2C+pp+199-211.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+20%2C+pp+199-211",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "22] Scientific Report of Twenty Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Second Indian Expedition to Antarctica, Scientific Report, 2008 \nMinistry of Earth Sciences, Technical Publication No. 20, pp 199-211 \nFirst Attempt at Motorised Ice Core Drilling \nduring the Antarctic Summer Season \nArun Chaturvedi and Amar Singh \nGeological Survey of India \nOBJECTIVES \nIn the 22nd Indian Antarctic Expedition, year 2002-03, GSI had sent a \ntwo-member team for Ice Core drilling work. For the first time, this was to \nbe attempted during the summer season, as all the earlier operations of \nmotorised Ice Core drilling were confined to the wintering period of previous \nexpeditions. Moreover, the existing drilling machine was extensively upgraded \nby the suppliers in Japan, and this was to be the first field trial of various \nnew sub-systems of the machine. \nAdditionally, another complementary work was planned. In the 15th \nexpedition, about 160 m of Ice Core was generated from two boreholes. \nSince, at that time, no facility was available in India for the analysis of Ice \nCores, it was decided to preserve this core in a frozen condition in Antarctica \nitself. This entire core was properly packed and lowered in an abandoned \n'Hangar building' near old Dakshin Gangotri (DG) station on the Ice shelf. \nOver the years, this Hangar building was buried by wind-borne snow \naccumulations and was lost. It was a challenging task to locate this buried \nstructure in the vast flat plains of the Ice shelf, then to precisely find out the \nentrance-shaft and finally to try to retrieve all the Ice Core. Thus, the \nassignments were as follows: \nA. Transportation, positioning, assembling and installation of the new \ndrilling machine at a suitable field site. \nB. Test Drilling of the first borehole during the polar summer season \nand raising of ice core samples for the upcoming Ice-Lab in \nNCAOR. \nC. Locating buried and lost DG station structures on the Ice shelf \nand retrieval of 160 m of Ice Core from DG Hangar building. \n200 Arun Chaturvedi and Amar Singh \nTRANSPORTATION & ASSEMBLING OF THE DRILLING \nMACHINE \nThe GSI team had carried out an initial testing of the machine at \nNCAOR in Goa during October 2002. This was done on ice-slabs ordered \nfrom the market! After a successful trial, each part of the drill was carefully \nlabeled and packed for transportation. The drill was shipped to Cape Town \nin South Africa in a\"cargo container and then loaded on to the expedition \nvessel. \nAt Antarctica in January 2003, the drill boxes were opened, taken out \nto the ship-deck and prepared as portable smaller under-slung loads for the \nhelicopters. These loads were airlifted to Maitri station. It is worth mentioning \nhere that the wooden box containing the mast of the drilling-rig was huge \nand unwieldy, but the helicopter pilots prepared a special double hook, added \nsome additional loads to stabilize swinging mast, and transported it efficiently \nas an under-slung load. \nAt Maitri station, all these boxes were loaded in a container and with \nthe help of a crane this container was mounted on a sledge. A field site was \nidentified near Tallaksenvarden nunatak at 70° 51.383' South latitude and \n11° 32.180' East longitude. This site was selected because in the 20lh \nexpedition, i.e. in 2001, a GPR-profile of Veteheia-Tallaksenvarden cross-\nsection was given by WIHG. The container-sledge was towed to the field \nsite by a snowmobile. In addition to the drilling container, one mobile camping \nmodule and one mobile generator unit were also positioned at this site. Four \nbarrels of Aviation Turbine Fuel (ATF) were dropped at the drill site by \nhelicopters. \nIn February 2003, the GSI team shifted to the camp. The altitude of \nthe drill site was 680 m above the msl. Heavy loads like the winch-drum \nwere opened up and earned out manually from the container. The drilling rig \nwas installed. The assembling and fine-tuning of each sub-system of the \nmachine took two days, and finally, the drill was ready for testing. \nTEST DRILLING \nSince there was no drilling shelter, the work had to be carried out in the \nopen. At first, drilling was tried during the daytime. Though the working \ntemperatures were cold enough, ranging from -7°C to -10°C during the \nday, the exposed drill barrels were getting heated up by the sunlight. This \nresulted in frequent jamming of both the barrels due to melting and refreezing \nof snow chips between them. The barrels could only be separated by taking \nFirst Attempt at Motorised Ice Core Drilling 201 \nthem inside a heated chamber and melting the snow-bind. In the absence of \nany drilling shelter, this problem proved insurmountable and day-time drilling \ntrials had to be given up. \nAfter this, drilling was attempted during the night time. In February \nand March, the sun dips to lower angles and the time-slot available between \ndusk to dawn gradually increases from 4 hours to 8 hours. The machine \nworked better due to absence of direct sunlight and colder temperatures, \nranging from -15° C to -20° C. \nHowev",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology & Global Change",
+    "subcategory": "First attempt at motorised Ice Core Drilling during the Antarctic Summer Season",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:26.499157Z"
+  }
+}

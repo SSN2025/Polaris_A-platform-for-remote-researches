@@ -1,0 +1,72 @@
+{
+  "id": "pdf",
+  "document_id": "NCPOR-2FE034",
+  "source_file": "pdf.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/745/1/pdf.pdf",
+  "bibliographic": {
+    "title": "pdf",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "11] Scientific Report Eleventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eleventh Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 9, pp.313-319 \nComparison of Cardiovascular Responses to Cold Stress \nof Summer and Winterover Members in Antarctica \nBIMAL CHHAJER, U.SACHDEVA and M.NAIDU \nDepartment of Physiology \nAll India Institute of Medical Sciences \nNew Delhi- 110 029. \nAbstract \nNine subjects each from eleventh Summer and eighth Wintering teams were studied to \ncompare the changes in the cardiovascular reactivity to cold exposure. Cold immersion test \n(CT) was carried out on these subjects on three occasions and simultaneous record of pain \nthreshold time, blood pressure, heart rate (ECG) were obtained. The results show that the \nnormal reactivity of cardiovascular system to cold exposure gets attenuated after acclimati-\nzation in Antarctic environment. The short summer exposure was sufficient to increase the \ncold induced pain threshold. However, it lasted only for three weeks whereas for winter \ngroups the acclimatization was for a longer period. This indicates different mechanism of \nacclimatization for the two groups. \nIntroduction \nAdaptation to cold results in an increase in the peripheral blood flow in \nhuman subjects. The duration and intensity of cold exposure controls the \nresponses to cold exposure. Adaptation to cold is evidenced by enhanced \ncapacity for heat production, or by modification in the cardiovascular responses \nin human subjects. Cold pressor test or cold immersion test (Singh et al.,1991) \nis a common autonomic function test which is utilised to study cold adaptation \nas well as sympathetic nervous system activation in human subjects. The \nmeasurement of pain threshold time (PTT) during cold immersion test has also \nbeen used as an index of pain tolerance (Leblanc et al.,1960 and Dowling et \nal.,1983). \nThe present study was carried out in 'Maitri', the Indian station in Antarc-\ntica to determine the difference in vascular adaptability in subjects exposed for \nshort (8 weeks of austral summer) and long (10 months of austral winter) \nperiods. Also a correlation of pain threshold to vascular change after cold \nacclimatization in Antarctica was attempted. \n314 Bimal  Chhajer et al. \nMaterial s an d Metho d \nSubjects: \nThe study was conducted on two groups of volunteers, members of summer \nand winter teams. Nin e mal e subjects i n eac h group wer e studied. Group I \n(summer members) had a mean ± SE age of 29.2 ±4. 8 years with the body mass \nindex (BMI ) o f 22.75 ±  2.44 . Group II (winter members) wer e of 29.6 ± 5.6 \nyears with the BMI of 22.56 ± 2.72. \nIn cas e o f Group I  th e experiments wer e conducted o n board shi p fo r \nbaseline data in room temperature of 24 ± 2°C. These were repeated after eight \nweeks of stay in Maitri station. Members of Group II were studied only once \non board ship, three week s after the subjects left Maitri station and were on \ntheir return journey to India. The PTT was recorded in both the Groups at this \ntime. \nProcedure of  cold immersion  test: \nCold immersion test was elicite d by immersing the right hand (upto the \nwrist) of the subject in a  constantly stirred waterbath maintained at 4 ± 2°C . \nThe hand was kept immersed either till the subject complained of pain or to a \nmaximum of 5 minutes. \nThe heart rate (HR), galvanic skin resistance (GSR), blood pressure (BP) \nand pain threshold time (PTT) were also recorded. The HR was recorded by \nthe standard limb lead II ECG tracings taken on a polygraph (Biorite manufac-\ntured b y Medicare systems , India). Th e HR, B P and GSR were recorded 3 0 \nseconds before immersion and again 60 seconds after immersion. The heart rate \ncalculation was done by determining the R-R interval. \nThe B P wa s recorde d fro m th e lef t ar m usin g a  standar d aneroi d \nsphygnomanometer and stethoscope. Korotkoff sound phase V was considered \nfor diastolic pressure measurement. \nGSR was recorded by measuring the electrical resistance with a model ME \ndigital multimeter (MECO, India). Silver chloride button electrodes were fixed \nwith velcro straps around the distal phalanx of the index and middle fingers of \nthe left hand. The hand was cleaned properly by applying soap to remove the \ngrease before placing the electrodes. \nPTT was recorded by a stop watch and expressed in seconds. \nThe statistical analysis was done by paired 't ' tes t for comparison of two \nGroups. \n 31 5 \nResults \nSystolic blood pressure \nThe basal systolic blood pressure before and after the summer stay in \nAntarctica remained the same (121.55 ± 8.83 and 121.0 ± 7.78 mm of Hg, \nrespectively). The basal systolic blood pressure in the wintering subjects was \nlower than that of summer subjects, though the difference was not significant. \nThe cold immersion resulted in significant increase (P = <0.05) in the systolic \nBP of 6.22 ± 2.31 mm Hg after immersion test in basal condition in the ship. \nThis response was attenuated when the same Group was subje",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "5]Medical Sciences",
+    "subcategory": "Comparison of Cardiovascular Responses to Cold Stress of Summer and Winterover Members in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:18:55.063105Z"
+  }
+}

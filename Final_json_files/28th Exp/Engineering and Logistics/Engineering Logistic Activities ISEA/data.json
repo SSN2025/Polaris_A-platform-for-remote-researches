@@ -1,0 +1,72 @@
+{
+  "id": "2_report_of_logistics_team",
+  "document_id": "NCPOR-F8EB3A",
+  "source_file": "2-+Report+of+Logistics+Team.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1135/1/2-+Report+of+Logistics+Team.pdf",
+  "bibliographic": {
+    "title": "2-+Report+of+Logistics+Team",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "From 27th ISEA onward NCAOR has been following a new policy of\nmanaging the logistic tasks by contract employees on NCAOR payroll.\nThis was the second year of this new policy. I am happy to say that as in its\nfirst year, this policy has been tremendously successful in 28th ISEA during\nits second year also. The logistic team achieved this success while working\nunder guidance from the Leader & Station Commander of Maitri.\nThe logistic activities started, soon after our arrival at Maitri, by suc-\ncessfully commissioning the new excavator that was there in Maitri in a\nnon functional state from last year. This vehicle played an important role in\nother logistic activities of this expedition.\nPisten Bully workshop and hands on training for two weeks was\nstarted with Kasbohrer Engineer from Germany on November 16, 2008.\nThe training was completed successfully on 30th November, 2008.\nMaitri is equipped with two sets of water duct lines that are insulated\nand fitted with trace heat elements. One set of damaged water duct lines\nrequired to be changed. We started to change them from 18 th November,\n2008.\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 383-388\nEngineering & Logistic Activities of Twenty\nEighth ISEA\nDR.PRADIP MALHOTRA1*\n1Leader & Station Commander 28th ISEA, Central Health Services,\nCGHS Kolkata *pradip.malhotra@gmail.com\n“Commissioning of a defunct Hydraulic Excavator”\n384 Dr. Pradip Malhotra\nPlanning and execution of LAN layout had started from 8 th Novem-\nber, 2008 onwards. It got completed by 23rd November, 2008.\nFor the sake of safety of scientific instruments fresh earthing con-\nnection was provided to Summer Huts on 11th January, 2009.\nThe long space on the eastern side of the station was found suitable\nfor conversion into Eastern Lounge. This was done on 17th January, 2009\nto provide one corner of the station that the participants may find refresh-\ning & relaxing.\nSnowmobiles were commissioned on 2nd February, 2009 to facilitate\nfaster mobility around Maitri particularly during Polar winters.\nBetween 18th February & 15 th March all the logistic supports were\nprovided to the 28 th ISEA Summer Team. Cargo was unloaded from MV\nEmerald Sea. 400 KL of fuel was decanted and transferred to the storage\ntanks on shore. Summer Team had erected one Wind Mill at Bharati on\n27th January. On 6 th March the first Wind Mill was erected at Maitri. Fi-\nnally the second Wind Mill of Maitri was erected on 17 th March after the\ndeparture of the Summer Team.\n“Damaged pipes of the defunct water duct line”\n“Two Wind Mills installed at Maitri campus”\nOn 2nd March, 2009 during a particularly sudden & strong blizzard \none Helicopter got damaged while it was parked and anchored on the \nHe-lipad 1 at Maitri. This was a big blow to the expedition activities \nbecause after this the mobility of the team got drastically restricted.\n 385    Engineering & Logistic Activities of Twenty....\nLogistic team faced its toughest challenge on the evening of 3rd March,\n2009. While returning back to Maitri from DG, near India Bay, it encoun-\ntered a crevasse and was on the verge of almost losing a vehicle with its\nload. Fortunately every member of the team acted in a disciplined manner\nwith restrain that allowed the V oyage Leader Shri Ajay Dhar to guide the\nentire convoy to safety.\nSummer Team had a very exciting departure on 1 1th March due to\nbad weather. They carried the damaged Helicopter with them in the con-\nvoy to the Ship.\nSalient logistic activities during the wintering period were:\nBringing the Provisions and Fuel from the shelf by convoy was com-\npleted by our Logistic team members by 21st May 2009. While conducting\nthe convoys some oil leakage was noticed from the wheels of newly pur-\nchased Canadian made TIS Axle Trailers. Our mechanics ascribed it to\nsome problem with the oil seal and the wheel hub. While repairing the\ndefect they noticed that the wheel hubs of these brand new trailers were\nfitted with one bearing less on each wheel hub which led to the damage and\nleakage of oil from the oil seal.  Specifications and diagrams provided by\n            “Damaged Helicopter being loaded on the ship”\n“Encounter with a crevasse”\n386 Dr. Pradip Malhotra\nthe company also confirmed that the inner bearing on each hub was miss-\ning. The issue was documented with photographs and a complaint was\nlodged with The Director NCAOR on 14\nth May 2009, for further follow up\nwith the Canadian Company as these trailers were still within the warranty\nperiod. The Canadian company accepted the fault and agreed for compen-\nsation of the damage and the damaged parts on 22\nnd August 2009, during\nthe tenure of 28 th ISEA. The credit of this goes to the Director NCAOR\nand The Program Director Logistic of NCAOR and emphasizes the point\nthat a coordinated, vigilant and quick intervention can result in dramatic\nresults, even in Antarctica.\nOne wind mill was incapacitated on July 12 during a very severe",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "5] Engineering and Logistics Report",
+    "subcategory": "Engineering & Logistic Activities of Twenty Eighth ISEA",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:23:59.848492Z"
+  }
+}

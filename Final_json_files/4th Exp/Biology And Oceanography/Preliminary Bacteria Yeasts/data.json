@@ -1,0 +1,72 @@
+{
+  "id": "article_11",
+  "document_id": "NCPOR-FDAEB1",
+  "source_file": "ARTICLE+11.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/241/3/ARTICLE+11.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+11",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "155 \nA Preliminary Note on Bacteria and Yeasts of Antarctica \nS. Shivaji \nCentre for Celluar and Molecular Biology (CCMB), Hyderabad-500007. \nABSTRACT \nPure cultures of bacteria and yeast have been set up using water, soil and lake sediment samples \ncollected at the Schirmacher Oasis, Antarctica. Conditions for the growth of these microorganisms have \nbeen optimised. Majority of the microorganisms were observed to be psychrophiles and could tolerate \n1M salt in the medium. Preliminary studies on the pigments isolated from the chromogenic bacteria are \npresented. Plasmids have been detected in two out of the twenty bacteria checked. The G+C content of \nthe DNA of some of the bacteria has been determined. \nINTRODUCTION \nMicroorganisms of Antarctica are likely to be unusual, being adapted to extreme cold condi-\ntions. Hence, it would be of interest to investigate the molecular biology of these microorganisms \nwith a view to understand the molecular mechanism of such adaptation. Further, though the ther-\nmophillic anaerobes are considered to be the most primitive, microorganisms of Antarctica are likely \nto be less advanced than the mesophilic bacteria. Hence their study and analysis may shed some light \non the early evolution. With this in view, the microorganisms were collected during the Fourth \nIndian Scientific Expedition to Antarctica (December 1984-March 1985). During the last nine \nmonths, pure cultures of bacteria and yeast have been set up, growth conditions have been estab-\nlished and morphological and biochemical studies have been carried out in an attempt to identify \nthese microorganisms. \nMATERIAL AND METHODS \nWater, soil and lake sediment samples were collected from the Schirmacher Oasis (Queen \nMaud Land, also referred to as Dakshin Gangotri Hill Ranges by India) situated along the coast of the \nAntarctic continent. The geographical coordinates of the oasis are 70°46'S and 11°49'E. The average \nannual temperature is -11°C; during the sampling period (January to February, 1985) the average \ntemperature was -2°C. A dominant feature of the Schirmacher Oasis is the presence of twenty lakes, \nall of which are naturally-created glacial troughs bordered by land surface and rocky mountains. \nThese lakes are separated from the sea by an enormous shelf glacier; the depth of the lakes varies \nconsiderably, from a few metres to tens of metres. \nAbout 150 samples of water, soil and lake sediment were collected at random sites under sterile \nconditions from seven lakes in the Schirmacher Oasis. The samples were plated for the detection of \nbacteria and yeasts, on suitable culture media plates, either directly at the site or after serial dilution \nin the laboratory at the Dakshin Gangotri base camp (the permanent manned station of India), \nsituated 70 km from the Oasis. The plates were incubated at temperatures ranging from 0-10°C and \ncolony counts were determined after three to seven days of incubation. The bacterial medium con-\nsisted of peptone (0.5%) and yeast extract (0.2%) whereas yeast was cultured in a medium containing \nyeast extract (1%) and glucose (3%). Both the media were supplemented with 20% soil extract. The \nsoil extract was prepared from the soil collected around the lakes in Schirmacher Oasis. \nThe morphology, motility, gram staining properties, indole production, catalase reaction, \noxidase reaction and phosphatase reaction by the psychrophiles was determined. For all these tests \nthe cultures were incubated at 20°C. \nBacteria & Yeasts of Antarctica \nFor the isolation of total DNA and plasmids, cultures were grown in 2 litres of media and the \ncells pelleted at late log phase. Cells were lysed and DNA isolated according to the method of Mar-\nmur (1961). The G+C content of the isolated pure DNA was determined following a standard proce-\ndure (Skidmore and Duggan, 1966). The presence of plasmids in the total cell lysates was detected \nusing a rapid procedure employing agarose electrophoresis (Meyers et al., 1976). \nRESULTS \nAll the samples which were plated showed the presence of bacteria and the bacterial counts \nvaried from 1X103 to 1X106 cells/gm of soil or per ml of water. More than 200 isolates of bacterial \ncolonies were picked up and replated onto fresh plates. Subsequently, on the basis of colony morpho-\nlogy, i.e., shape, size and colour, it was possible to isolate and establish forty four pure cultures of bac-\nteria. Preliminary morphological studies indicated that the cultures included predominantly rod \nshaped and coccoid bacteria with a few appearing either like long filaments or like chain of bacilli. \nThe rod shaped bacteria varied in length from short to long and some of them were curved. The cocci \nwere present either as single cells, as pairs or in clumps of three or more. The bacilli were all gram \nnegative but the cocci were gram positive or gram negative. All the rods were motile but the long fila-\nments, chains of bacilli and cocci were not motile. \nBacteria were grown",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "4]Biology And Oceanography",
+    "subcategory": "A Preliminary note on Bacteria and Yeasts of Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:34.137207Z"
+  }
+}

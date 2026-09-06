@@ -1,0 +1,72 @@
+{
+  "id": "chapter_4",
+  "document_id": "NCPOR-54DC43",
+  "source_file": "Chapter+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1132/1/Chapter+4.pdf",
+  "bibliographic": {
+    "title": "Chapter+4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "INTRODUCTION\nThe Antarctica presents the coldest (temperatures between –25 °C\nand –89 °C), driest (average RH 0.03%), and windiest (chilly all-year\nKatabatic winds averaging 15-50 km/h) environment on Earth - a continent\nat the highest average elevation (2300 m above MSL). Due to its extreme\nweather system, and unique geo-location around the South Pole, it is one of\nthe last frontiers for the human race. Medical research in recent years has\nfocused on the life-style of Antarctic expeditionary members, exposed to\nharsh environmental and psychological conditions over a prolonged period\nof time [1]. The Antarctic milieu comes with extreme cold, intense UV\nradiation, white-outs, varying magnetic fields, sleep deprivation, altered cir-\ncadian biorhythms, memory loss, and isolation - causing significant physi-\nological and psychological stresses [2-4].\nThe Antarctic stations offer a unique research environment, as these\nstations built in Antarctica provide simulated environment to prepare space\ncrews for their missions [5], to study atmospheric, geological and biomedi-\ncal research sciences as an analogue of space on earth [6]. These stations\nalso simulate the typical environment in submarines, and underwater habi-\ntats and provide a real-life and real-time observations of human behavior\nand experience similar to the aforementioned conditions. The cold, dry, and\nradiation conditions, as well as difficulty in getting external support in re-\nmote areas in Antarctica where various stations are situated, also simulate\nthe conditions prevailing in Mars [7, 8]. Thus each research station pro-\nvides a unique environment [1, 9], and offer advantages to study human\nphysiological, immunological and behavioral health in natural setting [3].\nThe visiting population is fit; usually young, consumes the same diet,\nexperiences the same environment, isolated from the rest of the world for\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 339-374\nEffect of Antarctic Environment on Immune\nResponse of Indian Expedition Members\n1Dr. Lilly Ganju, Sc. 'F', Dr.KP Mishra, Sc 'D', Smt Sudipta Chanda, TO 'B'\nand Dr . Anand prakash Y adav,\nDefence Institute of Physiology and Allied Sciences , DRDO,\nLucknow Road, Timarpur, Delhi-110054\n1Corresponding Author  e-mail: lganju@rediffmail.com\n340\nlong periods, and is subjected to great seasonal differences in temperature\nand sunlight in terms of light and dark cycles [10, 11]. Medical records\nshow that Antarctica is a comparatively healthier place to live. However,\nhealthy, transient populations who 'winter' in Antarctica, generally come\nfrom the densely populated regions, and suddenly get confined to this ex-\ntreme environment [10]. The wintering expeditioners are totally physically\nisolated for periods of 8 to 13 months [12, 13]. Such population remains\naway from pollution and other health affecting agents such as infectious\norganism and parasites [14-16]. Many people expect medical research in\nAntarctica to be about cold resistance. However, while there is continuing\ninterest in this topic, the real opportunity in Antarctic biomedical research\nlies on evaluation of human physiology in isolated environments [17- 20].\nAlthough, few reports are available on psychology, physiology, endocrinol-\nogy, chronobiology, and epidemiological studies [3], and changes have been\nobserved in various body systems. However, the effect of such stringent\nconditions on immune system of expeditioners during short and long term\nstay in Antarctica have not been explored much. Hence the present study\nwas undertaken to evaluate the immunological changes in Indian Antarctic\nexpeditioners.\nDefence Institute of Physiology & Allied Sciences (DIPAS) has con-\nducted Immunological, Biochemical,  Proteomic and Metabolic studies, on\ntwo teams of Indian Antarctic expeditioners who were the participants of\n28th Indian Scientific Antarctic Expedition from December 2008 to De-\ncember 2009. The participants from summer team (Jan 2009 to March\n2009), were exposed to acute stress while the participants from wintering\nteam (Jan 2009 to Dec 2009), were exposed to chronic stress.  The inves-\ntigations were carried out to observe the effect of multiple stresses like\nship journey, isolation, cold, magnetic field and UV exposure, on human\nimmune responses. For both short and long term exposure study, sera and\nsaliva samples were collected at different stages of the expedition. The\nparameters analysed for immunological studies were cytokines, chemokines,\nand Immunoglobulins, Stress markers Netrin-1, soluble HLA-G , cortisol,\nLeptin and catecholamine. In addition, for biochemical studies, parameters\nlike glucose, cholesterol, triglycerides, SGPT, SGOT, Alkaline phosphatase\nand Creatinine were measured. Numerous low-Molecular weight metabo-\nlites in serum, including lactate, creatine, succinate, glucose, glycoproteins,\nLDL, 3 hydroxy butyrate, tri-methylamine N-oxide (TMAO), and various\n",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 36
+  },
+  "taxonomy": {
+    "category": "4] Biology, Environmental Sciences and Human Physiology",
+    "subcategory": "Effect of Antarctic Environment on Immune Response of Indian Expedition Members",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:22:12.688439Z"
+  }
+}

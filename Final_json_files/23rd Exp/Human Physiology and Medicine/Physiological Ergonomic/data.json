@@ -1,0 +1,72 @@
+{
+  "id": "pages_349_359",
+  "document_id": "NCPOR-06D785",
+  "source_file": "pages+349-359.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/915/1/pages+349-359.pdf",
+  "bibliographic": {
+    "title": "pages+349-359",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic Expedition\nMinistry of Earth Sciences, Technical Publication No. 21, pp 349-359\nPhysiological and Ergonomic Studies at Antarctica\nAbhishek Bharadwaj\nDefence Institute of Physiology and Allied Sciences, Timarpur \nDelhi -  54\nABSTRACT\nPhysiological responses to understand effect of extreme condition, viz. sub zero \ntemperature, low humidity and high wind velocity along with Ergonomic studies were \ncarried out at base station, Maitri during 23r d  summer expedition 2003 -2004. Recordings \nwere made on 14 volunteers from scientific and logistic groups of the expedition team \nbefore the start of voyage, on-board ship to Antarctica and throughout the summer months \nat Maitri (70°45’S, 11°44’E). Physiological parameters like Heart Rate, Blood Pressure, \nHand grip strength and Pedometer studies along with Ergonomic studies and Habitability \nsurvey were carried out. It was observed that heart rate increased from base-line value of 75 \nbpm ±0.13 to 85 bpm ± 0.21 (p<0.001), systolic blood pressure increased from 119.9 mm \nHg ±0.15 to 128.4mm Hg ±0.53 (p<0.001) and diastolic Blood pressure increased from \n79.9 mm Hg ±0.14(SEM) to 84.3mmHg ±0.12 during the voyage (p<0.001). The rise was \npersistent till the 4th  week of stay. Heart Rate and Systolic Blood pressure showed a \ndecline after the 4th  week whereas Diastolic Blood Pressure decline was not significant. The \nrecordings of physiological parameters did not reach pre-voyage (base-line) levels. Energy \nconsumption increased from base-line value of 219 ±0.95 kcal/hr to 297 ± 0.32 kcal/hr \nsuggesting need for more energy during normal walk on Antarctic terrain as compared to \nlevel ground. No change was observed in Handgrip Strength of the volunteers during study. \nThe over-wintering members did suggest the need of improvement for making their stay \nmore comfortable at Maitri. Ergonomic study showed that immediate attention was needed \ntowards electrical and flooring maintenance at the base station workshop.\nINTRODUCTION\nSustaining life at polar station involves many stressful factors. \nMost of the studies carried out at different Antarctic stations have shown \nmarked amount of variations in the physiological parameters of team \nmembers. Extensive studies have been conducted to evaluate the changes \nin body functions induced by various stress at Antarctica. Most researchers\n\n350 Abhishek Bharadwaj\nhave concentrated to study the state of individual function system in response \nto these environmental and psychological stresses (Budd & Warhaft, 1966; \nWyndhan et al., 1964; Wyndhan et al. 1968; Duncan, 1988; Buguet et al., \n1987). Subsequent studies by American, European and Australian \nresearchers started exploring the performance changes as an effect of \nAntarctic exposure (Soroko et al, 1984; Palinkas 1987; Bodey, 1978). It \nwas shown from studies conducted by Kruk et al and Bittel et al, that \nmoderate cold may have minimal effect upon healthy individuals (Bittel et \nal, 1988; Kurk et al, 1991), whereas severe continued exposure has negative \ninfluence. Herr and White showed that due to extreme continuous exposure \nto cold, normal physiological balance of individuals get altered (Herr & \nWhite, 1991). The data available on impact of such extreme conditions \nlikely extreme low temperature, high wind velocity and restricted mobility \non physiological variables, are very limited in reference with tropical \nexpedition members.\nPresent study was conducted on 23r d  Indian Antarctic Expedition \nMembers to elucidate a) the effects of Antarctic environment on physiological \nparameters b) requirement of energy expenditure during normal walking \non Antarctic terrain and c) Ergonomic studies at Indian Antarctic Base \nStation, Maitri (70°45’S, 11°44’E) during 2003 -  2004.\nMATERIALS AND METHODS\nThe observations were made before commencement of journey from \nCape Town, on-board ship and during stay at Maitri (January 2004 to March \n2004).\nSubjects:  Fourteen expedition members gave consent and volunteered \nfor the study. They were aged between 24years and 54 years (38.5± 1.46 \nyears). Their initial weight ranged from 52.48kgs to 78.56kgs (65.52± 1.49 \nkgs) and height between 166cms and 182cms (174± 1.12cms). The \nvolunteers were from scientific and logistic group.\na) Physiological Parameters :_Heart Rate was monitored using Polar \nHeart rate monitor (Polar electro Model No. CE 0537, Malaysia) for 24 \nhours having regular intervals between readings of every subject before, \nwhile travelling and during stay at Maitri. Blood Pressure Monitor was \nmonitored using Oscillation Method based Blood Pressure Monitor (Make: \nOmron CH 606, USA). Hand grip Dynamometer (Jammer, USA) was used \nto measure hand grip strength of each volunteers during travel and throughout \nthe summer months at Antarctica.\n\nPhysiological and Ergonomic Studies at Antarctica 351\nSubsequent recordings of Systolic Blood Pressure, Diastolic Blood \nPressure and Hand Grip Strength at Maitri ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "6] Human Physiology and Medicine",
+    "subcategory": "Physiological and Ergonomic Studies in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:53:48.712706Z"
+  }
+}

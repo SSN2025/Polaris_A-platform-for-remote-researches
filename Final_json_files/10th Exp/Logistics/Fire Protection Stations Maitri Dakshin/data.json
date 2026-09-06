@@ -1,0 +1,72 @@
+{
+  "id": "article_19",
+  "document_id": "NCPOR-AD857C",
+  "source_file": "ARTICLE+19.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/395/3/ARTICLE+19.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+19",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 283-291 \nFire Protection — Indian Stations at Antarctica:\nMaitri and Dakshin Gangotri Hangar Accommodation\nP.CHATTERJEE\nDefence Institute of Fire Research, Delhi\nAbstract\nFire is the greatest safety hazard at Antarctica because of  its dry climate. The fire protection\nsystem at Indian Antarctic St ations - Maitri and Dakshin Gangotri- has been evaluated and the weak\npoints ide ntified. Recommendations have been made for safety of men and material and fire drills\nproposed.\nIntroduction\nDuring past  nine expeditions various problems on \"fire safety\" of men and\nproperty have been experienced by Indian Expeditions to Antarctica. The basic\nreasons for the various problems on  fire and safety faced at Antarctica are due to\nthe hostile weather  conditions as this continent is the coldest, windiest and driest in\nthe world. Besides  these, its rich oxygen content further aggravates the hostile\nnature of environment from fire safety point of view.\nDefence Institute of Fire Research was assigned the job to study the adequacy,\npossible improvement and efficient support of \"fire safe\" condition for men and\nproperty at Antarctica - Maitri and Dakshin Gangotri hangar accommodation.\nIndian Stations\nDakshin Gangotri: The first Indian permanent station at Antarctica was con-\nstructed on ice-shelf in 1983 to provide necessary accommodation and facilities to\nthe Indian expedition. Th e complete construction was made of marine ply with PUF\ninsulation in between the ply. For the purpose of maintenance and shelter of various\nvehicles being used at Antarctica, a hangar accommodation was built in 1985. This\nhas, like the main station, got burried under the snow but is still in use by extending\nthe entry chute of the hangar. Presently it is being used only for temporary\naccommodation for the winter team who have to undertake convoys for transporting\nfuel from DG to Maitri station.\n284 P. Chatterjee \nMaitri: This permanent station, presently in use, is in Schirmacher Oasis. It is\nmainly constructed as one compact unit. However, the noise pollution due to\ngenerators, a separate accommodation for housing the generators was built this\nyear. The main block of the station which is centrally heated using radiators of 1000\nK cals/h capacity each, consists of standard modules of 10' X 8' made of marine ply\nsandwiched by PU foam as thermal insulation material and interconnected by\nconnectors. The modules have been lined internally by a fire retardant material\nnamely gypsum board and externally by plastisol coated G.I. sheets, 34 such\nmodules have been connected to accommodate 25 members. The remaining space\nis used as office, clinic, transmitter room and meteorological laboratory. Lofts have\nbeen provided on top of these living modules which are used for storage purposes.\nOn the eastern side the main block is extended to house the greenhouse. The block\n'A' provides accommodation for workshop, laboratory, cold storage and power\nsupply. At present 4 no. of 62.5 kVA generators are housed in this block. The block\n'B' accommodates central heating system, the kitchen, bathing cubicles and chemi-\ncal toilets (not in use). The block 'C pr ovides accommodation for 5 no. of\nincinerator type toilets.\nFire Hazards\n(a) Dakshin Gangotri hangar accommodation \nOn 6th Feb '91, a fire took place in the link block of hangar accommodation at\nDakshin Gangotri burning down the service facilities. Because of these reasons, it\nis recommended that this accommodation may not be used in future.\n(b) Maitri station \nThe main fire hazard in Maitri station are in the following areas:\ni) Boiler room\nii) Power generation room\niii) Drying room\niv) Electrical heaters\nv) Incinerator toilets\nThe possible causes of fire accidents in Maitri station could be the following:\ni) Electrical short circuiting\nii) Poor house keeping\niii) Failure of thermostat of the central heating system\n285Fire Protection —  Indian Stations at Antarctica ... \niv) Human delay response espacially due to reduced reflexes in Antarctic con-\nditions\ny) High wind and dry condition with oxygen rich environment helping to\naggravate the fire\nvi) Toilet incinerator system\nFire Protection System\nSmoke detector. The complete Maitri station has been provided with ionization type\nsmoke detectors. They are spot type, self contained with alarm. They were found to\nbe quite sensitive and effective. They have been well arranged and distributed\nthroughout the station. The smoke detectors installed in the lofts have been divided\ninto two zones for alarm purposes. However, some of these were non-operational\ndue to nonavailability  of batteries.\nHeat detector. They have been used as additional protection in generator room and\nboiler room. These too have been found working satisfactorily.\nPortable fire extinguisher : Halon 1211, CO 2, DCP and soda acid extinguishers are\navailable in sufficient quanti",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "6]Logistics",
+    "subcategory": "Fire Protection—Indian Stations at Antarctica; Maitri and Dakshin Gangotri Hangar Accommodation",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:16.732821Z"
+  }
+}

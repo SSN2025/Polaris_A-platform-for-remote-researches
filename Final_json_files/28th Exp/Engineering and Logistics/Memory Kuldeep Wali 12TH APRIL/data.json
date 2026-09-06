@@ -1,0 +1,72 @@
+{
+  "id": "3_elegy_of_kuldeep_wali",
+  "document_id": "NCPOR-C16785",
+  "source_file": "3-+Elegy+of+Kuldeep+wali.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1138/1/3-+Elegy+of+Kuldeep+wali.pdf",
+  "bibliographic": {
+    "title": "3-+Elegy+of+Kuldeep+wali",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Shri Kuldeep Wali a professional meteorologist with India Meteoro-\nlogical Department was deputed to Antarctica as a member of the winter\nover team of the 28 th Indian Scientific Expedition in November 2008 and\nwas expected to return back by November 2009.\nAn intelligent scientist, adorable multifaceted personality and an en-\nergetic member of the team who would bring smile to many faces, would\ngo an extra mile to help others as also would stand by in the hour of need,\nis no more with us.\nBorn on 12th April 1952, Shri Kuldeep Wali passed way on Monday\nthe 1st June 2009 at Indian Research Base Maitri, Antarctica in service to\nthe nation.  He suffered a Massive Acute Myocardial infarction at 11:45\nUTC (17:15 Hrs IST). Doctors struggled hard with all possible treatment\nbut could not revive him and he bid farewell due to a natural death to this\nmortal world at 12:20 UTC (17:50 Hrs IST). He is survived by his wife\nSmt. Rita Wali and daughter Ms. Ranshu Wali.\nShri Kuldeep Wali left NCAOR, Goa on the 17 th November 2008\nalong with the second contingent of the 28th ISEA. Took Emirates flight in\nthe early hours of 18 th November 2008 from Mumbai and reached Cape\nTown, South Africa via Dubai the same day in the afternoon. After a brief\nstopover in South Africa the team left Cape Town onboard ALCI flight D4\non 21st November and reached Novo Runway, Antarctica in the early hours\non 22nd November 2008. Ever since, he was actively involved in research\nand worked until the last.\nHis contributions to Antarctic science will always be admired by fu-\nture generations. Shri Wali will always remain in the hearts of fellow\nAntarcticans and remembered with fondness.\nWith profound grief and sorrow we at Indian Research Base, Maitri\nAntarctica and at National Centre for Antarctic & Ocean Research, Goa\ncondole the death of Shri Kuldeep Wali and pray to God almighty may his\nsoul rests in peace and for strength, courage and solace to the family to\nbear the irreparable loss.\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 389\nIn Memory of Kuldeep Wali\n12\nTH\n APRIL 1952 - 1\nST\n JUNE 2009",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 1
+  },
+  "taxonomy": {
+    "category": "5] Engineering and Logistics Report",
+    "subcategory": "In Memory of Kuldeep Wali (12TH APRIL 1952 - 1ST JUNE 2009)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:23:54.313499Z"
+  }
+}

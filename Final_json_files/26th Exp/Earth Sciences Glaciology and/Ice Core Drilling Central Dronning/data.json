@@ -1,0 +1,72 @@
+{
+  "id": "321_342_pg",
+  "document_id": "NCPOR-65BFFC",
+  "source_file": "321-342+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1063/1/321-342+pg.pdf",
+  "bibliographic": {
+    "title": "321-342+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "321\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 321-342\nIce Core Drilling in the Central Dronning Maud Land\nand Snow Studies in the Larsemann Hills Region:\nField Activities and Initial Results\nMeloth Thamban1 and P. K. Shrivastava2\n1National Centre for Antarctic and Ocean Research\nEarth System Science Organization (ESSO),\nMinistry of Earth Sciences (Government of India)\nHeadland Sada, Vasco-da-Gama, Goa - 403 004 INDIA\n2Geological Survey of India (Polar Studies Division), NH-5P, N.I.T.\nFaridabad - 121001 INDIA\nABSTRACT\nDuring the 26th Indian Scientific Expedition to Antarctica (ISEA), two shallow\nice cores were recovered from different sites in the Nivlisen ice shelf, north of the\nSchirmacher Oasis. While the IND-26/B6 ice core (70º11’57.4\" S latitude and 12 º\n27  25.1\" E longitude) was drilled up to a depth 75 m, the second core IND-26/B7\n(70º 13.804 S latitude and 11º 55.738 E longitude) reached a depth of 55 m.\nAdditionally, 55 surface snow samples were collected along three transects in\ndifferent regions (Larsemann Hills region, Publications Ice Shelf and part of the\nAmery Ice Shelf and the adjoining inland) within the logistic proximity of the\nproposed new Indian station Bharati. Environmental analysis using multiple proxies\nlike ionic chemistry, trace elemental chemistry, micro-particle concentration, and\nmicrobial diversity in the snow samples provided a wealth of scientific information\non the chemical and biological interactions of the snow deposits with the\natmosphere. The ice cores have been studied for the electrical conductivity\nmeasurements (ECM) and stable oxygen isotope concentrations. The laboratory\ndata revealed large scale variability in the ECM and isotope parameters in the past,\nsuggesting significant changes in the environmental and climatic parameters during\nthe past several decades.\nINTRODUCTION\nThe Antarctic continent itself makes up about 10% of the land surface\nof the Earth with the combined area of the ice sheets and ice shelves being\nabout 14 x 10\n6 km2 (Stonehouse, 2002). Ninety eight percent of Antarctica\n322\nis covered by thick ice sheets that contains about 90% of the world’s\n‘permanent’ ice and 70% of its fresh water. The Antarctic Ice Sheet is\npresently the largest and longest-lived ice mass on earth. The Antarctic ice\nsheets in its present form are nearly 2.5 to 3 million years (Ma) old and\nhave an average thickness of 2,400 m and reaches a maximum thickness of\n4,786 m. Additionally, the sea ice surrounding the Antartic continent has a\nmaximum winter extent of about 20 million km\n2, the seasonal waxing and\nwaning of which is one of the largest seasonal signal on planet Earth. The\ncryosphere, hydrosphere and atmosphere in and around Antarctica are the\nclosely interactive components of a complex climate system, with global,\nregional, as well as local influences. Therefore, Antarctica has a crucial\nrole to play in understanding the global change. Considering the physical\nand dynamical enormity of the Antarctic ice sheet, it is essential to estimate\nthe glacier dynamics of this region for understanding the mass balance of\nthe global ice sheets. The undeniable finding of global warming scenarios\nby the Intergovernmental Panel on Climate Change (IPCC, 2007),\nnecessitates the monitoring and evaluation of climate change effects on\nglaciers and ice sheets of Antarctica. Studies on the ice sheet and its\ncontribution to world sea level rise are also vital to our understanding of\nglobal change. The frozen archive of the Antarctic snow and ice is also an\ninvaluable source of information on climate and environmental history\n(Stenberg et al., 1999). Further, Ice shelves around Antarctica are important\nelements in the climate coupling of the Antarctic ice masses. The ice shelves\nthemselves have intensive interactions with the atmosphere (through ice\naccumulation and ablation, radiation and albedo) and with the ocean\n(through bottom melting and freezing, iceberg calving). Hence, ice shelves\nare particularly sensible to climatic influences and changes.\nAntarctic snow and ice represent one of the most pristine and high-\nresolution environmental archive on the Earth for understanding the\nenvironmental and climatic history of the globe in general and southern\nhemisphere in particular. Ice cores drilled from carefully selected sites from\npolar and tropical regions provide palaeo-environmental records on a\ncentennial, decadal, annual and even seasonal timescales (Blunier et al.,\n1998; EPICA, 2006). The potential of ice cores for environmental\nreconstruction and the lack of ice core data from the central Dronning Maud\nLand (DML) encouraged Indian researchers to initiate ice core drilling\nsince the mid 1990s. The initial data from this region indicated the utility\nof ice cores as high-resolution archives of climate change during the past\nMeloth Thamban and P . K. Shrivastava\n323\ncentury (Nijampurkar et al., 2002). However, in the ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 22
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology and Climate Change",
+    "subcategory": "Ice Core Drilling in the Central Dronning Maud Land and Snow Studies in the Larsemann Hills Region_ Field Activities and Initial Results",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:03:17.084730Z"
+  }
+}

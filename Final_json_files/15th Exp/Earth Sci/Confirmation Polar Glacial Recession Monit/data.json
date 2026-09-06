@@ -1,0 +1,72 @@
+{
+  "id": "article_24",
+  "document_id": "NCPOR-FC8AD6",
+  "source_file": "ARTICLE+24.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/468/3/ARTICLE+24.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+24",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No.13, pp 321-335 \nA CONFIRMATION OF POLAR GLACIAL\nRECESSION BY MONITORING THE SNOUT OF\nDAKSHIN GANGOTRI GLACIER IN\nSCHIRMACHER RANGE\nArun Chaturvedi, Amar Singh, M.P.Gaur, K.V.Krishnamurthy and M J.Beg\nGeological Survey of India\nAbstract\nDakshin Gangotri glacier in Schirmacher range is being monitored by the GSI since\n1983. It was being monitored on an yearly basis from two survey stations. In the 15th\nexpedition, 19 reference points were marked all along the periphery of the glacier and\nobservations were taken on a monthly basis, for one full year. The cycle of advancing,\nbulging, calving and retreating of the glacial front were recorded. It is conclusively proved\nthat the polar glaciers are also markedly retreating.\nIntroduction\nThe movement of a polar glacier  tongue, named Dakshin Gangotri (70°\n45'20\" S lat. and 10° 35' 05\" E long.) in Schirmacher range, is being constantly\nmonitored since 1983 (Kaul et al., 1985), to understand the dynamic changes\nin the continental ice front of Antarctica. This polar tongue (Fig.1) is a remnant\nof an earlier glacier, which was overriding the Schirmacher range and crossing\nit at this point towards north. Glacial striations on the rock surfaces display the\npalaeo- movement directions of the glacier.\nTwo permanent survey stations 'G' and 'H' had been established earlier\nand the observations of the snout were taken from these points. The snout was\nmonitored every year in the months of polar summer, (Jan or Feb). The\nresultant comparative profiles were drawn to record the advance/retreat during\nthe year. One such profile, comparing the outlines of 1995 and 1996, is shown\nin Fig.2.\nDuring the 15th expedition, to enhance the accuracy of the observations,\nthe margin of this snout  was surveyed on 14th February 1996 and 19 more\nreference points were marked all along the periphery of the snout (Fig.3). These\nreference points are marked from 1 to 15, including some sub-points near points\n322 Arun Chaturvedi et al. \nFig. 1: The snout of Dakshin Gangotri glacier in Schumacher range \n4 and 5. The distances from the respective points have been recorded upto an\naccuracy of one cm . With this method of observation, seasonal variations in the\nglacier movement could be monitored during the polar winter  period, even on\na month-to-month basis.\nObservations\nIt has been observed that the glacier constantly moves forward and this\nmovement is quite evident during the months of polar  winter. Again, since the\nupper layers of the glacier move faster than the basal layer, a bulging in the\nupper parts is observed  (Fig.4).  Finally, the bulge becomes so pronounced that\nit becomes unstable and the wall of the glacier develops a crac k and collapses\n(Fig.5).  This results in a net retreat of the glacial front. This is a continuous\ncycle.\nTo this  process, with the arrival of polar summer, another dimension of\nmelting  (Fig.6) is added, culminating in a greater recession of the glacier front.\nThe importance of the melting-factor is also confirmed by  observing the\ndifferential recession between the two walls of  the snout. The present  position\nof the snout has a small proglacial lake facing the eastern wall (Ref- points 1 \nto 8). Almost perpendicular to it, is  the northern wall of the glacier (Ref-points\n9 to 15). Since, at the start of the polar summer, the sun rises in the north and\nalso sets in the north; the northern wall receives more solar radiation than the\nA Confirmation of Polar Glacial Recession  323\nFig. 2 : A comparison of the outlines of 1995 and 1996, the earlier method of \nyearly survey \nSNOUT MAP OF DAKSHIN GANGOTRI\nGLACIER\nSNOUT OUTLINE I 9 9 5\nSNOUT OUTLINE 1996\nG,H SURVEY STATIONS\n324 Arun Chaturvedi et al. \nLocation of NEW SET of monitoring points\nalong the periphery of Dakshin Gangotri glacier\nFig. 3 : The location of 19 new reference points along the periphery of the snout \neastern wall. The result is that the melting, and hence the recession, is more\npronounced on the northern wall of the snout.\nWhen a part of the glacial wall collapses, or when a part near the bedrock\ngets covered with wind blown snow, some points on the periphery of the glacial\nfront may not be approachable. This results in loss of some data from a set of\nobservations. All the monthly observations and the missing details, along with\nthe reference-points and plot-points are shown in Table-l. This inaccessibility\nis greatly enhanced during the months of polar winter, hence there are more\ngaps in data during the winter period.\nAt four of the observation points, ref-5,6,7 on the eastern wall and ref-14\non the northern wall, almost a complete record for the entire year is available.\nA Confirmation of Polar Glacial Recession 325\nFig. 4 : Bulging in the upper layers of the glacier, \ndue to slower basal-layer movement \nThe movement of the glacial front at these four points is displayed in Fi",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "4]Earth Sciences",
+    "subcategory": "A Confirmation of Polar Glacial Recession by Monitoring the Snout of Dakshin Gangotri Glacier in Schirmacher Range",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:52.904939Z"
+  }
+}

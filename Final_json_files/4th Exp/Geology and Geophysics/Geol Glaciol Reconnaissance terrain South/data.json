@@ -1,0 +1,72 @@
+{
+  "id": "article_7",
+  "document_id": "NCPOR-14C158",
+  "source_file": "ARTICLE+7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/237/3/ARTICLE+7.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+7",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "99\nSome Geological and Glaciological Observations during Reconnaissance\nof the Terrain South of Dakshin Gangotri Station, Antarctica\nC.V. Sangewar\nGeological Survey of India, Sector E, Aliganj, Lucknow-226020\nABSTRACT\nDuring the course of reconnaissance of the terrain conditions south of Dakshin Gangotri, and\npossible vehicular route across Wohlthat mountains towards further south, some observations of geolo-\ngical and glaciological interest were made enroute, in addition to the performance appraisal of the snow\nmobiles. The efficiency of the vehicles under various terrain and ice conditions was studied and also\nexercises in establishing communication links between different locations during reconnaissance were\ncarried out. The surface features and secular changes in different types of the Antarctic ice were recorded\nand glacio-geomorphological studies were carried out in Schirmacher Oasis. Geological studies were\nalso carried out which revealed the existence of olivine basalt, hornfels, pyroxenite and skarn rocks in\nthe Skaly IGA nunatak area.\nINTRODUCTION\nDuring the Fourth Indian Expedition to Antarctica, the author was a member of reconnais-\nsance survey team whose objective was to explore a possible route for a vehicle based Expedition to\nthe south pole.\nThe members of the reconnaissance survey team were: 1. Lt. Col. J.K. Bajaj, Leader (Mechani-\ncal Engineer), 2. Sq. Leader Dr. Ranjit Kumar (Physician), 3.C.V. Sangewar (Glaciologist and Geolo-\ngist), 4. Lt. Cdr. A.P.A. Robin (Meteorologist), 5. Lt.  P. Chauhan (Navigator) and 6. Chand Singh\n(Wireless Operator).\nDuring the period  of the team's stay in Antarctica the following exercises an d studies were\ncarried out by the author:\nPERFORMANCE OF THE SNOW MOBILES\nEvaluation of Ski-doo\nSnow scooters were run over fast ice, shelf ice and on the polar ice sheet/polar glacier to assess\nthe gradient these can negotiate; their load carrying capacity; navigational performance; wireless link\nwith the base camp and the communication from them with the other stations. All the features were\ntested. Exercises carried out reveal that the Ski-doo can be utilised for traverses on the shelf from the\nstation within a radius of 40-50 km, depending upon the availability of fuel. Their full performance on\nthe polar ice could not be tested.\nEvaluation of pisten bulley vehicles\nEvaluation of the pisten bulley vehicles over the sea ice, shelf ice, polar ice sheet and polar\nglacier-their navigation, load carrying capacity with and without sledge, VHP and HP wireless link-\nup with the base camp, negotiation of the crevassed areas were carried out. It was observed that the\npisten bulley vehicles are not ideally suited for work on polar ice and need to be modified for long\npolar journeys. For movement on hard polar ice some gripping attachment shall have to be added to\nthe track of the pisten bulley vehicles.\nGeological & Glaciological observations \nCommunication\nExercises were carried out to establish a wireless link between the ski-doo and pisten bulley,\nbetween pisten bulley and base camp and from one pisten bulley to another pisten bulley. Hand held\nWalkie-talkie (PUNWIRE make), 5 kW set also of PUNWIRE and HF set of MOTOROLA (last two\nbeing mounted in the pisten bulley) were used. These equipment tested were found to be satisfac-\ntory for the required job.\nNAVIGATION IN ANTARCTICA\nIn high latitudes, direction changes quickly with the movement of the observer, meridians con-\nverge and the excessive longitudinal curvature renders the position fixing difficult. Information on\nFig.1. Reconnaissance of area between Base Camp Dakshin Gangotri and Dakshin Gangotri Landmass\n(Schirmacher Oasis) for route to South Pole across Wohlthat Range on pisten bulley vehicles.\n100\n_____________________________________________________________________________________________________________________________________\nSangewar\ntopography of different areas is scarce. Exercises in position fixing and navigation were carried out\nwith a Magnavox 4102 instrument fitted in the pisten bulley, Brunton compass (after correction) and\nsextent.\nAll these  exercises were done in the form of reconnaissance survey, for the possible routes,\nusing pisten bulley vehicles between the base camp and the Schirmacher landmass and 78 km east-\nward and 124 km westward (Fig. 1). The author, besides the exercises not ed above, also carried out\ncertain scientific studies.\nGLACIOLOGY\nThese studies were carried out on fast ice, shelf ice and polar ice.\nThe thickness of the fast ice, in the coastal areas close to the sea during the month of January\n'85 was measured and found, on an average, to be about 1.75 m. The contact between the fast ice and\nthe ice shelf was found to be cracked and fractured apparently due to  tidal wave action. It was\nobserved that the top surface of the fast ice is made up of sacchroidal drift snow, whereas the\nunderlying portion is formed of frozen sea water.\nOn the shelf ice, the previous years annual sno",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "2]Geology and Geophysics",
+    "subcategory": "Some Geological and Glaciological Observations during Reconnaissance of the terrain South of Dakshin Gangotri Station, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:21.246801Z"
+  }
+}

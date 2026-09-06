@@ -1,0 +1,72 @@
+{
+  "id": "article_30_1",
+  "document_id": "NCPOR-32C745",
+  "source_file": "ARTICLE+30_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/474/4/ARTICLE+30_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+30_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 377-380 \nA NOTE ON JOB SATISFACTION LEVEL OF\nSCIENTISTS AND LOGISTIC PERSONNEL IN\nANTARCTIC EXPEDITION\nD. Dutta Roy and N.C. Deb\nIndian Statistical Institute\nAbstract\nRecently attention was paid to assess different psychological phenomena of Indian\nscientists in Antarctic expeditions. Prior studies were conducted to assess personality traits\nof Antarctic expeditioners (Dutta Roy, 1992), differential patterns of state anxiety level of\nscientists across their journey, stay in and return from the Antarctica (Dutta Roy and Deb,\n1996). Scientists and logistic personnel visit Antarctica with defined assignments. During\ntheir work in Antarctica, a barren land, they may face some troubles in performing the job,\nthat rnay result in some changes to their job satisfaction level. Since, no studies paid attention\nto the job satisfaction of Antarctic expeditioners, present study aimed at determining patterns\nof job satisfaction level of both scientists and logistic personnel.\nIntroduction\nJob satisfaction \nThe  term  job  satisfaction was brought to limelight by Hoppock (1935). He\nreviewed 32 studies on job satisfaction conducted prior to 1933 and observed\nthat it is a combination of psychological, physiological, and environmental\ncircumstances that cause a person to say,  \"I am satisfied with my job\". It refers\nto one's satisfaction with phenomenological experience on job. It assesses the\ndifference between individual's expectation and what actually individual re-\nceives. Such  definition indicates the variety  of variables that influence the\nsatisfaction of the individual. In Antarctic expedition, availability of adequate\nequipment to perform job, competencies of  supervisors, interpersonal relation-\nship among  co-workers, opportunity to learn new things determine job satis-\nfaction level  of  the  scientists and logistic personnel.\n378 D. Dutta Roy & N. C. Deb \nJob satisfaction of scientists and logistic personnel \nJob satisfaction varies with the technology (routinised and non-routinised)\nused in performing job. Persons working in routinised jobs are less satisfied\nthan those in non-routinized jobs as they find that the job is boring and possesses\nnothing new to learn. In routinised job, the activities to be made are predeter-\nmined and predefined as a result, the job holder may arrange adequate equip-\nment beforehand, due to prior experience. This reduces their anxiety in\nperforming the job satisfactorily. Usually the job performance of logistic\npersonnel is more routinised and predetermined than that of the scientists.\nScientific job is innovative in nature. Prior arrangement for all equipments and\nknowledge related to scientific work is relatively less possible in scientific jobs.\nThis may lower their job satisfaction level.\nHypothesis\nIn considering the above, it was hypothesised that there would be signifi-\ncant difference in levels of job satisfaction between scientists and logistic\npersonnel.\nMethods\nSample\nData were collected from scientists (n=12) and logistic personnel (n=7)\nduring their expedition to Antarctica. Participants were selected following\nrandom sampling procedure. Average logistic personnel were younger (Mean\n= 33.86, SD=5.34) than the scientists (Mean = 39.17, SD = 6.45).\nTools\nLikert type five point standardised rating scale with eight items was used\nfor job satisfaction. Item total correlation indicated no significant relationship\nof two items (item no. 1 and 2) with total score. Scores on these two items were\nnot used in final analysis of data. In considering the six items, the total score\nranged from 6 to 30. Total score higher than 18 indicates higher level of job\nsatisfaction. Reliability coefficient of the questionnaire was determined through\nCronbach's. coefficient alpha. Here alpha value was 0.74, indicating higher\ninternal consistency among set of the items.\nA Note on Job Satisfaction Level of Scientists  379\nResults and Discussion\nOverall Job satisfaction level \nTable-1 shows that both scientists and logistic personnel perceived higher\nlevel of job satisfaction (Mean = 25.16, SD = 3.48). Both groups felt that the\nco-workers were friendly.\nTable 1: Mean difference in job satisfaction between scientists (sc) (n=7) and logis-\ntics personnel (lp) (n=12)\nSI\nno.\n1\n2\n3\n4\n5\n6\n7\n8\n9\nItem\nAll in all, I am satisfied\nwith my job\nI am given a chance to\ndo the things I do best\nI am free from the\nconflicting demands the\nother people make of me\nI receive enough help\nand equipment to get\nthe job done\nMy supervisor is\ncompetent in doing the\njob\nMy co-workers are\nfriendly\nI am satisfied the way I \nam treated by the\npeople I work with\nI am satisfied with the\nchances I have to learn\nnew things\nRevisecUtftal score\n(n=6)\nTotal\ngroup\nmean\n4.21\n4.37\n3.31\n4.05\n3 89\n4.47\n4.21\n4.31\n25.16\nTotal\ngroup\nsd\n0.92\n0.60\n1.00\nL03\n1.10\n0.51\n0.71\n0.88\n3.48\nsc\nmean\n3.92\n3.75\n3.50\n4.33\n4.25\n",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "5]Human Physiology And Psychology",
+    "subcategory": "A Note on Job Satisfaction Level of Scientists and Logistic Personnel in Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:01.572249Z"
+  }
+}

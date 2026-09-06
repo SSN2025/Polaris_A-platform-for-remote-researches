@@ -1,0 +1,72 @@
+{
+  "id": "article_23",
+  "document_id": "NCPOR-7653FF",
+  "source_file": "ARTICLE+23.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/151/3/ARTICLE+23.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+23",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Phytoplankton Organisms Collected During the\nFirst Indian Antarctic Expedition\nJ. I. Goes1 and V. P. Devassy1\nABSTRACT\n28 species belonging to 23 genera were recorded as components of the phytoplankton popul ation collected during the First\nIndian Ant arctic Expedition. Diatoms were represented by 27 species belonging to 20 genera and were distinctly the abundant forms\nat stations near the ice edge. Dinoflagellates and silicoflagellates were poorly represented. Away from ice edge the cocco lithophores\nappeared in large numbers, however, most of the individual cells were too small and ill-defined for species identification.\nINTRODUCTION\nThe outstanding importance of phytoplankton as the first link in the primary food chain is well\ndocumented. Studies on the qualitative characteristics of phytoplankton have received tremendous\nattention because of their relative importance as indicators of movements of water mass, ecological\nconditions, fertility etc. (Gran 1912, Allen 1941 and Braarud et al.,. 1953).\nThese series of samples were collected during the First Indian Expedition to Antarctica in December\n1981. A total of 22 samples covering 13 stations have been collected between 72°S and 40°S on the route\nbetween the landing site at Antarctica and Mauritius (Fig. 1). Since Heron Tranter nets were used\n(vertical haul, 200-0m) for these collections, only a qualitative analysis of the phytoplankton forms could\nbe possible. The species identifications were carried out with the help of the following literature : Van\nHeurck (1896); Lebour (1930); Subrahmanyan (1946); Motoda (1966); Desikachary (1979). In the case\nof coccohthophores, identifications could not be made as they were too small and ill-defined.\nThe list of species of phytoplankton observed is presented in Table - 1. From the Table, it is evident\nthat proliferation of phytoplankton is confined mostly to stations close to ice edge. The relative abundance\nof diatom population as compared to dinoflagellates and coccelithophores can possibly be attributed to\nthe high nutrient content of these waters (Sen Gupta, Personal communication). Smayda (1963) has also\nreported that diatom abundance primarily reflected high nutrient concentrations. However, Wimpenny\n(1966) explains that diatom abundance as compared to coccolithophores in the polar seas may be due to\nthe lower temperatures which favour the precipitation of silica of the diatom cell wall, whereas with\ncalcium carbonate, which forms the cell wall of coccolithophores it is just the opposite. Perhaps this may\nalso explain the comparatively larger forms of diatoms observed in these polar waters as compared to\ntropical forms of which Rhizosolenia  which extended to a considerable size of 1.2 mm along the\nlongitudinal axis and Coscinodiscus which attained a diameter of 0.45 mm, deserve special mention.\nRhizosolenia spp. appeared in large numbers in the collections made at stations near the ice edge. At\nstation G-2 which was closest to the ice edge, there was a very conspicuous mixed diatom bloom, which\nmainly comprised of species of Fragilaria and Rhizosolenia. Ivanov (1959) has also observed massive\nproliferation of diatoms at stations close to the ice edge in the southern seas which he attributes to the\n. increased content of biogenic substances.\nPhytoplankton numbers showed a steady decline at stations farther from the ice edge. Station G-12\nhowever, showed a considerable increase in the number of forms as compared to other adjacent stations\nlocated away from the ice edge. Perhaps, this is due to the location of station G-12 in the Antarctic\nConvergence, where the cooler southern and the wanner tropical waters meet and form frontal bound-\naries. Such areas have been reported to be the sites of active phytoplankton blooms (Pingree et al., 1975).\n1 National Institute of Oceanography, Dona Paula, Goa-403 004, India.\n198\nJ. I. Goes and V. P. Devassy\no\nAO-\\\no\n50H\n.Fig.: 1 Sampling stations G1-G16\n• denotes stations where phytoplankton collections have been made;\ndenotes stations where phytoplankton collections have not been made.\n199\nANTARCTIC  A  \nPhytoplankton Organisms Collected During...\nTABLE 1 \nList of species of phytoplankton observed \n+ Present\nCollections were not made from stations G-5, G-10 and G-ll\n200\nSpecies\nDIATOMS:\nAchnanihes longipes \nAsteromphalus spp.\nChaetoceros curvisetus \nChaetoceros eibenii \nChaetoceros peruvianus \nChaetoceros spp.\nClimacodium spp.\nCorethron criophilum \nCorethron spp.\nCoscinodiscus centralis \nCoscinodiscus curvatulus \nCoscinodiscus granii \nCoscinodiscus spp.\nDactyliosolen antarcticus \nEucampia zodiacus \nEucampia spp.\nFragilaria cylindrus \nFragilaria crotonensis \nFragilaria nana \nFragilaria striatula \nFragilaria spp.\nGuinardia flaccida \nHemidiscus ovalis \nLauderia glacialis \nLeptocylindrus danicus \nLeptocylindrus spp.\nLicmophora lyngbyei \nNavicula vanhocffeni \nNavicula spp.\nNitzschia seriata \nNitzschia spp.\nPleurosigma spp.\nRhizosolenia calcar-avis \nRhizosolenia hebetataf. \nsemi",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "6]Biology-Flora,Fauna & Ecosystems",
+    "subcategory": "Phytoplankton Organisms collected during the First Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:55.991183Z"
+  }
+}

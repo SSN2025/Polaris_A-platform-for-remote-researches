@@ -1,0 +1,72 @@
+{
+  "id": "article_20",
+  "document_id": "NCPOR-EE65F4",
+  "source_file": "ARTICLE+20.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/531/3/ARTICLE+20.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+20",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. 15, PP 221-231 \nECOLOGICAL STUDY OF ALGAL FLORA OF\nSCHIRMACHER OASIS OF ANTARCTICA\nS.C. Singh\nBanaras Hindu University, Varanasi\nAbstract\nInvestigations were conducted in the Schirmacher oasis of\nAntarctica on the algal and cyanobacterial flora. However their diversity\nis not fully known as often collections have not been made from all\nhabitats on a techniques have been inadequate fo r recognition of the\ntotal flora. Identification can be unreliable and are often left at generic\nlevel. Despite this it seems that they largely comprise cosmopolitan\nspecies but at a reduced diversity relative to other regions. Among the\ndifferent species of algae, the cyanobacterial dominance was recorded.\nPhormidium and Nostoc species were much more dominant.\nIntroduction\nAntarctica covers an area of about 14,000,000 sq. km.\n(5,400,000 sq. miles). The Antarctic circle (66°33's) defines the\narea where there is continuous sunlight in s ummer and continuous\ndarkness in winter. Antarctica provides a harsh environment for\ngrowth and survival of organisms. Nevertheless, terrestrial and\naquatic organisms are encountered in restricted areas and therefore\npresumably have special physiological features enabling them to\nsurvive at low temperatures and prolonged period  of darkness (Fogg\n& Home 1970). There are numerous organisms, which s urvive the\nremoval of all or almost all their cellular water without irr eversible\ndamage mainly by suspending their metabolism in dry  state. Such\norganisms are referred as desiccation tolerant (Bewely 1979). Many\ncyanobacteria expresses marked tolerance to desiccation (Potts & \nFriedmann 1981, Brock 1975, Whitton et al. 1979; Whitton & \n222 S.C. Singh \nPotts 1982). Following pioneering investigations of the algal flora\nof the Victoria Land by West & West ( 1911) and Fritsch (1912,\n1917) several investigations have been conducted to study the\npatterns of distribution and taxonomy of algae in continental\nAntarctica (Hirano, 1965, 1979; Parker et al., 1972; Karasawa & \nFukushima, 1977; Priddle & Belcher, 1981, 1982; Broady 1982,\n1989; Hawes, 1989; Howard Williams et al 1986).\nIn this report, we present results on distribution of algae\nmainly cyanbacteria from Schirmacher oasis.\nStudy Site\nThe Schirmacher oasis (70° 46' 04\" - 70° 44' 21\"S; 11\no\n49' 54\" - 11° 26' 03\"E), Dronning -Moud land, is approximately\n70 km south of princes Astrid coast. It has a maximum width of\n3km and a length of 20 km and is oriented in east-west direction.\nAverage annual temperature is -10\no\nC and mean wind velocity of\nabout 10 ms-1. Average precipitation (snow) ranges between 250-\n300 mm and relative air humidity is 50 percent. During polar\nsummer ice melts and water flows often into lakes. Two types of\nstreams were observed, der ived from glaciers, or from snow. Some\nterrestrial type of habitat of algae is summarized in Table 1.\nTable I : Summary of habitats of terrestrial algae in Antarctica.\nAlgal community Habitat\nLithophytic On or within rock substrata\nEpilithic On external, exposed surfaces\nEnolithic Within diaphanous rocks, up to a few mm.\nbelow the surface\nChesmoendolithic Within fissures and cracks open to the rock\nsurface.\nCryptoendolithic Within minute cavities inside the rock\nmatrix.\nHypolithic On the water surfaces of diaphanous stones\nlying on soils.\nEcological Study of Algal Flora of Schumacher oasis of Antarctica  223\nEdaphic On the surface of and within soils classified\nbroadly as:\n(i) alumic mineral soils,\n(ii) biogenic soil s enriched in  nutrients by\nbird and seal activity,\n(iii) brown earth soils which are restricted\nto Maritime Antarctica where they are\nfound only below the two Antarctic\nvascular plants ( Walton, 1984).\nEpiphytic On the living surfaces of mosses and\nliverworts.\nCryophilic Between ice crystals in surface layers of\nmelting snow.\nMaterials an d Methods\nAlgal growths were usually visible to the naked eye as vivid\ngreen or blue green growths an d occasionally less than 10x hand\nheld lens. The presence of  chasmolithic algae was ascertained by\nsplitting rocks with a geological hammer. Algal samplers were\nremoved into sterile polythene bags using clean forceps. All samples\ncollected were brought to the field station and examined using\nbright field microscopy with magnifications up to 1000x.\nFew terrestrial algae from macroscopic growths which can be\nidentified by their visual appearance  Prasiola crispa and Nostoc\ncommune are the most frequently noted species and are often\nrecorded in general  botanical surveys. (e.g. Smith, 1972; Longton\n1973). Enrichment of  cultures, e.g. soil moist plate enrichment\ncultures (Lund, 1945) to stimulate the growth of a range of taxa\npresent in low numbers.\nMany terrestrial microalgae was identified with confidence\nonly following their isolation and study of unialgal culture. Alsi the\nmedium and growth conditions ar e selective for partic",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "4]Bio-Sciences",
+    "subcategory": "Ecological Study of Algal Flora of Schirmacher Oasis of Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:21.175764Z"
+  }
+}

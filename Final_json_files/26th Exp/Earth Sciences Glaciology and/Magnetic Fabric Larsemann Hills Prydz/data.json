@@ -1,0 +1,72 @@
+{
+  "id": "279_287_pg",
+  "document_id": "NCPOR-D396C1",
+  "source_file": "279-287+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1057/1/279-287+pg.pdf",
+  "bibliographic": {
+    "title": "279-287+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "279\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 279-287\nMagnetic Fabric Studies in Larsemann Hills, Prydz\nBay Region, East Antarctica\nM. K. Pandit\nDepartment of Geology, University of Rajasthan, Jaipur – 302004\nABSTRACT\nLarsemann Hills region, East Antarctica was studied for directional magnetic\nproperties of magnetic susceptibility, known as the Anisotropy of Magnetic\nSusceptibility with the objective to obtain further constraints on Precambrian\ngeological evolutionary history of the region. This independent approach provides\nsupportive data for evaluating deformation history with the advantage that even\nweak fabric anisotropies can be recognized and documented, therefore useful in\ndiscriminating initial deformation or overprint of sedimentary fabrics. Rock\nunits, various pelites and granite gneisses in the Larsemann Hills region\ndocument a diachronous geological evolutionary history which includes a\nPaleoproterozoic felsic/mafic gneiss basement over which younger supracrustal\nsequence of pelitic, psammitic and felsic para-gneisses were deposited. The\nregion has undergone two major phases of metamorphism at ca ~1Ga and during\nEarly Palaeozoic (~500 Ma), the latter a medium- to low-pressure granulite-\nfacies metamorphism at ~7 kbar pressure and 800 – 850 ºC temperature.\nSeveral episodes of deformation and intrusions of granities and pegmatites are\nreported from this region.  During field studies the NE – SW trending and\nmoderately dipping S2 foliation was observed as the most prominent deformation\nphase. The foliations have been associated with tight isoclinal F1 folds while the\nS2 foliation itself has been folded along moderately tight to open F2 folds with\nfold axes varying from 35º to 57º towards 30º to 125º. The terminal deformation\nphase has resulted in broad open warps.\nA total of 53 on-site oriented samples were selected and studied for AMS\nusing standard techniques. The data were plotted on Schmidt Net to identify\nAMS principal axes. The magnetic fabrics reflect preferred-orientation of all the\nconstituents of a rock viz. the ferromagnetic, paramagnetic and diamagnetic\nminerals. Magnetic fabric studies carried out on quartzo-feldspathic gneiss\n(ortho-gneiss) and amphibolite from the Schirmacher Oasis, Magnetic fabric\nanalysis has identified magnetic susceptibilities  in the range of paramagnetic to\nmixed-type (paramagnetic + ferromagnetic), related to biotite and hornblende\n280\nsubfabrics. The magnetic fabric anisotropies allow two possible groupings\ncharacterized by prolate (linear) and oblate (planar) geometries.\nKeywords: Larsemann Hills, East Antarctica, Magnetic Fabric, Pelitic rocks,\nGranite gneiss\nINTRODUCTION\nDirectional magnetic susceptibility, the Anisotropy of Magnetic\nSusceptibility (AMS), an important rock magnetic property, has been\nestablished as a suitable tool for qualitative and quantitative\ncharacterization of rock fabrics (for details see Hrouda, 1994; Borradaile\nand Henry, 1997; Martin-Hernandez et al., 2004). AMS can offer a\nwealth of applications in conjunction with geological and structural data\nfor evaluating deformation history of the terrane. Besides providing\nsupportive data for evaluating deformation history of the region the\nadvantage of the AMS method is its high sensitivity for detection of even\nweak fabric anisotropies. Therefore it is especially useful in discriminating\ninitial deformation or overprint of sedimentary fabrics (Parés et al.,\n1999, de Wall & Warr 2004).  In addition, the directional fabric can be\nrecognized in magmatic rocks where no visible fabric is seen, especially\nin case of apparently undeformed magmatic rocks. AMS studies in the\nLarsemann Hills region, East Antarctica, were undertaken with this\nbackground as a parallel study to complement the efforts of the Antarctic\nDivision of Geological Survey of India for a better understanding of the\ngeological evolution of this region.  Field work was carried out in team\nwith the geoscientists of Geological Survey of India during as part of the\n26\nth Indian Scientific Expedition to Antarctica (January – April 2007).\nGeological Background of Larsemann Hills\nLarsemann Hills in the Prydz Bay region in East Antarctica\ndocuments a diachronous geological evolutionary history which includes\na Paleoproterozoic felsic/mafic gneiss ensemble as the basement overlain\nby a younger supracrustal sequence of pelitic, psammitic and felsic para-\ngneisses. The depositional age of the younger rocks is still uncertain,\nhowever, some isotopic data trace their lineage to the older gneisses. The\nregion has a well documented record of two metamorphic events at ca\n~1Ga and during Early Palaeozoic (~500 Ma). The region experienced\nmedium to low pressure granulite-facies metamorphism during the early\nM. K. Pandit\n281\nPalaeozoic, characterized by peak metamorphic conditions at ~7 kbar\npressure and 800 – 850 oC  followed by decompression with 2-3 kbar\npressure and 650 o",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology and Climate Change",
+    "subcategory": "Magnetic Fabric Studies in Larsemann Hills, Prydz Bay Region, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:07:03.225480Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_18",
+  "document_id": "NCPOR-35B45D",
+  "source_file": "ARTICLE+18.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/189/3/ARTICLE+18.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+18",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Indira Mount — An Underwater Mountain in the Antarctic Ocean\nH. N. Siddiquie1, G. C. Bhattacharya1, M. C. Pathak1 and S. Z. Qasim2\nABSTRACT\nA major topographic high on the seabed at 53° 39.79' S and 47° 55.82' E was discovered during the First Indian Expedition to\nAntarctica.. This has been named. \"Indira Mount\". The mount rises from a depth of about 4500 m to about 1200 m and has a number\nof peaks. One of these peaks rises to within 880 m of the sea surface. The apparent width of the mount at the base appears to be about\n185 km and at the summit it is about 134 km. The mount is associated with a composite magnetic anomaly of the order of 1000\ngammas. The multiple peaks and high magnetic anomalies indicate that the mount is largely composed of volcanic rocks and perhaps\nthe pile of lava did not reach the surface. Magnetic data indicate heterogeny in the magnetic property of the mount perhaps due to\nmore than one episode of volcanic activity.\nThe limitations in the data collected along a single track do not permit the demarcation of the extent of the feature. However, in\nall probability the data suggest that it is not recorded before or may belong to an extensive submarine mountain range. The discovery\nof this hitherto unreported seamount will have an important bearing on the geological history of the Antarctic Ocean;\nINTRODUCTION\nThe knowledge of the depths of the sea is basic for all oceanographic research and development. The\ntopography of the seabed, to a large'extent, reflects the structure, tectonics and geological history of the\nseabed. With increasing interest in marine, research and surveys, large areas of the seabed have been\ncharted and the bathymetry and morphology of the ocean floor is becoming fairly well known today.\nHowever, some areas particularly those which are relatively inaccessible, as these are not on the regular\nshipping routes, have not been properly charted. Such areas include the seas around Antarctica.\nThe First Indian Expedition to Antarctica had carried out extensive echosounding from the ship MV\nPolar Circle  covering more than 17000 line kilometres. The data are still being analysed. However,\ncontinuous monitoring of the echosounding records during the expedition led to the identification of areas\nof immediate interest and the data for these regions have been analysed on a priority basis. The expedition\ndaring its voyage from Mauritius to Antarctica recorded a topographic high which has not been previously\nreported (British Admiralty Chart No. 3171 and the Geological Geophysical Atlas of the Indian Ocean,\n1975). The expedition team named this as \"Indira Mount\"  after Shrimati Indira Gandhi, the Prime\nMinister of India.\nRESULTS\nBathymetry\nThe echograms of the voyage from Mauritius to Antarctica show a complex topography of the South\nWest Indian Ridge, This is followed by a relatively even topography of the Crozet basin, the Crozet\nplateau and then a uniformly plain topography of the South Indian Ocean Basin. Within this plain and\neven topography, from a depth of about 4500 m, rises a hitherto unreported topographic high at latitude\n53°39.79'S and longitude 47°55.82'E. The details of the topographic high are shown in Figs. 1 & 2. The\nnorthern flank of the high rises to about 1240 m and the southern flank to about 1480 m below the sea level.\nThe'topographic high has multiple peaks with a relative elevation of 40 to 1400 m from the base of the\nsummit and one of these peaks reaches to 880 m below the sea surface. The apparent width of the high at\nthe base is about 185 km and at the top 134 km. The flanks of the mount are fairly steep, the apparent slope\nranges from 1:25 to 1:3.7 in the north and 1:6.5 in the south (see Fig.3). The topographic high is marked by\na depression at the base of the southern flank which may possibly be caused by deep sea currents (Roberts,\nHogg, Bishop and Flewellen, 1974).\n2 Department of Ocean Development, South Block, New Delhi -110 001, India.\n161\nIndira Mount — An Underwater...\nFig. 1 : Map showing the bathymetry of a part of the Antarctic Ocean with the Indira Mount. The figure\nis based on sheet 7 of the bottom topography of the Indian Ocean in the Geological-Geophysical\nAtlas of the Indian Ocean (1975). 0-0, track of the First Indian Expedition to Antarctica; 0,\nsatellite positions; fine dotted lines, tracks of the other vessels. Depths in metres are shown only\nin a part of the track.\nMagnetics\nValues of the earth's total magnetic field were obtained along the track from a Geometries marine\nproton precession  magnetometer (model G 801/3) towed behind the ship. The analog data recorded on a \nstrip chart recorder were manually digitized. The values of residual magnetic anomaly were calculated by\nremoving the International Geomagnetic Reference Field (IGRF) for the 1981.9 epoch as a regional field.\nSo far, the data on diurnal observations could not be obtained from the nearby magnetic observatories,\nand therefore, the diurnal corrections have not been ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "5]Geology,Geophysics,Geomagnetism & Glaciology",
+    "subcategory": "Indira Mount — an underwater mountain in the Antarctic Ocean",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:43.040116Z"
+  }
+}

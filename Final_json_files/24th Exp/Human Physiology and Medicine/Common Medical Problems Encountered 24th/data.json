@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_24a",
+  "document_id": "NCPOR-4F06C7",
+  "source_file": "RRChapter-24A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/966/1/RRChapter-24A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-24A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "339Common Medical Problems Encountered During 24 th IAE\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 339-343\nCommon Medical Problems Encountered\nDuring 24\nth\n Indian Expedition to Antarctica\n(Dec. 2004 to March 2006)\nDr. Gautam Bandyopadhyay\nNorth-East Frontier Railways, Guwahati\nOnce in Antarctica, you are sure to forget the miseries in life and\nunhappiness, especially with the facilities provided by Govt. of India at\ntheir permanent research base at “Maitri”. In fact, it is amazing-the way\nprovisions have been made available to the expedition members. Though it\nwill not be appropriate for me to declare on behalf of other members, it can\nbe said without any hesitation that if asked, any of the expedition members\nwould have replied the same, perhaps with more emphasis here and there.\nAs far as the doctors’ job is concerned they should be alert and agile always,\nbut, usually the infrequent occasions when medical help is really needed\nthere, it can easily be extended to the patient because of the simple reason\nthat almost everything is available there, only thing needed is your sincerity\nand enthusiasm to help him/her out. Due to the unique geo-physical\nconditions prevailing over there, infections, per se, is nil during the nine\nmonth-long winter and almost nil during summer as well. Whatever bothers\ndoctors mostly are the varieties of injuries, one can expect there. Yes, the\ndoctors to participate in the Antarctic Expedition should be well prepared\nto handle the injury cases. During the summer period due to hectic activity,\nlots of minor injuries occur and during the long winter months because of\ndarkness, high wind speed and other environmental factors along with\nchanged psychological status account for most of the injuries. Though the\nserious/severe injuries are few and far apart, they may be expected and the\ndoctors should be ready for that.\nAt the outset it may be mentioned that though disease profile common\nin Antarctica is presented here, the word disease did not come to our mind\nat all, as we were all engrossed with the sole idea of new things to see and\nencounter, to enjoy and to act on, to appreciate and to be afraid of, if any.\nHowever, after the initial enthusiasm passed away and with the onset of\nactivity in summer camps as well as at ‘Maitri’ we started getting patients.\n340 Gautam Bandyopadhyay\nThough not many in numbers each and every case was very important to\nthe doctors there because each patient meant an active expedition member\nresponsible for a certain job.  Secondly, physical cases as well as\npsychological cases are encountered there almost in equal numbers. The\nsummary of the cases are furnished below :\nPhysical Problems\nThese are uncommonly encountered there and more easily tackled\ncompared to some unfortunate serious type of injuries which may not be so\ncommon but are potential dangers to be on the look out for. Here, at first,\nthe more common disease/disorders are discussed. The number of patients\nsignifies the total of summer and winter members who attended ‘Maitri\nHospital’ at some point of their stay here and were treated at ‘Maitri\nHospital’ many a times with medication, but at times with counseling only.\nSecondly, here the number signifies the absolute number of patients without\ntaking into account the number of spells of the same complaint by the same\nmember.\nA Little About the Serious Injuries\nCold Burn Cases: Two cases, both due to  were due to negligence on\nthe part of the members for not complying with the prescribed dresses\nrequired for venturing outside. Obviously, it was preventable on both the\noccasions. However, both the cases could be treated well there and there\nwas no residual damage to the tissues.\nLaceration with Deep Tissue Damage and Haemorrhage from  Rt. Knee\nJoint\nThe patient was brought from Convoy as the accident took place during\nthe wee hours in the morning and they had to bring the injured expedition\nmember travelling all the way almost from the Antarctic shelf.  The injured\nperson, an Army contingent member went to attend the traveling generator\nattached with one of the convoy vehicles at dawn, when his feet slipped on\nthe blue polar ice and his right knee hit the running alternator blade of the\ndiesel generator set which cut the superficial as well as the deep tissues\ncausing damage to blood-vessels as well. Due to the unique atmospheric\ncondition of very low temperature that time, and actual contact with ice all\nover, actual blood loss was quite low. However, once he was brought to\n‘Maitri Hospital’ – he could be revived in no time with I/V fluids. Immediate\nrepairing of the damaged tissues were done under LA and the entire limb\n341Common Medical Problems Encountered During 24 th IAE\nTable 1\n Sl. Disease/Disorder Number of Aetiological Remarks\nNo. patients factors\n 01 Loss of Appetite 11 Monotony of foodstuff,\nmonotony of cooking,\nFeeling of isolation and\ndepression\nTreated with couns",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "5] Human Physiology and Medicine",
+    "subcategory": "Common Medical Problems Encountered During 24th Indian Expedition to Antarctica (Dec. 2004 to March 2006)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:55:00.882702Z"
+  }
+}

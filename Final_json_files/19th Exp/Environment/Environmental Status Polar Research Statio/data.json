@@ -1,0 +1,72 @@
+{
+  "id": "article_15",
+  "document_id": "NCPOR-AE39B0",
+  "source_file": "ARTICLE+15.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/581/3/ARTICLE+15.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+15",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 189-221 \nEnvironmental Status at Indian Polar Research\nStation Maitri-A Comprehensive Study\nAnoop Kumar Tiwari and Sunil Kulkarni\nNational Environmental Engineering Research Institute, Nagpur\nAbstract\nA comprehensive study of the different environmental components viz. air, water,\nland, noise was undertaken during the austral summer of 1999-2000 at the Indian Polar\nResearch Station Maitri, in compliance with the statutory requirements of the Antarctic\nTreaty. The first objective of the study was to assess the impacts of various scientific\nprograms and their associated logistic support facilities on the fragile ecosystem of Antarctica.\nThe second objective was to establish India's first Environmental Monitoring Laboratory\non a permanent basi s in Antarctica. Identification of major sources of pollution and\nquantification of pollution load was carried out through an extensive environmental\nmonitoring program spread over a period of 30-40 days. Preliminary studies reveal that the\nlevels of pollution are not alarming but there is scope for concern looking into the critical\naspects of Antarctic environment and the carrying capacity of the environment surrounding\nMaitri station. Based on the findings an Environmental Management Plan has been\nformulated with recourse to sustainable development at Maitri station.\nIntroduction\nThe Protocol on Environmental Protection to the Antarctic Treaty\nwhich was adopted in 1991 by the Antarctic Treaty nations provides for the\ncomprehensive protection of the Antarctic environment, and sets out tightly\ndrawn rules governing human activities there. The Protocol on Environmental\nProtection defines Antarctica as a \"natural reserve devoted to peace and\nscience.\" Environmental Impact Assessment (EIA) was first adopted by\nthe Antarctic Treaty Consultative Parties (ATCPs) in 1987, when\nrecommendation XIV-2 was agreed upon at the XIV Antarctic Treaty\nConsultative Meetings (ATCM). A set of procedural guidelines were\ndeveloped to be used by national Antarctic organizations for evaluation of\nthe impact of scientific activities and their associated logistic support facilities\non the fragile environment of Antarctica. The protocol on environmental\nprotection to the Antarctic Treaty which has been agreed to by 26 ATCPs\n(including India) in 1991 requires EIA to be applied in the planning and\nAnoop Kumar Tiwari and Sunil Kulkarni 190\noperation of all activities undertaken in Antarctica. A logical structure of\nassessment has been set up, where every activity, even  simple activities\nlike building a small field camp, are subject to a \"Preliminary Assessment\".\nIf environmental questions arise then an \"Initial Environmental Evaluation\"\nis done. The highest level of assessment, reserved for projects like airstrip\nconstruction is called a \"Comprehensive Environmental Evaluation\".\nPlate 1: Ambient Air Quality Monitoring in Progress at one of the \nLocations around Maitri station, Antarctica \nIn view of the guidelines imposed under the Environmental Protocol\nof Antarctic Treaty, the National Centre for Antarctic and Ocean Research\n(NCAOR), Department of Ocean Development (DOD) r etained National\nEnvironmental Engineering Research Institute (NEERI), Nagpur for\nconducting a detailed impact assessment of the different scientific and logistic\nactivities on the pristine environment surrounding Maitri station and to prepare\nan effective Environmental Management Plan (EMP). One of the\nmandatory requirements of the Antarctic Treaty is that all countries\nmaintaining a permanent polar research stations in Antarctica should have\na permanent environmental monitoring laboratory at that station for carrying\nout year-round environmental assessment. This important project of setting\nup India's first permanent environmental monitoring  laboratory at Maitri\n(Plate 2) was also successfully executed by NEERI during the 19th expedition.\nThe project included installation of various instruments such as conductivity\nmeter, spectrophotometer, pH meter, distilled-water unit, heating mantles,\noven, incubator, hot-plate, etc. All the instruments were properly calibrated\nEnvironmental Status at Indian Polar Research Station Maitri... 191\nPlate 2: Environmental Laboratory established by NEERI at \nMaitri station, Antarctica \nand validated. In addition a complete set of chemicals, reagents and\nglassware as well as requisite accessories were properly set up for a fully\nfunctional laboratory.\nInfrastructure of Maitri Station\nSite: Maitri station is located in the Schirmacher Oasis at 70°45' 53\"S\nlatitude and 11°44' 03\"E longitude. It is built on an ice-free rocky moraine\nat an elevation of 117m above mean sea level.\nEngineering support: Maitri is India's indigenously designed polar research\nstation in Antarctica. It was constructed  by Defenc e Research and\nDevelopment Organization (DRDO), Pune during the",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 33
+  },
+  "taxonomy": {
+    "category": "5]Environmental Sciences",
+    "subcategory": "Environmental Status at Indian Polar Research Station Maitri-A Comprehensive Study",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:33.393196Z"
+  }
+}

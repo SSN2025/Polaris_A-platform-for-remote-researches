@@ -1,0 +1,72 @@
+{
+  "id": "pages_149_154",
+  "document_id": "NCPOR-A0855F",
+  "source_file": "Pages+149-154.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/926/1/Pages+149-154.pdf",
+  "bibliographic": {
+    "title": "Pages+149-154",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic Expedition\nMinistry of Earth Sciences, Technical Publication No. 21, pp 149-154\nAbsolute Gravity Measurements at Maitri,  \nAntarctica\nV.M. Tiwari and M.B.S. Vyghreswara Rao\nNational Geophysical Research Institute, Hyderabad (CSIR), India\nABSTRACT\nDuring the 23rd Indian Antarctic expedition, absolute gravity measurements \n(AG) are made at Maitri, Indian station in Antarctica. This was first AG in the \nDronning Maud Land, Antarctica coincidentally just before the Finnish Geodetic \nInstitute (FGI) measurements at Novolazarevskaya, Russian station near Maitri. \nMeasurements are initiated with two major objectives: (i) establishing reference \ngravity station for future gravimetric surveys, (ii) for studying temporal gravity \nchanges related to Antarctic ice mass loss.\nINTRODUCTION\nEarth’s gravity field is responsive to the changes in the vertical position \nand mass distribution and therefore, study of gravity field can be utilised to \ndecipher geodynamic phenomenon, which produces mass and vertical \nchanges. Gravity measurements in Antarctica started about 50years back. \nGravity measurements during the Indian expedition was carried out during \nIndian Antarctic Expedition (IAE) using relative gravity meter and tied it to \nreference gravity station at Goa. Such measurements can be used for regional \nstudies with a survey accuracy of few mGal. These data cannot be merged \nwith another set of data due to the uncertainly of their reference station and \naccuracies. Further more these data can also be not used for any temporal \nstudies. Antarctic land mass has very few absolute gravity values and none \nof them were near to Indian station (Maitri) (Figure 1). Therefore, Absolute \nreference gravity station was necessity in this part of Antarctica. \nDevelopment of new generation of gravity meters can measure absolute \ngravity field to the precession of few microGal (Niebauer et al., 1995). \nThese instruments are commonalty utilised to measure changes in the gravity \nfield to understand the redistribution of mass and vertical crustal motions \ncaused due to several geodynamic processes such as earthquakes, plate \nconvergence, isostatic rebound, etc. Study of mass and elevation change in\n\n150 V.M . Tiwari and M.B.S. Vyghreswara Rao\nthe Polar Regions are initiated recently (Wahr et al, 2000; Makinen et al., \n2007). National Geophysical Research Institute (NGRI) in collaboration \nwith Department of Ocean Development (DoD) has acquired first Absolute \nGravity Meter (AG) meter in country with objective to establish reference \ngravity station in India and Antarctica.\nFig. 1: Location o f Absolute Gravity measurements in the Antarctic region. Maitri is  \nmarked by red rectangle. Abbreviations o f the names are: NOVO.Novolazarevskaya;  \nDUMO:Dumontd’UrviUe; TNB:TerraNovaBay; ROBE.CapeRoberts; COAT:Mt.Coates;  \nMCMU.McMurdo; JUBA:Jubany; OHIG: O ’ Higgins.\nMETHOD OF MEASURING ABSOLUTE GRAVITY\nThe only commercially available absolute gravity meter (AGM) is FG5. \nFG-5 absolute gravimeter is based on measuring time and distance precisely \nof free falling object inside a vacuumed chamber. Figure 2 is a schematic \ndiagram of the instrument. The decent of the freely-falling object inside a\n\nAbsolute Gravity measurements at Maitri, Antarctica 151\nvacuum chamber (called dropping chamber) is monitored very accurately \nusing a laser interferometer. The optical fringes generated in the \ninterferometer provide a very accurate distance measurement system that \ncan be traced to absolute wavelength standards. Very accurate and precise \ntiming of the occurrence of these optical fringes is done using an atomic \nrubidium clock. The time and distance data are used in the equation of \nmotion to solve for the acceleration due to gravity ‘g’. The whole system is \nautomatically controlled by a computer and typically 100 drops are recorded \nfor one set of gravity observation. Detail procedure of measurements and \napplications of absolute gravity measurements are documented in the Tiwari \net al. (2006).\nFig. 2: Schematic diagram o f Absolute Gravity Meter FG 5\nMEASUREMENTS AT MAITRI, ANTARCTICA\nWe reached Maitri, an Indian Antarctic station on 1s t  of January 2004 \nfor Absolute Gravity (AG) measurements and a few repeat gravity \nmeasurements on the earlier sites. A concrete platform for AG measurements \nwas constructed and covered under Aravali hut with required sealing by\n\n152 V.M . Tiwari and M.B.S. Vyghreswara Rao\n28t h  January. Before putting the hut, GPS observation of about four hours \nwere made on the reference point of pillar for precise height. Actual \nobservations took off on 4th February, following construction of a good \nplatform in a temperature controlled hut. Before measurements stability of \nall the components in general and super-spring and laser source, in particular \nare tested independently. A required temperature (15-25°C) was maintained \nby auto cut off heater during measurements. Figure 3 is a photograp",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology & Global Change",
+    "subcategory": "Absolute Gravity Measurements at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:34:28.318894Z"
+  }
+}

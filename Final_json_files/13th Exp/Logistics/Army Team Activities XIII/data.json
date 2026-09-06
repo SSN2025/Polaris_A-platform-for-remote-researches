@@ -1,0 +1,72 @@
+{
+  "id": "pages_from_13th_indian_expendition_371_378",
+  "document_id": "NCPOR-50E364",
+  "source_file": "Pages+from+13TH+INDIAN+EXPENDITION+371-378.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/724/1/Pages+from+13TH+INDIAN+EXPENDITION+371-378.pdf",
+  "bibliographic": {
+    "title": "Pages+from+13TH+INDIAN+EXPENDITION+371-378",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "13] Scientific Report Of Thirteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Activities at DG \nIntroduction \nIndian Army \nM.DAVID ALEXANDER and ATUL TANDON \nXIII Indian Antarctic Expedition \nThe Portacabin, Generator container were lifted using Mantis crane and \nplaced on barrels. The garbage was also cleared and taken to ship for burning. \nThe empty gas cylinders were also backloaded to container for transshipment \nto Goa. A 2 KW,36 volts battery charger was retrieved from main station DG. \nThis had to be broken down into 5 pieces for taking out through the hatch. This \nhas been successfully installed at Maitri thus saving expenditure for a new one. \nBoth generators at DG have been serviced and overhauled. Lot of other items \nThe activities are covered as follows: \n(a) Activities at DG station \n(b) Activities at Maitri \nThirteenth Indian Expedition to Antarctica, Scientific Report, 1997 \nDepartment of Ocean Development, Technical Publication No. 11, pp. 369-376 \nArmy Team Activities during \nThis army logistics team had the privilege of setting some milestones in \nhuman endurance. The total convoys done were 26, doing approximately, 800 \nhours of convoy time and chalking up an incredible 8000 route kilometers. This \ntime and distance would not have been done by any Antarctic stations to date, \nincluding the super power stations. The troubles and agony which were under-\ngone by the logistics team were innumerable and cannot be expressed. It is felt \nthat the lessons learnt from this will be an eye-opener for future planning. (To \ncompare, even the longest Antarctic convoy of the Russian Antarctic station \nfrom Mirni to Vostok is only 1500 kms and is done in 30 days both ways, only \nonce in a year, due to the rigors of the convoy in the Antarctic environment.) \nOur sincere thanks to all the members of the expedition who had shared the \nagony and the ecstasy of the logistic team. The details of convoys done are \ngiven as Appendix A for ready reference. \n370 M.  David Alexander and Atul Tandon \nhave been retrieved from DG and  these  are  appended  as  Appendix B causing \nsubstantial financial  saving. \nActivities at  Maitri \nThe complete empty barrels lying around were stacked properly to give an \norderly look.  One  generator  of  A block was  fully  overhauled  by putting  new \nstandard cylinder liners and pistons. The new generators received in 3 contain­\ners were integrated and  its insulation with available materials were done. This \nunit has been named  Bhaskara. This was  commissioned on June 21st, by  the \nLeader of  the Russian  station  Novolazareskaya Mr. Nicholai  Dmitriev.  With \nthis it is felt that the generating power position is satisfactory. \nThe Mantis crane which was received in a damaged condition was repaired \non the shelf itself and put on road. The Polar Bear which was received in damaged \ncondition from  U.S.A. was  repaired by changing some parts as well as repairing \nthe damaged circuits and it ran only for one convoy when its suspension gave way \nat barrel 132.  This Polar tractor was loaded on a modified sledge and successfully \nmoved to shelf for withdrawal for modification and  repairs to its suspensions, by \nthe manufacturers in USA. The summer huts were checked and sealed before onset \nof winter to prevent much ingress of snow. A total of 6 rooms have been done up \nand modified with wall paper and other amenities. \nThe new change over switching system was commissioned. This facilitates \nany pair of generators to run independently on any  load  circuit of Maitri giving \nbetter flexibility.  The  schematic  diagram  is  appended  as  Appendix  C.  Two \nimprovised antennas  were  put  up  for  DEAL use.  The  complete  aisle,kitchen \nand wash basin area including toilet entrance of station has been re-floored with \nlinoleum sheets  for  better aesfhetic  look  and  ease  of  cleaning. The  complete \nsofas of CHAUPAL and  Station  Commander's room have been refurnished to \ngive a  new  look.  These  tasks  were  completed  with  the  full  help  of  all  the \nexpedition members  in record time. The new washing machine was installed. \nThe fuel tanks  of various generators  were  inter connected to increase the tank \ncapacity of the generator  in operation, and  this intun  helped  the generators to \nrun continuously  without  refueling  for  a  longer  stretch. This  will  be  a  great \nadvantage during  the  blizzards. A  service  hatch  was  made  for the  Klargester \nfor ease in cleaning of the system. \nThe electrical service wires from Aditya,Bhaskara and 30 KVA generators \nwere enclosed in  metal/PVC  conduits  to  avoid  vagaries of  weather to a  great \nextent. Earlier  these  used  to  short  circuit  during  blizzards.  This  chance  is \nremoved by enclosing it  in conduits upto control panel in  'A' block. \nRecommendations \nAcknowledgements \nThe sledge of Sankalp was fully re-fitted with new towing hook assy, fork, \nskis etc. to give prolonged service. The complete electrical panel board has been \nre-organized so as to facilitate running and supply",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "7]Logistics",
+    "subcategory": "Army Team Activities during XIII Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:42.528265Z"
+  }
+}

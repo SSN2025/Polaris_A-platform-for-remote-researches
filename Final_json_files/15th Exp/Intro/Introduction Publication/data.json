@@ -1,0 +1,72 @@
+{
+  "id": "introduction",
+  "document_id": "NCPOR-B4FA36",
+  "source_file": "INTRODUCTION.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/444/3/INTRODUCTION.pdf",
+  "bibliographic": {
+    "title": "INTRODUCTION",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SCIENTIFIC REPORT\nFIFTEENTH INDIAN EXPEDITION\nTO ANTARCTICA\nTECHNICAL PUBLICATION NO. 13\nDEPARTMENT OF OCEAN DEVELOPMENT\nCGO COMPLEX, LODI ROAD\nNEW DELHI -110003\nINDIA\n1999\nPrepared by : Arun Chaturvedi\nUnder the supervision of:  Sh M.K. Kaul, Director\nAntarctica Division,\nGeological Survey of India\nNH-5 P, N.I.T., Faridabad-121 001.\nand\nNational Centre for Antarctic & \nOcean Research\nDepartment of Ocean Development\nCGO Complex, New Delhi- 110 003.\nPrinted at: National Institute of Science Communication.CSIR\nDr K.S. Krishnan Marg, New Delhi- 110 012.\nFOREWORD\nIndian polar research endeavours, have come a long way since the\nlaunching of the first Indian Antarctic Expedition in 1981 The Fifteenth\nExpedition with the partic ipation of 30 scientists from 21 organisations of our\ncountry established an other milestone on the path of polar scientific ex ploration\nby our country A team of 49 members, under the leadership of  Shri Arun\nChaturvedi, carried out varied scientific experiments in the fields of atmospheric\nbiological, geologic al glaciological, environmental and engineering sciences\nThis team with 30 scientists has the highest ratio of the scientific component in\nan Indian expedition, so far\nIn the period of polar summer, all the organisation s successfully\ncompleted the tasks set for them Among some highlights of the summer-work,\nmore than 3000 sq km area in inaccessible ranges of F enns and Holtedahl\nmountains was  geologically mapped for the first time 10 days of continuous\ngeomagnetic data was collected from Orvin mountains Ma itri and D akshin\nGangotri simultaneously Study of albedo was initiated by SASE & MM wave\nexperiments were conducted for ozone measurements\nDuring the wintering the major tasks accomplished include collecting 160\nmeters of ice- core from polar continental ice for palaeo-climatic studies\npreparation of a complete GPS-route-map for convoys between Maitri and\nDakshin Gangotri and solving the difficult problem of earthing of buildings and\nlabs during polar winter On the logistic front four major construction projects\nbuilding a garbage-incinerator complex, a gantry with winch for the new\nworkshop, a mobile ice-core drill shelter and the structure of a balloon launching\nshelter were completed\nThe present report contains 37 papers on various scientific engineering\nand logistic tasks undertaken during this expedition A credi table job of\ncompilation of this report has been done at Antarctica Division of  Geological\nSurvey of India This technical publication would contribute significantly for the\npromotion of polar scientific research in our country\nDR A E MUTHUNAYAGAM\nSECRETARY\nGOVERNMENT OF INDIA\nDEPARTMENT OF OCEAN DEVELOPMENT\nMAHASAGAR BHAVAN BLOCK 12 C G O COMPLEX\nLODHI ROAD NEW DELHI 110 003\n(A.E. Muthunayagam)\nNATIONAI CENTRE FOR ANTARCTIC & OCEAN RESEARCH\nDEPARTMENT OF OCEAN DEVELOPMENT\n(GOVERNMENT OF INDIA)\nHEADLAND SADA, VASCO-DA-GAMA, GOA - 403 804, INDIA.\nTel: 91-(0)832-512313\nFax: 91-(0)832-512322\nDR. P.C. PANDEY\nDirector\n25 August 1999.\nPREFACE\nThe quest for truth, the pursuit of scientific knowledge and the spirit to face\nchallenges on the stride has been  the motivating force behind the multi-disciplinary and\nmulti-institutional scientific missions from India to Antarctica. Th e scientific campaigns\nof the XV Indian Antarctic expedition which has been meticulously documented in this\nreport by the leader of the expedition, Shri Arun Chaturvedi, adds another mi lestone\nachieved in the annals of polar science in the country.\nIn addition to the ongoing projects, this expedition witnessed the initi ation of\nseveral cutting edge  experiments on contemporary issues of ozone depletion and global\nchange. State-of-the-art instruments li ke Laser Heterodyne System and millimeter Wave\nSpectrometer were op erated on an year round basis to measure the vertical and gross\nprofile of ozone levels over Maitri station. Experiments on net energy balance of the ice\nmass through -studies of albedo and  snow drift patterns were also initiated. The\nGeological Survey of India also took up the arduous task of ice-core drilling which\nsuccessfully retrieved  cores meant for palaeo-climatic and palaeo-environmental studies.\nOn the logistic front, this expedition mounted a clean-up operation of'Maitri and its\nenvirons and commissioned a new garbage incinerator as required by the Environment\nProtocol.\nThis technical  report is an  outcome of a dedicated and coordinated scientific and\nlogistic campaign carried out by a 49 member team of the XV Antarctic expedition. I am\nsure that this technical publication will make  valuable contribution in the f ield of polar\nscience and will serve as a source of information to the entire scientific community and\nthe polar scientists in particular.\nCONTENTS\nPage\nForeword iii\nPreface v \nThe team xi\nAddresses of  participating organisations xiii\nSummary xv\nArun Chaturvedi \nATMOSPHERIC SCIENCES\nThree-Station Magnetometer Experiment at Antarctica During 1 \nJan-1996 to De",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 24
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Introduction Of Publication",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:30.606662Z"
+  }
+}

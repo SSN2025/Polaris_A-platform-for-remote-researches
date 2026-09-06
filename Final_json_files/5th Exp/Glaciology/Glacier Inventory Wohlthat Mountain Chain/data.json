@@ -1,0 +1,72 @@
+{
+  "id": "article16",
+  "document_id": "NCPOR-B3E99A",
+  "source_file": "article16.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/275/4/article16.pdf",
+  "bibliographic": {
+    "title": "article16",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 235-245 \nGlacier Inventory of Wohlthat Mountain Chain,\nQueen Maud L and, Antarctica,\nD. SRIVASTAVA, M.K. KAUL, R.K. SINGH, S. MUKERJI AND S. JAYARAM\nGeological Survey of India\nFaridabad-121001\nAbstract\nThe paper summarises the results of the glacier inventory of Wohlthat mountain\nchain lying between Long 9°E to 14°E and Lat 71°10'S to 72°S. The inventory is based\non 1:250,000 scale topographical map, landsat imagery,  reconnaissance vertical aerial\nphotography during 1.985-86 expedition, and limited ground checks. A total of 122 glaciers\nhave been identified, numbered and classified.\nIntroduction\nWohlthat mountains situated about 200 kms due south from the Dakshin\nGangtori station forms an imposing mountain chain bordering Antarctica in the\nQueen Maud Land, extending from Long 9°E to 14°E and Lat 71°10'S to 72°S.\nTrending in a NE-SW direction, the mountain range is exposed for about 110\nkms from East to West, and about 85 kms from South to North. It forms a \nbarrier to the northern flow of the continental ice sheet. The ice tongues\nemanating from the ice sheet in the form of outlet glaciers dissect the Wohlthat\nmountain chain into independent blocks, each block being bounded by independent\nglaciers such as Deildebreen, Humboldt Sokket and Somoveken. Each of these\nblocks supports an  independent system of remnant glaciers which have their\nown regime, different from the main continental ice sheet. These glaciers have\ndefined boundaries and are not  dependent on the flow of main outlet glaciers\nsurrounding the blocks, or the polar ice sheet. These are regarded as the remnants\nof the polar ice sheet which was much thicker in these areas during the past.\nAmong these glaciers there are few which are confined to the limits of  exposed\nground itself, whereas others cascade or flow into the  outlet glaciers as tributaries.\nThese glaciers are of  different outlines and varied physical dimensions. An attempt\nhere has been made to record their parameters and prepare their inventory.\nRabassa et a/. (1982) carried out inventory of James Ross and Vega Island,\nsituated on the eastern side of the northern most tip of the Antarctic peninsula.\nThe present attempt  is, therefore, perhaps the first such attempt to prepare an\ninventory of mountain glaciers on the main Antarctic continent.\n236 D. Srivastava et al. \nThe compilation of inventory of Antarctic glaciers of such types are beset\nwith many difficulties, the main hurdle being the non-availability of good quality\nreliable maps and aerial photographs and scarcity of imageries. There are also\nlimitations of ground checks due to terrain, approach and inhospitable weather.\nThe source material for the present compilation has been the Norwegian\ntopographical map (1958-59) on 1:250,000 scale aided by the Landsat imageries\nin band 4 and 7; the vertical aerial photographs (Fig. 1) taken with the aid of\nAgflite camera mounted on Chetak helicopters during Fifth Indian Expedition\nA remnant glacier in the Petermann ranges picked up by aerial photography \nduring the Fifth Indian Expedition \nFig. 1. \nGlacier Inventory... 237\n(1985-86), and oblique air photographs (Fig. 2). Ground checks were carried out\nduring the course of geological mapping of the Wohlthat range and aerial\nreconnaissance and field checks during the search for meteorites in the area.\nFig. 2. Oblique air photograph showing mountain glaciers merging with polar ice. \nMethodology\nThe inventory was carried out as per the instructions contained in the\nmanual of  Temporary Technical Secretariat (TTS) of world glacier inventory\n(Muller 1977, 1978).\nUnlike the inventory of the glaciers in Himalayan terrain the inventory of\nglaciers in mountainous terrains of Antarctica has its own limitations. To offset\nthese limitations and to present a reasonably clear picture of the remnant ice\nmasses on the mountains the following methods were employed:\ni. Demarcation of Drainage Basin—The Wohlthat mountains are not a \ncontinuous chain. These have been dissected by outlet glaciers into\ndifferent hill ranges. The exposed portions offer a typical arid topography\nof cold desert with bare and precipitous slopes, aretes and horns and\n238 D. Srivastava et  al.\nvast morainic stretches. In  individual nunataks or  mountains, there is\nno clearcut demarcation of the drainage basin because of absence of\nparameters delineating a basin or sub-basin. In the present inventory\nthe whole of the Wohlthat mountains have been  divided into four\ndrainage blocks as defined by the outlet glaciers, originating from the\npolar ice sheet and draining through the Wohlthat ranges, i.e., Gruber,\nPetermann, Humboldt and Orvin blocks.\nii. Numbering of the Glaciers—Each of the four mountain groups (Blocks)\nhas been considered as a single drainage unit and the glaciers present\nwere numbered in clockwise direction starting from north. Each of\nthese",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "3]Glaciology",
+    "subcategory": "Glacier Inventory of Wohlthat Mountain Chain, Queen Maud Land, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:15.478926Z"
+  }
+}

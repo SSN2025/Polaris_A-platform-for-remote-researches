@@ -1,0 +1,72 @@
+{
+  "id": "the_fifth_indian_voyage_to_antarctica",
+  "document_id": "NCPOR-B527B4",
+  "source_file": "The+Fifth+Indian+Voyage+to+Antarctica.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/259/4/The+Fifth+Indian+Voyage+to+Antarctica.pdf",
+  "bibliographic": {
+    "title": "The+Fifth+Indian+Voyage+to+Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988\nDepartment of Ocean Develo pment, Technical Publication No. 5, pp. 25-53\nPhysical Research Laboratory (PRL)\nThe Fifth  Indian Voyage to Antarctica\nM.K. KAUL\nExpedition Leader\nAbstract\nThe Fifth Indian Scientifc E xpedition to Antarctica lef t India on 30th Nov., 1985\nand reached the ic y continent on 24th Dec, 1985. It started its return journey on 3rd\nMarch, 1986 after completing all its objectives. This paper gives a brief account of how\nthe expedition was conducted and the tasks that were achieved, both in the scientific and\nlogistic categories. The  expedition left behind a team of fourteen members of the Third\nWintering at Dakshin Gangotri and brought back the thirteen member Second Wintering\nTeam.\nIntroduction\nAfter four successful Indian expeditions to Antarctica, the  Fifth Expedition\nsailed on 30.11.85. The objectives of the expedition were the continuation of\nIndia's scientific programme in  Antarctica, with a major thrust on taking the\nactivities further into the interior of Antarctica than hitherto attempted. In\naddition to this scientific programme, the task assigned to the expedition was\nthe repair and maintenance of the existing permanent structures of the Station\nat Dakshin Gangotri and Maitree camps.\nThe Team\nThe 88 member team was drawn from several different scientific institutions\nof the country, and from the three wings of the Defence Services, namely Army,\nNavy and Air Force for the logistic support. The organisations.which participated\nin the expedition are as follows:—\nGeological Survey of India (GSI)\nNational Geophysical Research Institute (NGRI)\nIndia Meteorological Department (IMD)\nNational Institute of Oceanography (NIO)\nCargo\nFuel\nOther cargo\nAircrafts.\nTonnage (MT)\n575\nDeck Deck cargo 75\n26 M. K. Kaul\nNational Physical Laboratory (NPL)\nIndian Institute of Geomagnetism (IIGM)\nBharat Heavy Electricals Ltd. (BHEL)\nNational Remote Sensing Agency (NRSA)\nDefence Research and Development Organisation (DRDO)\nOil and Natural Gas Commission (ONGC)\nIndian Institute of Technology, Bombay\nIndian Institute of Technology, Madras\nIndian Army\nIndian Navy\nIndian Air Force\nFilms Division\nDepartment of Ocean Development (DOD)\nThe scientific team had twenty-three members representing  thirteen different\nscientific organisations. The Army had a twenty-six member team and the Navy\nand Air Force were represented by eighteen members each. There was a \nrepresentative each from the Department of Ocean Development (DOD) and\nthe Films Division of Government of India. One workman from DRDO was\nalso included in the team. The Armed Forces Medical Corp included a surgeon,\na physician and an anaesthetist.\nLoading Operations\nThe ship chartered for the Expedition was M.V. THULELAND,  a  Swedish\niceclass IA, Super hull. The ship has six holds and two single and one twin\ncrane for  handling cargo, capable of lifting 25 tonnes upto a height of 26 metres.\nDuring the expedition the  vessel accommodated 88 charter's personnel in crew\ncabins, on the poopdeck, maindeck and container accommodations. The uniform\ntime charter executed between the owners and  the charterer was strictly followed\nboth by the crew and expedition members. The team, after reporting itself at\nMarmagoa port, Goa, started the loading operations almost round the clock and\n650 tonnes of cargo were distributed as under:-\nHolds\nThe Fifth Indian Voyage to Antarc tica 27\nFuel was stored in  the ship' s tanks with a capacity of 14000 litres each and\nthus, seven tanks were filled. The rest of the fuel was kept in the tanks supplied\nby DRDO and in sealed barrels of the Indian Oil Corporation. The ship's tanks\nand DRDO containers were thoroughly cleaned and flushed before, filling. The\nother cargo consisted of the construction material, spares of vehicles, clothing,\ncamping equipment, food (from FTRI, DFRL, Super Bazar, MAFCO and Modern\nFood Industries), hydrogen ga s cylinders, medical supplies, L.P.G. cylinders,\nscientific equipment, communication equipment etc.\nThe Cruise — Destination Antarctica\nThe ship left Marmagoa port on 30.11.85 at 1740 hrs. IST for Antarctica.\nSome deviation in the route had to be made only at Mauritius for 5 1/2 hours\non 8.12.85 for changing a few crew members. The ship did not berth alongside\nand the crew was changed by a tugboat. The journey from Mauritius to  Antarctica\nfaced a phase of difficult weather conditions, apart from the usual turbulant sea\nin the roaring forties. On 15.12.85 a cyclonic storm with a central  pressure of\n968 mb was observed at location Lat. 60°S — Long. 15°E. The ship experienced\nvery rough weather with wind speeds of 55 knots. On 16.12.85 the storm was\nfaced on the way to position Lat. 62°S — Long. 35°E. It was further discovered\nby the expedition leader and the captain of the ship that if the ship was allowed\nto proceed along its pre-determined course, a storm with a speed of 80 to 100\nknots would be  encountered, as per the facsimile cha",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 28
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "The Fifth Indian Voyage to Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:55.743344Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "chapter_8",
+  "document_id": "NCPOR-14C165",
+  "source_file": "Chapter+8.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1131/1/Chapter+8.pdf",
+  "bibliographic": {
+    "title": "Chapter+8",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "ABSTRACT\nA snow coring program was initiated in two geographically distinct regions across\nEast Antarctica during the austral summer of 2008-2009 with primary focus on glaciochemical\nand stable isotope studies. The field work concluded with a successful completion of two\nmajor coastal to inland transects covering a total distance of 380 km and a maximum\nelevation of 3000 m a.s.l. These transects fall in two different sectors of East Antarctica -\nthe central Dronning Maud Land facing the Atlantic sector and the Princess Elizabeth Land\nfacing the Indian sector of the Southern Ocean.  A total of 44 snow cores (~1m each) and\nsurface snow samples were recovered following strict contamination-free sampling\nprotocols. The snow core samples are being studied for chemistry and stable isotopes after\nsub-sampling at the -15°C processing facility in the ice core laboratory. The ionic\ncomponents were measured using ion exchange chromatography in µgL -1 levels. Stable\nwater isotopes (oxygen and hydrogen isotopes), trace elements, total organic carbon, and\ndust particle quantification were also carried out on these samples. A multi-proxy\nbiogeochemical approach is being involved while interpreting the results from these snow\ncores and surface snow samples. Preliminary results from glaciochemical investigations of\nthese snow samples are outlined in this report.\nINTRODUCTION\nThe major constituents of the Antarctic snow and ice are the sea-salt\nions (Na+, Cl -, SO 4\n2-, K +, Mg 2+ and Ca 2+), the atmospheric acids (H 2SO4\nand HNO3) along with minor amounts of biologically derived components\n(MSA and NH 4\n+) and other organic acids (Hall and Wolff, 1998). Along\nwith these components, natural mineral dust from local and long range trans-\nported sources are significant which bring in trace metals and anthropo-\ngenic pollutants to the Antarctic snow (Laluraj et al. 2014). It is also shown\nthat Antarctic snow and ice act as a significant organic carbon reservoir\n(Priscu et al. 2008). Many snow studies in Antarctica are based on surface\nsnow deposits (Kärkäs et al. 2005; Thamban et al. 2010; Antony et al.\n2010), and spatial variability in Antarctica are mainly attributed to the site-\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 257-266\nStudies on surface and sub-surface snow samples\nfrom the coastal and inland regions of East\nAntarctica (Program #9)\nMAHALINGANA THAN1 K,  AKSHA Y A VERMA#, THAMBAN MELOTH1\n1National Centre for Antarctic and Ocean Research, Headland Sada,\nV asco da Gama, Goa - 403 804, India\n#Wadia Institute of Himalayan Geology, Dehradun, Uttarakhand - 248 001, India\n258                                   Mahalinganathan K, et al.\nspecific features like elevation, distance from the sea and, snow accumula-\ntion (Bertler et al. 2005). An improved understanding of the spatial and\nseasonal variability is necessary to understand various aspects of the air-\nsnow transfer processes of the above mentioned components, which in\nturn are necessary to enhance the interpretation of signals from ice core\nrecords. However, in order to understand the seasonal and annual varia-\ntions and the factors that influence various proxies, samples from pitting\nand shallow-coring representing multi-seasonal snow deposits are essen-\ntial.\nObjectives:\nThe following objectives were set for the shallow snow coring pro-\ngram during the XXVIII Indian Scientific Expedition to Antarctica.\n To quantify the spatial variations in the seasonal distribution of\nglaciochemistry, snow accumulation and trace elements from two distinct\nregions (Atlantic and Indian Ocean sectors, > 2000 km apart) in East Ant-\narctica.\n To assess the air-snow-air transfer processes and biogeochemical\ncycling in Antarctic snow.\nThis study ensures the collection of snow cores of same age from\ntwo distinct regions, which helps in understanding the contrasts in spatial\nvariation of biogeochemical cycling of various chemical species as well as\nof the factors affecting various proxies brought about by the changes in the\nsurrounding ocean. The coupling of isotope and chemical profiles from two\nregions will help in understanding various atmospheric and oceanic pro-\ncesses influencing the seasonality of snow chemistry. This work will con-\ntribute to the data integration in the snow chemistry database initiated by\nthe International Trans Antarctic Scientific Expedition (ITASE).\nSTUDY AREA\nThe study area is located in two different regions - central Dronning\nMaud Land (cDML) and the Princess Elizabeth Land (PEL), facing the\nAtlantic and Indian Oceans respectively. Both these regions are ~ > 2000\nkm apart even though they are within the East Antarctic ice sheet. Geo-\ngraphical and topographical differences are significant between these two\nregions. The cDML region is influenced by the presence of an ice shelf -\nNivlisen ice shelf - thereby effectively increasing the distance of the ice\nsheet from the open ocean. On the interior",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology and Climate Change",
+    "subcategory": "Studies on surface and sub-surface snow samples from the coastal and inland regions of East Antarctica (Program #9)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:21:18.325982Z"
+  }
+}

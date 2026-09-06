@@ -1,0 +1,72 @@
+{
+  "id": "article6",
+  "document_id": "NCPOR-9FA26E",
+  "source_file": "article6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/265/3/article6.pdf",
+  "bibliographic": {
+    "title": "article6",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 145-150 \nGeophysical Investigations in Schirmacher La ndmass\nSHIKHAR  CH.  JAIN, RATAN DHAR,  AND  K.N.S.  REDDY\nNational Geophysical Research Institute\nHyderabad-500007\nAbstract\nMultifrequency EM, magnetic and radiometric measurements were carried out covering\nan area betwee n longitudes 11° 26' E to 11°50' E, along thirteen traverses in the Schirmacher\nlandmass during the Fifth Indian Scientific Expedition to Antarctica. Out of these, two\ntraverses were laid across the reported secondary sulphide mineralisation and the two\nothers in the area where secondary sulphide mineralisation was seen near  a suspected\nfissure zone.\nNo appreciable EM anomaly was found along all the traverses. Absence of this is\nattributed to very low  percentage of sulphide mineralisation that does not yield any\nsignificant EM r esponse.\nMagnetic measurements carried out along the above mentioned traverses reveal that\nvarious geological formations in the area do not have appreciable susceptibility  contrast.\nLaboratory measurements of susceptibilities of various rock  samples from the region also\nsupport this view. Four anomalies along traverses 4, 7, 10 and 11 are identified. They\nare attributed to local tectonic features or dyke intrusions. This is also supported by the\nlineament map of  the region.\nGamma ray  spectrometry measurements were also carried out along all the tr averses.\nPotassium, Thorium, Uranium and Total counts were recorded. No Significant anomalies\nwere obtained, indicating the absence of radioactive mineralisation in the area. However,\nanalysis of the radiometric data indicate a high potassium count over Felspathic Gneisses\nas compared to Hornblende/Biotite Gneisses.\nResult of the studies  indicate that most probably there is no significant mineralisation\nin the Schirmacher landmass.\nIntroduction\nDuring the Third Indian Scientific Expedition to  Antarctica, geological studies\nindicated occurrence of sulphide and graphite mineralisation in Schirmacher Land-\nmass lying between longitudes 11°26' E and 11°50' E. These reported occurrences\nwere motivation for carrying out  geophysical studies to  understand details of\nmineralisation. For exploring th e mineral potential of Schirmacher Landmass,\n146 Shikhar Ch. Jain et al.\nit was planned to carry out multifrequency electromagnetic, induced polarisation,\nmagnetic and differential gamma radiation surveying during the Fifth Expedition.\nBesides, it was also planned to study seismic activity, if any, in Schirmacher region.\nMULTIFREQUENCY ELECTROMAGNETIC PROFILES\n— IP\nOP\nTRAVERSE-7\nFig. 1. Geophysical investigation in Schirmacher Region \nGeophysical Investigations... 147\nLocation, General Geology and Geophysical Layout\nThe Schirmacher range is located approximately 80 km south of the Indian\nResearch Station , Dakshin Gangotri, and approximately 100 km north of Wohlthat\nmassif. The range is about 20 km long and east-west trending with a maximum\nwidth of 2.7 km in the centre. The average elevation is 100 metres with number\nof peaks higher  than 180 metres, the highest being 228 metres. The area is\ncriss-crossed by large number of fresh water lakes.\nAccording to geological reports, lithologically, the area  consists of variety\nof high grade metamorphic gneisses, amphibolites, migmatites, mylonites and\nblastomylonites. Th e sulphide mineralisation is present mainly along a shear zone\nin rusty banded gneiss. Thirteen traverses measuring about 7 line kilometres\nwere laid in the entire area with station interval of 10 or 30 metres. Two\ntraverses 10 and 11 were laid at locations where surface indication of  mineralisation\nwere present. Traverse 3 and 4 were laid across suspected shear zone which\ncould be mineralised as malachite stains were observed in host rock. The remaining\nnine traverses were distributed over the entire area from east to west. The  layout\nof traverses are shown in upper part of Fig. 1.\nMethods of Study\nElectromagnetic Measurements:  Electromagnetic measurements in Slingram\nmode i.e. horizontal loop mode with coil separation of 50 metres an d station\ninterval of 30  metres (station interval of 10 metres near anomalous zone) were\ncarried out  with Maxmin II Portable EM equipment of APEX PARAMETRICS\nLTD., Canada. Inphase and out of phase measurements were carried out on all\nthe thirteen traverses for all available frequencies ranging from 222 Hz to 3555\nHz. The results of measurements for only two frequencies i.e. 222 Hz and 3555\nHz over all the traverses are presented in lower part of Fig. 1.\nMagnetic Measurements:  Magnetic measurements on the same traverse as\nfor EM measurements were carried out with Geometric model G 316/826, Proton\nPrecession Mangnetometer. During field investigations diurnal magnetic measure-\nments were carried out with NGRI made Proton Precession Magnetometer. Fig. 2 \nshows diurnal total magnetic field variation a",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "2]Geology and Geophysics",
+    "subcategory": "Geophysical Investigations in Schirmacher Landmass",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:09.029415Z"
+  }
+}

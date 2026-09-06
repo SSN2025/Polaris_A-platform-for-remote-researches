@@ -1,0 +1,72 @@
+{
+  "id": "article31",
+  "document_id": "NCPOR-33D13B",
+  "source_file": "article31.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/291/3/article31.pdf",
+  "bibliographic": {
+    "title": "article31",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SECTION-VII\nMATERIALS RESEARCH\nFifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 421-432 \nClothing for  Antarctica\nG.N. CHATTERJEE, R.P. AGARWAL, V.K. TANDON AND B.K. BANERJEE\nDefence Materials and Stores Research  and Development Establishment\nKanpur-208013\nAbstract\nThe experience of the members of the Fifth Indian Scientific Expedition to Antarctica\nwith the Clothing for Antarctica, developed and supplied by Defence Research and\nDevelopment Organisation (Defence Materials and Stores Research and Development\nEstablishment, Kanpur), have been described. The optimum requirements of clothing in\nAntarctica (at locations of the Indian activity) have been discussed. The clothing supplied\nhas been found to meet the thermal protection during the Antarctic winter adequately.\nIntroduction\nProtection against the elements is the primary function of clothing. In a cold\nenvironment, the thermal insulation, or the thermal resistance of clothing limits\nheat loss from the body, enabling it to maintain homeothermic regulation of a \nconstant body temperature (ca 37°C for man). However, bulk, weight and, perhaps,\nreduced insulation beyond an optimum thickness (Winslow and Herrington,\n1949) preclude the use of conventional clothing in  extreme cold, as in the polar\nclimates; survival and work outdoors in such climates require the use of functional\nor protective clothing (Newburgh, 1949, Kitchling and Page, 1945) with special\nattributes.\nApart from affording protection against extreme cold, high winds and snow,\nclothing for  Antarctica, meant exclusively fo use in expeditions, must also be\nlight and tough for survival and efficient outdoor activity in such hostile\nenvironments. It is also desirable that the clothing be permeable to water vapour\nwhile retaining its wind resistance. However, usefulness of the clothing depends\nas much on material as on its design and the right use.\nThe most essential requisite of the clothing for Antarctica is, of course, its\nthermal insulation which is crucial for survival in extreme cold. The basic problem\nin the design of such protective clothing lies in the achievement of adequate\nthermal insulation with low bulk and weight. Experimental results (Burton et a/.,\n1955) suggest that the thermal insulation of a dead air space is the ultimate value\nobtainable with any material including the best animal furs (Scholander et al., 1950)\n422 G.N. Chatterjee et al.\nfor clothing. This property of a dead air space is also found in  suitably filled\nair spaces such as a layer of any woolly material of low bulk density (ca 64\nkg/m 3 for cotton wool) which has the same (or nearly so) thermal insulation\nper unit thickness as the former (Larose,  1943; Speakman and Chamberlin, 1930).\nSuch a layer, of a material with adequate resilience to retain thickness in use\nand of the right thickness to produce the necessary insulation computed from\nbiophysical and meteorological data, is used as insulation in the  clothing for\nAntarctica.\nOn the basis of established design principles, several items of clothing\ndeveloped by DMSRDE were subjected to performance evaluation in Antarctica\nduring the Fifth Expedition compared with items of available foreign clothing there.\nThe aim was to determine (on a subjective basis) the optimal clothing\nrequirement in varying weather and terrains in Antarctica, as also the correspondence\nbetween laboratory estimate and  actual requirement of thermal protection under,\nservice conditions.\nDesign Principles\nThe idea behind the thermal protection of clothing is to  restrict the  rate of\ndissipation of metabolic heat to the level of its generation rate relevant to the\nparticular state of rest or activity (Table I) for which the clothing  is intended.\nTable I. Metabolic levels and rates for different activities\nActivity\nSleeping, postdigestive\nSleeping, digesting\nLying quietly,.postdigestive\nLying quietly, digesting\nSitting\nStanding\nWalking 2.5 kph (very light work)\nLevel walking 5 kph\n(Light work)\nLevel walking 6.5 kph\n(moderate work)\nWalking 5% grade 5.5 kph\n(moderately heavy work, walking\nfrom Maitree to Novo, say)\nWalking, 10% grade 5.5 kph\n(Heavy work, walking up  slope)\nMetabolism\nkcal/m 2/hr\n36\n40\n40\n45\n50\n60\n90\n130\n180\n220\n340\nmet\n0.72\n0.80\n0.80\n0.90\n1.00\n1:20\n1.80\n2.60\n3.60\n4.4\n6.8\n(After Newburgh, 1949)\nClothing for Antarctica...  423\nThe body continuously loses heat, both as latent heat and as  sensible heat.\nThe sensible (or non-evaporative) heat is transmitted through the layer(s) of\nclothing, insulation to the environmental  air mainly by convection an d radiation.\nConductive transfer through air and clothing when its bulk density is low, is\nnegligible (Burton  et al,  1955).\nHowever, assuming a thermal steady state in the clothing as a rough\napproximation (Burton, 1934), the thermal flux transmitted across the clothing\nis customarily expressed by the Fourier equation for conductive transfer in one\ndimen",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "8]Materials Research",
+    "subcategory": "Clothing for Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:50.927343Z"
+  }
+}

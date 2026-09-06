@@ -1,0 +1,72 @@
+{
+  "id": "cover_pages",
+  "document_id": "NCPOR-8861A5",
+  "source_file": "cover-pages.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/906/1/cover-pages.pdf",
+  "bibliographic": {
+    "title": "cover-pages",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SCIENTIFIC REPORT OF \nTWENTY THIRD \nINDIAN ANTARCTIC EXPEDITION\nTECHNICAL PUBLICATION No. 21\nNATIONAL CENTRE FOR ANTARCTIC &  OCEAN RESEARCH \n(MINISTRY OF EARTH SCIENCES)\nHEADLAND SADA, VASCO-DA-GAMA, GOA-403804\n2010\n\nISBN: 978-81-906528-4-3\nReport Prepared by  \nUnder the Supervision of\nSrinivasan Jayaram\nSh Rasik Ravindra, Director \nNational Centre for Antarctic & \nOcean Research\nHeadland Sada, Vasco, Goa-403 804\nPrinted a t : National Institute of Science Communication And \nInformation Resources, CSIR \nDr K.S. Krishnan Marg, New Delhi-110 012\n\nMESSAGE\n[For Shri Srinivasan Jayaram, Station Commander and all the\nMembers of the XXI Winter Team, ‘Maitri’, Antarctica]\nI felicitate you and all the team members at the Indian \nStation ‘Maitri’  on the occasion of Antarctic Mid Winter \nDay. The National Antarctic Programme has been achieving \ncontinuous success on account of the diligent efforts made \nby you and your colleagues. I have no doubt that your sincere \nand fearless work in such harsh conditions will achieve \nfruition. The people of India admire the courage and  \ndetermination shown by all of you.\nI wish all of you a happy and successful stay in  \nAntarctica and a safe return home.\nNew Delhi \nJune 11,2004\n\nDear Shri Jayaram,\nI hope this communication finds you and other team members in the best of \nhealth and spirits.\n2. The memorable moments which myself and other members of the  \ndelegation spent at Antarctica would remain vivid in our memory for long, I  \ncompliment you and your team members for the excellent arrangements made at \nthe Indian base at Maitri and onboard M.V. Emerald Sea.\n3. The National Antarctic Programme owes its success to the devotion and  \ncourage displayed by you all. Your relentless efforts in pursuit of scientific  \nknowledge in the harsh conditions of Antarctica will certainly keep India’s image \nbright and high in the international arena. The people of India admire your  \ndetermination and grit.\n4. In this connection, I would also like to place on record the appreciation of  \nthe flying skills and behaviour of Capt. Craig Rose, Senior Pilot and Mr. Bruce \nTowers, Pilot, the two helicopter pilots. It was amazing to see them flying the  \nchoppers in the hills and the hostile environment with such perfection.\n5. Wishing you and your team members the best of luck and success in all  \nyour future endeavours.\nWith warm regards,\nShri Jayaram \n23r d  Expedition Leader \nIndian Antarctic Expedition \nC/o Director, Antarctic Division, \nGeological Survey of India, \nNH-VF, NHYFaridabad\n\nFOREWORD\nThe icy continent of Antarctica, known for its inaccessibility, harsh climate and \nremoteness is a challenging place for accomplishing the scientific goals that the successive \nteams venturing into the unknown, set for themselves. Undoubtedly, Antarctica is the ideal \nlaboratory to decipher and link the past with the present.\nIndia has maintained its perceptible presence in Antarctica since 1981. Ever since, \nthe National Centre for Antarctic & Ocean Research at Goa was entrusted with the task and \ndeclared as the nodal agency for launching these expeditions, the Antarctic Program has \ngrown and gained from the strengths of its partners. Today most of the reputed laboratories \nof CSIR, DST and DRDO, Survey Organizations, NTs and leading Universities are involved with \nthis national endeavour in some way or the other.\nEach member, especially one who volunteers for wintering over, demonstrates \nimmense grit and determination. !  am happy that the XXIII Expedition has come out with \nsuccess under the leadership Shri. S. Jayaram, a professional geologist from Geological \nSurvey of India. The present report is the outcome of the results of the scientific programs \nundertaken by the participating organizations through their scientists under his able \nleadership.\nThis Expedition will also be remembered for the fulfilment of the stupendous \nassignment given to the special Task Force under the leadership of Rasik Ravindra of \nGeological Survey of India, to identify the site for establishing a new Research Station of \nIndia. The site has since been cleared by ATCM and the work on construction of the station \nhas already started.\nMy recent visit to Antarctica in December 2009 has made me appreciate personally, \nthe difficult conditions in which scientists and logistic personnel perform.\nI  congratulate the team for their achievements.\n\nThe Indian Antarctic Program has been successful in bringing into its fold, newer \norganizations and younger participants to revitalize this national endeavour. The XXIII \nIndian Scientific Expedition to Antarctica that sailed to the icy continent under the \nleadership of Shri. S. Jayaram of the Geological Survey of India had several “firsts” to its \ncredit.\nThe Absolute Gravity measurements for deformation studies were undertaken by \nNGRI, while IIG & GSI and Survey of India carried out high precision GPS \nmeasurements for deciphering movement of the continental ice sheet and i",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 17
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "Introduction",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:31:35.193099Z"
+  }
+}

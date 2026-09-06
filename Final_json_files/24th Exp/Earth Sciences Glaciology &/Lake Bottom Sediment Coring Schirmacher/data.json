@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_14b_es_7",
+  "document_id": "NCPOR-D2F28B",
+  "source_file": "RRChapter-14B+ES-7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/956/1/RRChapter-14B+ES-7.pdf",
+  "bibliographic": {
+    "title": "RRChapter-14B+ES-7",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "239Lake Bottom Sediment Coring from Schirmacher Oasis during...........\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 239-246\nLake Bottom Sediment Coring from Schirmacher\nOasis During 24th Indian Antarctic Expedition\nRajesh Asthana, Prakash K. Shrivastava and K. Ramar\nGeological Survey of India\n ABSTRACT\nLake sediment cores retrieved from pristine environment of Antarctica can\nprovide a high resolution palaeoclimatic record having a significant bearing on the\nglobal climate change. The sedimentary layers at the lake bottom contain\nchronologically ordered information. Studies on long term climatic changes in\nAntarctica have been focused on ice core and marine records which have provided\ninsights about atmospheric / marine couplings during last glacial / interglacial cycle.\nOwing to the lack of large ice-free areas and the presence of permafrost, terrestrial\nrecords have played a less significant role in documenting Holocene climatic changes.\nThe Schirmacher Oasis is interspersed with a number of freshwater lakes\noffering a great potential of systematic multi-disciplinary studies. The expertise of\nretrieving in-situ lake bottom sediment cores using indigenously designed and\ndeveloped coring devise by Antarctica Division has yielded significant results.\nThus, a systematic attempt of Lake Bottom Sediment Coring was made during the\n24\nth Indian Antarctic Expedition mainly during the wintering over period.\nINTRODUCTION\nLimnological studies from Antarctic Peninsula, McMurdo Dry Valley\nand East Antarctic lake-rich Oases: Vestfold Hills, Larsemann Hills, Bunger\nHills, Rauer Islands and Windmill Islands have already contributed\nsignificantly in the various aspects of lacustrine systems. Earlier attempts\nof retrieving Lake Bottom sediment cores from Schirmacher Oasis\nsucceeded in getting a few cores of about 50 to 70 cm lengths. Studies on\nthese cores led to an inference indicating a three fold climatic oscillation\n(warm-dry, warm-humid and warm more humid) since last 8,000 BP (Bera\nand Khandelwal, 2003; Bera, 2004; Bera, 2006) besides identification of\nthe first record of some Arcellaceans (Mathur et al., 2006) which are very\nimportant ecological indicators.\n240 Rajesh Asthana et al.\nAllowing the scope of expansion and improvement of scientific\ninformation based on lake bottom sediment cores, a total number of 39\nlake bottom sediment cores (cumulative core length - 43.50m) have been\nretrieved using indigenously designed and fabricated sediment coring device\nduring the austral winter of 24\nth Indian Scientific Expedition to Antarctica\n(2004 – 06). From each coring site, entire sedimentation column from top\nto bedrock have been raised with some cores of more than 200 cm lengths\n(longest core being 221 cm) that are likely to provide data beyond LGM. A\ncomprehensive multidisciplinary investigation including sedimentological,\ngeochemical, biological, palynological, micropalaeontological and mineral\nmagnetic susceptibility studies have been envisaged (Asthana et al., 2006)\nalong with isotopic and thermo luminescence (TL) dating to elucidate\nvarious parameters. Synthesis of all these data would be helpful in\nreconstructing the palaeoclimatic and palaeoenvironmental regimes of East\nAntarctica that will have a bearing on the global climatic changes in recent\ngeologic past.\nLacustrine Environment at Schirmacher Oasis, Sediment\nCharacteristics and Scope of Investigation\nThe “roche moutonnee” landscape of Schirmacher Oasis is\ncharacterized by numerous lakes which are mostly ice-scoured basins and\ntroughs (Beg et al., 2006) produced by moving ice streams/ice sheets\nsubsequent to the Last Glacial Maximum. Sediments derived from the ice\nmasses are transported and deposited by melt water and these sedimentary\nlayers at the lake bottom contain chronologically ordered information\nregarding the topography and environmental history of the region.\nThe glacial and periglacial environments encompassing lakes of\nvarying dimensions are characterized by specific physical, chemical and\nbiological conditions and the major glacial activities involve both erosion\nand sedimentation. Lacustrine systems are very sensitive and readily affected\nby even minor tectonic or climatic changes, interacting tectonics, drainage\nevolution and sediment supply that get preserved in their depositional\nrecords.\nAll major lakes of Schirmacher Oasis are localized along the glacial\nvalleys (Ravindra et al., 2002; Beg et al., 2006). The older (first generation)\nvalleys are separated by high grounds with typical development of Roche\nMoutonnees; whereas steep and clean cut walls define the younger ones.\nIn each individual valley, the glaciers, directly feed the southernmost pro-\n241Lake Bottom Sediment Coring from Schirmacher Oasis during...........\nglacial lakes, and towards north, the successive lakes are partly fed by the\nseasonal snow and partly through a subsurface flow regime manifested as\npatterned",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology & Climate Change",
+    "subcategory": "Lake Bottom Sediment Coring from Schirmacher Oasis During 24th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:40.004407Z"
+  }
+}

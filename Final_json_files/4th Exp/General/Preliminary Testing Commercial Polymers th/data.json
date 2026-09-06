@@ -1,0 +1,72 @@
+{
+  "id": "article_14_2",
+  "document_id": "NCPOR-54DB03",
+  "source_file": "ARTICLE+14-2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/245/3/ARTICLE+14-2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+14-2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "197\nPreliminary Testing Report of Some Commercial Polymers and Their\nUtilisation in the Antarctic Climatic Conditions\nD.A. Dabholkar, U.K. Saroop, R.C. Sood and A.K. Aggarwal\nShriram Institute for Industrial Research, 19 University Road, Delhi-110007. \nABSTRACT\nThe effect of extreme low temperature and high wind velocity conditions existing in Antarctica have\nbeen investigated on various polymeric materials. The selection of polymeric materials ranged from\nsimple polyolefinic polymers like Low Density Polyethylene (LDPE) and Polypropylene (PP) to engi-\nneering and speciality polymers like Acrylonitrile Butadiene Styrene Coplymer (ABS), Polycarbonate\nand Poly-tetrafluoroethylene (PTFE). The polymeric samples were exposed to the Antarctic climate for\none month and for one year duration. The one month exposed samples were brought back and evaluated\nfor thermal, mechanical and electrical properties. No significant changes were observed in the properties\nof the samples exposed for one month duration. Conclusions about the effect of Antarctic climate on the\npolymers, can however, be drawn only after detailed evaluation of the sample s exposed for one year.\nINTRODUCTION\nTemperature undoubtedly has a profound effect on the matter and its properties. Materials,\nwhich possess useful properties may be rendered useless in extremely hot or cold conditions. In the\nclimatic conditions such as prevailing in Antarctica one has to be very careful and critical about the\nchoice of materials for specific uses. Polymers because of certain advantages have replaced to a great\nextent the naturally occurring materials like wood, metals and ceramics in almost all walks of life.\nThese materials possess some properties better than the natural materials, can be moulded and\nfabricated with ease into desired shapes and besides this they also provide good chemical and wea-\nther resistance. They have low densities as compared to metals and ceramics. They are attractive for\ncryogenic applications because of low thermal conductivities an d excellent mechanical properties\n(Javitz, 1961; Kropschot, 1962; Lacques et al., 1952; Tito et al., 1968). Many plastics, especially\nfluoropolymers have superior resistance to embrittlement at cryogenic temperatures. In general,\npolymers retain their strength at extreme low temperatures. Furthermore, laboratory evaluation of\nproperties of some important polymers at low temperature have revealed that these properties are\ntemperature dependent. The laboratory finding can be summonsed as follows (Herman et al., 1965).\nAs temperature decreases, the properties are changed as:\nTensile st rength ... increases Hardness ... increases\nFlexural strength ... increases Impact strength ... decreases\nModulus of elasticity ... increases Thermal conductivity ... decreases\nTotal thermal contraction ... increases Ductility ... decreases\nStrength to weight ratio ... increases Elongation ... decreases\nVolume resistivity ... increases Coefficient of expansion ... decreases\nThe main objective of  undertaking the work at Antarctica was to study the usefulness\nof various polymeric materials for their various applications in the Antarctic climate. The\nmaterials chosen for this study were polyolefins like LDPE, Poly-propylene (PP), ABS, PVC (in rigid\nand flexible forms), their modified forms like PVC/NBR blend, PVC/ABS blends, filled PVC\ncompounds, polycarbonate, polytetrafluoroethylene and thermosetting flame resistant polyesters.\nTesting Report of Commercial Polymers \nThese polymers were selected with a view to find out whether their existing excellent proper-\nties are retained even in the Antarctic climate.\nPreliminary evaluation of the properties of polymers\nThe samples were exposed to the conditions prevailing in Antarctica for a period of one month \nto one year, and after exposure they were evaluated for physical, mechanical, electrical and thermal\nproperties. The study has revealed that certain polymers do not  possess useful properties in the\nAntarctic climate while their modified forms are quite useful. An attempt has been made to find out\nthe correlation between the chemical structure and the properties in the Antarctic environment with\na view to find out the polymeric materials most suitable for various applications in Antarctica.\nMATERIAL AND METHODS\nBoth low dens ity polyethylene (LDPE) and polypropylene (PP) were used as supplied by M/s\nIndian Petrochemicals Limited (IPCL), Baroda.\nABS pallets used were received from M/s Polychemicals Ltd., polycarbonate granules were\nsupplied by M/s Baeyer Ltd., PTFE sheets were used as received from Du Pont Ltd., U.S.A., PVC\n(SR-10) was supplied by M/s Shriram Fertilizers & Chemicals, Kota, nitrile rubber used was of Syn-\nthetics and Chemicals, Bareilly.\nPVC blends with nitrile rubber, ABS and wollestonite were prepared at Shriram Institute for\nIndustrial Research for studying the various properties. PVC rigid pipe was procured from M/s Pra-\nkash Pipe Ltd.\nPreparation of samples\nThe gr",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "5]General",
+    "subcategory": "Preliminary Testing Report of Some Commercial Polymers and their Utilisation in the Antarctic Climatic Conditions",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:40.116704Z"
+  }
+}

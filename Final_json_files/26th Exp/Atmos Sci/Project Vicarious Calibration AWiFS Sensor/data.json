@@ -1,0 +1,72 @@
+{
+  "id": "159_180_pg",
+  "document_id": "NCPOR-E139D9",
+  "source_file": "159-180+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1050/1/159-180+pg.pdf",
+  "bibliographic": {
+    "title": "159-180+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "159\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 159-180\nProject Report on Vicarious Calibration of AWiFS\nSensor of Resourcesat-1 with Antarctica as a\nNatural Test-Site\nS. S. Manjul\nSSD/EOSG, Space Applications Centre (ISRO), Ahmedabad 380 015, India\nABSTRACT\nThis report describes the project activities performed under the 26 th Indian\nScientific Expedition to Antarctica. Under the project, four different types of\nGround Truth Radiometers were designed and developed indigenously. These\ninstruments consist in all 32 spectral bands covering the spectral range from 400\nto 2500-nm. Among the 32 bands, four spectral bands are identical to that of\nAWiFS sensor. These instruments were successfully operated under harsh and\nhostile environment of Antarctica and they were used for collecting voluminous\nground truth data during the period from December 2006 to March 2007. The\ndata was collected concurrently/non-concurrently with Resources at-1 passes.\nThe data was collected at ground level with the height ranging from 1 to 2 meter\nand also at helicopter level with the altitude ranging from 200 to 3000-m. The\nmeasured data consists of spectral reflectance/reflected spectral radiance of\nvarious terrain surfaces covering snow/ice, water bodies, rocks and soil. It also\nconsists of measurement of direct and direct-plus-diffused components of\nincoming solar spectral irradiance. Images of AWiFS were acquired over the test\nsite nearer to Sankalp area. The calibration methodology has been successfully\nestablished. The methodology essentially consists of estimation of spectral\nradiance at the entrance port of the AWiFS sensor by using the measured values\nof reflected spectral radiance from the ice surface and water bodies at ground\nas well as the altitude of 3000 m and the estimation of the values of path\nradiance above 3000 m by modeling the atmosphere over the test site. Test\nresults show that in December, Antarctica provides constant illumination-\ngeometry conditions where the spectral irradiance remains constant within ± 3 %\nfor the duration of 3 hours at the time of polar satellite passes. This time period\nis adequate to perform ground truth data collection experiments concurrent with\nthe satellite passes. It was observed that during December - February more cloud\nfree days are available. It was also observed that the optical depths of the\natmosphere are stable, predictable and accountable. AWiFS imagery shows the\nspatial non-uniformity of about 3% within the surface area of about 5 x 5-km\n2.\n160\nFinally, it has been demonstrated that Antarctica has very stable Land-Atmosphere\nsystem and is a unique natural test-site to perform validation and vicarious\nradiometric calibration of a space borne optical sensors.\nKeywords: Vicarious calibration, Post-flight radiometric calibration, Resourcesat-\n1, Radiometry, Ground Truth Radiometer, Spectral Signature Studies, Remote\nSensing, Radiometry, Optical sensors, Snow, Ice, Polar Remote Sensing,\nAntarctica.\nINTRODUCTION\nIndian Space Research Organization (ISRO) has launched a series\nof remote sensing satellites that incorporate state-of-art technology. They\nare being extensively used for monitoring and managing the earth’s\nnatural resources. Among these satellites, Resourcesat-1 has produced\nvoluminous and useful data for various types of remote sensing\napplications.\nRadiometric calibration of satellite sensors is a key to providing\nlong-term continuous, reliable and consistent data sets for various remote\nsensing applications. Pre-flight calibration is carried out in the controlled\nenvironment of the laboratory against standard calibrated sources which\nare traceable to international standards. In general, in-flight calibration\nof a sensor is performed with several mechanisms. Most of the modern\nsensors have built-in calibration mechanism consisting of the sources\nsuch as light emitting diodes, black bodies, tungsten-halogen lamps etc.\n(Lyu et al., 2000; Hugh et al., 2005). The implementation of built-in\ncalibration mechanisms may be prone to its own degradation and involves\nextra cost and complexity. The in-flight calibration is done by means of\nindependent check, by using natural sources such as sun or moon (Hugh\net al., 2005). However, it demands pointing capability of sensors towards\nthe natural sources during calibration process. The techniques to perform\nthe in-flight calibration, known as vicarious calibration, involve estimation\nof calibration coefficient ([mw/cm\n2-sr-ì]/[mv]) with a different\nmethodology than that is used for pre-flight calibration. Normally, the\nmethodology involves the use of either natural or artificial terrain\nsurfaces. The artificial surface could be fabricated, characterized, and\nused by illuminating with solar radiations. However, the feasible and\ncost effective solution for undertaking vicarious radiometric calibration\nis to use a natural test site such as water bodies, sand dunes etc.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 22
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Project Report on Vicarious Calibration of AWiFS Sensor of Resourcesat-1 with Antarctica as a Natural Test-Site",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:00:24.735780Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_2",
+  "document_id": "NCPOR-21436C",
+  "source_file": "ARTICLE+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/162/3/ARTICLE+2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "On the Nature of the Basic Rock Erratics from the\nDakshin Gangotri Landmass, Antarctica\nV.K. Raina, M.K. Kaul and S.K. Chakraborty\nGeological Survey of India \nBlack and brown erratics characterised by autobrecciated nature and small pebbly appearance\nwere observed on Dakshin Gangotri landmass. These erratics, transported by inland ice sheet, show no\noutcrop either in this landmass or in immediate vicinity.\nPetrographically these erratics represent a pyroxene-olivine basalt with phenocrysts of pyroxene,\nolivine and plagioclase with no flow structure in groundmass, indicating that the crystallisation has taken\nplace mostly either after the flow has come to rest or the crystallisation was contemporaneous with a \nturbulent movement which did not allow any regular orientation in groundmass.\nChemical analysis indicates a Ni content upto 0.16% and iron upto 10% with silica content of 42%\nINTRODUCTION\nDakshin Gangotri landmass (70°45'S, 11°37'E) in East Antarctica exposes rocks of the Base-\nment Complex comprising primarily banded and augen gneisses, garnet sillimanite gneiss, and\nmetabasics with intrusions of melasyenites, aplites and dolerites. During the geological mapping of\nthis landmass, small erratics of a basic rock were located north-west of the Dakshin Gangotri glacier at\na locality marked E in the geological map of the area. They occur as boulders spread over a radius of\n10 m and between 10 cm to 1 m in size and were located in loose rubble of a rock slide, at the bottom\nof a small gully originating from under the inland ice sheet.\nThe erratics, black to brown in colour, are fine grained in nature and show almost an autobrec-\nciated character with well rounded to polygonal pebbles incorporated within the fine grained ground-\nmass. Size of the incorporated pebbles varies from 1 cm to 5 cm. Boulders with smaller pebbles show\na very hard and compact nature while those with larger pebbles, on striking, crumble into a powdery\nmass releasing the well rounded incorporated pebbles. The latter, in general, show a rounded but\npitted surface and are very hard to break. A few pebbles even exhibit a dumb-bell shape.\nPETROGRAPHY\nThey show porphyritic texture with phenocrysts of augite, olivine and calcic plagioclase set in a \ngroundmass consisting of small plagioclase laths, granular augite, small skeletal opaque grains and\nglass charged with opaque mineral grains (Fig. 1) The idiomorphic phenocrysts constitute about\n20% of the rock with pyroxene being the most abundant (about 80%) followed by olivine (about 20%).\nOilvine phenocrysts form clusters, surrounded by granular augite. Some grains of olivine are,\nhowever, completely pseudomorphed by green chlorite. Olivine grains tend to partially or complete-\nly enclose laths of plagioclase in a poikilitic manner. Phenocrysts of olivine contain round glass\ninclusions containing iron ore, pyroxene and glass quenched from them. The average composition of\nthese oliviness is Fe59 (2VX = 78˚)\n11\nNature of the Basic Rock Erratics\nPlagioclase phenocrysts are lath-like and show twinning on albite and albite-Carlsbad laws\n(Fig. 2). Some grains show conspicuous zoning and contain glass inclusions along the zonal bounda-\nries. The composition of the phenocrysts varies from An71 to An67.5 (X'  010 = 42˚ to 39.5˚) indicat-\ning their calcic nature.\nAugite phenocrysts form subhedral to euhedral plates and commonly form clusters. Twinning\nis seen in some grains, and the hour glass structure is present at places. The average composition is\nCa38 Mg49 Fe13 (NY = 1.683 ± .002; 2Vz = 47˚).\nThe microcrystalline groundmass shows intergranular texture. The plagioclase of the ground-\nmass is lath-like and twinned and contains inclusions of small grains of augite, elongated skeletal,\ndendritic patterns of opaque oxides and glass along the twin planes. Rarely biotite and brown horn-\nblende is also seen. In the chilled glass areas plagioclase laths are forked. Their average composition\nis An60.5 (X' 010 = 33.5˚).\nAugite grains of the groundmass are granular and those enclosed in glass are fibrous microlites.\nThey are colourless to dark light pink and are intimately associated with plagioclase. Some grains\nshow sector zoning. Some fine skeletal of iron oxides grains are attached to the boundaries of the\naugite grains.\nTitanomagnetite grains show a profuse development and are represented by octahedral crys-\ntals. Some skeletal and a few needle like-crystals of ilmenite are also present. These mostly occur in\nthe cryptocrystalline groundmass.\nDevitrification has resulted in the formation of plagioclase and augite microlites.\nThe SiO2 content of the groundmass glass is about 53%(R.I 1.560 ± 0.004), indicating a slight\ndifferentiation of the residual liquid. Alteration to orange, isotropic palagonite is common influence\nof chemical alteration/leaching.\nIn the interstitial spaces, brown immiscible liquid (glass) globules occur in a high-silica pale\ncoloured glass base owing, probably to silicate liquid immi",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "2]Geology",
+    "subcategory": "On the nature of the basic rock erratics from the Dakshin Gangotri landmass, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:06.618885Z"
+  }
+}

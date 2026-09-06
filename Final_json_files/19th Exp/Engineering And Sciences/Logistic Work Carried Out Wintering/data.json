@@ -1,0 +1,72 @@
+{
+  "id": "article_19",
+  "document_id": "NCPOR-F27056",
+  "source_file": "ARTICLE+19.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/585/3/ARTICLE+19.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+19",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 253-258 \nLogistic Work Carried Out During\nthe Wintering Period of the 19\nth\n Expedition\nMaj Ravi Sangwan and Capt Kapil Taneja\nIndian Army, Sena Bhawan, New Delhi\nObjectives\nMain Tasks: Operation, maintenance and r epairs of:\n(a) Power generation and distribution system.\n(b) Vehicles.\n(c) Central heatin g and water supply.\n(d) Waste water treatment and disposal.\n(e) Deep freezers.\n(f) Wood works.\n(g) Fuel decanting, storage and supply.\n(h) Fire fighting and its prevention. \n(i) Running of ser vice convoys and handling of fuel.\n(j) Support in the conduction of scientific activities.\nWork carried out\n(a) Power generatio n & distribution  : At the time of handing\nover the station of us, only 3 generators out of 9 were in working\ncondition. This created a shortage  in the power supply. The\ngenerators were not sufficient even to maintain the minimum of\ntwo pairs required during the wintering period.\ni. Winding for three stators was done. Two generators were\nrepaired using these stators and one was kept for future\nuse.\nii. By replacing defective alternators two  generators were\nrepaired.\niii. Alternator of another generators was repaired.\n254 Maj Ravi Sangwan and Capt Kapil Taneja \niv. Defective auto shut down system of five generator engines\n(at low oil pressure) was rectified. This system is now func-\ntional in 7 generators (including 2 new generators) out of\n10. It will help in saving the life of the engines.\nv. One generator was shifted from Bhaskara to Surya com-\nplex so that both the 125 KVA generators can be installed\nin Bhaskara complex\nvi. Two new 125 KVA generators have been installed in\nBhaskara complex. The original containers for installation\nof these generators did not reach Antarctica. \nvii. From January 2000 to December 2000 a total of 234 main-\ntenance and repair tasks have been carried out to get unin-\nterrupted power supply.\nviii. One 30 KVA generator kept at Dakshin Gangotri for u s e\nof the scientific teams was repaired.\nix. All the ten generators were to handed over to the next team\nin working condition, along with one spare engine.\nx. Electrification : Apart from the routine repairs on electric-\nity lines, the following was undertaken:\nx. (a) The Surya, Aditya and the Bhaskara generator houses were\nre-electrified.\nx. (b) The new MI room was fully electrified.\nx. (c) The summer camp electrical distribution point \"Khasi\" w a s\nsimplified, fitted with MCB's and all huts and toilets elec-\ntrically isolated from each other for better safety and load\ndistribution.\nx. (d) Spare line for the boiler room was laid alongside in-use\nline.\nx. (e) The kitchen klargester unit was re-electrified.\nx. (f) The green house is on the station electricity map.\n(b) Running of service convoys :  A total of 330 KL of fuel and\n16 containers (8 of which came by a Russian ship) were un-\nloaded on the ice shelf. Twelve containers and 240 KL of fuel\nwas transported to Maitri and 6 containers were back loaded\nfrom Maitri (with used oil and garbage) to the shelf, in 8 con-\nvoys. New barrels for marking the convoy route were kept be-\ntween shelf and barre No. 39.\n(c) Support in the conduct of scientific activities : \ni. (a) Vehicles were regularly taken to western Schirmacher for\nGSI work at DG Glacier snout (Glaciological Studies).\nLogistic Work Carried Out During the Wintering Period of the 19\nth\n Expedition 255\ni. (b) To \"Sankalp Point\" for SASE work (Weather data and ice\nsample collection).\ni. (c) To Veteheia hil l for the work of DEAL (installation and\nmaintenance of repeater station for communication).\nii. Stabilizing of Log periodic antenna of DEAL to withstand\nhigh winds, by first correcting the position with the help of\na crane and then properly anchoring the mast.\niii. The defunct towers of DEAL were removed for back load-\ning.\niv. Fabrication of a mast  for the spherical antenna of IIG and\nits erection.\nv. The panel below the dome of the Inmarsat Satellite Termi-\nnal was cut open to create a hatch-door for its accessibility\nduring its breakdown.\nvi. An aluminum tower was erected in close vicinity of the\nexisting HF tower. This  served for the safety of the\nradioman carrying out repairs on the antenna.\nvii. A separate laboratory for the NGRI equipment was built\nwithin the existing \"Tirurnala\" hut for effective heating,\nwith minimum heaters during peak . \nviii. Earth cable was laid for the scientific huts in the summer\ncamp to minimize static charge and safeguard the instru-\nments.\n(d) Station maintenance tasks : \ni. Boiler room:\ni. (a) Expansion tank and both the hot water tanks were replaced.\nThe new tanks were received in pieces of two each, which\nwere welded in the station.\ni. (b) Chemical  treatment of the central heating system was in-\ntroduced on a round the clock basis. Prior to this arrange-\nment, leakage in the piping and bursting of the radiators\nwas a regular feature. Ex",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "7]Engineering And Sciences",
+    "subcategory": "Logistic Work Carried Out During the Wintering Period of the 19th Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:42.957780Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_16",
+  "document_id": "NCPOR-99E132",
+  "source_file": "ARTICLE+16.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/424/3/ARTICLE+16.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+16",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp 199-206 \nIntroduction\nIsolation and Characterization of Psychrotrophic\nAntarctic  Bacteria  from  Blue-green Algal Mats and Their\nHydrolytic Enzymes\nLOKENDRA SINGH and K. VENKATA RAMANA\nBiotechnology Division, Defence R & D Estt, Gwalior-474 002\nAbstract\nBlue-green algal mat  samples were collected from various locations around Schir-\nmacher Oasis, Antarctica. Psychrotrophic bacteria have been isolated and were studied for\nthe production of hydrolytic enzymes. The bacteria have been categorised into proteolytic,\nlipolytic and amylolytic strains. Their optimum growth temperature was determined as\n25-28°C, The optimum carbon and nitrogenous substrates were determined for two isolates\nthat belong to the genera of Pseudomonas sp and Bacillus sp showing high protease and\nlipase activity. Preliminary characterization of the enzymes has been carried out. The\nbacteria were able to produce acidic proteases and esterases with an optimum temperature\nof 40°C. The proteases were able to hydrolyse only denatured protein substrates like gelatin\nand azocasein. The molecular weights of the proteases ranged from 46-80 kDa. Lipases have\nshown negligible activity in the presence of oils. Water soluble monomelic lipase substrates\nwere hydrolysed at much higher rates.\nBacteria which grow at low temperatures are known as psychrophiles and\npsychrotrophs. Psychrophiles are defined as having optimum  growth tempera-\nture below 15\no\nC and upper growth temperature below 20°C. Whereas psy-\nchrotrophs have optimum growth temperature around 20°C and sometimes they\nshow an upper growth-temperature of  40°C. Most of the investigations in the\npast have been dealt with proteases and lipases produced by food-spoiling\npsychrotrophs mainly from Pseudomonas fluorescens  (Patel, 1986). The Ant-\narctic habitat has its characteristic extreme low temperatures and dry weather\nconditions. Despite the hostile conditions of the Antarctic continent various\nforms of algae, fungi, lichens and bacteria have been known to thrive exuber-\nantly ( Shivaji, 1988 & 1989). Th e microflora of this continent was investigated\nto some extent but most of the microflora has not  been completely explored for\napplication in different field s (Feller, 1990). The substrate utilization and\n200 Lokendra Singh and K. Venkataramana \nnutrient requirements of cold bacteria of Antarctic have been very sparse a n d\nlimited to understand the phenomenon of enzyme induction and their impor-\ntance in biodegradation (Juffs , 1976; Mc Keller, 1982;Fairbarn and Law, 1987;\nReichadt, 1989).\nIn this investigation the aim has been the  isolation of cold- active bacteria\nfrom Antarcti c samples, their substrate utilization, carbon and nitrogen source\npreference for enzyme production and characterization of their hydrolytic\nenzymes to facilitate biodegradation at low temperatures.\nMaterials and Methods\nSample collection:  Samples of blue-green algal mats were collected from\nvarious ponds, lakes and water bodies of  Schirmacher Oasis in sterilized\npolythene bags. The  samples were transported to  Gwalior at 4°C.\nBacterial counting and isolation:  Ten fold serial dilutions of the samples\nwere prepared in nutrient broth and 0.1ml of each were spreaded on the surface\nof nutrien t agar, skim milk agar, tributyrin agar and starch agar. The plates were\nincubated for one week at 15°C. The  bacterial colonies appearing on nutrient\nagar were recorded as total bacterial counts. The proteolytic and lipolytic\nbacteria were recognised by obser ving the zone of hydrolysis on skim milk agar\nand tributyrin agar, respectively. The amylolytic bacteria were identified by\nfuming the plates of s tarch agar  with iodine crystals and  observing halo as a \nresult of starch hydrolysis around the colonies. The proteolytic and lipolytic\nbacteria were isolated and maintained in nutrient agar slants at 4°C.\nScreening for protease and lipase production:  The medium for quantitative\nscreening of enzyme production was consisted of yeast extract 0.02%, ca-\nsein/tributyrin 0,05%, K\n2\nHPO\n4\n 1.0% and KH\n2\nPO\n4\n 0.5% with  p H adjustment\nto 7.4. A loopful of freshly grown nutrient broth culture was used as inoculum\nfor enzyme production in 250 ml conical flask containing 100 ml of broth. T h e\nbroth was incubated at 15°C for 10 days and the supernatan t was used for\nenzyme estimation.\nOptimization of growth and enzyme production:  For finding out the s uit-\nable carbon source, glucose, maltose, lactose, s tarch and oils comprising corn\noil, olive oil , tributyrin and tween 80 were used independently in liquid\nmedium. Gelatin, peptone, casein, bovine serum albumin (BSA), s oybean meal\nand egg albumin were used for testing the optimum nitrogenous substrate. T h e\noptimum temperature and  p H were determined by incubating the flasks at\ndifferent temperatures and  pH. Growth was mo nitored by measuring",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "4]Bio - Sciences",
+    "subcategory": "Isolation and Characterization of Psychrotrophic Antarctic Bacteria from Blue-green Algal Mats and their Hydrolytic Enzymes",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:13.305500Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "chapter_1",
+  "document_id": "NCPOR-D7CD60",
+  "source_file": "Chapter+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1125/1/Chapter+1.pdf",
+  "bibliographic": {
+    "title": "Chapter+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "BIOLOGY, \nENVIRONMENTAL \nSCIENCES & HUMAN \nPHYSIOLOGY\nStatus and distribution of birds in Southern Indian\nOcean and Antarctica with special reference to climate\nchange\nK. Sivakumar and S. Sathyakumar\nWildlife Institute of India, P .O. Box. 18, Chandrbani,\nDehradun - 248001, Uttarakhand, India.\nEmail: ksivakumar@wii.gov.in\nABSTRACT\nThe Wildlife Institute of India has been participating in the Indian Scientific\nExpeditions to Antarctica and monitoring birds in the southern Indian Ocean and Antarctica\nsince 1994 along with the Department of Ocean Development and later with the National\nCentre for Antarctica and Ocean Research. During the 28 th Indian Scientific Expedition to\nAntarctica, status and distribution pattern of oceanic birds in the southern Ocean,\nLarsemann Hills and India Bay near Maitri in Antarctica were studied with respect to\nglobal climate change. In the southern Ocean, a total of 46 bird species were recorded\nbetween January and March 2009, which is the southern summer. The species composition\nand abundance of birds changed significantly along latitudinal gradient (R2=0.531). Although,\nthe number of bird species recorded in the different latitudinal zones were more or\nless similar (R2=0.003), higher number of oceanic birds were recorded between 60°S and\n70°S in the Southern Ocean. In the 1,613 nm long total transects, a total of 5,727 birds were\nrecorded and the density estimated at 21.9 birds/nm -2. At Larsemann Hills in Antarctica, six\nspecies of birds were recorded. These include: Adelie Penguin, Emperor Penguin, South\nPolar Skua, Snow Petrel, Wilson's Strom Petrel and Light mantled Sooty albatross.  Of\nthese, South Polar Skua and Strom Petrel were observed breeding in this group of islands.\nIt was also observed that Adelie and Emperor Penguins were using some of these islands\nfor moulting especially Fisher and Stornes. At India Bay and Maitri, six species of birds\nwere recorded.  These include: Adelie Penguin, Emperor Penguin, South Polar Skua, Snow\nPetrel, Wilson's Strom Petrel and Southern Giant Petrel. Of these, Skua and Snow Petrel\nwere observed breeding in the Schirmacher Oasis. Range extension of some of oceanic birds\ntowards Antarctic (below 70°C) may be due to increase in temperature because of global\nclimate change and this is a cause of serious concern as it will affect the overall species\ncomposition and biodiversity in polar region.\nINTRODUCTION\nClimate change impacts ocean biota in different ways and biological\nfeedbacks in course of time may become amplified during any climate\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 289-303\n290 K. Sivakumar , et al.\nchange signal (Camille, 2006). Antarctica and the surrounding ocean have\na unique assemblage of flora and fauna that have been threatened in the\nrecent past due to global warming and also due to increasing human\nactivities. Biological feedbacks due to climate change arise from changes\nin primary production or shifts in the phytoplankton community\ncomposition. Several ocean models have suggested that the Southern Ocean\nsurface waters are going to become warmer and fresher with increased\nvertical stratification, reduced sea-ice, higher CO 2 oceanic concentrations\nand ultimately increased upwelling. Alteration of these ocean properties\nmay affect the plankton dynamics and community composition in these\nwaters. This in turn could have a long lasting impact on oceanic birds and\nmammals, which are directly or indirectly linked to the availability of certain\nspecies of phytoplankton.  Penguins, oceanic birds and whales are expected\nto be affected badly among vertebrates due to global warming in circumpolar\nregion around Antarctica.\nMonitoring the wildlife populations provides crucial information\nabout the viability of the population being monitored and about the quality\nof the habitat or landscape in which the population occurs.  Although the\nbroad distribution, abundance and ecology of major mammals and bird\nspecies that occur in the southern Ocean and Antarctica are known,\ninformation on population trends is essential for understanding the long-\nterm conservation status of these species with respect to climate change.\nThe impacts of regional climate change and extreme weather on wild\nspecies has been studied for several decades (Camille, 2006). Paleoclimatic\nstudies have also shown that many  species have adjusted to climate changes\nat times in the past without mass extinction (Isabel, 2007). Y et, it is uncertain\nif projected climate change widely foreseen today would mimic climate\nchange events in the geological record, and if human-ecosystem\nrelationships would help or hurt adaptation. In the last ten years, scientists\nhave documented the effects of climate change on species and populations\non every continent and in most taxonomic groups. Some studies provide\ncorrelations between climate change and species changes, others predict\nchanges with climate and species mod",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "4] Biology, Environmental Sciences and Human Physiology",
+    "subcategory": "Status and distribution of birds in Southern Indian Ocean and Antarctica with special reference to climate change",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:23:53.234463Z"
+  }
+}

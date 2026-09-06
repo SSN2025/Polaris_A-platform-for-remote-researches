@@ -1,0 +1,72 @@
+{
+  "id": "397_410_pg",
+  "document_id": "NCPOR-B712C7",
+  "source_file": "397-410+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1066/1/397-410+pg.pdf",
+  "bibliographic": {
+    "title": "397-410+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "397\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 397-410\nFunctional Diversity of Microbes in Antarctic Lakes\nK. P. Krishnan and Rupesh Kumar Sinha\nCryobiology Laboratory, National Centre for Antarctic and Ocean Research,\nHeadland Sada, Vasco da Gama, Goa – 403 804\nABSTRACT\nThe significance of freshwater systems in global manganese cycles is well\nknown. However, the polar systems, which encompass the largest freshwater\nrepository in the world, have been least studied for their role in manganese\ncycling. Here, we present results from a study that was conducted in the brackish\nwater lakes in the Larsemann Hills region (east Antarctica). The rate of in situ\nmanganese oxidation ranged from 0.04 to 3.96 ppb day\n-1. These lakes harbor\nnumerous manganese-oxidizing bacteria (10 5 to 10 6 CFU l -1), predominantly\nbelonging to genera Shewanella, Pseudomonas and an unclassified genus in the\nfamily Oxalobacteriaceae. Experiments were conducted with representatives of\npredominant genera to understand their contribution to Mn cycling and also to\nassess their metabolic capabilities in the presence of this metal. In general, the\ntotal and respiring cell counts were stimulated to a maximum when the growth\nmedium was amended with 10 mM manganese. The addition of manganese\npromoted the use of D-mannitol, maltose, etc., but inhibited the use of maltotriose,\nL-serine and glycyl L-glutamic acid. The bacterial isolates were able to catalyze\nboth the redox reactions in manganese cycling. In vitro  manganese oxidation\nrates ranged from 3 to 147 ppb day\n-1, while manganese reduction rates ranged\nfrom 35 to 213 ppb day -1. It was also observed that the maximum stimulation\nof manganese oxidation occurred in the presence of cobalt (81 ± 57ppb day -1),\nrather than iron (37± 16 ppb day -1) and nickel (40 ± 47 ppb day -1). Our studies\nsuggest that cobalt could have a more profound role in manganese oxidation,\nwhile nickel promoted manganese reduction in polar aquatic systems.\nINTRODUCTION\nAntarctica, at the southern end of the world, differs in many ways\nfrom other six continents. It is the highest continent, by far the coldest\nand most remote, and unique in lacking indigenous human population.\nFrom a terrestrial and freshwater perspective, the low energy environment\nand isolation of Antarctica means that it is species poor. Indeed, terrestrial\nand freshwater systems of Antarctica represent the endpoint of the global\n398\ngradient in diversity. Where life can exist, richness is typically low, and\ncontinental Antarctic systems represent some of the simplest in the\nworld. Nonetheless, gradients in diversity exist on the continent in\nterrestrial and freshwater systems and are especially pronounced along\nthe Antarctic Peninsula. The microbial mats in Antarctic lakes are\nunique and very diverse habitats that are constituted of complex microbial\ncommunities. In these mats microorganisms are confronted with extreme\nlife conditions, such as low temperatures, freeze-thaw cycles, UV-\nirradiation, desiccation, and varying light conditions, salinities and nutrient\nconcentrations.\nMicroorganisms are fundamental to the functioning of Antarctic\necosystems. Although microbial biomass can be immense in Southern\nOcean blooms and freshwater cyanobacterial mats, species richness is\ngenerally more restricted than it is in temperate regions. However, there\nare representatives of a broad variety of taxa providing a diverse gene\npool. Species diversity may be low while metabolic flexibility is high so\nthat a few strains can provide most necessary functions (Wynn-Williams\n1996). In this context, biodiversity is the sum of biological potential.\nRelatively simple microbial communities, or conspicuous species within\nthem, can be used as indicators of microbial processes and responses to\nenvironmental change. The Larsemann Hills are located along the Ingrid\nChristensen Coast of Princess Elizabeth Land, East Antarctica (69° 30 ′ S,\n76° 20 ′ E), and comprise a series of N–S oriented, ice-free rocky\npeninsulas, which extend from beneath the Antarctic ice-cap towards the\nocean. One of the most striking features of the Larsemann Hills is the\npresence of more than 150 freshwater lakes. Most of these lakes are\nsmall (5000–30,000 m\n2) and shallow (less than 5 m), and their water\nchemistry is primarily influenced by natural processes such as snow\nmelt-water and sea-spray influx, erosion and weathering of the country\nrock, biological activity, and evaporation. All the lakes are ultra-\noligotrophic and ice covered for 9-11 months each year, resulting in a\nphotosynthetically distinctive seasonal environment with uniformly low\nwater temperatures. The benthic communities are dominated by thick\ncyanobacterial mats in the deeper parts of all but the few shallow\nbrackish lakes. In these brackish lakes, the photosynthetically active\nmats are located in the lake margins as the deeper parts of these lakes are\nstrongly anox",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "4] Biology and Environmental Sciences",
+    "subcategory": "Functional Diversity of Microbes in Antarctic Lakes",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:07:50.785182Z"
+  }
+}

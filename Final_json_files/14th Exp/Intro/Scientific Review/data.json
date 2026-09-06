@@ -1,0 +1,72 @@
+{
+  "id": "article_1",
+  "document_id": "NCPOR-4D9F5C",
+  "source_file": "ARTICLE+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/406/3/ARTICLE+1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp xvii-xxxii \nFourteenth  Indian  Scientific Expedition\nto  Antarctica  —  A  Review\nS.D. SHARMA\nThe expedition carrying sixty three members belonging to different com-\nponents like scientists from various s cientific organisations (32), Army (16),\nNavy (13) and AFMS (2) — was flagged off in an impressive ceremony at\nMarmagao port on 15 th of December, 1994 with blessings of Sh. Prasada Rao\n(Joint Secretary, DOD), Dr. E. Desa (Director, NIO), Sh. H.P. R ajan (Director,\nDOD), L eaders of the previous expeditions and heads of a numbers of partici-\npating organisations. The ship M V Polar Bird sailed off on 17 th December and\nafter that there was no looking back.\nNotwithstanding the roughness of the sea fro m the word go, s cientists from\na number of Institutions like NPL, IMD, Wildlife Institute of India, AIIMS and\nothers started taking observations. Sensors were installed on top of the bridge\nto record erythemal dose of UVB and Sunphotometer to monitor different\nwavelengths of radiations. The ship halted at Mauritius to the respite of the\nexpedition members for r eplenishing the spoiled food articles, to pickup cargo\nand ship bow- thruster repairs.\nLeader\nThe first Iceberg was sighted at 57° 4 4 ' S; 28° E at 0115 on.7 th January.\nThe event was a long awaited scenic attraction for a few but was a beginning\nof scientific activity of Iceberg monitoring for GSI  team. Packice appeared\naround midnight of 10 th Jan. and was cleared after a journey of about five hours\nand the ship entered Polynya on the early hours of 10 th January. Due to packed\nup weather, the flying operations could not be started before 13 th January, 1995.\nWithin the following week, the summer camp was established and all the\nscientific groups were inducted. The Army team took over the repairs of the\nvehicles and made a few pr eliminary convoys to DG. Later the personnel\nspecialized for ess ential services started taking over  from their counterparts of\nthe previous wintering team.  Meanwhile flights were arranged to take observa-\ntions in the southern hills by the teams of GSI, Osmania University, IIG etc.\nFlights were also arranged for WSI, ZSI and Naval hydrography teams for\nxviii\nS. D. Sharma \nwildlife monitoring and survey work. The Republic Day was celebrated with\ntraditional hoising of the National Flag followed by  National Anthem in the\npresence of both the teams, Russian guests and ship's crew.\nOn 2\nnd\n Feb., 1995 the members of the 14\nth\n expedition took over the charge\nof the Maitri Station after the traditional handing-taking over ceremony. Sh.\nSudhakar Rao, the leader XIII IAE and his team was given a hearty send off.\nThe ship sailed off to India on evening hours of 6\nth\n March, 1995.\nScientific Objectives\nA. Atmospheri c Sciences\nTo establish Laser Heterodyne E xperiment to study ozone profile (NPL),\nA shipborne system to study PBL(NPL), mm- wave experiment to study ozone\nprofile (NPL), daytime auroral emissions study using a special photometer\n(PRL), fluxgate magnetometer studies (IIG) and climatological and meteoro-\nlogical studies (IMD).\nB. Earth Sciences\nGeological mapping in the  Orvin II mountains and Glaciological Studies\n(GSI), Petrophysical,VLF-EM and Geothermal Studies (Osmani a University),\nTopographical mapping of the Schirmacher oasis to 1: 500 scale and ground\ncontrol points (SOI). Bathymetric studies around Indian Bay (Naval hydrogra-\nphy).\nC. Environment Sciences\nEnvironment impact assessment studies (NEERI)\nD. Medical Sciences\nStudies on human physiolog y (AIIMS)\nE. Biological Sciences\nAlgal colonisation in Schirmacher oasis (BHU), Microbic Studies for\nBiodegradalion (DRDE). Studies on phylum Tar digrada (ZSI) and long term\nmonitoring of mammals and birds (WLI).\nF. Engineering\nStructural studies (R & D E) and establishment of e-mail facility (R&DE)\nFourteenth Indian Scientific Expedition to Antarctica  xix\nLogistic Tasks\na. Completion and erection of garagc-cum-workshop for vehicle mainte-\nnance\nb. Routine maintenance and repair of the station\nc. Upkeep of electrical and structural aspects of the  station and also fire\nfighting equipments\nd. Proper earthing of Maitri Complex\ne. Overhauling of the cold room\nf. Upgradation of communication link and establish e-mail facility\nSummer Achievements\nThe achievements of the various scientific an d logistic groups during the\nbrief period of austral summer are described in brief:\nA. Atmospheric Sciences\na. National Physical Laboratory:  U VBiometer and aerosol studies were\nstarted just after starting from Goa.The sensors were mounted on the bridge-\nroof for recording data on automatic datalogger. Four wavelength Sunphotome-\nter was used for studying aerosols.\nLaser heterodyne system of  studying total ozone and ozone profile was\nestablished in Laser hut and data recorded for all sunny days.\nPBL studies using an acoustic  sounder and sensors ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Fourteenth Indian Scientific Expedition to Antarctica- A Review",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:46.280134Z"
+  }
+}

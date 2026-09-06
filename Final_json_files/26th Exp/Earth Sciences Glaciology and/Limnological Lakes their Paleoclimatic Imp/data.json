@@ -1,0 +1,72 @@
+{
+  "id": "289_303_pg",
+  "document_id": "NCPOR-C7BFF0",
+  "source_file": "289-303+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1060/1/289-303+pg.pdf",
+  "bibliographic": {
+    "title": "289-303+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "289\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 289-303\nLimnological Investigation of Antarctic Lakes and\ntheir Paleoclimatic Implications\nPawan Govil\nNational Centre for Antarctic and Ocean Research, Headland Sada\nVasco-da-Gama-403804, Goa\n[Present Address: Birbal Sahni Institute of Palaeobotany, 53, University\nRoad, Lucknow – 226007, U.P]\nABSTRACT\nA short 78 cm sediment core (L2) from a fresh water lake in Larsemann\nHills, East Antarctica was obtained during 26 th Indian Scientific Expedition to\nAntarctica in austral summer (January to March, 2007). The sediment core\nsamples was analyzed for grain size distribution and biological productivity\nindicator such as Total Organic Carbon (TOC) and Biogenic Silica (BSi %).\nThe sediment core represented the time period of ~8.3 cal ka BP. The values\nof BSi from the core showed prominent high productivity from ~8.3 to ~6 cal\nka BP in comparison to less productivity in mid-late Holocene (~6 cal ka BP\nto recent). Moreover, high sand (%) infers the glacio-fluvial deposition from\n~8.3 to ~5 cal ka BP. TOC showed little variation throughout the core, except\nin the upper ~ 10 cm (~4 cal ka BP) part wherein it was comparatively high.\nThe increased TOC in the upper part of the core possibly indicates presence\nof algal mat due to exposure of the lake to the ice free (glacier free)\nconditions. Furthermore, grain size distribution showed major influence on the\npreservation of the TOC and BSi%. The increased TOC in the upper part of\nthe core indicates good preservation of algal mat due to decrease in sand %\nand increase in silt %. The BSi% shows positive correlation with the higher %\nof sand during ~8.3 to ~5 cal ka BP and comparatively low values from ~ 5\ncal ka to recent time which can be described with the high and low ratios of\nAl/SiO\n2.\nKeywords: Climate, Sediment Core, Freshwater lake, Holocene, Larsemann\nHills.\nINTRODUCTION\nAntarctic continent along with its surrounding ocean influences the\nclimate not just in the high latitudes but across the entire planet. The\n290\nPolar Regions are the first to be affected by changes in climate than other\nparts of the world both in terms of rapidity and intensity. Therefore this\nregion is considered the best site in order to get the early signals of\nclimate change. Antarctic lake sediments assume a pivotal role in\npaleoclimatic and global change investigation. The lakes of Antarctica\nare the major feature of the Antarctic landscapes. It is well known that\nthe sediments and fauna contained therein are influenced by climatic\nchanges to which the Antarctic lakes are subjected to. The cores\nretrieved from the lakes are used for sedimentological, geochemical and\nbiological studies to decipher the climatic changes that have occurred in\nthe immediate past in Antarctica.\nIn general, Antarctic lakes in the coastal areas are ice free for 3- 4\nmonths in a year and are exposed to the sun which influences the\nbiological productivity as characterized by the presence of diatom and\nmoss. Ice cover greatly influences both the physical and biological\nprocesses occurring within the lakes. The extent of ice thickness of ice\ncover is an extremely important parameter in the biogeochemistry of\nAntarctic lakes (Wharton et al., 1993). To understand the biogeochemistry,\nproductivity and environmental behavior of the Antarctic lakes and\nsurrounding ocean, proxies such as Total Organic Carbon (TOC) and\nBiogenic Silica (BSi) have been used from both lake and oceanic\nsediments in the paleoclimatic studies (Yoon et al., 2006; Kaplan et al.,\n2002; Colman et al., 1995; Mortlock and Froelich, 1989). There are\nnumerous factors which control the productivity which are linked to\nseasonal temperature variations in the Antarctic region due to the  glacier\nretreat and exposure of the area to the sun (ice free) in summer and/or\nthe ice sheet extension in winter (Hodgson et al., 2004).\nThe sediment core has been collected from the small lake (L2) of\nLarsemann Hills area to understand the environmental behavior and\nclimatic variation within the Holocene based on BSi, Sand (%) and\nTOC parameters. This area was chosen because previous studies from\nLarsemann Hills area indicate that it was not heavily glaciated during\nthe Last Glacial Maxima (LGM) (Burgess et al., 1994) and recent work\nby Hodgson et al., (2001) has also described that during LGM the\nvalley on western side i.e. Stornes peninsula was filled withsoft snow\nand ice while the eastern side (Broknes peninsula) was not covered by\nthe ice.\nPawan Govil\n291\nPrevious Work\nCore logging and grain size analyses of two sediment cores have\nbeen done by GSI from Schirmacher Oasis. Anna University and GSI\nhave carried out a detailed geochemical investigation, grain size analysis\nand AMS dating of selected cores (L – 49 / 29 and L – 49 / 20 having\n242 cm and 194 cm core length, respectively) (Achyuthan et al., 2008).\nMineral magnetic observations by IIG along with oth",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology and Climate Change",
+    "subcategory": "Limnological Investigation of Antarctic Lakes and their Paleoclimatic Implications",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:06:52.381350Z"
+  }
+}

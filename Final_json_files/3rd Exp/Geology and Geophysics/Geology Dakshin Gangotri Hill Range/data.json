@@ -1,0 +1,72 @@
+{
+  "id": "article_13",
+  "document_id": "NCPOR-A946A8",
+  "source_file": "ARTICLE+13.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/215/3/ARTICLE+13.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+13",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian Expedition to Antarctica Scientific Report 1986 \nDepartment of Ocean Development Technical Publication No 3 pp 181 186 \nGeology of Dakshi n Gangotri Hill Range, Antarctica\nR K Singh 1\nABSTRACT\nGeological and structural studies of the Dakshin Gangotri  (Schirmacher) range Queen Maud\nLand of East Antarctica were carried out from Jan 12 to Feb 5 1984. The dominant rock types are\nhigh grade quartzo feldspathic gneisses with intercalations of metabasites. Gneisses have been broadly\ndifferentiated into pyroxene granulite banded gneiss garnet biotite gneiss augen gneiss and biotite\ngneiss. In  addition amphibolites migmatites and mylonites are also prevalent. Intrusives are peg-\nmatites of different ages and basic rocks. The dominant foliation trend is E-W with moderate dips to\nwards south. Rocks have undergone polyphase deformation. Zones of shearing are present along\nthe entire range. Mineral a ssemblages of gneisses indicate that they are products of regional meta\nmorphism of pelitic and quartzo feldspathic sediments under the almandine amphibolite and granulite\nfacies. In the central part of the range the garnet biotite gneiss near its contact with the augen gneiss\nshows disseminations of sulphides and pockets of graphite.\nINTRODUCTION\nSchirmacher range of Queen Maud land of east Antarctica named after Dakshin Gangotri the\nIndian Research Station is about 16 km long between latitude (70°44 30 S and 70°46 30 S) and\nlongitude (11 °22 40 E to 11°54 00 E). It is an E-W trending low lying range with a maximum width\nof 2 7 km in the central part.\nNorthern periphery of this hill range has an abrupt and steep fall towards the shelf-ice. The\nsouthern periphery underlies the continental ice-sheet, which cascades down gently over the bed\nrock. A characteristic feature of the southern periphery is the presence of a number of glacier outlets,\ngiving rise to about 12 prominent glacial lakes, the largest lake being 1 km x 0 75 km and the smallest\n400 m x 130  m. \nThe entire range shows characteristic piedmont glacial features, derived from the inland conti-\nnental sheet glaciers which once flowed over the Schirmacher range. Land forms of glacial origin like\nU-shaped valleys, moraines at higher elevations and glacial polishing of the bed rock are abundant.\nGeological and structural mapping of the Dakshin Gangotri hill (Schirmacher range), Queen\nMaud Land was carried out on scale 1 25,000 (Fig 1).\nGEOLOGICAL SET-UP\nThe stable craton of east Antarctica comprises unfossiliferous, Precambrian high-grade gneisses\nand crystalline schists with granite intrusives. The Precambrian crystallines constitute mountain\nranges like Humbold, Wholthot and Gruber in east Antarctica. The study area lies about 100 km north\nof this mountain range as a low lying isolated ridge. High grade gneisses, amphibolites, migmatites\nand mylonites are exposed in the Dakshin Gangotri range.\n1Geological Survey of India, Faridabad\n181\nFig 1. \nLEGEND\nGEOLOGCA L MA P O F DAKSHI N  GANGOTR I HIL L  RANG E  ANTARCTIC A\nGEOLOGICAL SURVE Y OF IND IA\n183\nR.K  S I N G H\nDESCRIPTION OF LITHOLOGICAL UNITS\nOn the basis of nature and composition, the gneissic rocks have been subdivided into four major\ngroups, (i) bande d gneiss (ii) garnet-biotite gneiss (iii) augen gneiss and (iv) biotite gneiss.\nThese four groups of gneisses comprise more than 90 percent of the exposed bed rock.\ni Banded Gneiss\nThis is the dominant litho uni t which is exposed in the eastern part of the range extending up\nto the central part. It is well foliated showing general ENE-WSW strike with minor variations towards\nNW-SE and moderate dips towards south. Minor strike variations to NW-SE and rare steep dips are\nalso noticed. In the central part, these banded gneisses show shearing and minor intercalation of\npyroxene granulites. A conformable band of leucocratic gneiss was noted in the central part. Mineral\nassemblage includes quartz, potash feldspar, albitic plagioclase, biotite, hornblende and garnet, with\napatite zircon, and opaques forming the accessories. Feldspars show minor sericitisation. Garnet\noccurs as  small porphyroblasts and hornblende form prismatic poikiloblastic grains. Gneissosity is\ndefined by strong parallel alignment of biotite flakes.\nA single conspicuous exposure suspected to be of pyroxene granulite is located along the eastern\nboundary of a lake (77°44 S 11°40 E). These are brown coloured non foliated rocks with positive\ngeomorphic expression. Mineral constituents of this coarse grained rock are orthopyroxene (hyper-\nsthene enstatite) hornblende plagioclase (oligoclase) and quartz. Accessories include tourmaline\nilmenite rutile and zircon.\nii Garnet Biotite Gneiss\nRocks are medium grained, grey to brown cloured, well foliated,  occupying the central part of\nthe range. In general, these rocks show E-W to NW-SE trend with minor variations in the eastern part.\nPetrographic studies indicate that pink coloured idioblastic garnet constitute the predominant\nmineral of th",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "4]Geology and Geophysics",
+    "subcategory": "Geology of Dakshin Gangotri Hill Range Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:00.532383Z"
+  }
+}

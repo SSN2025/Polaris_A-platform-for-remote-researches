@@ -1,0 +1,72 @@
+{
+  "id": "article_25",
+  "document_id": "NCPOR-39D3D9",
+  "source_file": "ARTICLE+25.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/191/3/ARTICLE+25.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+25",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Benthic Fauna of the Antarctic Ocean — Quantitative Aspects\nA. H. Parulekar 1, Z. A. Ansari 1 and S. N. Harkantra 1\nABSTRACT\nQuantitative studies on the macro and meiobenthos of the less explored (between 11 and 41°E longitude) part of the Indian\nOcean Sector of Antarctic Ocean, revealed the existence of.rich fauna and high standing crop in the depth range of 200 to 3600 m.\nPopulation density contributed by 12 meiofaunal and 3 macrofaunal taxa, was of a high magnitude and it varied from 1110 to 29774 ( \n= 6780 m -2 ) and from. 118 to 354 (\n  = 221 m -2) for meio and macrofauna respectively. Nematodes {64.20%) and\npolychaetes (53.33%) were dominant components of meio and macrofauna, respectively. Meiofauna was more abundant in sandy\nsediments than in clayey bottom deposits and the richness of fauna showed positive correlation with increasing depth. In contrast,\nthe macrofauna showed decreasing abundance with increasing depth. Ratio of macro to meiofauna in the total population was\nlto53.\nBenthic standing crop was exceptionally high (566.4 gm-2) at shallow depths and exponentially decreased with increasing\ndepths. Macrofauna contributed almost 99% to the total benthic biomass and the contribution of macro and meiofauna was in the\nratio of 675 to 1.\nHigh benthic biomass and varied fauna is a consequence of high biological productivity during the Antarctic summer. Results\nare discussed with environmental relevance to comparable Antarctic marine ecosystems reported by earlier workers.\nINTRODUCTION\nEarliest information on the Antarctic bottom fauna is from the studies carried out by the British\nAntarctic Expedition (1839-43) of Sir James Ross (Hooker 1845). However, most of the data, from the\nearlier investigations pertain to occurrence, distribution, taxonomy and zoogeography (Dell 1972). No\nreport on quantitative aspects of Antarctic benthos was available till the commencement of International\nGeophysical Year Programme of 1956-58 (Belyaev and Ushakov 1959).\nIn recent years some information on the quantitative distribution of fauna and benthic production in\ndifferent sectors or regions of Antarctic Seas is available (Broch 1961, Belyaev 1964, Holmes 1964,\nTressler 1964, Vinogradova 1964, Gallardo and Castillo 1970, Lowry 1977, Richardson and Hedgepeth\n1977, Oliver 1978 and Everitt, Poore and Pickard 1981). Most of the published reports, relate to regions\nbeyond 40° E longitude and mostly covers the Atlantic and Pacific Ocean Sectors, whereas the benthic\ninvestigations during the First Indian Antarctic Expedition of 1981-82, are essentially for the region\nbetween 10 and 41°E longitude — rather an unexplored part of the Indian Ocean Sector in Antarctic,\n(Ushakov 1964) and hence the observations presented here are meant to fill the existing gaps in the\navailable information on the Antarctic benthos.\nMATERIAL AND METHODS\nSeven stations — G-l to G-6 and G-14 (Fig.l) in the depth range of 227 to 3580 m and within the\ngeographical limits of latitude 45 to 70°S and longitude 11 to 41°E were operated. A 0.18m2 Petersen\nOken type grab (penetration depth 25 cm) was used for collecting the bottom fauna. All the results on\npopulation and biomass of macro and meiofauna are mean values of triplicate samples.\nA plexiglass core tube, 4.5 cm diameter, was used for subsampling of meiofauna from the undis-\nturbed top 10 cm layer of the bottom deposits, collected by the grab. Samples were seived, on board,\nthrough a 44 micron mesh screen and fauna preserved in 1:500 Rose Bengal—Formaldehyde solution.\nSorting, identification and enumeration  of respective taxon was don e under a stereo binocular\nmicroscope\n_________________________________________________________________________________\n1 National Institute of Oceanography, Dona Paula, Goa-403 004, India.\n213\nBenthic Fauna of the Antarctic Ocean...\nMacrofauna sub-sampling, from the grab samples was done using a 170 cm2 plexiglass quadrant (10 cm\npenetration depth) and a 500 micron mesh screen was used for separating the organisms. Biomass\nmeasurements were undertaken on a single pan electrical balance having an accuracy 0.0001 g and all\nthe values are on wet weight measurements including the exoskelton. Absolute numbers for populate\ncounts and mean values for biomass, have been raised to square metre units.\nDue to non-availability of relevant literature on the taxonomy and systematic position of different\nbenthic organisms, the identification has to be restricted only upto taxon or faunal group level, including a \nfew of the unidentified specimens.\nTHE ENVIRONMENT\nThe present set of benthic collections were obtained in January 1982, which incidently marks the late\nAntarctic summer season. Accordingly, the water column was characterized by relatively high tempera-\ntures varying from - 0.33°C (St. G-5) to 5.47°C (St. G-14) and salinity ranging between 33.59/oo (St. G-3)\nand 34.31%o (St. G-l). Area sampled was free of icebergs and anchored ice, however, from the echosound-\ning records,",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "6]Biology-Flora,Fauna & Ecosystems",
+    "subcategory": "Benthic fauna of the Antarctic Ocean — quantitative aspects",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:53.058152Z"
+  }
+}

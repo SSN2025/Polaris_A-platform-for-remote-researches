@@ -1,0 +1,72 @@
+{
+  "id": "article_14",
+  "document_id": "NCPOR-4B0A44",
+  "source_file": "ARTICLE+14.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/421/3/ARTICLE+14.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+14",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica Scientific Report 1998 \nDepartment of Ocean Development Technical Publication No 12 pp 171 185 \nVertical Magnetic  Surveys and Measurement  of\nPetrophysical  Properties in Schirmacher  Oasis,\nEast  Antarctica\nB MADHUSUDAN RAO and N SUNDARARAJAN\nCentre of Exploration Geophysics, Osmama University,\nHyderabad - 500 007\nAbstract\nVertical magnetic measurements were carried out along four-chosen profiles to have\nan insight and inference about the subsurface geology and structures of Schirmacher region\nIn addition, insitu measurements of petrophysical properties like density, magnetic suscep-\ntibility and gamma ray intensity were also carried out along these profiles Further, on a \nreconnaisance visit to Orwin mountains, samples were collected and analysed tor their\nphysical properties The results are presented here\nIntroduction\nGeophysical methods continue to play a significant role in deciphering the\nbed rock topography and subsurface structures of the not so easily accessible\nand ice covered continent - Antarctica Though geophysical investigations were\ncarried out in Antarctica during the early 1930s, the beginning of the systematic\ngeo-investigations employing seismic reflection and refraction, ground and\nairborne magnetic and gravity surveys were r ealised only  from 1950s ( Bhat-\ntacharya and Majumdar, 1987)\nIn the very first Indian expedition to Antarctica, several geophysical\nmeasurements including magnetornetrics were initiated The results have\ncleaily demonstrated the utility of  magnetic anomalies in delineating structural\nfeatures of Antarctica margin  (Arora et al,  1985) During the second expedition\n(1982-1983),  magnetic measurements were carried out across Princess Astrid\nCoast and adequate information were obtained on  magnetic characteristics and\nstructures below the ice cover in this region (Mittal and Mishra, 1985) Results\nof the magnetic mapping over the Schirmacher region during the third expedi-\ntion (1983 - 1984) is characterised by low amplitude fluctuations implying the\nlow magnetisation (Gupt a and Verma, 1985) Thus geophysical investigations\n172 B.M. Rao and N. Sundararajan \nVertical Magnetic Surveys and Measurement 173\n4\n174 B.M. Rao and N.Sundararajan \nhave become an important and integral scientific component of Indian expedi-\ntions to Antarctica.\nIn this direction, as  a part of three year research progr amme of Centre of\nExploration Geophysics, Osmania University, Hyderabad - 500 007, various\ngeophysical surveys during the 13th expedition (1993 -1994) were carried out\nto assess the physical properties of major rock types in Schirmacher region with\nan objective of establishing a correlative study with the petrophysical property\ndata obtained from corresponding rock types of the Indian peninsula. The\nresults clearly indicate the lithological variations and  structural details of\nSchirmacher Oasis (Chandra Reddy, 1994). Further, it was reported that the\ngamma intensity recorded in Orwin mountains  (71°.42'S, 9°.40'E) exceeded\n15,000 counts per second which is nearly 20 times that of the maximum count\nrecorded in the  Schirmacher region.\nIn continuation of the investigations of 13th expedition, vertical magnetic\nmeasurements for structural investigations in the Schirmacher hills and insitu\nmeasurements of the petrophysical properties like gamma ray intensity, density\nand magnetic susceptibility of major rock types  therein were some of the\nscientific objectives of the 14th expedition (Dec. 1994 - March 1995). Accord-\ningly, these measurements were carried out and the results  are presented in this\nreport.\nVertical Magnetic Surveys and Measurement 175\nGeology of Schirmacher Range\nThe preCambrian basement of the east Antarctica shield is mostly covered\nwith  ice  a n d  restricted outcrops along the coastal line. The Schirmacher Range\nemerges  as  a  rock oasis between the continental ice sheet and the coastal ice\nshelf  occupying an approximate area of 35 sq. kms, between 70°.44'.30\"S -\n70°.46'.30\"S  south latitudes and 11°.24'.4\"E - 11\no\n.54' E east longitudes. The\nmajor  mountain of Queen Maud Land runs for about a thousand kms approxi-\nmately  parallel to the coast. The Schirmacher range which runs roughly\neast-west  belongs to the \"East Antarctica Charnakites Province\" the largest area\nof granulite facies rocks in the world and it is situated approximately half way\nbetween  the  main mountain range and the present coast line. Here, the rocks\nhave  undergone multiple epi sodes of  metamorphism, migmatisation and defor-\nmation  (Sudipta Sengupta, 1986).\nBanded gneiss is the major lithological unit of the Schirmacher range; the\ncompositional variation of gneisses is due to the non uniformity of the meta-\nmorphic  rocks. The rock sequences,intrusives and tectonites of the Schirmacher\nhills  have been classified as (a ) Banded gneiss (thin and thick bands),(b) Augen\ngneiss,  (c)  Biotite gneiss, (d) Garnet gneiss, (e) Pyroxene granulites, (f) Am",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Vertical Magnetic Surveys and Measurement of Petrophysical Properties in Schirmacher Oasis, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:57.955997Z"
+  }
+}

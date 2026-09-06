@@ -1,0 +1,72 @@
+{
+  "id": "article_23",
+  "document_id": "NCPOR-CEA5EF",
+  "source_file": "ARTICLE+23.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/628/3/ARTICLE+23.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+23",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nEngineering and scientific activities / studies in Antarctica\nPIYUSH KUMAR AND R.N.WAGHMARE\nR & D E (Engrs.), Dighi, Pune - 411015\nAbstract\nAn emergent requirement for a ne w water supply system circumventing\nthe use of MEG had to be  developed and installed at Indian  Antarctic Research\nStation 'Maitri' taking into consideration the Methylene Ethylene Glycol mix-\nture leakage in the recent past which could pollute the Priyadarshini lake which\nis a major source of water supply to the station.  So an alternative solution was\nthought out by electrically heating the water supply line instead of conventional\nwater and MEG mixture heating arrangement. Also another emerging require-\nment was the shifting of power generation and supply system from inside of the\nA-Block of the main Maitri station to outside which had to be developed and\ninstalled at  Antarctica during XVI Indian Antarctic Expedition to meet the\ndemand of the station 'Maitri' taking into the past experience  of a fire accident.\nConsidering the Antarctic conditions, easy construction and transportability two\nshelters of knock down type containerisied accommodation facility for the these\ngenerator sets were made and installed at Antarctica. The main factor that affect\nhabitat construction in Antarctica are low temperature, high wind speeds, snow\naccumulation and snow drift, local surface characteristics, visibility and accessi-\nbility/inaccessibility. Also for disaster warning and regular maintenance of the\npower supply systems, predictive analysis of generator sets through regular\ndata acquired from various vibration signatures was effectively carried out in\nconjunction with R&DE(Engrs.) via e-mail.\nIntroduction\nThe Research & Development Establishment (Engineers), Pune is one of\nthe establishments under DRDO. The association of R&DE(Engrs.), Pune\nwith the Indian Antarctic Expeditions started from III Expedition when\nindigenously manufactured structures /equipments were sent to Dakshin Gangotri\n(DG) for trials in the extreme conditions of winter. Based on the feedback and\nthe requirements projected by the teams, further structures/equipments were\nsent in the  subsequent expeditions with  further improvements and modifica-\ntions. In continuation of the support, R&DE(Engrs.)  designed and constructed\nMaitri, India's second permanent station during VII and VIII expeditions and a \nPower House in X expedition with fully indigenous material and equipments.\nThe generating sets were commissioned in XI expedition, however, due to a \nfire accident in the power house a new generating sets accommodation, Aditya,\nwas erected by XII expedition and Bhaskara by XIII expedition.\n370\nPiyush Kumar and R.N. waghmare \nFurther to suffice the various requirements of the ongoing expeditions\nR&DE(Engrs.) designed and constructed a Vehicle Repair Workshop Shelter\nduring XIII and XIV expeditions. The task of erection Balloon Launching Shel-\nter, developed and fabricated by R&DE(Engrs.) too was initiated in XIV expedi-\ntion which further was continued in XV expedition. The Ice Core Drill Shelter\nwas erected in XV expedition which unpredictably met its misfortune and could\nnot be further be used.\nBesides the various tasks of the XVI Expedition and XIV Wintering\nTeam, the major task was to construct a Medical Inspection Room capable of\naccommodating all the facilities in A-Block.\nRepresentative of R&DE(Engrs.) was assigned to provide technical\nassistance and guidance to the Army Team in various tasks brought by XVI\nexpedition. He was also entrusted to carry out the scientific studies during\nwintering period on the behavior of engineering material and the effect of Ant-\narctic environment on  foundation/repairs of life support systems/equipments.\nLogistic Tasks\nSafety Harnessing System for 28m Mast \nThe 28 meter mast posed difficulties for easy climbing to facilitate the\nscientific observations for National Physical Laboratory. So it was decided to\nprovide a safety harnessing system attached to the mast. This would provide a \nseating belt to a climbing person tied to a rope attached with a carabiner. This\nsystem requires at least one person to operate. The person who is climbing when\nfeels tired can hang in air to rest for a while/to install his scientific equipments\nin between, as the operator below locks him with the help of small push-pull lift\nof 1.5 ton capacity with a simple handle. The same procedure can be followed\nwhile descending too.\nA proper site was chosen for installing the pulling clamp assembly with\nSWR 9 mm dia x 120 m long steel rope wound on a steel reel. After installing\nthe fitment on the ground near the mast, pulleys were installed having checked\nthe vertical alignment. After examining thoroughly the problems at site, the\nsafety harnessing system was installed with a few modifications.\nThe corner plate of the middle p",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 33
+  },
+  "taxonomy": {
+    "category": "6]Engineering And Environmental Studies",
+    "subcategory": "Engineering and scientific activities_studies in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:52.166985Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_14",
+  "document_id": "NCPOR-CEF1F8",
+  "source_file": "ARTICLE+14.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/554/3/ARTICLE+14.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+14",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "293\nEighteenth Indian Expedition to Antarctica. Sctentific Report.2002 \nDepartment of Ocean Development. Technical Publication No. 16.pp 293-298 \nDiversity of Anaerobes around Indian Antarctic station 'Maitri'\n(Antarctica)\nPramod W. Ramteke\nAllahabad Agriculture Institute (Deemed University),\nAllahabad 211 007.\nABSTRACT:\nSoil and sediment samples collected around Indian Station \"Maitri\" (Antarctica) were\nanalyzed for presence of anaerobic microbial population. The anaerobic counts for soil\nand sedimentsvaried from 1 x 10\n2\n to 8.5xlO\n4\n and 2xlO\n2\n to 3.7x lO\n5\n CFU gm-l soil and\nsediment samples respectively. Almost all the soil samples showed the presence of\nanaerobic psychrotrophs whereas. 77.5% of them supported the growth of anaerobic\npsychrophiles. In sediment samples an anaerobic psychrophiles were found more abun-\ndant than psychrotrophs. Further studies on characterization of anaerobes and pro-\nduction of cold adopted anzymes are suggested.\nINTRODUCTION:\nThe pristine environment of Antarctica was previously thought to be devoid of micro-\norganisms due to the extreme cold and harsh climatic conditions prevailing there. Con-\ntrary to that, the biology of Continental Antarctica is enriched, rather microbialy domi-\nnated by a variety of microorganism (Wynn-Williams, 1990). The abundance of microor-\nganism clearly indicates the successful adaptation of various species to the extreme\nenvironmental conditions. Bacteria are important agents of decomposition and nutrient\nregeneration (Moran and Hudson, 1989) and thus play a significant role in controlling\nthe nutrients for autotrophic processes and food web dynamics. The high level of\nbiological activity and reduced surface water temperature make the Antarctic subcon-\ntinent a particularly intriguing geographical area to study. Microbiological studies in\nAntarctica are mainly confined to aerobic microorganisms. Therefore, the objective of\nthe present study was to detect the abundance of anaerobes from different ecological\nniche of Antarctica.\nPraimod W. Ramteke. \n294\nMATERIALS AND METHODS:\nSampling:\nEnvironmental samples were collected from the vicinity of Indian station 'Maitri' of the\nSchirmarcher Oasis (Queen Maud Land/ Dakshin Gangotri Hill ranges) situated be-\ntween the coordinates 70° 12' to 70° 46' 30\" S latitude and 11° 22' 44\" to 11° 54' 00\" E \nlongitude. During the sampling period (January - February, 1999) the average soil and\nwater temperature of lake was in the range of-3° - 3° C and -6° - 6° C, respectively.\nSediment samples were collected from Zub (Priyadarshani) lake located near the Indian\nstation from ten random sites with the help of sediment corer and stored in sterile glass\nbottles. For collection of soil samples, about 9-12 inches of surface soil was cleared with\nsterile spatula and the underlying soil was collected and transferred to sterile polythene\nbags, which were then sealed.\nMicrobiological analysis:\nThe quantitative enumeration of viable populations of anaerobes was carried out fol-\nlowing standard microbiological methods using anaerobic medium (Hi-Media Ind. Pvt.\nLtd.). Samples were plated after appropriate dilutions to determine anaerobic microbial\npopulation both at room (28 ± 2° C) as well as at freezing temperatures (4° C). Plates\nwere incubated anaerobically in anaerobic jars (E Merck),\nRESULTS AND DISCUSSIONS:\nMicrobiological studies revealed the presence of anaerobic bacteria both in sediment\nand soil samples collected from Antarctica. Total viable anaerobic counts from different\nsoil and sediment samples are summarized in Table 1 and 2 respectively. The anaerobic\ncounts for soil and sediments varied from 1.0x10\n2\n to 8.5 x 10\n4\nand 2.0x 10\n2\n to 3.7 x 10\n5\nC.F.U gm-1 soil/sediment samples respectively. The heterogenous bacterial population\nconsists of mostly rods and clumps of cocci.\nAmong s o i l samples, 7 (22.5%) of them did not support the growth of anaerobic\npsychrophiles whereas anaerobic psychrotrophs were detected in all samples except\ntwo (6.4%)Samples (Table 1). In 18 (58.1%) soil samples, anaerobic psychrophiles\nshowed dominance over anaerobic psychrotrophs, while in 13 (41.9%) samples,\npsychrotrophs were more abundant than anaerobic psychrophiles.\nIn sediment Samples, anaerobic psychrophiles were more abundant as compared to\npsychrotrophs (Table 2). The anaerobic psychrotrophic counts were <100 x 102 cells/\ngm except in two sediment samples.\n295\nDiversity of Anaerobes.\nThe results give a clear indication that along with aerobes (Shivaji, 1987), Antarctic soil\nand sediments are enriched with a variety of anaerobic microbial population. Anaerobic\npsychrophiles were dominant microflora in the Antarctic lake ecosystem whereas in\nsoil samples both psychrophiles and psychrotrophs were the dominant microflora.\nThis observation is in accordance to the earlier reports of aerobic bacteria (Ellis-Evance,\n1985). The quantitative abundance of heterotrophic microbes is a direct indication of\nthe rich availability of orga",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "4]Biological Sciences",
+    "subcategory": "Diversity of Anaerobes around Indian station Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:10.619911Z"
+  }
+}

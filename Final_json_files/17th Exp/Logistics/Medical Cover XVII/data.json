@@ -1,0 +1,72 @@
+{
+  "id": "article_25",
+  "document_id": "NCPOR-89BA14",
+  "source_file": "ARTICLE+25.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/536/3/ARTICLE+25.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+25",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. !5, PP 269-270 \nMEDICAL COVER DURING\nXVII INDIAN ANTARCTIC EXPEDITION\nDr. SK Sharma, ADG\nDte GHS, M/O H&FW, New Delhi\nThe 17th I.A.E. had last minute inclusion of only one\nphysician, joining the team at Mauritius on 17th Dec.97. The total\nnumber of MI Room attendance from 18.12.97 to 31.12.98 was\n895 with an average of about 69 cases per month, which is quite\nhigh for the place like Antarctica. All cases responded well to the\nmedications. One case, HMT Ghatge.R.V, a wintering member from\nIndian Army, suffered from Infective Hepatitis on 28th Jan98 and\nhad to be sent back to India along with Summer team.\nThe bulk number of cases were of Gastro Intestinal\ndisorders, (238 nos. mainly gastritis, dyspepsia, diarrhea etc)\nDermatological manifestations, (160 noose mainly allergic, dryness,\nSeborrhea and infections etc) and Musculo-Skeletal problems (171\nnos., mainly myalgia, arthralgia, polyalgia, injuries etc.). The high\nnumber of Gastro-intestinal and Dermatological incidences are\nattributable to very old and expiry dated food material available for\nconsumption. Five members of convoy team on 16th Oct and six\nmembers at Maitri on 21st Dec, suffered from acute food poisoning\nin addition to few earlier isolated cases, the significant being that of\ncook KL B hattacharya on 15th Aug 98. All cases recovered with\nmedications. Prohibiting consumption of sus pected food items could\nprevent further incidences. Most of injury cases were of minor\nnature, except that of Mr. MM Singh, who had fracture of patella\n(rt.) on 11th May and H.M.T. Rattan Singh, who sustained injury\nto his left knee with haemarthrosis. Both cases required POP\ncylinder/cast and recovered completely. Such cases are normal in\nAntarctica considering the circumstance and nature of work being\n270 Dr. SK Sharma, ADG\ncarried out here. There were 18 cases of fever, occurring repeatedly\namong the vulnerable members. Other infections, including that of\nRespiratory system, were of minor nature and responded well to the\ntreatment. Two cases of Hemorrhoids were detected, one being from\nthe summer member, and responded to conservative treatment. There\nwere 41 cases of various types of cold injuries/effects\n(10 chilblains, 8 frostbite, 13 eye manifestations and 10 cases of\nU.V irradiation.) occurring repeatedly among the vulnerable group\nof logistic team, who had to work outdoor in very hostile Antarctic\nconditions. All cases recovered completely. There were no major\nE.N.T./Dental/psychological problems except few members\ncomplained of disturbed sleep cycle, which could be controlled by\npersuasion and without any medication.\nWe faced shortage of essential/common medicines during the\nperiod. Our Russian counterpart extended all possible help to\novercome the problem.\nIn addition to  above, medical aid and vital life saving\ndrugs were provided to the victims of Russian helicopter crash on\n1st June'98, resulting in  death of 5 members and serious life\nthreating injuries to 4 members. Five packets of life saving and\nother essential medicines/I.V. Drips/Surgical/Anesthesia items were\nrushed to the site on 2nd June'98 by another Russian helicopter.\nOur medical assistance was highlighted in Russian press and also\nappeared in Maharashtra Herald (Pune) dated 17th June'98.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "6]Logistics",
+    "subcategory": "Medical Cover during XVII Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:39.853597Z"
+  }
+}

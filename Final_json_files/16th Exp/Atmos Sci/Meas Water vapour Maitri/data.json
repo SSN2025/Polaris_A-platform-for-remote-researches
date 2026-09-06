@@ -1,0 +1,72 @@
+{
+  "id": "article_9",
+  "document_id": "NCPOR-AC61F0",
+  "source_file": "ARTICLE+9.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/612/3/ARTICLE+9.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+9",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "n\nSixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nMeasurement of ozone at Maitri, Antarctica\nO.P. TRIPATHI AND S.L . JAIN\nRadio and Atmospheric Sciences Division National Physical Laboratory\nNew Delhi- 110012 (India) Fax:091 11 5752678/091 11 576 4189\nE-mail:sljain@csnpl.ren.nic,in\nAbstract\nThe solar radiation at five wavelengths 300 nm, 305 nm 312nm, 940 nm\nand 1020 nm using narror band (2.5 nm FWHM) filters has been measured using\na microprocessor based sun photometer from Jan. 1997 to Feb. 1998 on hourly\nbasis on all clear days at Maitri during Sixteenth Indian Scientific Antarctic\nexpedition. The total column ozone has been estimated from these measurements.\nVery low ozone values have been observed during Antarctic spring, which con-\nfirmed the continuity of ozone hole phenomenon. It has also been found that\nozone values are high during Antarctic summer while low during spring.\n1. Introduction\nOzone in the stratosphere is very important for the survival of life on the\nearth as it protects us from harmful ultraviolet radiation coming from the sun.\nOzone in the troposphere also acts as a greenhouse gas, trapping the long wave\nradiation and thus affecting the energy budget of the earth-atmospheric system.\nThe reporting of ozone hole in particular by Farman et al. (1985) and ozone\ndepletion in general by Johnston et. al. (1971) has generated an unprecedented\nsurge of interest in the scientific community in monitoring of ozone in the atmo-\nsphere. The chloro-fioro carbons are the main culprits of ozone depletion in the\nstratosphere and ozone hole phenomenon over Antarctica.\nOzone is one of the most important trace gases in the atmosphere, and it is\nresponsible for influencing many critical chemical and radiative processes. Ozone\ncontributes to the formation of the hydroxyl radical (OH) which is central to\nmost chemical reactions in lower atmosphere, and it absors UV, visible, and in-\nfrared radiation which affects the energy budget and atmospheric temperature.\nIn addition, ozone can be used as a tracer of the atmospheric pollution and strato-\nsphere-troposphere exchange. At elevated concentratins, ozone in troposphere\ncan also produce detrimental biological and human health effects.\nIn Polar Regions high-speed wind jet circulates around the poles and serves\nas a barrier to air exchange between Polar Regions and mid latitudes which forms\npolar vortex. Very low temperature during winter leads to the formation of polar\nstratospheric clouds (PSCs). The hetergogeneous chemical reactions takes place\n118 O.P. Tripathi and S.L.Jain \non the surface of PSC's which is responsible for the ozone hole phenomenon\n(Manney et al., 1996). Ozone has been found to be strongly  affected by the\ndynamical behavior of the polar vortex (Carswell et at. 1996). Ozone depletion\nevents were detected at latitudes as low as 33 S in the south of Argentina and\nChile by Perez et al. (1996) by a network of ground stations locate d in Argentina\nand Chile between latitudes 53 S and 33 S during the spring of 1993, 1994 and\n1995. Orce et al (1997) have shown that the ozone hole was over south America\nextending to about 38 degree S for at least a week during October and about two\nweeks during November-December of the years of 1994-95.\nIn view of the above a highly sophisicated and hand held microprocessor\nbased sun photometer,  MICROTOP-II, has  been used to measure total ozone,\nwater vapour, optical depth etc. The instrument was taken to Maitri (Antarctica)\nin 16th Indian Scientific Antarctic Expedition-1996-98. The observaations were\ntaken throughout the expedition on hourly basis during clear sunny days. In the\npresent communication working principle of instrument and the  results  obtained\nare discussed in detail.\n2. Experimental set-up\nThe MICROTOP-II is a five channel hand held microprocessor based sun\nphotometer with a full field of view of 2.5. The instrument has five optical colli-\nmators aligned to aim in the same direction. A narrow-band interference filter\nand a photodiode suitable for the particular wavelength range are fitted with\nevery channel. All the channels face directly the solar disc simultaneously when\nthe image of the sun is centrered at the cross hairs of the sun target. When the\nradiation captured by the collimators falls onto the  photodiodes, it produces an\nelectrical current proportional to the received radiant power, which is amplified\nand converted into digital form in a high resolution A/D converter. Signals are\nprocessed in a series of 20 conversions per second. Out of the five channels at\n300, 305, 312,940 and 1020 nm the first three filter channels were used to derive\natmospheric total ozone column and rest of the two for water vapour which is\ndiscussed elsewhere.\n3. Theory \nOzone absorbs shorter wavelengths of ultraviolet radiation much more than\nlonger wavelength. This means that the amount of ozone between the observ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Measurement of Water vapour at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:25.572569Z"
+  }
+}

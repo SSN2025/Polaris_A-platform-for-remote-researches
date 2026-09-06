@@ -1,0 +1,72 @@
+{
+  "id": "pages_127_136",
+  "document_id": "NCPOR-0585F2",
+  "source_file": "Pages+127-136.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/924/1/Pages+127-136.pdf",
+  "bibliographic": {
+    "title": "Pages+127-136",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic Expedition\nMinistry of Earth Sciences, Technical Publication No. 21, pp 127-136\nRetrieval of in-situ Lake Bottom Sediment Cores  \nfrom Schirmacher Oasis: A prelude to palaeoclimatic  \nstudies using lacustrine sedimentation in Antarctic\nenvironment\nD. Jayapaul, Rajesh Asthana and S. Jayaram\nGeological Survey of India\nABSTRACT\nClimatic changes have a significant effect on the glacial and periglacial regions \nadjacent to the large inland ice masses of Antarctica. A perspective on climatic \nvariability can be obtained by the study of sedimentation within the lacustrine \nsystems.\nAn attempt was made during the expedition to retrieve long, in-situ lake \nbottom sediment cores using an indigenously designed and fabricated sediment \ncoring system developed by the authors at Antarctica Division, GSI, considering \nthe field constraints and extreme antarctic climate.\nINTRODUCTION\nSchirmacher Oasis is situated in the peripheral region of central \nDronning Maud Land, East Antarctica between 70°44’ 33\" S -  70o46'30\" S \nlatitudes and 11 °22f 04\" E -  11 °54’ 00\" E longitudes. The low lying hills of the \noasis are bounded in south by the polar ice cap, ice-shelf lies to the north \nand entire area is interspersed with more than a hundred fresh water lakes \n(Fig. 1). The size of these lakes varies from a few hectares to a few km2  and \nthe maximum depth of water in them ranges from a few meters to about \n150m. Depending upon their disposition, lakes in Schirmacher Oasis have \nbeen classified as proglacial, landlocked or inland and epishelf lakes \n(Ravindra et a l, 2002). Majority of these lakes occupy ice-scoured basins \nand troughs(Fig.2) vacated by retreating glaciers, though some lakes follow \nwell defined lineaments and show elements of structural control (Beg et al., \n2006).\nModem glacial environments hold an essential key to our knowledge \nof present processes of erosion, transport and deposition, particularly within\n\n128 D. Jayapaul, Rajesh Asthana and S. Jayaram\nFig. 1: Map showing the distribution o f lakes in Schirmacher Oasis\nFig. 2: A panoramic view of a part o f Schirmacher Oasis showing Ice-scoured basins  \nand troughs occupied by lakes\nthe lacustrine environment that furnishes evidence as to how these processes \noperate. The H uttonian principle (“present is key to the past”) of \nunderstanding the present to permit a grasp of the past and of the future \nbecomes very pertinent in understanding the dynamic processes of modem\n\nRetrieval of in-situ Lake Bottom Sediment Cores from Schirmacher Oasis  129\nglacial environments. Lacustrine system of Schirmacher Oasis holds a rich \nrepository of information within the sedimentary layers at the lake bottom. \nThe uninterrupted nature of sedimentation in lacustrine environments can \nbe used to reconstruct the past climate spanning historical to geological \ntime scales based on their sedimentological characteristics -  including \nprovenance, transport mechanisms, interacting tectonics, if any, drainage \nand biological content. High resolution palaeoclimatic data can be obtained \nfrom sediment cores using sedimentological, elemental geochemistry, diatoms, \nplants and animal microfossils, lithology and mineral magnetic properties.\nPALEO CLIM ATIC STUDIES: LAKE BO TTOM  SEDIM ENT  \nCORES\nIn-situ  lake bottom sediment cores are most significant tool in the \npalaeoclimatic studies. Indian endeavor of lake sediment coring was initiated \nduring 16th  Indian Antarctic expedition using Hydro-Bios gravity corer. \nSediment samples including short cores of about 45 to 60 cm were collected \nfrom two lakes of Schirmacher Oasis. Sedimentological and mineralogical \ncharacteristics of the lacustrine sediments from Schirmacher were dealt by \nSinha & Chatterjee (2000).\nPalynological investigations of various polar surface deposits and lake \nsediment cores from Schirmacher Oasis have generated'quite useful pollen \ndata on the past polar climatic events and episodes. At present, understanding \nof many aspects remains poor. Three folds climatic oscillations (arid-warm, \nhumid warm and more humid) are recorded from one meter long polar lake \nsediments from Zub and long lakes during late Holocene (8,000 years BP) \nas evidenced by the fluctuation of the values of long distance transported \nmicro biota along with local moss spores and algal assemblages ( Bera, \n2004). A nother 50 cm long sedim ent core from Zub Lake yielded \nthecamoebians (Mathur et al., 2006). Although more detailed study is required \nbut it is possible to elucidate the past climatic oscillation in polar region \nthrough palynostratigraphy (Bera and Khandelwal, 2003; Bera, 2006) using \nwell corroborated pollen diagram and pollen-spore deposition model. \nLim nology, P alynostratigraphy coupled with G eom orphology and \nGeochemical studies on deep lake sediment cores can provide better \nunderstanding of polar climate. Asthana et al.(2006) have initiated a multi­\ndisciplinary and multi-institutional work u",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology & Global Change",
+    "subcategory": "Retrieval of in-situ Lake Bottom Sediment Cores from Schirmacher Oasis_ A Prelude to Palaeoclimatic studies using lacustrine sedimentation in Antarctic environment",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:35:11.133675Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_5",
+  "document_id": "NCPOR-F1C84D",
+  "source_file": "ARTICLE+5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/134/3/ARTICLE+5.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "1 National Physical Laboratory, New Delhi\n46\n__________________________________________________________________________________________________________________________________\nRadiowave Transmission Characteristics in Antarctica\nA. Sengupta 1\nABSTRACT\nThe preliminary results of observations on studies on radio propagation in the upper atmosphere during the First Indian\nAntarctic Expedition are reported in this paper. The studies made were mainly on high latitude D-region using VLF observation,\natmospheric radio noise, VHFTV signal propagation, HF propagation and communication aspects.\nINTRODUCTION\nThe first Indian Antarctic Expedition provided a valuable opportunity to conduct several experi-\nments on radiowave propagation and communication aspects. The experiments were conducted in two\nphases- during the cruise and on the Antarctic landmass. The entire volume of data obtained has not yet\nbeen analysed in complete detail. However, it has been possible to obtain some preliminary results. This\npaper reports the various experiments conducted and the preliminary results obtained in each case..\nOBSERVATIONS AND PRELIMINARY RESULTS\nVLF propagation studies\nThis experiment consisted of measuring the phase and amplitude of VLF signals transmitted from two\nOMEGA transmitters situated at La Reunion (20° 58' S, 55° 17' E) and Argentina (43° 03' S, 65° 11' W).\nThe equipment used for this purpose were two TRACOR VLF receivers with OMEGA gating units and\nloop antennae fixed on the topmost deck of the ship. The receivers were fed with standard frequency (for\nphase comparison) from a rubidium vapour frequency standard. The VLF experiments had two main\nobjectives:\n(a) To investigate whether there is any difference in the solar zenith angle dependence of the VLF\nphase (and hence of D-region electron density profile) between the high and low latitudes.\n(b) To investigate whether there are \"radio holes\" (complete loss of signal strength) at some places in\nthe Indian Ocean from the nearby transmitter at La Reunion and to study the spatial phase\nvariation in the near zone of the transmitter.\nFor the first objective the experiment was carried out in two stages. Observations were made at NIO,\nGoa (15° 36'N, 73° 42' E) with signals from O/La Reunion on 12.3 KHz for a few days around 28-29 Nov.\n'81. This propagation-path (Path I) was trans-equatorial and was 4538 km long (i.e., long enough so that\nduring daytimeonly the first ordermoden = lis predominant). Observations were again taken on reaching\nthe Antarctic continent (70°S, 11°E) for two days, 9-10 Jan. '82 with signals from O/Argentina on 12.9 and\n11.06 KHz. The propagation path to O/Argentina (Path II) was 5060 km long and traversed mainly\nmid-high latitudes..\nAlthough the total duration of the stay in the Antarctic continent was about 10 days, observations\ncould be made only for the first two days when the ship was alongside the ice shelf and stationary. No\nobservations could be made thereafter as the ice shelf collapsed and the ship had to cruise about in the\nnearby waters. Carrying the VLF equipment to the base camp was not feasible because these would not\nwork at such low temperatures.\nThe variations of phase over two full days are shown in Fig. 1(a) for path I and Figs. 1(b) and 1(c) for\npath II. For investigating the solar zenith angle dependence we have confined our attention only to the\ndaytime portion where at any point on the path the solar zenith angle\n ≤ 70°. This is guided by our earlier\nexperience that the linearity between VLF phase and COS\nis maintained only for\n less than about 70°. To\ncalculate the average zenith angle effect over the entire path, the path was divided into 10 equal segments,\n_________________________________________________________________________________________\n...A. Sengupta\nFig. 1 (b) : Diurnal phase variation at 12.9 kHz over the Antarctic (70°S, 11°E)—Argentina Path.\n47\n1ST, HOURS\n0 2\n-5\n4 6 8 10 12 14 16 18 20 22 24\nFig. 1 (a) : Diurnal phase variation at 12.3 kHz over the Reunion __  Goa path.\n12.3 KHz\n0/LR(2l°S,55 3°E)\n-NI0(15.6°N,73.7°E)\n28.11.81\n29.11.8140\n30\n20PHASE,μ sec\n10\n0\n0 2 4 6 8 10 12 14 16 18 2 0 22 24\n1ST, HOURS\n12.9KHZ\n0/ARG(43°S,65.2°W)\n-P0LARCIRCLE(70°S,11 oE)\n30\n20\n10PHASE, μ sec\n0\nx < 70o10.1.82\n9.1.82\nx < 70°\nRadiowave Transmission Characteristics in Antarctica\nThe relationships between the phase and\n are shown in Fig. 2(a) for path I and 2(b) and 2(c) tor\npath II for two days each. The parameter chosen on the abscissa is (1-\n ) since phase is inversely\nrelated with\n  In all cases shown in Fig. 2(a), (b), (c) the relationship is linear, with slopes: (a) for path\n1,11.0 and 11.8 for the two days, and (b) for path II, 11.3,10.9,12.0,14.5 for two days and two frequencies\neach. Thus we observe the significant feature that the solar zenith angle dependence for both paths I and II\nis the same within experimental errors.\n48\n1105 KHz\n0/ARG(43°S,65.2°W)\n-P0LARCIRCLE(70 oS,11oE)\n1ST HOURS\n30\n20\n10\n00\n0 2 4 6 8 10  12  14  16 ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "3]Radiophysics & Physical Oceanography",
+    "subcategory": "Radiowave transmission characteristics in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:38.829960Z"
+  }
+}

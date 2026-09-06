@@ -1,0 +1,72 @@
+{
+  "id": "pages_1_10",
+  "document_id": "NCPOR-3D58E3",
+  "source_file": "pages+1-10.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/907/1/pages+1-10.pdf",
+  "bibliographic": {
+    "title": "pages+1-10",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic Expedition\nMinistry o f Earth Sciences, Technical Report No. 21, pp 1-10\nDiary of Events, Highlights of Achievements and  \nMemories of the 23r d  Indian Antarctic Expedition\nSrinivasan Jayaram\nExpedition Leader and Station Commander\n•  The 23rd Indian A ntarctica Expedition Team com prising of 55 \nexpedition members commenced their journey on December 09, 2003 \nfrom Dab'olim Airport, Goa. to Mumbai and reached Johannesburg \non December 10, 2003 (0745 Local Time; 1045 1ST).\n•  The Expedition was formally and ceremonially flagged off at Cape \nTown in Sourh Africa on December 19, 2003 by Dr. P.C. Pandey, \nDirector, NCAOR, on board MV Emerald Sea. Commenced sailing \nat 0145 SA time on board MV Emerald Sea.\n•  The Expedition vessel MV Emerald Sea crossed 60 degrees south \nLatitude on December 24 and entered the cold waters of South Indian \nOcean tow ards A ntarctica. Prepared detailed helicopter flight \nschedules for deployment of members from each institution based on \nscientific personnel, equipment and other expedition cargo.\n•  Crossed 60 degrees south latitude on December 24. Entered 3 m thick \npack ice, sailing stopped at 68 degrees south unable to penetrate pack \nice. Obtained Ice charts and weather charts from Sanae (SA) and \nSyowa (Japan) stations in Antarctica. Held meeting with Captain, \nChief Officer and Ice Pilot to review steps for resuming sail.\n•  First contact with Maitri station on 25th  December, Christmas Day.\nSUMMER PROGRAMMES\nWith a surge of activities peaking during the crucial daylight months \nof January and February, a more detailed description of activities and \nachievements are given below. The normal core programmes and activities \nfollow this for the remaining part of the year. 2004\n\n2 Srinivasan Jayaram\nJANUARY 2004\nLogistics\n•  With weather gods smiling benevolently, H elicopter sorties \ncommenced promptly on New Year Day on board MV Emerald Sea \nat 0910 GMT for transporting scientific personnel, logistic team \nmembers and scientific cargo. Two helicopters carried out a total of \n1 1 sorties till 2030 GMT shifting 32 expedition members and their \ncargo to Maitri base station.\n•  Set foot on Antarctica on January 04 and held day long discussions \nwith Arun Hanchinal, Leader, XXIIIAE at Maitri station regarding \nhanding over and taking over.\n•  Between January 18 and 24 taking over charge of Station Systems \nwas attended to: Boilers, Generators and Vehicles was completed in \nright earnest. Republic Day celebrations were held at Maitri with \nguests from Russia, New Zealand, Australia and Poland. This was \nfollowed by inauguration of Environmental laboratory. Took \novercharge of Maitri station in the Afternoon of January 26.\nScientific Programmes\na) NGRI recorded first set of Absolute Gravity data on 30t h  midnight to \nreport value of 982578681.04 Micro- Gals, (b) Daily operation of \nSeismological Observatory and GPS tracking Station at MAITRI.\nb) GSI Collection of (a) rock samples from Gruber Anorthosite massif \nfor petrological, geochemical and geochronological studies, (b) \nsamples of semi-consolidated clay, silt from moraine terrace for TL \ndating, (c) Polar ice front movement study using high precision GPS \narray.\nc) IIG Continuous recording of three component magnetic elements using \ndigital Fluxgate Magnetometer.\nd) NPL M easurements of (a) green house gases using Gas \nChromatograph (b) Sun-Photometer MICROTOP for estimating the \nozone by water vapor and aerosol optical depth and (c) CO Analyzer.\ne) SOI Crustal movement studies using GPS observations with respect \nto base station Maitri.\n\nDiary of Events, Highlights of Achievements & Memories of 23r d  IAE 3\nf) IMD (a) Continuous recording of surface ozone, (b) Vertical profile \nof ozone by Ozonesonde balloon ascents and (c) Brewer \nspectrophotometer observations for measurement of total ozone.\ng) NHO Collection of bathymetric and other physical Oceanographic \ndata (sound velocity, sea temperature profile, water conductivity) on \nboard MV Emerald Sea using Acoustic Current Meter and CTD probe.\nh) DEAL Installed Antenna dome (ADE) of INMARSAT-M terminal \non the roof of Maitri station and MCU with all accessories (BDE) in \nRadio room for FAX and E-Mail facilities.\nFEBRUARY 2004\n•  While all the scientific programmes continued from the previous month, \nthe major highlights for this month were (a) carrying out GPS surveys \nin polar plateau along with magnetic and gravity surveys and (b) \nsampling of lamprophyre dykes for geochronological dating and terrace \nsediments for TL-dating.\n•  On February 28 and 29 all summer camps in and around Maitri station \nwere closed and scientific personnel and equipment shifted back on \nboard MV Emerald Sea.\n•  Joint Convoy of Army logistics team left by vehicles on February 29.\nMARCH 2004\n•  Preparations for Wintering over begin in the form of a detailed review \nof Winter Station facilities at Maitri.\n•  Completed Helicopter reconnaissance of convoy route, shifted to \n",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "Diary of Events, Highlights of Achievements and Memories of the 23rd Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:31:08.278557Z"
+  }
+}

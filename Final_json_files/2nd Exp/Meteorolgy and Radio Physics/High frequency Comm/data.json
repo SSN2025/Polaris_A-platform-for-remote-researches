@@ -1,0 +1,72 @@
+{
+  "id": "article_19",
+  "document_id": "NCPOR-072118",
+  "source_file": "ARTICLE+19.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/183/3/ARTICLE+19.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+19",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "High Frequency Communication in Antarctica\nAnant Kumar Andhare\nBharat Electronics Limited \nABSTRACT\nThree kinds of communication equipment were used by the Second Indian expedition team dur\ning their stay at Antarctic. These were High power HF transmitter TS 545CD/T/BEL High power HF\ntransmitter MPT 1770 (MACE). Transportable HF trans receiver station MHM 300 (BEL) and Man\npacked trans receiver LHP 219 BEL.\nThe equipment was used to establish a contact between the Base camp and India Base camp and\nDakshin Gangotri and the Base camp with the ship and the field parties.\nThe high power communication sets—400 watts and 1 5kW transmitter however failed to contact\nCOMCEN Bombay though all the messages sent by COMCEN were received except on the days of\nmagnetic storm.\n100 watts trans receivers which were installed at Base camp and Dakshin Gangotri likewise failed\nto establish communication link although drapol antenna had been used. The frequency of transmission\nwas 16 440 MHz Modifications in the arrangements to the form of using whip antenna and changing the\nfrequency of transmissions to 3 500 MHz helped to the extent that the base camp could receive messages\nfrom the Dakshin Gangotri camp-a distance of 80 km but the reverse was not possible.\nIn communication with helicopters it was observed that as long as the helicopter was flying at an\naltitude of 600 m the Base camp could with the help of 200 watts transmitter be in contact with the\nChopper even upto a distance of 100 km. No sooner the Chopper would come down to an altitude of 100\nin the Communication would stop. The manpacked 15 watt sets were not found suitable for the working\ncondition in this continent.\nINTRODUCTION\nThe following equipments were earned with the Second Indian Scientific Expedition to\nAntarctica f o r high frequency communication.\n(a) Manpack trans-receiver, LHP 219 (BEL)\nSpecification\nTransmitter power\nFrequency range\nMode of operation\nReceiver sensitivity\nAntenna\n15 Watts (Max)\n2 to 30 MHz, in steps\nof 1 kHz\nSSB, AM, CW\n2V\n3 1 m Whip\nPower source\nConsumption\n24V D C\n1 5 Amps (Max for TX)\n180 MA (Max for RX)\n18' X 12 X 4\"\n10 kg\nSize\nWeight\n(b) Transportable HF trans-receiver station MHM 300 (BEL)\nSpecification\nTransmitter power\nFrequency range\n100 Watts (Max)\n2 to 30 MHz, in steps\nof 1 kHz\nPower source\nConsumption\n125\n24V DC or 220V AC\n(with MPSU attachment)\n14 5 Amps for TX and 180\nmA for RX\nHigh Frequency Communication in Antarctica\n_____________________________________________________________________________________________________________________\nMode of operation\nReceiver sensitivity\nAntenna\nSSB, AM, CW\n2V\n7.1 m. Whip and open\nwire dipole assembly.\nWeight 50 kg\n(c) High power HF transmitter TS 545 CD/T/BEL\nSpecification:\nTransmitter power\nFrequency range\nMode of transmission\nPower source\n400 Watts (Max.)\n1.6 MHz to 25.2 MHz\nin steps of 100 Hz.\nSSB, AM, CW\n220V AC. 1Ø\n(d) High power HF transmitter IMPT 1770 (MACE)\nSpecification:\nConsumption\nSize\nWeight\n1.6 kVA\n1.5 x 0.5 x  0.3 m \n200 kg\nTransmitter power\nFrequency range\nMode of transmission\n1.5 kW (Max.)\n4,6,8,12,16,22,25 MHz\nMarine mobile bands\nin steps of 100 Hz.\nSSB, AM, CW\nPower source\nConsumption\nSize\nWeight\n220V A.C. 3Ø\n3 kVA\n1.6 x 0.65 x 0.535 m \n236 kg\n(e) HF Receiver RS 512 (BEL)\nSpecification:\nFrequency range\nMode of operation\n1.6 kHz to 25.6 MHz\ncontinuously tunable.\nAM, CW\n(f) MF Receiver HN 419 (BEL)\nSpecification:\nFrequency range\nSensitivity\nPower source\nConsumption 220 VA.C., 1Ø\n40 VA\nMode of operation\n100 kHz to 25.6 MHz\ncontinuously tunable.\nSSB, AM, CW\nSensitivity\nPower source\nConsumption\nlV\n220V A.C. 1Ø\n40 VA\n(g) MF/HF Receiver R 700 M (MACE)\nSpecification:\nFrequency range\nMode of operation\n100 kHz to 30 MHz\ncontinuously tunable.\nSSB, AM, CW\nSensitivity\nPower source\nConsumption\n126\n0.7 V \n220V A.C., 1Ø 24V D.C.\n35MA\n1V\nCOMMUNICATION  OBJECTIVES\nThe equipments described above were to be used for the following purposes\n(i) To establish a contact between ship and base camp, between base camp and parties going\nout for field work,\n(ii) Base camp to Dakshin Gangotri and\n(iii) Base camp to India\nINSTALLATION AND OPERATION  OF HIGH  POWER  TRANSMITTERS\nThe two high power transmitters were transported in the form of modular sub assemblies. Both\nthe transmitters were assembled at the base camp by incorporating these separate modules into the\nmain frame. During the installation and operation of these transmitter several detects developed\nand were rectified in due course of time. These are detailed in Appendices 1 and 2.\nInstallation of high power transmitter antenna : \n(a) Two masts each of 48 feet height were erected.\n(b) The guy ropes holding the masts were strengthened tying them with nylon ropes the\nother end attached to wooden stakes burried one metre deep into ice.\n(c) A three wire folded dipole antenna was raised on these two masts pointing towards\nBombay, at 150° from North.\nOnce the antenna was erected communication with India was tried 400 watts and 15 kW\ntransmitter",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "5]Meteorolgy and Radio Physics",
+    "subcategory": "High frequency communication in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:25.031089Z"
+  }
+}

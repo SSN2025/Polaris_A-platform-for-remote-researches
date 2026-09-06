@@ -1,0 +1,72 @@
+{
+  "id": "article_9_2",
+  "document_id": "NCPOR-C3FF55",
+  "source_file": "ARTICLE+9-2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/211/3/ARTICLE+9-2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+9-2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Microbiological Studies in  Schirmacher Oasis, Antarctica\nEffect of Temperature on Bacterial Populations\nABSTRACT\nSeasonal and site wise variation in size and diversity of bacterial population was observed in\nSchirmacher Oasis Antarctica. Pr evailing soil temperature limited the distribution and abundance\nof groups of bacteria like psychrophiles psychrotr ophs and mesophiles. Pulses in the bacterial\ncycle were also found in the Basis as a function of daily and seasonal variations in air and soil\ntemperature. Requirement of growth t emperature of individual bacterium is the best physiological\nmarker to work out the survival str ategies of micro o rganisms. Effect of seasonal variations in\ntemperature was d irectly m anifested in diversity index and generation time of micro organisms.\nIn temperature response study organisms like Serratia were found tolerating very low t emperatures\n(-40°C) indicating the physiological adaptation of bacteria to sub freezing temperatures persisting\nin Schirmacher Oasis during Antarctic wi nter.\nINTRODUCTION\nThe existence of an extensive microflora in Antarctic soils is well established (Boyd et al 1966\nBenoit et al  1970 Evans, 1982 and Matondkar et al  1983) Cameron (1972) attempted a micro\nbiological study of Antarctic ice sheet with reference to survival of viable microbes in dry valleys and\nmountains of the interior. Some information about distribution pattern of endolithic microbes and\nits environment are also available (Mckay et al  1985). In all these studies mainly distribution and\necology during austral summers were attempted with few exceptions of round the year studies. Wynn-\nWilliams (1980) studied the decomposer activity over a period of one year at Signy Island.\nA review of literature clearly indicates that the effects of abiotic factors on microbial population\nare inadequately studied in Antarctica. As a part of Indian Scientific Expedition to Antarctica the\necophysiological aspects of survival mechanisms in individual species of microflora, are being studied\nand the present communication deals with the effect of temperature on bacterial population isolated\nfrom Schirmacher Oasis, Antarctica.\nSchirmacher Oasis (Fig 1) is situated in between shelf ice and land ice, 35 km 2 ice free area,\nwith lakes lagoons, ponds, water streams, dom e shaped hills, gentle slopes and polar climate is a \ntypical snow free part of Queen Maud land Antarctica. Most part of Oasis is moraine covered bare\nground. The weathering products and glacial deposits from these exposed rocks form the soil. Soil\nsampled from Oasis is mostly sandy and favoured by moss  Bryum sp Small ponds and lakes (around\n200 nos) are formed because of glacial melt water. These water bodies are found supporting the growth\nof blue green algae. The organic input is by moss and algae in oasis ecosystem. During 1982\naustral summer, Matondkar et al (1983) reported th e primary productivity of lakes ranging from\n0 1 4 - 0 68 mg cm -3  hr -1 , which is quantitatively considerable and bacterial counts of some of the\nsites as high as temperate soils.\n133\nThird Indian Expedition to Antarctica Scientific Report 1986 \nDepartment of Ocean Development Technical Publication No 3 pp 133 147 \nS G. Prabhu Matondkar 1\n1National Institute of Oceanography Goa\n134\nMICROBIOLOGICAL STUDIES EFFECT OF  TEMPERATURE ON BACTERIAL POPULATIONS\nDAKSHIN GANGOTRI\nOASS\nFig 1 Schimache Oasis Antarctica\nAs a part of detailed site characterisation study occurrence of invertebrate fauna was noted. Moss\nbeds were found supporting the growth of invertebrates like rotifer nematode and tardigrades. In\none site (moss  Bryum sp) mites were also seen. But majority of soil sites were devoid of invertebrate\npopulation and hence energy must be passing through decomposer sub system in the environment.\nAs a part of this study a comparative account of biotic assemblages like bacteria fungi yeast and algae\nwas also maintained and are reported separately. In this the bacterial population was found to dominate\nover the other microbial components Cameron (1972) also reported the same fact from Victoria\nValley Antarctica. In a similar study of subantarctic island fungi and yeasts also were found to be\nequally important components as bacteria (Smith et al  1982).\nMATERIAL AN D METHODS\nSelection of sampling area  All possible soil samples from Schirmacher Oasis (Fig 1) were\ncollected for bacteriological investigation. It included soil from moss lichen and algal patches dry\nand wet soil and sand soil under rocks and boulders receding glaciers and under snow and water\ncover.\nCollection and processing of samples  surface and subsurface layer of soil was collected with sterile\nspatula in sterile plastic bags using a spirit lamp flame. Streak plating was done immediately in the\nfield on pre dried media plates of soil agar medium poured earlier (Matondkar et al 1983). All plated\nsamples were transported to station laboratory and incubated at 10° ± 2°C. Winter soil samples were\ni",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "3]Oceanography and Biology",
+    "subcategory": "Microbiological studies in Schirmacher Oasis, Antarctica_ Effect of temperature on Bacterial Populations",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:51.187149Z"
+  }
+}

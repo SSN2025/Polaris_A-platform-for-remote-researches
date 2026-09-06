@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_8a",
+  "document_id": "NCPOR-80880C",
+  "source_file": "RRChapter-8A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/949/1/RRChapter-8A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-8A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "135Study of ELF-VLF Emission and Tweek Atmospherics....\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 135-155\nStudy of ELF-VLF Emission and Tweek Atmospherics\nObserved at “Maitri”\nShailendra Saini1* and A.K. Gwal2\n1National Centre for Antarctic and Ocean Research, Antarctic Logistics,\nVasco-da-Gama, Goa- 403804\n2 Space Science Laboratory, Department of Physics, Barkatullah University,\nBhopal- 462026\nABSTRACT\nThe study of the various geophysical phenomena during quiet and disturbed\nperiods of solar activity gives us a deep insight into the detailed microstructure of\nmicrophysical processes taking place in ionosphere, magnetosphere and ionosphere-\nmagnetosphere coupling. Extremely Low Frequency (ELF) and Very Low\nFrequency (VLF) emissions are one of them and are believed to have origin in the\nionosphere-magnetosphere coupled system and may be due to plasma instabilities\nor in-situ electromagnetic radiation from high-energy particles. The propagation\nof these emissions in the ionized regions (ionosphere and magnetosphere) provides\ninvaluable information regarding the physical structure and characteristics of these\nregions. In this paper we have presented the observed hiss with periodic structures\nat Indian Base Station “MAITRI”, Antarctica during the XXIV Indian Antarctic\nExpedition. The spectral analysis of the Hiss emissions observed during daytime\nat “MAITRI” station shows that hiss ranges in the frequency range below 2 kHz\nand maximum intensity around ~1250 Hz.\nKeywords: Periodic and Quasi-Periodic emissions, Hiss, Tweek atmospherics,\nreflection height, Sub-Auroral Region\nINTRODUCTION\nThe unique location of “MAITRI” Indian Research Base Station at\nAntarctica near auroral latitudes makes it important for monitoring\nExtremely Low Frequency (ELF) - Very Low Frequency (VLF) wave\nphenomena. It is well known that the auroral oval is a region of closed\nmagnetic field lines mapping through the plasma sheet. In characterizing\nthe generation of ELF-VLF waves and their subsequent energization of\nauroral ions, a larger scale energy transfer process may be observed due to\n136 Shailendra Saini and A.K.Gwal\nthe energetic auroral electrons, emit intense emissions. Such a links in the\nauroral plasma environment would fill an important gap in the understanding\nof how ionospheric ions are transported into the magnetosphere. The wave\nand wave particle interactions occurring in the magnetosphere  generates\nwide variety of emissions in the ELF-VLF range. The study of plasma\nwave–particle interactions and particle acceleration has been an important\nfocus for understanding the dynamics of the Earth’s auroral and sub–auroral\nionosphere. Out of large number of ELF-VLF wave phenomena, VLF\nemissions are important process, which plays a vital role in probing the\nEarth’s ionosphere and magnetosphere. VLF emissions are naturally\noccurring waves which are believed to originate in ionosphere or\nmagnetosphere that propagates in magnetized plasma in whistler mode and\nare readily detectable at mid and high latitudes. VLF emissions propagate\nalong the magnetic field lines of the Earth get dispersed due to field aligned\nirregularities. These emissions are localized geographically at the locations\nthat are geomagnetically conjugate to one another (Helliwell, 1965). The\npopularity of this phenomenon as a subject of investigation in geospace\nresearch stems largely from the fact that they can propagate along the\ngeomagnetic field aligned density irregularities, penetrate the ionosphere\nand can be received by simple audio frequency receiver on the ground. The\nemissions are observed to be triggered from the top of hiss bands, by power\nline harmonic radiation (PLHR), lightning whistlers (Helliwell, 1965,\nSazhin et al., 1993;Nunn and Smith 1996;Smith and Nunn, 1998) and wave\nparticle interactions in the magnetosphere. The variety of phenomenon\nencountered within the narrow band of frequencies is both bewildering\nand fascinating. For example, the VLF waves propagating in the space\nbetween the Earth and lower ionosphere (conveniently, the D or E region)\nare found to suffer very nominal attenuation except in the so-called\nabsorption band (1-3 kHz). Similarly, the propagation of these waves in\nthe ionosphere and the magnetosphere provide us with valuable information\nregarding the physical structure of these regions. Also, our understanding\nof the mechanism of the generation of certain types of VLF signals in the\nionized regions of the upper atmosphere involves a fascinating interplay of\nsubtle theoretical concepts and sophisticated experimental techniques in\nthe field of plasma physics.\nHigh Latitude Emissions and Data Acquisition\nThe ELF-VLF emissions are basically mid–and high-latitude\nphenomena and are believed to have origin in the ionosphere–\n137Study of ELF-VLF Emission and Tweek Atmospherics....\nmagnetosphere coupled system may be due to plasma instabilities or in-\nsitu electromagne",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 21
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Study of ELF-VLF Emission and Tweek Atmospherics observed at",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:05.439445Z"
+  }
+}

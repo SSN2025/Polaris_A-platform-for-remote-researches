@@ -1,0 +1,72 @@
+{
+  "id": "article36",
+  "document_id": "NCPOR-1122D2",
+  "source_file": "article36.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/296/3/article36.pdf",
+  "bibliographic": {
+    "title": "article36",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, technical Publication No. 5, pp.  467-472\nCommunication System at Dakshin Gangotri, Antarctica\nTATA SUDHAKAR\nNational Institute of  Oceanography\nDona Paula, Goa-403004\nAbstract\nA reliable communication system is a major requirement for a remote station like\n'Dakshin Gangotri' where traditional equipments cannot function effectively due to long\ndistances and peculiar weather and ionospheric conditions. The satellite communication\nsystem overcomes these difficulties and provides a reliable and high quality telex, telephone\nand video communication which facilitates instantaneous contact over the entire world\nwithout much loss in  the communication quality. The Satcom 'Hind' was put into\noperation after repairs in the hangar garage as an alternative communication system,\nduring the Fifth Indian Expedition to Antarctica.\nIntroduction\nINMARSAT (International Maritime Space Organisation) is providing space\nsegment for maritime  communication, thereby assisting in improving distress and\nsafety of the sea communication efficiency and management of ships and maritime\npublic correspondence. INMARSAT was established on 16th July, 1979, and has\nfiftythree countries as its members.\nINMARSAT system uses satellites to relay communication from ship and\ncoast-earth stations. The INMARSAT satellites are placed in geostationary orbit\n(36,000 km above the equator),  on Altantic, Pacific and Indian Oceans at\nlongitudes of W 026°, E 179° and 063° respectively, providing near-global coverage\n(Fig. 1).\nThe system has four major components:\n1. Space segment consists of a number of satellites, operational and spare,\nin geostationary orbit, 36,000 km above the equator. These satellites receive\nsignals from ship and coast-earth stations, amplify them and retransmit. They\nalso perform frequency conversion  i.e., in the ship-to-shore direction 6 GHz\n(Gega Hertz) to 1.5 GHz and shore-to-ship direction 1.6 GHz band to 4.6 GHz band.\nThree types of satellites are used in the space segment :— (a) MARECS -\nA, MARECS - B— Two dedicated maritime  communication satellites of 40 voice\nTata Sudhakar 468\nFig. 1. INMARSAT global coverage \ngrade channel each. (b) INTELSAT V— Three multi-purpose communication\nsatellites with maritime communication sub system (MCS) with about 30 voice\ngrade channel each, (c) MARISAT—Three multi-purpose maritime communication\nsatellites of 7-13 voice channels each.\n2. Coast Earth Station (CES):  The function of the CES is to communicate\nwith SES (Ship Earth Station) via satellite and provide an interface with  external\nnetwork. The CES suitable for Dakshin Gangotri are Southbury (USA), Goonhilly\n(UK), Yamaguchi (Japan) and Eik (Norway). It functions in frequencies:\n6410.0-6425.0 MHz (transmission) and 4180.0-4200.0 MHz ( reception).\nThese CES have 10-13 m parabolic dish antennae which are pointed towards\nthe operational satellites of the ocean region, receiving and transmitting equipment\nand a computer for controlling the station operation. It is also useful for\ninterfacing with international network.\nnv Jn\nThe \\°r er  S, S \"*  established  « Santa Paula (USA), Idakari and Eik\nNorway) Goonhilly UK), Sentosa (Singapore), Pleumeur Bodou (France) and\nUmm-al-Aish (Kuwait). .  ' \n3. Ship  Earth Station (sty;  The  Dakshin  GangQtri  ^.^  ^  $ ?Q0  ^ \n12° works with Marecs A Atlantic satellite. It performs reception of telephone,\nCommunication  System...  469\ntelex and group calls and transmission of  telephone, telex and data. Each SES\nis assigned 6 to 7 digit identification number which is permanently stored in\nthe memory.\n4. Network Co-ordination Station (NCS):  This serves as a network co-or-\ndination station and performs necessary functions for control and signalling\npurposes.\nThe NCS for Dakshin Gangotri SES are Yamaguchi in Indian ocean and\nSouthbury in Atlantic Ocean region.\nThe system works in following frequencies and communication modes:—\na) Frequencies:\nSES to satellites — 1636.5 to 1645.0 MHz\nSatellites to CES/NCS — 4192.5 to 4200.0 MHz\nNCS/CES to satellites — 6417.5 to 6425.9 MHz\nSatellites to SES — 1535.5 to 1543.5 MHz\nb) Communication modes:\ni) Teletype — 50 baud, full duplex\nii) Voice — Full duplex per CCITT\niii) Data — Ful l duplex, voice limit\nThe system consists of approximately 339  channels with channel separation of \n25 kHz.\nSystem Description\nThe satellite communication terminal DEBEG 3211 is a solid state satellite\ncommunication system consisting of  two major units:\nAbove Deck Unit (ADE):  The ADE unit consists of a parabolic antenna,\nstabilised antenna pedestal, antenna controller, servo electronic and driven motors\nfor antenna pointing and stabilization. The ADE simulates transmitting and\nreceiving signals of the carrier frequencies with L-band transmit power amplifier,\nL-band receiver, low noise amplifier, translation electronic for up/down converting\nthe UHF/L-band frequency and frequency separating d",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "x]General",
+    "subcategory": "Communication System at Dakshin Gangotri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:56.613724Z"
+  }
+}

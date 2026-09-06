@@ -1,0 +1,72 @@
+{
+  "id": "chapter_2",
+  "document_id": "NCPOR-E15192",
+  "source_file": "Chapter+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1098/1/Chapter+2.pdf",
+  "bibliographic": {
+    "title": "Chapter+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Hydrographic Survey by the NHO\nOff-Princess Astrid Coast and Larsemann Hills\nDuring January-March 2008\nY.V. Ramakrishna and Abhay Barve\nNational Hydrographic Office\nABSTRACT\nA team from National Hydrographic Office  (NHO) carried out hydrographic survey\nand bathymetric profiling of Antarctic coastal areas near the two offloading and berthing\nsites of Indian Antarctic Expeditions, i.e. Princess Astrid Coast and Larsemann Hills. The\nobservations have been submitted to the NHO for inclusion in relevant charts.\nKeywords: Antarctica, Indian Expedition, Berthing Coasts, Hydrographic Survey .\n1.0 PRINCESS ASTRID COAST\n1.1  Introduction\nA detached survey party, comprising of one officer and one sailor\n(Lt Cdr YV Ramakrishna and Abhay Barve LSSR I), were deputed to\nNational Centre for Antarctic and Ocean Research (NCAOR), Goa for the\n27th Indian Antarctic Expedition. The Hydrographic survey of Princess\nAstrid Coast, Antarctica was undertaken from 03 Jan to 15 Feb 2008. The\nship experienced generally moderate weather (Sea-State 4), through the\nroaring forties. The first iceberg was sighted at 530 47.'097 S  & 140 29.'548\nE  on 30 Dec 2007. On 03 Jan 08, the ship arrived off Princess Astrid\nCoast, Antarctica and was moored on fast ice at a distance of about 6 nau-\ntical miles from ice shelf.\n1.2 Geodetic Control\nHorizontal control for the entire survey was established in WGS 84\nDatum and plotted on Mercator projection with scale true at 66° S. GPS\ncoordinates obtained from the Trimble RS 4000 were used for bathymetric\nsurvey. No control was established for this purpose. The existing station at\nMaitri was recovered and used for extension of Geodetic Control.\nThe coordinates in WGS 84 Datum are as follows:\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 265-270\n266                            Y.V . Ramakrishna and Abhay Barve\nName Latitude (S ) Longitude (E) Height (m) S ource\nMaitri S 70° 45’ \n51”.730\n011° 44’ \n02”.570 117.068 HI/N HO /01/2\n005-06\nThe GPS observations were carried out by deploying GPS530 in static\nmode from 18:42:45 on 02 Feb to 06:15:15 on 04 Feb 08 for 35 hours.\nSimultaneous GPS observations were carried out at Portacabin on ice shelf,\ni n th e v i c in i ty o f sh i p ' s b e rth at I n d i a B ay , fro m 1 9 :4 9 : 1 5 o n 0 2 Fe b to\n21:03:15 on 03 Feb 2008, for about 25 hours. The temporary station at\nPortacabin was established for the purpose of extending geodetic control\nfor delineation of ice shelf. The computed coordinates of the temporary\nstation Portacabin using Ski Pro software in baseline method are as\nfollows:\nName Latitude (S ) Longitude (E) Height (m) S ource\nPortacabin 70° 05’ \n24”.71512\n012° \n23’50”.99933 13.5308 Computed\n1.3 Bathymetry\nTrimble RS4000 and ship-borne Color Video sounder FurunoFCV382\nwere interfaced with automatic digital data collection software Hypack\n6.2. The positioning and navigation inputs provided by Trimble RS4000\nand sounding inputs provided by Furuno were logged on Toshiba Laptop\ncomputer. Singlebeam bathymetric data was collected along survey lines\naligned North-South direction, at an interval of 1 cm on scale 1:200000 ie\n2000 m apart in the area. In addition to digital data from Furuno digital\nechosounder, the bathymetric data was also collected on echogram of the\nship-borne analog echosounder, since Furuno digital echo sounder does\nnot have an analog output facility. The soundings were compared with the\nexisting chart and found to be in close agreement. The singlebeam\nbathymetric data was collected in phases, since the vessel was made\navailable in accordance with overall planning of the expedition tasks and\nexisting weather conditions. The bathymetric data was collected on\nfollowing days 13-18 Jan, 08-09 Feb, 11-12 Feb and 14-15 Feb 2008. A\ngraphical representation of the bathymetric data collection is placed at\nEnclosure-1. A total of 1672 Nautical Miles sounding was carried out and\nthe minimum and maximum depths recorded were 54m and 828m,\nrespectively.\n          267 Hydrographic Survey by the NHO....\nEnclosure-1: Princess Astrid Coast - Antarctica: Hydrographic Survey\nCarried Out Feb-2008\n1.4 Coastline\nDelineation of ice shelf was carried out from 11°E to 14°E on 04 Feb\n2008 with GPS equipment onboard expedition helicopter. Data was logged\nonline, using GPS530 in kinematic mode and the reference was setup at\nPortacabin. The data was processed using Ski Pro software. A graphical\nrepresentation of the existing coastline along ice shelf is placed at\nEnclosure-2. The shelf has numerous indentations and is in a continuous\nprocess of change due to calving and accumulation. Additionally, the ice\nshelf alignment was recorded using the ship-borne radar; the graphical\n268                            Y.V . Ramakrishna and Abhay Barve\nrepresentation is placed at Enclosure-3. The points collected using radar\nand GPS530 were compared and found to be in agreement. The reference\nfor coastlining was set up ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "5] Marine Sciences",
+    "subcategory": "Hydrographic Survey by the NHO Off-Princess Astrid Coast and Larsemann Hills During January-March 2008",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:15:46.145096Z"
+  }
+}

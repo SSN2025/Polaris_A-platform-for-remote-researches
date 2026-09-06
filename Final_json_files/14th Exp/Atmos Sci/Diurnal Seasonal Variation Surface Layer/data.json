@@ -1,0 +1,72 @@
+{
+  "id": "article_6",
+  "document_id": "NCPOR-D67E56",
+  "source_file": "ARTICLE+6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/412/3/ARTICLE+6.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+6",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antatctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 57-70 \nDiurnal  and  Seasonal Variation  in  the  Surface  Layer\nParameters  Observed  at  Maitri  Station,  Antarctica\nJAYA NAITHANI and H N DUTTA\nNational Physical Laboratory, New delhi-110 012\nAbstract\nSurface layer parameters at Maitri station show a marked diurnal variation during the\nshort austral summer. The diurnal effect in the surface temperature regime is due to the\ndaytime heating provided by solar insolation. The surface layer over M aitri remains\nthermally stratified during the hours of minimum solar insolation, the  so-called nighttime\nperiod. The surface wind regime also depicts a considerable diurnal influence alongwith the\ntemperature regime particularly during summer months. The diurnal effect in the surface\nwind regime is due to the katabatic wind component. The diurnal variation in temperature\nand wind is observed to be maximum during summer months and decreases as winter\nadvances. Same is the case with the surface heat flux which changes sign from positive\n(daytime) to negative (nighttime) during summer months in accordance with the atmospheric\nstability. In winter months the diurnal effect in surface layer parameters is altogether absent\nbecause of longer- term cooling in the absence of solar radiation.\n1. Introduction\nThe evaluation of turbulent fluxes in the surface layer are important for the\ncharacterisation of the atmospheric boundary layer (ABL). The surface layer\nturbulent heat fluxes constitute a significant component of the surface energy\nbalance. These parameters are of great importance in designing  and maintaining\nair-strips in areas of seasonal snow cover. The Antarctic surface layer is unique\ndue to the prevalence of snow, long day and night conditions and  the katabatic\nflow of winds along the ice-slopes (Ball, 1956; Manins and Sawford, 1979;\nJames, 1989; King, 1989; Streten, 1990; Gallee and Schayes, 1992).\nStudies of the transfer of heat and momentum in the lowest layers of the\natmosphere under extreme conditions of stability and instability have been\ncarried out in the polar regions (Dalrymple  et al,  1966; Heinemann and Rose,\n1990; Joffre, 1982; Liljequist, 1957; Martison and Wamser, 1990; Maykut,\n1978; Kottmeier and Engelbart , 1992; R adok, 1973; Naithani  et al,  1995).\nExtreme s tability is found over the polar land masses during winter darkness,\n58 Jaya Naithani et al. \nwhile extreme instability is observed with less regularity during short summer.\nThe seasonal and diurnal variation in the surfa ce temperature and wind regime\nhave been reported by various workers over different parts of Antarctica\n(Wendler  et al ., 1988; Streten, 1990; Ishikawa  et al,  1990; Parish  et al.,  1993).\nDiurnal influence in  the surface layer parameters during summer over Maitri\nhave already been reported by  Naithani  et al.  (1995). In this report we present\nthe diumal variation in surface layer parameters for different months repre-\nsenting different seasons at Maitri station.\nSurface layer parameters have been evaluated using the measurements\nmade at three levels on the 28 m tower. The turbulent heat flux has been\ncalculated using the flux profile relationship given by Businger  et al,  (1971).\nDiumal variation of turbulent parameters have been calculated for five clear\nsky days in each of the months starting from January to May, 1995 (representing\nthe summer, transition and winter seasons) and the average of these parameters\nis discussed in  this paper.\n2. Instrumentation\nThe mean wind and temperature pr ofiles were measured using the sensors\nmounted on 28 m micro-meteorological tower at three levels, i.e., at 1.8, 4.5\nand 11.3 m, respectively. The air temperature and humidity  were measured\nusing the PT 1000 thermometer, a sensitive humicap sensor, respectively. The\nwind speed and wind direction  were measured using a cup-anemometer and a \nsensitive rotating arm wind vane, respectively. The accuracy in me asuring\ntemperature, wind velocity and direction are 0.1 °C, 0.1 m/s and ±2°, respec-\ntively. A pyranometer has been used to measure the solar radiation which was\nmounted on a separate mast. The measurements were made using Moll-Gor-\nczynski thermoelectric pyranometer, and was calibrated by the India Meteoro-\nlogical Department, Government of India, as per world radiometric refer ence.\nThe temperature sensors were housed in a well insulated shields in the form\nof an umbrella over the top of the housing to protect them from direct exposure.\nThe reflected component of radiations in the  ice free zones in summer is\nminimum; however, care has been  taken in the design of the shield to keep these\neffects minimum. In the winter period, when the Schirmacher region is covered\nwith snow, the albedo is high but the Sun is no longer above the hor izon. Each\nsensor has been calibrated as per the standards maintained by the India Mete-\norological Depar",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Diurnal and Seasonal Variation in the Surface Layer Parameters Observed at Maitri Station, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:55.706844Z"
+  }
+}

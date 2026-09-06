@@ -1,0 +1,72 @@
+{
+  "id": "115_128_pg",
+  "document_id": "NCPOR-434863",
+  "source_file": "115-128+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1048/1/115-128+pg.pdf",
+  "bibliographic": {
+    "title": "115-128+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "115\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 115-128\nMeteorological Observations during 26 th Indian\nAntarctic Expedition at Maitri\nN. T. Niyas and R. N. Tripathy *\nMeteorological Centre, India Meteorological Department,\nThiruvananthapuram-695033\n*Meteorological Centre, India Meteorological Department,\nBhubaneshwar-751001\n(E-mail:niyasiata@gmail.com )\nABSTRACT\nAntarctica is the coldest, windiest, driest and the most remote continent on\nearth. India Meteorological Department (IMD) has been participating in Indian\nAntarctic Expeditions (IAE) since (1981). During the year 2007, meteorological\ndata collected over the seas between India and Antarctica and at Maitri, have\nbeen analyzed and the results are discussed along with the significant weather\nphenomenon. Sutron make Automatic Weather Station (AWS) and their\ntransmission antennas were installed at Maitri. The variations in atmospheric\npressure, temperature and wind velocity with their influence on different weather\nsystems are discussed. Significant fluctuations in temperature, pressure and wind\nspeed have been noticed in moving weather systems. In addition, some important\nweather phenomena like blizzard have also been discussed.\nINTRODUCTION\nMeteorological observation programme has been an integral part of\nthe Indian Scientific Expeditions to Antarctica ever since the first\nexpedition to the icy continent during Antarctic summer of 1981-82. The\nfirst permanent Station at Dakshin Gangotri (latitude 70°45’13\"S,\nlongitude 11°38’14\"E, altitude 150 m, World Meteorological Organisation\n(WMO) station index number 89510) was established by India in\nJanuary, 1984 during the third expedition and a manned meteorological\nobservatory was functioning at the Dakshin Gangotri Station round the\nyear till 1989. India established its second permanent scientific research\nstation at Maitri (latitude 70° 45' 39\" S, longitude 11° 44' 48\" E, altitude\n117 m, WMO station index number 89514) in the Schirmacher ranges in\n116\n1988-89. Now India has established its third station Bharati at the\nLarsemann Hills (latitude 69°20' – 69°30' S and longitude 75°55' –\n76°30’E). To prepare the climatology of the station, as per WMO norms,\nwe require at least 30 years of meteorological data. We have updated\nshort period climatology up to 2007.\nThe weather of Antarctica influences the global weather to a great\nextent. The study of meteorological parameters over Antarctica and their\ncorrelation with Indian weather will help in understanding important\nweather systems. The unique nature of the Antarctic atmosphere, the\nuniformity of physical structure of snow surface and frequent weather\nchanges are important for the study of meteorological theories. The 26\nth\nIAE started from Goa on January 10, 2007. Meteorological measurements\nwere made on board ship and also at Maitri as one of the objectives of\nthe expedition.\nIn this paper various meteorological programmes undertaken during\n26\nth IAE are presented. In addition, daily/annual variation of different\nmeteorological parameters and some important weather phenomena\nobserved at Maitri, Antarctica like blizzard has also been discussed. The\nobservatory at Maitri is equipped with autographic instruments for\ncontinuous recording of meteorological parameters (e.g. surface\ntemperature, pressure, wind speed and direction). It also has the equipment\nfor the reception of weather charts broadcasts from forecasting offices in\nthe region and the Automatic Picture Transmission (APT) equipment for\nreception of cloud imageries from the polar orbiting weather satellites\n(NOAA). The meteorological station at Maitri is thus a well equipped\nweather observatory which is capable of recording various meteorological\nobservations as well as watching and monitoring the weather systems\nwhich may approach and affect the station during the course of next few\ndays.\nOBJECTIVES\nAWS Installation\nThe Indian Meteorological Programme is an ongoing observational\nprogramme and also to make further efforts for the modernization of the\nstation. For the latter purpose a Sutron make Automatic Weather Station\n(AWS) was established on experimental basis during the 26\nth expedition.\nIt was aimed to conduct experiments on the reception of hourly surface\nN. T. Niyas and R. N. Tripathy\n117\nmeteorological observations of Maitri through Indian geostationary satellite\nKALPANA. In this connection an AWS was installed at the station. The\nsensors and the helical antenna of the AWS were installed on top of the\n10 m assembly structure and then shifed to the top of the station. The\nelectronic component and the power supply unit of the AWS were kept\nin thermally insulated boxes in the assembly. During the wintering\nperiod, a close watch on the performance of this AWS system was kept\nand detailed report has been separately published in the TECO-2008\nproceedings report (http://www.wmo.int/pages/prog/www/IMOP/\npublications/IOM-96_TECO-2008/P2",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Meteorological Observations during 26th Indian Antarctic Expedition at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:00:41.517773Z"
+  }
+}

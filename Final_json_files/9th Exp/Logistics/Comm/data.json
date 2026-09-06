@@ -1,0 +1,72 @@
+{
+  "id": "article_22_3",
+  "document_id": "NCPOR-FFC4D7",
+  "source_file": "ARTICLE+22_3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/365/3/ARTICLE+22_3.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+22_3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 287-290 \nCommunication during Ninth Expedition \nS. VISHWANATHAN \nIndian. Navy \nIntroduction \nAn effective communication link between the Wintering Station and the mainland is of \nprime necessity for survival and keeping the morale of members high. \nThe major task of communication team in the IX Expedition was to ensure shifting of \ncommunication equipments lying in DG and maintaining links between Maitri and the \noutside world through HF, Satellite communication etc. \nThe communication equipments were dismantled and shifted to Maitri from Dakshin \nGangotri during Feb. 1990. Many other spares were brought by surface convoys, leaving \nback some equipment at DG in C&N Hangar. The frames of 5KW Txs were abandoned at \nthe main DG itself but the units were transported to Maitri. \nLong Range Communication \nThe HF communication with Comcen, Delhi commenced with the departure of the ship \non 03 Mar. '90. Most of the official messages and reports were routed through HF to cut \ndown on the Telex traffic. The communication throughout the winter was successful with \ngood signal strength, except during the days of magnetic storms and ionospheric distur-\nbances when poor strength or nil contact was experienced. \nDuring the days of heavy blizzard, the antenna connections were snapped, which in turn \ndisrupted the communication for one or two days. In the month of July due to high wind \nspeed the antenna connection broke and could be rectified only after the winds were calm. \nDuring this gap there was no communication for a few days. Thereafter, robust silver \nbrazing was done, which withstood wind speed upto 85 kts and gave good service. \nThe two 5KW Tx sets provided most successful service throughout the expedition \nperiod. Two other 5 KW Txs were available with us, which were dismantled from DG. The \nRS 512 Rx and HS412 Rx performed excellently. Besides, we had three RS 512 as spare. \nPWSL 1 KW, fitted in radio office, performed satisfactorily. This was being used to \ncommunicate with MVThuleland on CW soon after its crossing the equator and on RT after \nit reached 30 degree south latitude. \nTotal number of words transmitted over HF were nearly 1 lakh till September 1990. \nIncoming messages were received by RATT mode during the days of good signal strength. \n288 S. Viswanathan \nAttempts to transmit messages by RATT were not successful due to damage to SMPS, \ntransistors and PA tubes because of power fluctuations. \nCommunication with Convoys \nTwo convoy vehicles were fitted with BEL 100 W Tx/Rx. Effective communication \ncould be had throughout the period of convoys. There were a total of nine convoys, seven \nto DG and two to Wohlthat mountains. Each convoy, excepting the reconnaissance convoy \nto Wohlthat in April 1990 was away from Maitri for a period of two weeks. The final convoy \nto Wohlthat camped at mountains for nearly a month. Members of the convoy were trained \nto operate the sets which were tuned on two different frequencies (6750 and 4460 KHz). \nFollowing equipments were fitted in the convoy vehicles: \na. BEL 100 W Tx/Rs In Pisten Bully vehicle \nb. BEL 100 W Tx/Rx In Sankalp-accommodation container (with convoy) \nc. BEL 100 W Tx/Rx At DG hangar \nd. BEL 100 W Tx/Rx At DG hangar \nc, PWSL Walkie-talkie For communication between convoy vehicles. \nOne LHP 219 (Rx part only) was installed in the lounge to monitor the progress of \nconvoys and to listen to emergency calls. \nCommunication with Neighbouring Stations \nThere was a regular schedule between the stations mentioned below and Maitri: \na. Russian station \"NOVOLAZAREVSKAYA\" (70°46'S, 11°49'E) at 1000 Z every \nday. During the period, information was exchanged on frequency 123.50 MHz. \nb. German station \"GEORG FORSTER\" (70°45'S, 11°49'E) every day at 1015 MHz. \nc. Japanese station \"SYOWA\" (69°00'S, 39°15'E) on 10th of every month at 1000 \nhrs for mutual discussions and exchange of scientific informations. The commun-\ncation was on duplex at following frequencies. \nSYOWA on 11532 KHz \nMAITRI on 12528 KHz \nd. All women Germen station \"GEORG VON NEUMAYER\" (70°37'S, 08°22'W). \nContact was made frequently on predecided dates on frequencies 8265/6750 KHz \nfor exchanging scientific information. \nCommunication with Ship and Helicopters \nRegular uninterrupted communications were maintained with the ship and helicopters on \nfollowing frequencies: \nCommunication during Ninth Expedition 289 \na. MV Thuleland \nb. MI-8(IAF) \nc. Chetak (Navy) \n6750 KHz \n127 MHz \n6750 KHz/127 MHz \nCommunication was excellent throughout the summer. \nSatellite Communication Terminals \nSATCOM terminals as existing in Antarctica, with Indian station, are as follows: \na. Terminal 1640105 \nb. Terminal 1640106 \nc. Terminal 1640132 \nAt DG hangar \nIn summer camp site at Maitri \nAt Maitri station, Radio Office \nAll the three SATCOM terminals were fully operational when handed over",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "8]Logistics",
+    "subcategory": "Communication during Ninth Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:35.981750Z"
+  }
+}

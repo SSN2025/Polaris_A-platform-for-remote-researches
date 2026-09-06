@@ -1,0 +1,72 @@
+{
+  "id": "chapter_1",
+  "document_id": "NCPOR-3ACCD9",
+  "source_file": "Chapter+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/997/1/Chapter+1.pdf",
+  "bibliographic": {
+    "title": "Chapter+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "ATMOSPHERIC\nSCIENCES\n\nTwenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 165-177\nMeteorological Programme at Maitri, \nAntarctica During 25th Expedition\nP.A.V. Nampoothiri, AMO, IMD Chennai \nABSTRACT\nThe study of Antarctic meteorology is one of the most important objectives \nof the Indian Antarctic Scientific Expedition (IASE). India Meteorological \nDepartment has been actively participating from the beginning in all expeditions \nto Antarctica. The aims of IMD in participating in the expedition to:\n• prepare the climatology of Indian station, Maitri;\n• find out teleconnection if any between the behavior of Indian Monsoon\nand Antarctic weather systems and\n• study of Ozone hole phenomenon over Antarctica.\nTo Study the influence of Antarctic weather on Global Warming is also \nimportant, in the present scenario.\nINTRODUCTION\nIMD’s Antarctic expedition program began from the time when the \nship started sailing to Antarctica from Cape Town (South Africa). During \nonward and return journeys 3-hourly Synoptic observations are being \ntaken and the^main synops viz 00, 06, 12,18Z are being transmitted to \nHQ by e-mail^ These observations are also made available in GTS and \nthus utilized for forecasting by the Area Forecasting Centers.\nAs a part of the ongoing weather monitoring and analysis, synoptic \nobservations are regularly being taken from Maitri and transmitted in \nreal time basis to Global Telecommunication System so that it can be \nused by all area forecasting offices. In order to find out the current status \nof stratospheric Ozone depletion over Antarctica in spring season \nand stratospheric warming, ozone ascents are being taken every week. \nThis data also helps the international ozone monitoring community to \ndetermine the degree and extent of ozone hole i.e. by intensity-wise and \narea-wise.\n\n166 PA. V . Nampoothiri\nThe continuous measurements of diffused and direct solar radiation \nand fortnightly release of radiometer sonde helps in the study of radiation \nbalance over Indian station. The Brewer Spectrometer installed in 1999 \nat Maitri is a versatile instrument which provides details of UV radiation, \ntotal ozone, N02 and S02 concentrations with good accuracy in a cloud \nfree atmosphere.\nSurface ozone and atmospheric turbidity are other important \nmeasurements.\nScientific Objectives\nIn a nut shell, the objective of this ISEA is to study Antarctic \nmeteorology and ozone profile i.e. its vertical distribution and seasonal \nvariation. To achieve this, following procedures have been adopted.\n1. Preparation of daily, seasonal and annual variations of weather \nparameters such as Atmospheric pressure, wind speed & direction, \ntemperature, cloud base, horizontal visibility and significant weather \nphenomena.\n2. Recording of direct and diffused solar radiation by thermo-electric \npyranometer and RMS (Radio Meter Sonde) data from fortnightly \nascents (except in polar nights), for radiation balance studies.\n3. Weekly release of balloon borne ozone sonde instruments to study \nthe ozone hole phenomenon over Antarctica. In addition, continuous \nrecording of surface ozone also done.\n4. Atmospheric turbidity measurements over Maitri station.\n5. Measurement of intensities of damaging UV or UV-B spectrum \n(280-320 nm), concentration of N02 & S02 and total ozone with \nBrewer spectrometer.\n6. Monitoring of weather system with the help of facsimile weather \n. chart from Cape Town, and NOAA-APT cloud imageries to give\nlocal weather forecasts on a day to day basis for logistic and \nhelicopter operations.\nIt is worth noting here that the PC based APT cloud imagery \nreception system supplied earlier by NCAOR was installed and was \nhelpful, though it could not receive any high resolution picture from \nsatellite due to its limitations.\n\n167Meteorological Programme at Maitri....\nSeasons of Antarctica\nA rough classification of seasons in Maitri is as follows:\n• February to April - autumn;\n• May to August - winter;\n• September to November - spring;\n• December - January - summer.\nGeneral Weather\nSeveral factors contribute in making Antarctica one of the coldest \nand least hospitable places on the earth. It is an island continent \nsurrounded by an ocean so interior areas do not benefit from the \nwanning influence ocean. The interior of Antarctica receives the most \nindirect sun rays for a smaller part of the year and no sunlight at all for \nthe remaining part, which makes it colder. Almost all of the land area \n(around 98%) is covered by snow and ice hence most of sunlight is \nreflected back rather than absorbing it. The lowest minimum recorded \ntemperature in Antarctica is around(-89)°C at Vostok on July 21, 1983. \nThe average elevation of interior (especially eastern parts of Antarctica) \nis around 2 km (peak 4.7 km, Wilkes Land). Due to this frigid temperature, \nlittle or no moisture is held in the troposphere over interior area. So \npractically there is no cloud formation",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "3] Atmospheric Sciences",
+    "subcategory": "Meteorological Programme at Maitri, Antarctica During 25th Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:58:28.928127Z"
+  }
+}

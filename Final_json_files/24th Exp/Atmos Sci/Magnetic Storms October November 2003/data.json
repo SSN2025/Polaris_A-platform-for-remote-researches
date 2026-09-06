@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_6a",
+  "document_id": "NCPOR-9E1265",
+  "source_file": "RRChapter-6A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/947/1/RRChapter-6A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-6A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "111Magnetic Storms of October–November, 2003: ..................\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 111-128\nMagnetic Storms of October–November, 2003:\nGround Geomagnetic Signatures from\nMaitri, Antarctica\nAjay Dhar, Anand K. Singh, P. Elango, Arun N. Hanchinal and B. M. Pathan\nIndian Institute of Geomagnetism\nPlot 5, Sector 18, New Panvel (W), Navi Mumbai – 410 218\nABSTRACT\nA series of solar eruptions occurred during October-November 2003 resulting\nin severe magnetic activity observed on Earth during this period. A severe magnetic\nstorm was recorded on 29 October 2003, which lasted 22 hours following an X17\nflare event on the Sun. The energy released by the Sun took nearly 19 hours to\nenter the Earth’s magnetosphere resulting in this magnetic storm. Another X10\nsolar flare occurred in the course of the first magnetic storm. Nearly 20 hours after\nthe second X10 solar flare event, another magnetic storm commenced, noticeably\nweaker and of shorter duration (13 hours). On November 20, 2008, the largest\ngeomagnetic storm of the solar cycle 23 occurred with Dst index of -422 nT. The\ngeomagnetic storm was generated following a coronal mass ejection (CME) from\nactive region of the Sun.\nThe extremely large solar eruption on 28 October 2003 caused an intense\ngeomagnetic storm observed on Earth. A second solar eruption on 29 October\nintensified the storm about a day later. These two events in terms of solar eruption\nand their resulting effect on the near-Earth environment are investigated. During\nthe course of second storm some of the strongest substorms in the history of magnetic\nrecordings occurred at Maitri, Indian Antarctic Station. The ground geomagnetic\nsignatures at Maitri during this period are analyzed and compared with the IMF\nparameters.\nINTRODUCTION\nThe Earth’s magnetic field acts like a barrier and shields us against\nthe continuous flow of charged particles called solar wind, coming from\nthe Sun. Due to the Earth’s magnetic field, most of this solar material gets\ndeflected and does not reach the Earth’s environment. Without this magnetic\n°\n112 Ajay Dhar, et al.\nfield barrier, the solar wind could blow away the atmosphere of the Earth,\nand the cosmic rays might have destroyed our optic nerve system and\nmutated our cells leading to the extinction of life on the Earth (Lakhina et\nal., 2005).\nThe solar wind also carries the Sun’s magnetic field lines throughout\nthe Solar system, called Interplanetary Magnetic Field. This interplanetary\nmagnetic field is either aligned with the Earth’s magnetic field or points in\nthe opposite direction. Nighttime phenomena occurring in high latitudes\n(Akasofu, 1964) and is a combination of large-scale phenomena lasting\ntens of minutes, with sudden auroral brightening, its poleward expansion\nand simultaneous sudden decrease of horizontal component of the ground\ngeomagnetic field more than 500 nT caused by a strong and expanding\nwestward electrojet. The onset of such expansion (substorm onset) takes\nplace in the nightside sector with highest probability in the premidnight region.\nDuring the high-energy solar activity of late October and mid\nNovember, 2003–called as the “Halloween storm” of 2003 — the outer\nVan Allen belt was pushed and shifted to a nearly unprecedented degree.\nThe center of the outer Van Allen belt is usually about 20,000 to 25,000 km\naway from Earth’s surface, as measured above the equatorial region of the\nEarth. However, during this Halloween storm, the belt of high-energy\nelectrons that normally cradles Earth from afar was greatly enhanced and\npushed unusually close to our atmosphere during the violent solar activity\nthat occurred in late October, 2003. The Van Allen radiation was greatly\nincreased and pushed inward toward Earth’s surface to an unusually close\ndegree. From Nov. 1 to Nov.10, the outer belt had its center only about\n9,500 km from Earth’s equatorial surface, a place where ordinarily there\nare almost no energetic electrons at all. The charged particles within the\nbelts can have The Earth’s magnetic field is oriented from South to North\nat the magnetopause subsolar point. Therefore, when the IMF is strongly\nsouthward, the Earth’s magnetic field is anti-parallel to the IMF. In this\nconfiguration, Earth’s field lines can spontaneously break and join\nthemselves to the Sun’s IMF. The solar wind then drags the reconnected\nfield lines from the dayside to the nightside, allowing the plasma to pour\ninto the tail of the magnetosphere. This process, known as magnetic\nreconnection, is considered to be the most efficient mechanism for solar\nmaterial to penetrate the Earth’s magnetic shield. It requires the IMF and\nthe Earth’s magnetic field to point in opposite directions. Therefore,\n113Magnetic Storms of October–November, 2003: ..................\nsouthward IMF together with the occurrence of magnetic reconnection\nimplies an increase of plasma density in the magnetosphere.\nWhen the ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 18
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Magnetic Storms of October- November, 2003_ Ground Geomagnetic Signatures from Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:11.770056Z"
+  }
+}

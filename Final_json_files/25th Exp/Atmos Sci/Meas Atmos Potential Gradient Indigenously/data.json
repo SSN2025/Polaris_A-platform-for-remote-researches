@@ -1,0 +1,72 @@
+{
+  "id": "chapter_2",
+  "document_id": "NCPOR-A3EE95",
+  "source_file": "Chapter+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/998/1/Chapter+2.pdf",
+  "bibliographic": {
+    "title": "Chapter+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 179-186\nMeasurement of Atmospheric Potential Gradient in \nAntarctica Using Indigenously Developed Passive \nAntenna System\nK Jeeva, K U Nair, Atul Kulkarni and Ajay Dhar\nIndian Institute of Geomagnetism \nPlot 5, Sector 18, New Panvel (W), Navi Mumbai - 410 218\nABSTRACT\nSeveral techniques are available to measure the atmospheric vertical \npotential gradient. During the austral summer of the 25th Indian Scientific \nExpedition to Antarctica (2005-06), an indigenously fabricated passive antenna \nsystem was installed at Maitri, Antarctica to monitor the potential gradient \ncontinuously. The potential gradient observed by the passive antenna is compared \nwith the observations taken by the conventional field mill. The signature of the \npotential gradient is further verified using the global lightning activity obtained \nby the LIS instrument onboard TRMM satellite.\nINTRODUCTION\nMonitoring of atmospheric vertical potential gradient has important \nimplication in the Earth’s Electrical Environment. The natural spherical \ncondenser forrfjgd by the base of the ionosphere, surface of the earth and \nthe atmosphere is continuously charged by the global thunderstorm \nactivity to a potential of a few hundred kilovolts (Roble and Tzur, 1986). \nUsing the Global Electric Circuit (GEC) concept the electrodynamic \ncoupling between the upper atmosphere and the lower atmosphere can \neffectively be investigated (Bearing III et al., 1995, Rycroft et al., 2000, \nSingh et al., 2005). With this primary objective, we have started monitoring \nthe atmospheric electricity parameters at Maitri (Indian Scientific Station), \nEast Antarctica from 1999 onwards (Panneerselvam et al., 2003, Anil \nKumar 2008, 2009).\nThe basic approach of the measurement of the potential gradient \n(EG) is to connect an antenna acquiring the static charges from the \natmosphere and discharge them through an electrometer. The antenna\n\n180 K. Jeeva, K. U. Nair, Atul Kulkami and Ajay Dhar\ncan be a plate, a wire, an alpha or a rotating vane. The most familiar one \nis the rotating field mill (Chalmer, 1967) in which an electro mechanical \ndevice measures the strength of a static electric field. One or more \nelectrodes are alternately exposed to and then shielded from the field to \nbe measured. The electric current which flows to and from the electrode \nis proportional to the strength of the electric field. The advantage of \nusing field mill is that it offers more rapid time response and dynamic \nrange. At the same time it also has some disadvantages as the field mill \nis directly exposed to open atmosphere, causing more heat during low \ntemperatures and has to be prevented from precipitation. The continuous \nrotation is likely to have drift in its speed, resulting in drift of the \nmeasured parameter (MacGorman and Rust, 1998).\nIn order to overcome the disadvantages of the field mill and to have \na back up measurement of the potential gradient and to cross examine the \npotential gradient signatures, the passive antenna technique was \nimplemented at Maitri during the 25th Indian Scientific Expedition to \nAntarctica. A direct method for sensing the potential of passive antenna \nsystem has been described by Harrison (1996). The indigenous \nelectrometers used in this work were fabricated based on the technique \nof Harrison (1997). The system was kept under operation throughout the \nyear. The data were logged to a PC with a sampling rate of 30 seconds.\nThe present work deals with the validation of the data and to some \nextent to establish the merits and demerits of the system. For this \npurpose we have selected data for a fortnight from the data set of April \n2006. The reason for selecting this period was that the global thunderstorm \nactivity is expected to be at its lowest during the austral summer. \nSouthern hemisphere summer does not produce sufficient number of \nsevere thunderstorm activity. During the month of April the Sun is over \nthe equator and the thunderstorm activity is expected to be more than \nthat of the austral summer months. By comparing the northern and \nsouthern hemisphere PG data, Alderman and Williams (1996) found a \nmaximum in PG in June/July consistent with the maximum in lightning \noccurrence.\nSystem Description\nThe passive antenna system was installed at about 30 m away from \nthe field mill and close to the lake where we could find fairly plain \nterrain. A schematic diagram of the installation is shown in the figure \nbelow. The sensing antenna is of 2 mm thickness and 10 m long tinted \ncopper wire. The antenna is separated by two Teflon rods to minimise\n\nMeasurement of Atmospheric Potential Gradient...181\n1 m\nthe leakage of the current. The antenna wire, suspended horizontally \nbetween two short metal masts and the electro meter is kept in a \nthermally insulated box near by the mast. All the insulators are regularly \ncleaned using isopropyl alc",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "3] Atmospheric Sciences",
+    "subcategory": "Measurement of Atmospheric Potential Gradient in Antarctica Using Indigenously Developed Passive Antenna System",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:58:10.469779Z"
+  }
+}

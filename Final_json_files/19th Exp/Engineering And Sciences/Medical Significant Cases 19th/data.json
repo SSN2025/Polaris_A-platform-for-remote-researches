@@ -1,0 +1,72 @@
+{
+  "id": "article_22",
+  "document_id": "NCPOR-42111A",
+  "source_file": "ARTICLE+22.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/588/3/ARTICLE+22.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+22",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 273-275 \nA Medical Note on Significant Cases\nduring the 19\nth\n Expedition\nDr Kanwal Vilku* and Dr P K Behera**\n*Central Health Services, New Delhi\n**Central Government Health Services, New Delhi\nIn every Antarctic Expedition, members are involved in hazardous\noperations on the ice shelf, in mountains and around the station. Scientists,\nwho are unaccustomed to manual labour, are required to participate in heavy\ncargo loading-offloading occupation. Chances of injury are always high and\nboth the doctors of the expedition team attended to many minor cases of\ncuts and wounds. Apart from injuries, routine cases of sleep disorder,\ndyspepsia, diarrhoea, fungal infections, frost nip were treated. During the\nwintering period, 6 significant cases were encountered:\n1. In April 2000, there was one major injury during the cargo handling\nactivities. A convoy of vehicles had gone to the ice shelf, about 100\nkm away from the station. While handling fuel, one member slipped\noff from the top of an oil tanker and fell flat on the hard surface below\nof compacted snow and ice. He could not get up and the f ellow\nmembers of the convoy suspected a spinal dislocation. The doctors\nwere informed on the radio and the patient was rushed back to Maitri\nby a 12 hour-long drive. Since the ship had left, and the winter had set\nin, there was no  hope of any evacuation of the patient. The doctors\nand the team faced a grim prospect of nursing a paralyzed patient, till\nthe arrival of the ship, some 10 months later! The patient was received\nat Maitri with due precautions and a thorough medical examination,\nincluding the X-rays, was conducted. Fortunately, it turned out to be\nonly a case of severe blunt injury of the sacro-illiac joint, without any\nfractured disc. The patient was bed-ridden for two months but gradually\nresponded to conservative treatment. By the time of arrival of the\nnext summer team, he was fully fit and mobile.\n2. Another member of the convoy team, while working near the vehicle\nworkshop of Maitri station, got a crushed hand by a swinging door\nduring a strong gust of wind. Luckily again, there were no fractured\n274 Dr Kanwal Vilku and Dr PK Behera \nfingers and only some stitches and subsequent dressing of the wound\nsufficed. The patient was forced to avoid all outdoor exposure for\nmany weeks thereafter.\n3. The cook of the team was suffering from a medium sized fibrous\ntumour in the chest, which caused him quite a lot of discomfort and\npain. It was operated upon in a minor surgical procedure, requiring\nfollow-up dressing for the next one month. While the doctors attended\nto the cook, all the team members sportingly took up the cooking\nduties, by rotation.\n4. One case of perennial ana l abscess was reported. On examination,\nsurgery was ruled out and the patient was treated conservatively.\n5. One member suffered burn injuries on the neck, while handling some\ninflammable liquid chemical. His recovery was slow, necessitating\nabout two months of dressing.\n6. The lone satellite terminal of the team crashed during a blizzard in the\npeak polar winter of May 2000. There was no link with the mainland\nand the members were completely cut off from their families. The\nchances of repairing a satellite terminal were quite bleak and the\nprospect of remaining in absolute isolation, utterly separated from the\nwhole civilization, till the arrival of the next ship in January 2001,\nwas staring in the face of all the members. It was a great testing time\nfor the entire  team. But even under this extreme stress, the team\nmembers maintained a stubborn determination and not a single person\nneeded any tranquilizers or counselling. The persistence of the team\nfinally paid off, when after many trials with various sub-systems of\nthe satellite terminal, the communications team from DEAL achieved\na breakthrough, and at least the telephone link was restored. This\nfragile lifeline held on till the arrival of the next ship and the team\ntriumphantly passed through a great psychological trial.\nApart from these cases, the team crossed the entire wintering period\nsmoothly, attending to all the tasks and achieving their targets. A regular\nmedical-lecture series was organized by both the doctors, sensitizing all\nthe members about various nutritional and precautionary aspects as applied\nto living in the Antarctic. This resulted in more regular intake of supplements\nand precautions against the cold and the wind. A system of regular supplies\nof a variety of  sprouted grains and legumes was initiated in the station\nkitchen by this team, to compensate for the absence of fresh fruits and\nvegetables. This healthy fad spread to most of the team members and\ncontributed to their well-being. It is heartening to know that subsequent\nteams are following this healthy practice.\nA Medical Note on Significant Cases during the 19\nh\n Expedition  275\nOur ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "7]Engineering And Sciences",
+    "subcategory": "A Medical Note on Significant Cases During the 19th Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:39.080175Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_13",
+  "document_id": "NCPOR-A3C349",
+  "source_file": "ARTICLE+13.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/420/3/ARTICLE+13.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+13",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 159-169 \nHydrographic Survey of Approaches to Indian Bay\nAntarctic Region\nRAVINDER SINGH*\nNaval Hydrographic Office\nDehradun 248 001\nAbstract\nThe objective of this paper is to present a summary of the work carried out by the first\nIndian Naval Hydrographic team during the XIV Indian Scientific Antarctic Expedition.\nThe team was primarily deputed for carrying out a feasibility study of conducting hydro-\ngraphic survey in Antarctic region. The team during the expedition deployed various types\nof hydrographic equipments under harsh field conditions for monitoring equipment parame-\nters and for data collection. The team also carried one indigenously designed survey motor\nboat on experimental basis for carrying out bathymetric survey of India bay.\nIntroduction\nThe first ever hydrographic chart of Antarctica was prepared by Mr Murray\nin the year 1895. During recent past, only countries which undertook scientific\nwork in  Antarctic region carried out limited bathymetric surveys of areas\nadjoining their respective scientific stations. The first bathymetric chart of\nAntarctica was prepared by Murray in 1895.\nInternational Hydrographic Bureau carried out a review of worldwide\ncharting in 1992, and  concluded that Antarctic continent was  inadequately\ncharted. A permanent working group for co-operation on  Antarctica\n(PWGCA) under the aegis of International Hydrographic Organization was\nthus formed for  planning a suitable charting scheme. In view of considerable\nefforts and resources required for complete charting of  Antarctic waters, all\nmembers were requested to prevail upon National Governments for committing\nhydrographic resources in Antarctic region. As per the  scheming of charts for\nthe Antarctica region, duly approved by the PWGCA, a few charts have already\nThe work was assisted by Santosh Kumar, Chief Petty Officer, B T Joseph, Petty Officer and N \nRaveendran, Leading Seaman.\n160 Ravinder Singh \nbeen published.  Chart Nos. 9050 and 9051 pertain to the Indian Permanent\nStation Maitri (IPS). No  country has so far taken up the responsibility of t h e\nsurvey of these two schemed charts. Only Indian and Russian permanent\nstations fall in the above area. India being a major hydr ographic power, it is\ntherefore but natural, the country would have to assume this international\nresponsibility of  undertaking the surveying work.\nAlthough India has been regularly participating in s cientific expeditions to\nAntarctica since 1981, however till 13th expedition (1993) no  serious attempt\nwas made to carry  out hydrographic work.\nThe Nava l Hydrographic Department has previously not conducted a n y\nhydrographic survey in Antarctic region and therefore, the suitability of t h e\nequipment, capabilities of the survey motor boats, ship, and stress caused to t h e\npersonnel whilst operating, in extreme temperature condition, etc. were re-\nquired to be studied prior to deployment of survey s hips. Therefore it w a s\ndecided by the Chief Hydrographer to the  Government of India to depute  a  \ndetached Hydrographic Survey Team, as a part of the XIV Antarctic Expedition\nin 1994.\nThe team consisting of one hydrographic officer and three sur veying\nrecorders embarked M.V. Polar Bird along with the indigenous survey motor\nboat and equipments on 17 Dec '94.\nObjectives\nThe main objectives of the team were:\n(a) To carry out a feasibility study for conduct  of hydrographic survey\nin Antarctica and gain experience.\n(b) To study the affect of environment on survey motor boat, equipment\nand personnel.\n(c) Establish sounding/chart datum.\n(d) Changes in ship design, if any, required fo r operating IN sur veying\nships in Antarctica waters in summer months.\nConduct of  Survey\nOn arrival the team familiarised themselves with the operating environ-\nment and carried out recee for selecting position fixing sites for trisponder\nremotes as well as to mark ground control stations. The team carried o u t\nnumerous trials of the field survey equipment and found the systems to be\noperating satisfactorily. The weather conditions were highly unpredictable a n d\nHydrographic Survey of Approaches to Indian Bay  161\nfrequent spells of depressions were  observed which made field work extremely\ndifficult. On a trial basis the team carried out the hydrographic survey of limited\narea of India Bay.\n1. Ground Control:  The inability to mark and build site on the icy continent\nnecessitated fresh ground control to be carried out  every time prior to under-\ntaking sounding operations. Introduction of GPS 200 in Hydrographic Depart-\nment and SKI post processing system available enabled ground control being\ncompleted in a short span of time. Survey of India (SOI) has established a \npermanent station at Maitri close to Priya Darshni lake, and the same was\nutilised for transfer of Geodetic control. During the expedition two geodetic\nstation",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Hydrographic Survey of Approaches to Indian Bay Antarctic Region",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:59.788711Z"
+  }
+}

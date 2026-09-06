@@ -1,0 +1,72 @@
+{
+  "id": "335_348",
+  "document_id": "NCPOR-789702",
+  "source_file": "335-348.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/757/1/335-348.pdf",
+  "bibliographic": {
+    "title": "335-348",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "13] Scientific Report Of Thirteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Introduction \nThirteenth Indian Expedition to Antarctica, Scientific Report, 1996 \nDepartment of Ocean Development, Technical Publication No. 11, pp. 335-348 \nImpact of Antarctic Climate on Structural Components \nand Life Support Systems of Maitri Station \nS.S. GAIKWAD \nR&DE(Engrs), Dighi, Pune-411015 \nAbstract \nThe Indian Antarctic Station 'Maitri', indigenously developed by R&DE (Engrs), Pune \nand constructed in Antarctica in the year 1988-89, needs regular monitoring of structural \ncomponents and Life Support Systems. A long term scientific programme has been projected \nto DOD by R&DE (Engrs). \nPreliminary studies have been carried out during the summer period of 13th Antarctic \nExpedition, for examining the impact of climatic conditions of Antarctica on the structural \ncomponents of the station building and on other infrastructural facilities like water supply, \nheating and power generation systems. \nThis paper contains the details of the preliminary studies conducted at Maitri between \nJanuary and February, 1994 i.e. the summer period of 13th Expedition. Based on these \nstudies certain observations are made and recommendations have been indicated. The \nimprovements suggested need implementation during future expeditions. Also a long term \nengineering studies' programme should be undertaken from the year 1995. \nAlthough R&DE (Engrs) has been participating in Antarctica Expeditions \nsince 1983, most of the system designs have been based on empirical methods \nwith a hope that they will work satisfactorily in Antarctica. Antarctic structures \nand systems fall in the category of cold region engineering and there is no \nagency in the country directly and wholly working on these aspects. It has been \na common notion that the provision of the facilities at Antarctica is simply a \nlogistic activity, implying thereby that there is no need for research and \ndevelopment and experimentation. Obviously, this is not true. R&DE (Engrs) \ncould help build a technology base in cold region engineering to serve the \npurpose of supporting Antarctic expeditions in a more scientific manner. \nThe scientific studies in Antarctica, in the field of Engineering have been \ncommenced from the 13th (1993-94) Indian Scientific Expedition to Antarc-\ntica. The Indian Antarctic station 'Maitri' indigenously developed by R&DE \nStructure \n336 S.S Gaikwad \n(Engrs), is now 6 year old and requires constant attention for maintaining the \nstructural components of the station building and the service systems. The \npreliminary studies during summer period of 13th expedition involved studies \nof the impact of Antarctic environmental conditions on the structural compo-\nnents of Maitri station building and on other infrastructural facilities like water \nsupply, heating, power generation and sewage disposal systems provided for \nthe station. \nThe structural components of foundation framework and superstructure of \nthe station building have been thoroughly examined and effects of very low \n(sub-zero) temperatures and high winds of Antarctica have been studied. Also \nthe impact of these conditions on the service systems has been examined. \nSamples of steel component and insulated panel lying in the open near Maitri \nstation for the last 5 years have been brought to India for testing in laboratory. \nMaitri Station \nMaitri Station is located at Lat. 70°45'S; Long.l l'WE at a site in Schir-\nmacher Range of Queen Maud Land, East Antarctica. This is a ice free \nmountainous terrain where the problem of permanent accumulation of drifting \nsnow does not exist. There is a lake in the vicinity of the station. The site plan \nof Maitri location is at Fig. 1. \nThe structure of the main station has been constructed on stilts and partially \non relatively level ground to cater for uneven surface. The structure has been \ndesigned to withstand low temperature and high wind speed. The substructure \nconsists of foundation framework, made out of structural steel, having adjust-\nable columns and beams fixed over these. The superstructure consists of \ninsulated panels using polyurethane foam. The design of this structure consists \nof standard modules of 10' x 8' and a few large rooms. The station consists of \nfour blocks. The main block houses living accommodation, medical facilities, \ncommunication control system and IMD laboratory. The block 'A' accommo-\ndates power supply system and workshop. The block 'B' accommodates central \nheating system, water storage tanks, snow melt plant, kitchen and dining hall. \nIt also accommodates sanitary facilities like bathing cubicles and chemical \ntoilets. Block 'C provides accommodation for incinerator type toilets. Ade-\nquate storage facility has been provided in the loft above the main block. The \nlayout plan of the station building is at Fig. 2. \nSCHEMATIC LAYOUT OF MAITRl. ANTARCTICA \n(NOT TO SCALE ) \nFig. 1: T1 -T4 Toilet modules; L1-L6 Living modules; B1-B3 Bath modules; H1-H5 \nHelipads and R1-R4 Rombhic antenna masts \nThe panels ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "6]Engineering Studies",
+    "subcategory": "Impact of Antarctic Climate on Structural Components and Life Support Systems of Maitri Station",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:36.620790Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_18",
+  "document_id": "NCPOR-FBBE03",
+  "source_file": "ARTICLE+18.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/394/4/ARTICLE+18.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+18",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp.271-28] \nEvaluation of Physical Activity on Exposure to Antarctic\nEnvironment\nU. SACHDEVA, MEENAKSHI NAIDU AND BIMAL CHHAJER\nDepartment of Physiology, All India Institute of Medical Sciences, New Delhi\nAbstract\n. The Antarctic environment presents extremes of meteorological elements to the members of\nexpedition, A study was conducted to analyze the mechanisms of decreased performance of subjects\nin Antarctica, for which the first author participated in the Tenth Indian Scientific Expedition. Harvard\nstep test was performed on seventeen members and their heart rate (HR), blood pressure (BP), oral\ntemperature (T0) and skin temperature (Tsk were determined before and after exercise. Two record-\nings were taken viz. basal (in the ship) and the other after 8 weeks of the Antarctic stay. A cold chamber\nsimulation study, back at India, was conducted on rats to study the effect of cold exposure alone as\nthe primary factor affecting the physical performance. A significant reduction in Physical Fitness\nIndex (PFI) was observed in men after Antarctic stay. Whereas, in rats there was an improvement after\ncold acclimatization. The \"Hypodynamia\" was more marked than anticipated in men and cold\nexposure alone cannot be the sole contributing factor.\nIntroduction\nLife at a polar station involves a continued and high level of physical activity. All\nstation personnel help with domestic chores which often involve quite heavy\nmanual labour, digging snow, carrying loads around the station, apart from attend-\ning to their assigned jobs at the station. The energy cost of performing any task in\npolar region is quite high because of the difficulties in working in heavy clothing\nand travelling in the harshest known environmental conditions which limit the\nphysical efficiency of the worker. Although extensive studies have been conducted\nto evaluate the changes in body functions induced by various forms of stresses in\nAntarctica, most of the researchers have devoted their effort to study the state of\nindividual function system (Budd & Warhaft, 1966; Wyndhan et al., 1964; Wynd-\nham et al., 1968; Duncan, 1988; Buguet et al., 1987). North American, European\nand Australian literatures are only now beginning to explore changes in physical\nperformance induced by exposure to Antarctic environment. (Soroko et al., 1984;\nPalinkas, 1987; Bodey, 1978). It appears that moderate amount of cold stress has a \npositive effect upon most of the individuals (Kruk et al, 1991, Bittel et al, 1988);\nbut a severe continued exposure has a depressant effect, upsetting the normal\nU, Sachdeva et al. 272\nbalance of anabolic and catabolic hormones (Herr and White, 1991). There is little\nstudy available on the impact of combined stresses such as cold, excessive ultravio-\nlet irradiation, high geomagnetic waves and altered day-night rhythm as existing in\nAntarctica on human physical performance.\nTherefore a study was conducted to determine environmental risk factors that\nlead to various alterations in the physical performance of subjects visiting Antarc-\ntica. Similarly one parallel simulated study was also conducted on Wistar rats\nexposed to cold temperature (4-6°C) at AIIMS laboratory in New Delhi, to deter-\nmine the effect of cold alone on the physical activity of them.\nMaterials and Methods\nThe study on human subjects took place between December 1990 and February\n1991 i.e., during austral summer at the Indian Antarctic station \"Maitri\". The\nambient temperature ranged between -19° to +3°C, with wind speeds upto 60-80\nkms/hr. The animal study was conducted at AIIMS laboratory in a cold chamber.\nThe ambient temperature of the chamber was kept constant between 4-6°C, with\nlight: dark cycle of 12:12 hrs.\nThe subjects were members of the Tenth Indian Antarctic Expedition. Seventeen\nmembers, all Indians, in good health who had passed a medical examination before\ncoming to Antarctica, participated in the study. Their mean average age was 35.5\nyears (range 25-53 yrs), mean height 168.3 cms and mean weight 64.82 kgs. All had\na similar lifestyle which consisted of taking part in the everyday domestic activities\nof running a polar base station as well as performing their specialized task outdoors.\nA detailed history and physical examination was conducted on the ship. The\nnumber of s tudies performed on each subject was variable depending on their\nobligations, whether they winter over and their willingness to volunteer.\nMeasurements were made at two periods over the interval of 12 weeks in which\nthe study was conducted. The control study (basal) was performed in the ship MV\nThuleland in the calm seas on the way to Antarctica. The Antarctic study took place\nafter seven to eight weeks of stay at \"Maitri\" station.\n\"test Procedure of Physical Performance in Human Subjects \nThe members of 1990-91 summer party were asked to perform a standard\nHarvard ste",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "5]Medical Sciences",
+    "subcategory": "Evaluation of Physical Activity on Exposure to Antarctic Environment",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:11.419819Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_20_2c_pp_15_36",
+  "document_id": "NCPOR-F8597D",
+  "source_file": "Technical+Publication+No.+20%2C+pp+15-36.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/861/1/Technical+Publication+No.+20%2C+pp+15-36.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+20%2C+pp+15-36",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "22] Scientific Report of Twenty Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Second Indian Expedition to Antarctica, Scientific Report, 2008 \nMinistry of Earth Sciences, Technical Publication No. 20, pp 15-36 \nScientific and Logistic Objectives and Achievements \nof 22nd Indian Antarctic Expedition \nAru n Hanchinal \nAtmospheric Sciences \nINDIAN INSTITUTE OF GEOMAGNETISM \nObjectives \n1. To identify global signature in the atmospheric electrical parameters \nand distinguish atmospheric, ionospheric and magnetospheric \nsignatures. \n2. To identify polar cap signals in the high latitude measurements \nand to evaluate the electrical response of the atmosphere to \nmagnetospheric influences \n3. To ascertain influences of solar magnetic sector boundary crossing \nand understand the underlying physical mechanisms. \n4. To find out the statistical occurrence of storms and substorms \nwith intensification of auroral electrojet currents. \n5. To workout a phenomenological relationship between the strength \nof a storm with the strength of the strength/occurrence frequency \nof the substorms \n6. To identify global signature in the atmospheric electrical parameters \nand distinguish atmospheric, ionospheric and magnetospheric \nsignatures \n7. To identify polar caps signals in the high latitude measurements \nand to evaluate the electrical response of the atmosphere to \nmagnetospheric influences. \n8. To ascertain influences of solar magnetic sector boundary \ncrossing. \n9. To study the decline in Total Magnetic Field 'F' observed over \nthe last few decades in southern hemisphere, especially over \nAntarctic continent \n16 Aran Hanchinal \n10. To setup 5-10 semi-permanent stations in the vicinity of Maitri \nstation, to measure crustal dis placement and to estimate the \nstrain field. \n11. To study the effect of intense atmospheric disturbances on the \nrepetability of base-lines. \n12. To monitor ionospheric TEC, scintillation and tropospheric water \nvapour content. \n13. To monitor the Glacier movement and to study the ice-self \ndynamics. \nAchievements \n1. A highly sensitive Digital Magnetometer was procured this year \nfor the study of Storm-substorm relationship. The data collected \nfrom Maitri will be compared with the data from Indian \nObservatories for this study. The new magnetometer has a \nsensitivity of 0.1 nT compared to 1 nT of the old operating Fluxgate \nMagnetometer setup. The data is collected in digital mode on a \ndedicated hard disk and flash cards, which can be downloaded \non any PC through a USB port. The main sensor was buried \nafter installing a specially made wooden sensor hut to minimize \nthe temperature variation in the sensor. The data was downloaded \nand compared with the old setup and found highly satisfactory. \n95% good data was collected in 1 sec, 1 min., and hourly average \nsampling. \n2. A Proton Precession Magnetometer was operated round the year \nto monitor Total Magnetic Field F at Maitri. \n3. A 30 MHz Riometer was continued to operate at Maitri \nthroughout the year to collect data on Cosmic Radio Noise \nAbsorption. The Riometer operated at high latitudes also provides \ninformation on Field Aligned Currents (FAC), which is a \nmechanism for injection of solar wind charged particles into \nmagnetosphere. \n4. The experiment to measure the atmospheric electrical parameters \nin connection with the Global electric circuit continued to operate \nusing a long wire antenna. The data collected will be used to \nidentify and distinguish atmospheric, ionospheric and \nmagnetospheric signatures. The electric field mill was \ncommissioned to get data on atmospheric electric fields. Effects \nof local meteorological conditions on the measured electrical \nparameters and the magnetospheric contributions to the \nScientific and Logistic Objectives and Achievements 17 \nionospheric potential and the global electric circuit will be studied \nin detail. \n5. 20 GPS sites were setup in Schirmarchar Oasis and its surrounding \nNunateks for measuring the intra plate crustal deformation and \nestimating the crustal strain field. These sites will be occupied in \nthe coming 3-5 years (summer periods) on a regular basis. The \ndata was collected from each site for 3-4 days. This is a \ncollaborative program carried out between IIG and GSI, Antarctic \nDiv., Faridabad. \n6. The ionosphere is the ionized part of the upper atmosphere \nbetween 70 and 1000 km altitude. Ionospheric electron content \nintroduces delay in GPS signal propagation. Irregularities in the \nionosphere region can scatter trans-ionospheric radio signals \nproducing fluctuations in both amplitude and phase and GPS cycle \nslips. The data collected from the Maitri site will also be used for \nmonitoring ionospheric Total Electron Content (TEC), scintillation \nand tropospheric water vapour content studies. The scientists of \nBarkatullah University are collaborating with IIG for this study. \n7. 21 GPS sites (platforms) were setup on the Polar Glacier ice to \nstudy the movement of the Glacier. The data was collected from \neach site for more than 24 hours and will be",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 22
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "Scientific and Logistic Objectives and Achivements of 22nd Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:10.199950Z"
+  }
+}

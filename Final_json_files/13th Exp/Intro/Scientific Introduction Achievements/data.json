@@ -1,0 +1,72 @@
+{
+  "id": "pages_from_13th_indian_expedition_294_2814_33_29",
+  "document_id": "NCPOR-F59FA8",
+  "source_file": "Pages+from+13TH+INDIAN+EXPEDITION+294%2814-33%29.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/750/1/Pages+from+13TH+INDIAN+EXPEDITION+294%2814-33%29.pdf",
+  "bibliographic": {
+    "title": "Pages+from+13TH+INDIAN+EXPEDITION+294%2814-33%29",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "13] Scientific Report Of Thirteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Thirteenth Indian Expedition to Antarctica, Scientific Report, 1997 \nDepartment of Ocean Development, Technical Publication No. 11. pp. 1-20 \nThe Thirteenth Indian Scientific Expedition to Antarctica: \nAn Introduction to the Expedition and Achievements \nG. SUDHAKAR RAO \nLeader \nThe Thirteenth Indian Scientific Expedition to Antarctica was formally \nflagged off on 7th December 1993 by Dr. Wilfred D'Souza, Honorable Chief \nMinister of Goa at Marmagoa Port in the presence of Deputy Speaker of Goa \nAssembly, Shri Simon D'Souza, Dr P Rama Rao, Secretary DOD and DST, \nmany dignitaries from national laboratories, Army, Navy, expedition members, \ntheir families, friends and other well wishers. An encouraging message on the \neye of departure of the XIII Antarctic Expedition from the Union Minister of \nState for Ocean Development, Shri Eduardo Faleiro was read on his behalf by \nDr P Rama Rao, Secretary, DOD. The 58 members team drawn from 1 3 \nscientific organizations viz , IMD, IIG, NPL, PRL, GSI, NGRI, OU, SOI, \nNEERI, NIO, AIIMS, R&DE(E) and DEAL, and defence services viz, Army, \nNavy and Armed Forces Medical Services. The ship MV Stepan Krashenin-\nnikov actually left the Marmagoa port in the afternoon of 8 Dec 93 only after \nreceiving the delayed cargo (NPL laser heterodyne hut material and the newly \nacquired mantis crane). With a halt of about two days at Port Louis for taking \nfuel for ship, fresh vegetables and other items, the ship feached Antarctica on \n30th Dec 93, but could not be moored due to continuous sheet of fast ice. The \nship started breaking fast ice on the same day and after about two days of \ncontinuous operations, ship moored along ice shelf in India Bay on 2nd Jan 94, \nFirst landing of the expedition a t Maitri with parcels and mail for X \nwintering team members was made on 31 Dec 93 around 1100 hrs. Summer \ncamp and scientific induction started on 1st Jan 94 and after completion of all \nsummer scientific tasks the summer camp closed on 24th Feb 94. The ship \nstarted sailing back on March 12, 1994 and reached Durban, South Africa on \nApril 4, 1994. Due to some technical problems to the ship, the summer team \nalong with X winter team members were air-lifted from Durban to Bombay \nleaving the ship in Durban for repairs. \nXIV expedition's team arrived at Maitri on January 13, 1995 to end the \nisolation of XI winter team. XIV Expedition's ship, M.V. Polar Bird along with \n2 G . Sudhakar Rao \nXIV Summer & XI Winter Teams left Antarctica on March 06, 1995 and \nreached Goa on March 29, 1995, thus ending the expedition. \nVoyage \nThe ship MV Stepan Krasheninnikov is charted for the first time for the \nIndian Antarctic expedition. They were not knowing our requirements and \ninitially there were many problems for the expedition members in getting \nadjusted with the facilities available in the ship like non fitting of power plugs, \nnon availability of sufficient drinking water, language barrier between expedi-\ntion members and most of crew members etc. Hence one register was kept in \nthe lounge and members were asked to write their problems in the register. \nAlmost daily there were two meetings, first with captain and his officers \nand engineers, and second with expedition members. In the first meeting \nproblems used to be discussed and solutions found. In the second meeting, \nsolutions to problems were told to expedition members. Help and cooperation \nfrom the Captain and his crew was excellent in settling of the problems. In some \ncases there was some delay because of some communication gap, but most of \nthe problems used to get solved in a day or two. Meanwhile, to remove the \nlanguage barrier, some basic Russian language classes were arranged for the \nexpedition members, and English language classes for crew members, which \nwas of immense help towards understanding of each other. People started \nmixing with each other and wishing each other in English and Russian. To bring \nall the members o n board the ship into still close harmony, exchange of \nmembers between expedition mess and crew mess for dining was arranged. By \nthe time the ship reached Antarctica, all the problems of the members were over \nand there was no identity like expedition and crew members, and they started \nsharing both pleasures and pain together. \nScientific activities of IMD, AIIMS and DEAL started from the day the \nship left Goa. Others were not having much scientific work until they reached \nAntarctica. To keep all members busy and to use spare time fruitfully, varieties \nof activities and celebrations were arranged. Members were encouraged to do \nsome physical activity daily like physical exercise, yoga etc. Birthdays and \nmarriage anniversaries of members were celebrated. Besides this, the Equator \ncrossing ceremony, polar circle crossing ceremony, Xmas, New year eve, \nIndian Republic day celebration, taking over of Maitri station by XI winterteam \nwere celebrated. Generally on the day of celebrations, both expedition and cr",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 20
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "The Thirteenth Indian Scientific Expedition to Antarctica_ An Introduction to the Expedition and Achievements",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:22:56.418724Z"
+  }
+}

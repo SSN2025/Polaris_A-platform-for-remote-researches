@@ -1,0 +1,72 @@
+{
+  "id": "pg_233_257",
+  "document_id": "NCPOR-B8F7E3",
+  "source_file": "pg+233-257.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1173/1/pg+233-257.pdf",
+  "bibliographic": {
+    "title": "pg+233-257",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "12] Scientific Report Of Twelfth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": null,
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 25
+  },
+  "taxonomy": {
+    "category": "4] Biological Sciences",
+    "subcategory": "Ecobiological Studies of the Freshwater Lakes at Schirmacher Oasis, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:20:28.544445Z"
+  }
+}

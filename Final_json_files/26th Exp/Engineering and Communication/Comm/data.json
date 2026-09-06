@@ -1,0 +1,72 @@
+{
+  "id": "441_444_pg",
+  "document_id": "NCPOR-3928B5",
+  "source_file": "441-444+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1037/1/441-444+pg.pdf",
+  "bibliographic": {
+    "title": "441-444+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "441\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 441-444\nReport on Antarctic Communication\nPankaj Kumar Verma and Vijendra Singh Bist\nDefence Electronics Applications Laboratory (DEAL), DRDO, Dehradun\nDefence Electronics Applications Laboratory (DEAL) has been\nassociated with Indian Polar Research Program since 1991-92, i.e. XI\nIndian Scientific Expedition to Antarctica. Antarctica being an isolated\ncontinent did not have elaborate High Frequency (HF) propagation\nmodel. Targeting this as a major activity, DEAL has been carrying out\nvoice and data experimentation over multi-hop HF channel between\nAntarctica and India. Later on, Adaptive HF communication was also\ntried that is still being pursued. From year 1995-96 onwards, i.e. 15\nth\nIndian Antarctic Expedition, DEAL took the total communication\nresponsibility at Maitri. Since then DEAL officials have been offering\nthe state of art communication support to Indian station. Maitri, based on\nits rich R&D experience. In Antarctica adequate communication is a\nvital requirement. Communication services allow scientists to remain in\ncontact with their research laboratories at mainland (India) that makes\npossible to exchange ideas, transfer real time data and scientific\ninformation. Communication also helps to maintain the morale of the\nexpedition members.\nIn the 26\nth Indian Antarctic Expedition (2007), DEAL team comprised\nShri Pankaj Kumar Verma and Shri Vijendra Singh Bist (for winter\nperiod).\nMajor responsibilities of the Communication team included\ninstallation, upgrade, maintain and operate the communication systems\nto provide a reliable communication linkage between Maitri Base station\nand the outside world. INMARSAT satellite terminals were used for\nphone, fax, email and telex services. Regular scientific data and official\ninformation were also exchanged using INMARSAT. HF and VHF were\nalso the main supporting communication mode at Antarctica.\n442\nFig. 1: DEAL team inspecting communication links\nFig. 2: INMARSAT terminal being maintained by DEAL team\nPankaj Kumar Verma and Vijendra Singh Bist\nThe brief of the activities carried out by the team during the\nexpedition are as follows:\n443\nØ Scientific Data Transmission\n• 6 hourly online synoptic data transfer to IMD-HQ, New Delhi\nwith INMARSAT-C Terminal.\n• Data for Geomagnetic field variation to Indian Institute of\nGeomagnetism, Mumbai.\n• Automatic weather report to SASE, Chandigarh.\n• Digital Seismic data to NGRI, Hyderabad.\n• Report and data transmission by scientists to their concerned\norganizations.\nØ Installation and Inspection of VHF Radio and GPS antenna for all\nthe Convoy vehicles.\nØ Continuous monitoring of Convoy communication from Maitri to\nShelf.\nØ Maintenance of VHF repeater station and antenna at Veteheia top for\nbetter communication.\nØ HF weather fax from Weather Broadcast Station Pretoria has been\nreceived twice a day for Meteorological Analysis.\nReport on Antarctic Communication\nFig. 3: DEAL team repairing HF antenna after blizzard\n\n444 Pankaj Kumar Verma and Vijendra Singh Bist\nØ E-mail facility to expedition members with INMARSAT-B terminal.\nØ Round the clock telephonic facility to expedition members with\nINMARSAT-Mini-M terminal.\nØ Smooth operation of INMARSAT MINI-M based FAX facility.\nØ Receiving the MET warning and EGC mails regularly using\nINMARSAT-C.\nØ Regular VHF/HF communication with Russian station\nNovolazarevskaya.\nØ Scheduled HF communication with DEAL, India.\nØ Flight Operation: Aviation Band communication with Helicopter\npilots for real-time weather, logistic and flight specific information\nupdate for safe flight operations.\nØ VHF Communication\n• Connectivity between field parties and MAITRI Radio Station\nfor information exchange and location update.\n• Communication with local and convoy vehicles.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "5] Engineering and Communication",
+    "subcategory": "Report on Antarctic Communication",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:10:16.529926Z"
+  }
+}

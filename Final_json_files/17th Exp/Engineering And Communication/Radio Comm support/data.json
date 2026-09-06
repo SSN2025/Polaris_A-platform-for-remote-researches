@@ -1,0 +1,72 @@
+{
+  "id": "article_23",
+  "document_id": "NCPOR-4F8EFB",
+  "source_file": "ARTICLE+23.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/534/3/ARTICLE+23.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+23",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica. Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. 15. PP 253-259 \nRADIO COMMUNICATION SUPPORT\nIN ANTARCTICA\nSanjay Kaushik & Virendra Nautiyala\nDEAL, Dehradun.\nAbstract\nCommunication is a vital part of an expedition; it is the link with\nmotherland. This not only keeps the members' morale high but is\nessential also to pass on the critical scientific data to parent\norganisations. This paper gives th e details of communication provided to\nthe XVII Indian Scientific Expedition to Antarctica and the Facilities at\nMaitri, Indian permanent Station at Antarctica.\nIntroduction\nCommunication system is an  essential and vital element for\nsuccessfully carrying out various activities during the expedition.\nApart from remote, windiest and coldest wo rking conditions,\nmagnetic storms, static electric charge and heavy magnetic field are\nsome of the challenging factors encountered by the communication\nteam. Initially till, XIV Expedition, Indian Navy was entrusted with\nthe responsibility to meet the communication requirements of the\nexpedition.\nDEAL'S participation in the Indian Antarctic Scientific\nProgram had started in 1991 with a summer member to carry out\nexperiments in HF propagation in VOICE & DATA transmission.\nFrom the XV Expedition, in 1995, the DEAL was extrusted with\nthe responsibility of total communication support tor the Indian\nAntartic Expedition. Along with SCIENTIFIC STUDIES, the DEAL\nteam look over the  responsibility from Indian Navy.\n254 Sanjay Kaushik & Virendra Nautiyala\nObjectives\nThe main objectives of the DEAL team during 17th IAE were:\n1. VHF/HF communication & studies\n2. HF Fax reception\n3. Scientific data transaction\n4. Communication s upport to convoys.\n5. Field camp & helicopter communication.\n6. Phone, Fax and Telex services through Satcom Terminal\n7. Mobile Satellite Communication for Convoy & Field Camp\n8. H.F. Communication with India & Ship\n9. Operation of  E-Mail, picture transmission and Internet.\n10. Maintenance of Satcom terminals and communication\nsystems.\nActivities\nThe XVII Indian Scientific Expedition to Antarctica sailed\noff from Goa on 8th Dec. 1997, under the leadership of Mr. K.\nR. Sivan of R&DE (Engrs) Pune. We reached Ant arctic coast,\nIndian bay, on 2nd of Jan 1998 by the chartered vessel MV\nPolarbird.\nDuring Sea voyage phone/fax facility was provided to the\nmembers by DEAL team using the system available onboard  ship.\nWe were also maintaining regular HF contact with India and Maitri\nduring voyage. Messages for logistic support and other information\nwere regularly exchanged between ship. Maitri and GSI field camp\nat Humblodt mountain range. At Mauritus we had received the\nInmarsat M terminal which was tested on board. During our sea\nvoyage the  first task was to prepare small packages of HF Log\nPeriodic Antenna to shift it from ship to Maitri as an under slung\nload for helicopter. This job was completed very much in time. All\nthe assigned communication tasks during summer period were carried\nout successfully with the active support from 14th winter over team.\nField Camp and Helicopter Communication\nDuring summer period, communication using Motorol a GP\nRadio Communication support In Antarctica  255\n300 was provided successfully to field camps. During winter\nAviation Band VHF Communication was pr ovided to SASE field\ncamp. In summer, the same sets were used for helicopter\ncommunication. We could communicate regularly with\nNOVOLAZAREYASKYA (Russian Station) through out the wintering\nperiod with Dittel set at 124 MHz,\nVHF Communication Support to convoys\nDuring summer total communication for DG,  Ship and\nsummer camps in  Schirmacher Oasis was provided with the help of\nVHF repeater. The repeater was installed at  Vettiyya hills about\n10km away from Maitri. The problem f aced was to keep the\nbattery in full charge since the solar panel that provided for this\npurpose was not enough. As a trial, a windmill of 500W brought\nby NAL was erected to charge the battery. The repeaters were\ndamaged due to  high voltage from the unregulated supply of the\nwind mill and also due to the snow during blizzards. The problem\nfaced was to eliminate the overcharging, s ince there was no facility\nprovided with the system . Proper Shelter for the Repeater could not\nbe made as yet. Tw o repeaters were brought  with XVII IAE and\nold repeaters lying in  Maitri were repaired and used during summer\nperiod but all became defective. There was  no repeater available for\nthe entire winter period. It was  a challenging tas k for DEAL team\nto provide communication to the convoys without a repeater.\nThe frequency programming of all the VHF sets was\nmodified to operate  in the absence of repeater. The distance of the\nconvoy route from Maitri to ice shelf, India Bay, is about 150km.\nDuring the 1st convoy, we could achieve the  best inter convoy\ncommunication. All the convoy vehicles were in good contact with\nMaitri upto Sankalp point. B",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "5]Engineering And Communication",
+    "subcategory": "Radio communication support in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:31.912879Z"
+  }
+}

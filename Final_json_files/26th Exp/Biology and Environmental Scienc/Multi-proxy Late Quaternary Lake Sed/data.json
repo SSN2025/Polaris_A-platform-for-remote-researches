@@ -1,0 +1,72 @@
+{
+  "id": "345_377_pg",
+  "document_id": "NCPOR-F2C141",
+  "source_file": "345-377++pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1064/1/345-377++pg.pdf",
+  "bibliographic": {
+    "title": "345-377++pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Multi-proxy Studies on Late Quaternary Lake\nSediments from Schirmacher Oasis, East Antarctica\nAnupam Sharma, Amalava Bhattacharyya, Binita Phartiyal and\nSameer Kumar Bera\nBirbal Sahni Institute of Palaeobotany, 53 University Road,\nLucknow 226 007, Uttar Pradesh, India\nABSTRACT\nThe ~35 km 2 land area of Schirmacher Oasis (SO) in east Antarctica is\noccupied by over 100 and 150 lakes, respectively. Besides these lakes, there are\nmany other dried up lakes which contain sediments making them promising\narchives for understanding surface geological processes, palaeoenvironment and\npalaeoclimatic conditions.\nHigh resolution sampling was carried out on several sites of SO during\n26\nth ISEA, 2006-07. Sediment samples were collected by using manual sediment\ncorer or by making pit/trench and also from exposed sections. In general, it was\nobserved that at all subsurface sampling locations in SO region, the permafrost\nzone was encountered at a depth of ~80-85cm during the summer period. The\ntop most few centimeters of sediment profile is relatively coarse followed by\nfiner sediments wherein the sand, silt and clay distribution varies at different\nintervals at different locations. A positive correlation is noticed between silt-clay\nand moisture-organic carbon content in the samples. The bulk mineral composition\nis dominantly comprised of quartz, feldspar, mica with accessory phases like\nzircon, garnet, apatite etc. In clay fraction illite is the most abundant mineral.\nThe major and trace including rare earth element (REE)  distribution is largely\ncontrolled by the grain size composition of the samples where larger grain size\nis showing higher amount of quartz hence an increase in SiO\n2 content also. With\ndecreasing grain size the concentration of Al, Fe, Mn, Mg and K although is\nincreasing but the increase in Al is very small indicating that clay mineral\nformation process is not very effective, however, an increase in K and thereby\nin Ba and Rb is supporting the illite formation. Relatively higher gain in Fe and\nMg suggests weathering of mafic minerals and retained by clay minerals in the\nprofile. An increase in Na and Ca content, in specific samples, is a result of\nprecipitation due to evaporation/drier conditions. The identical pattern of REE’s\nsuggests that the samples are well homogenized, however, the abundance varies\naccording to grain size i.e. larger the grain size lower is the abundance probably\ndue to ‘quartz dilution effect’.\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 345-377\n346\nThe overall sediment characteristics suggest that the samples having\nsmaller grain size, higher moisture and organic content and also an increased\nconcentration of immobile elements is deposited under relatively warmer climatic\nconditions when the water supply was relatively more which in turn helped the\nweathering processes and organic activity. Contrary to this the cooler conditions\nrestrict the effectiveness of earth surface processes either by limiting the\nexposed area and melt water supply or by reducing the depth of permafrost zone\nin the region.\nBesides, 42 lake water samples, ~35 airobiological samples and palynology\nof a sediment profile is also carried out for understanding the earth surface\nprocess, air circulation and climatic history of the region.\nKeywords:  Antarctica, Schirmacher Oasis, Lake sediments, Mineralogy,\nGeochemistry, AMS dates\nINTRODUCTION\nThe Antarctica continent is known for the several superlatives viz.\nit is the southernmost, coldest, loftiest, windiest continent containing the\nlargest pool of the global fresh water with thinnest biodiversity and\nhuman population. The ~98% of the Antarctica continental surface\nremains covered with ice throughout the year and only ~2% of it is\nexposed for surface conditions commonly occurring as hills, nunataks,\nmassifs and oasis. Antarctica plays a pivotal role in determining the\nocean and atmospheric currents movements, which in turn control the\nglobal climate, a better understanding of the region including the physical-\nchemical-biological processes and their dynamics is always advantageous\nmore so when the region has experienced least human interventions and\ncould also be used as control due to its pristine environment.\nSince the Antarctica continent is relatively very young to human\nknowledge, the climatic instrumental records are merely a few decades\nold and therefore other proxy records preserved in ice, lake sediments\nand water bodies become important. Among all, the lake sediments\npreserve an array of information related to earth surface processes such\nas weathering and erosion, primary mineral disintegration/decomposition\nand secondary mineral formation, elemental mobility and differentiation,\nnutrient availability and productivity etc (Green et al. 2005; Sinha et al.\n2003; Lyons et al. 2002; Sleewaegen et al. 2002; Green et al. 2001;\nSinha & Chatterji 2000; Webster et al. 1995; Ramteke et al. 1",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 33
+  },
+  "taxonomy": {
+    "category": "4] Biology and Environmental Sciences",
+    "subcategory": "Multi-proxy Studies on Late Quaternary Lake Sediments from Schirmacher Oasis, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:09:33.008621Z"
+  }
+}

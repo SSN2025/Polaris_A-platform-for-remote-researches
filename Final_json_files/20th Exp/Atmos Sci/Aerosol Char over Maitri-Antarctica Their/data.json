@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_18_2c_pp_65_73",
+  "document_id": "NCPOR-D50039",
+  "source_file": "Technical+Publication+No.+18%2C+pp+65-73.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/810/1/Technical+Publication+No.+18%2C+pp+65-73.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+18%2C+pp+65-73",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twentieth Indian Expedition to Antarctica, Scientific Report, 2006 \nMinistry of Earth Sciences, Technical Publication No. 18, pp 65-73 \nAerosol Characteristics over Maitri-Antarctica \nand Their Impact on Radiative Forcing \nHarish Gadhavi and A. Jayaraman \nPhysical Research Laboratory, Ahmedabad \nAbstract \nDuring the 20th Indian Antarctic expedition conducted in January-February 2001, \na detailed study on the aerosol spectral optical depth, mass concentration and size-\ndistribution along with columnar ozone and water vapour concentrations was made from \nthe Indian station, Maitri (70.77° S, 11.73° E) by a single member team of Physical \nResearch Laboratory, Ahmedabad. A low aerosol optical depth of about 0.03 at 400 nm \nwavelength and a dry aerosol mass concentration of about 7 ug/m3 for the PM,0 particles \nare found out of which 63% are greater than 1 urn radius. Average columnar ozone and \ntotal precipitable water-vapour content during the observation period were found to be \n271.6 DU and 0.147 cm respectively. Estimation of aerosol radiative forcing over Maitri \nreveals a positive forcing of 0.95 W/m2 at the top of the atmosphere and -0.83 W/m2 at \nthe surface. \nKeywords: Aerosol, Antarctica, forcing, optical depth, size distribution, ozone, \nwater vapour \nIntroduction \nAerosols are defined as colloidal solution of solid or liquid particle \nwith air. Aerosol can affect the Earth's climate either by directly scattering \nand absorbing radiation received from the sun or by modifying the cloud \nproperties (Haywood and Baucher, 2000). Antarctic region is unique. In \nthe absence of any major local aerosol source, the air is generally pristine \nand is only influenced by the long-range transport of sub-micron-size \nparticles and gaseous pollutants from other parts of the globe. The \nobjective of the present study is to examine the characteristics of the \naerosol particles found in the Antarctic and to estimate their radiative \nforcing. In the last few decades there has been a considerable increase in \nanthropogenic activities both in developed and developing nations, which \nis responsible for an overall increase in the aerosol burden around the \nglobe. Aerosol and radiative-forcing studies over sites such as Antarctica \nwill help in estimating the background-level aerosol forcing over a pristine \n66 Harish Gadhavi and A. Jayaraman \nsite, which could be compared with results obtained over polluted \nregions. Also, such a study helps in establishing a database that could \nbe used in future for studying the long-term impact of continuous human \nactivities in increasing the background-level aerosol concentration. \nFactors like high surface albedo and unique solar insolation cycle over \nAntarctica also make the study an interesting one. The present field study \nmade at the permanent Indian Antarctic Station, Maitri (70.77°S, \n11.73°E) during the 20th Indian Antarctic Expedition provides the \ncontinuity to aerosol optical-depth measurements made over Antarctica \nby other groups (Shaw, 1982, Herber et al., 1993 andl996, Sharma and \nSharma, 1999). Also, by including results on aerosol size-distribution \nand radiative- transfer analysis, additional information is provided which \nis of use to global climate-change study. \nExperiment \nThe 20th Indian Antarctic expedition was launched from Goa on 28 \nDecember 2000. The team arrived at Maitri on 14 January 2001. Aerosol \nstudies were carried out from 18 January to 23 February 2001. A hand­\nheld sun-photometer was used to measure the aerosol optical depth and a \nquartz crystal microbalance (QCM) cascade impactor was used to measure \nthe surface-level aerosol mass-concentration and size-distribution. \nMeasurements of columnar ozone and water-vapour were carried out using \nMicrotops-II. \nAerosol optical depth \nAerosol optical depth (AOD) is a measure of the attenuation of direct \nsolar radiation that occurred while passing through the atmosphere \ncontaining aerosols. A hand-held sun-photometer, built in-house at the \nPhysical Research Laboratory (PRL), Ahmedabad has been used for AOD \nmeasurements. Optical interference filters are used to select the spectrum \nof interest from near-UV to near-IR region. Detail of principle, calibration, \ncorrections applied, errors are explained in Gadhavi and Jayaraman, 2004. \nPrior to and after the expedition, the interference filters were calibrated \nin-house for changes, if any, in the filter-transmission characteristics and \nare included in the computation of the optical depth due to molecular \ngases. Measurements were made at five wavelength regions centred around \n400, 497, 668, 875 and 1058 nm with a typical bandwidth of 10 nm at \napproximately 15 min interval, whenever clouds are not obscuring the sun \nor are not in the vicinity of about 30 degrees around the sun. A total of \nAerosol Characteristics over Maitri-Antarctica and their Impact.... 67 \nFig. 2: Mean AOD spectrum during entire campaign period excluding \n18 and 19 Jan AOD values. ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Aerosol Characteristics over Maitri-Antarctica and Their Impact on Radiative Forcing",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:54.590493Z"
+  }
+}

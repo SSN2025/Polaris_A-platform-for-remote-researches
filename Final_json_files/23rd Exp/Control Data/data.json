@@ -1,0 +1,72 @@
+{
+  "id": "t_p_no_21",
+  "document_id": "NCPOR-848243",
+  "source_file": "T.+P.+No.+21+.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/932/1/T.+P.+No.+21+.pdf",
+  "bibliographic": {
+    "title": "T.+P.+No.+21+",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Document Control Data Sheet\nRR No. 21\nSl. No\n1 \nName of the institute \nNational Centre for Antarctic &  Ocean\nResearch\n2 \nDocument number \nNCAOR RR. No.-21\n3 \nDate of publication \n2010\n4 \nTitle of the document \nScientific Report of Twenty Third Indian\nE\nxpedition to Antarctica\n5 \nType of Document* \nRR\n6 \nNo. of pages & \nfigures\nxx, 375 pgs\n7 \nNumber of\nReferences\n-\n8 \nAuthor (s) \nMembers of Expedition No. 23rd, RR No. 21\nReport Prepared by-Srinivasan Jayaram,\nUnder the Supervision of Sh. Rasik Ravindra,\nNCAOR- Goa\n9 \nOriginating Unit \nNCAOR, Project (Antarctic Science)\n10 \nAbstract (100 words) \nThis Scientific Publication consists of various\nArticles from different disciplines of Polar\nScience. The data used for the report was\ncollected during the Twenty \nThird \nIndian\nScientific Expedition to Antarctica.\n11 \nKey words \nAtmospheric Sciences\n, \nEarth Sciences,\nGlaciology &  Global Change, Biology & \nEnvironmental \nSciences, Engineering & \nCommunication, Human Physiology & \nMedicine\n12 \nSecurity\nclassification\nOpen\n13 \nDistribution \nUnrestricted",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 1
+  },
+  "taxonomy": {
+    "category": "Document Control Data Sheet",
+    "subcategory": null,
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:53:50.037328Z"
+  }
+}

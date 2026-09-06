@@ -1,0 +1,72 @@
+{
+  "id": "chapter_1",
+  "document_id": "NCPOR-62B1CD",
+  "source_file": "Chapter+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1099/1/Chapter+1.pdf",
+  "bibliographic": {
+    "title": "Chapter+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "MEDICAL SCIENCES\nAssessment of Psychological Health and Morbidity,\nAdaptation and Cognitive Functioning\nDuring 27th Indian Antarctic Expedition\nSudhir K Khandelwal1 and Abhijeet Bhatia2\n1All India Institute of Medical Sciences, New Delhi\n2National Centre for Antarctic and Ocean Research, Goa\nABSTRACT\nAntarctic expeditions of all nations have reported similar psychological problems\ndue to prolonged isolation, confinement within small groups and restricted leisure. The\npresent study has carried out a longitudinal assessment of members of the 27th Indian\nExpedition to Antarctica. Their general and psychological health, cognitive functioning,\ninter personal adjustments, level of motivation, consumption of tobacco and alcohol as a\ncoping-strategy have been observed and analyzed\nKeywords: Antarctica, Expedition, Psychological Health, Profiling.\n1.0  INTRODUCTION\nEver since man has stepped on the shores of Antarctica, it has opened\na vast field of research in various scientific disciplines including health.\nAntarctica has been described as a natural laboratory for studying the\nstresses on health and human performances, associated with isolation, in\nextreme conditions. Its environment is described as being extreme because\nsurvival is impossible for the unprotected and ill-provisioned individual\n(Decamps and Rosnet, 2005). Its natural environment being dangerous and\nnot easily accessible makes it stressful.\nHowever, physical characteristics of the polar-environment are not\nthe strongest stressors that may be encountered by the individuals in\nAntarctica.  Psychological aspects bring about varied kind of difficulties\nand reactions for people who stay there on short-term or long-term basis.\nThree main factors are described (Decamps & Rosnet, 2005) by long-term\nvisitors (Winterers) as being most difficult to cope with: prolonged\nisolation or separation from family and friends; confinement in small groups\nrestricting privacy; and occupation concerning group activities, restricted\nleisure activities and periods of high work load.\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 273-281\n274                        Sudhir K Khandelwal and Abhijeet Bhatia\n1 . 1  G l o b a l R e se a r c h o n P s y c h o l o g i c a l I m p a c t i n O t h e r P o l a r\n Expeditions\nMany studies (Gunderson, 1974; Nadine et al, 1962 ;Strange and\nKlein, 1973; Natani&Shurley, 1974;  Bhargava et al, 2000)  have reported\non several symptoms in polar winterers, the most frequent being insomnia,\nirritability, headaches, anxiety, feelings of depression, lack of motivation,\nconcentration difficulties etc. Psychopathological reactions such as\nschizophreniforn reactions, paranoid reactions, or obsessions are very rare,\nseen in less than 2% of the winterers. Though minor mental health\nproblems are very common, they are temporary, and cause only 4-5% of\nthe total health related morbidity (Lug, 1991).\nNumerous studies have also suggested that psychological reactions\nduring isolation followsequential patterns (Kanas &Federsen, 1971;Plinks\net al, 1998; Palmai, 1963). Bechtel and Berning (1990) described three\nstages : a) increased anxiety, b) depression and settling down to routine\nand c) emotional outbursts, aggressiveness, open conflicts, and decreased\nmotivation and morale. This last and most critical stage occurs around the\nthird quarter of the isolation period and has been termed 'the third quarter\nphenomenon'. This third quarter phenomenon has been observed in\nseveral different types of isolated and confined environments (Earls, 1969;\nJackson et al, 1972; Palmai, 1963), but some studies have reported no\nsignificant decrements in behaviour and performance during long duration\nmissions (Gazenko, 1982; Steal &Suedfeld, 1991). The importance of these\nproblems is that they can pose a serious threat to the group solidarity and\nharmony.\nPalinkas and Housel (2000) studied seasonal variation on\nlongitudinal basis in mood and behaviour in American men and women.\nThere was a significant decline in tension anxiety, depression, anger,\nconfusion and fatigue from March to August; followed by a significant\nincrease in tension/anxiety and fatigue and a significant decline in vigor\nfrom August to October.  Despite the extensive research conducted on these\nsymptoms and their relationship to patterns of adaptation and adjustment\nto the prolonged isolation, confinement and exposure to extreme\nenvironmental conditions, the etiology of the winter-over syndrome\nremains mystery. Significant increase in prevalence of sub syndromal\nseasonal affective disorder suggests the role of certain environmental\nfactors like lack of stimulation and prolonged exposure to constant\ndarkness. Many of the physical changes associated with prolonged\nexposure to such an environment, like alteration in thyroid hormones, are\n          275 Assessment of Psychological Health and Morbidity, Adaptation and....\nknown to be associated with i",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "6] Medical Sciences",
+    "subcategory": "Assessment of Psychological Health and Morbidity, Adaptation and Cognitive Functioning During 27th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:16:07.971333Z"
+  }
+}

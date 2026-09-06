@@ -1,0 +1,72 @@
+{
+  "id": "article30",
+  "document_id": "NCPOR-622466",
+  "source_file": "article30.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/290/3/article30.pdf",
+  "bibliographic": {
+    "title": "article30",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SECTION-VI\nREMOTE SENSING\nFifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 385-418 \nRemote Sensed Data Analysis for Geo logy and Glacial Geology\nof Wohlthat Muhlig-Hofmann Mountain Chain in Queen Maud\nLand, East Antarctica\nA. NARENDRA NATH\nNational Remote Sensing Agency, Balanagar,\nHyderabad-500037\nAbstract\nDuring the Fifth Indian Scientific Expedition to Antarctica, aerial surveys were\nconducted over Schirmacher hills; Gruber and Petermann massives in eastern part of\nWohlthat mountain range in Queen Maud Land. Spectral signatures of sea-ice, fast-ice,\nshelf-ice, continental-ice and lithological units were collected. Maps on 1:2,50,000 scale\nfor the region  covering the area from 3°E to 21°E, encompassing the shelf-ice coast in\nthe north and Muhlig-Hofmann mountains, Conrad mountains and the Wohlthat mountains\ntowards the south have been prepared. The main drainage glaciers, the local glaciers and\ntheir associated morainic deposits have been shown. Sastrugi fields, nunataks, solid\ncrystalline blue ice fields, their distribution, melt water channels, and grounded ice have\nbeen demarcated. Thermal mapping of Schirmacher hills has also been conducted.\nDigital analysis to classify the rock types, to enhance the structural features, to\ndifferentiate the occurrence of various types of ice sheets and locate the solid crystalline\nice fields which are typically associated with nunataks and mountains, has been carried out.\nIntroduction\nSatellite imagery provides a synoptic and repetitive overview and multiband\ndigital data enables extraction of information about surface features and types\nof cover. With the advent of remote sensing techniques it has become quite\npossible to map remote regions with minimum of ground visits for  terrain\nevaluation and natural resources inventory. It is very useful in Antarctic studies\nwhere conventional exploration is pursued at great expense and risk.\nInterpretation of the LANDSAT Multi Spectral Scanner imagery for morphol-\nogy of shelf-ice , continental ice-sheet, glacial flow directions, fracture systems,\nand boundary demarcations of different types of ice-sheets has been carried out.\nDuring the Fifth Indian Scientific Expedition to Antarctica aerial surveys have\nbeen conducted over Schirmacher hills, Gruber and Petermann massives in e astern\npart of Wohlthat mountain range in Queen Maud Land of Antarctica. Spectral\n386 A. Narendra Nath \nsignatures of sea-ice,  fast-ice, shelf-ice, continental-ice and  lithological units have\nbeen collected.\nMaps on 1:250,000 scale for the region covering from 3 degrees East to 21\ndegrees East longitude encompassing the shelf-ice, Muhlig-Hofmann, Conrad and\nthe eastern Wohlthat mountain range have been prepared. The  main drainage\nglaciers, the local glacier distribution and associated morainal deposits have been\ndepicted. Sastrugi fields, nunataks, solid crystalline blue ice fields, their distribution,\nmelt water channels and grounded ice bergs have also been demarcated.\nDigital analysis has been carried out to classify rock types, enhance the\nstructural features, differentiate the occurrence of various types of ice sheets and\nlocate the solid crystalline ice fields typically associated with nunataks and\nmountains, signifying negative ice budget regimes. Digital analysis for rock type\nclassification has been done and maps on 1:50,000 scale for Wohlthat mountains\nand on 1:25,000 scale for Schirmacher hills have been prepared. The  coastal i.e.,\nshelf-ice configuration, tensional cracks along  the edges of shelf-ice have been\nmapped.\nThermal mapping of Schirmacher hills has been conducted. The Precision\nRadiation Thermometer temperatures recorded over the landmass varied between\n2 degrees Celcius and 21 degrees Celcius.\n. Relatively smooth surface south of mountain range without the crevasses\nindicates that the ice thickness in these regions is  less. This region is interpreted\nas having shallow basement which is gently sloping towards south. The  northern\nface of the chain is suspected to have a deep  seated fault, giving rise to greater\nthickness of the ice.\nGround/Ice truth data has been collected over an area covering one Landsat\nscene of 185x185 km, which was incorporated in interpreting the imageries and\ncarrying out digita l analysis to derive maximum information of the environs\naround Indian  Antarctic Scientific Research Station, DAKSHIN GANGOTRI.\nObjectives of Remote Sensing Experiments\nThe objectives were to analyse remote sensed data to demarcate various\nmorphological units, decipher ice types and boundaries, locate zones of crevasses,\nfractures, classify the rock types, collect ground/aerial remote sensing data in\nclear atmospheric conditions and to extract all the retrievable information from\nthe satellite data and prepare maps depicting glacial morphology and geological\nclassification.\nEquipment:\n1. Exotech 100-A radiometer: Two  units\nThe four visible wav",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 32
+  },
+  "taxonomy": {
+    "category": "7]Remote Sensing",
+    "subcategory": "Remote Sensed Data Analysis for Geology and Glacial Geology of Wohlthat Muhlig-Hofmann Mountain Chain in Queen Maud Land, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:47.998622Z"
+  }
+}

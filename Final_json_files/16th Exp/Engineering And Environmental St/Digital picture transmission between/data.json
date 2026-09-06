@@ -1,0 +1,72 @@
+{
+  "id": "article_24",
+  "document_id": "NCPOR-10444F",
+  "source_file": "ARTICLE+24.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/629/3/ARTICLE+24.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+24",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nDigital picture transmission between Antarctica and India\nP.SEN, R KUNDU, M.K. DHAKA, R.K. AGGARWAL AND\nD.K. GANGOPADHYAY\nDefence Electronics Applications Laboratory, Raipur Road,\nDehradun - 248 001\nAbstract\nThe communication team of the XVI Antarctic expedition took up the task\nof establishing the first ever picture transmission link betweeen Antarctica and\nIndia over a band-limited telephone channel. The link was set up between the\nMAITRI Station and the Prime Minister's residence at New Delhi on 26\"' Janu-\nary 1997 when inaugural pictures of the installation of the bust of Mahatma\nGandhi at the Indian Antarctic Station MAITRI were transmitted in near real-\ntime to the Prime Minister in India.\nThis paper describes the  techniques and the steps involved in engineering the\npicture transmission link using a portable INMARSAT satellite terminal. The\nauthors also highlight the problems and limitations associated in working at the\nfringe areas of INMARSAT footprint.\nIntroduction\nRapid advancements in satellite technology have made it possible to\nprovide reliable and effective communication under stressed conditions from a \nremote place like Antarctica. The geographical location of the MAITRI station\nnear the South Pole makes it difficult to fully exploit satellites in equatorial\norbits for communication purposes. The INMARSAT satellite, whose\ndesignated footprint spans upto 70 South latitude is the only path for providing\nlong-distance telephone circuits from Antarctica. Traditionally, the INMARSAT\nportable terminal at Antarctica has been used to handle voice traffic alongwith\nE-mail applications. However, in recent times, the availability of faster desktop\nPCs along with improvements in video compression techniques have made it\npossible to transmit pictures over existing band-limited telephone circuits.\nObjectives\nIntroduction of picture transmission and multimedia services between a \nremote location like Antarctica and mainland India is a very important step in\nminimising the isolation and psychological breakdowns experienced during\npeak polar winters. The utility of services include\nExperts in mainland India can carry out damage assessment due to struc-\ntural collapse if high-resolution images can be transferred quickly form\n404\nP.Sen.P. Kundu, MK Dhaka, RK Aggarwal and DK Gangopadhyay \nMAITRI to India over this link.\nMedical advice sought from India during an emergency can be supplemented\nby pictures of damaged body parts, X- ray plates, etc.\nRegular exchange of photogrphs and video clips of the activites at MAITRI\nwith families of the expedition members can help reducing the isolation and\nminimise psychological breakdown. Initially, it was planned to test the link\nin near real-time mode. The link was proposed to be set-up between the\nMAITRI station and the Prime Minister's residence at New Delhi on 26\nth\nJanuary 1997 when inaugural pictures of the installation ceremony of the\nbust of Mahatma Gandhi at MAITRI would be sent in near real-time to New\nDelhi. In the later stages, pictures could be exchanged regularly over E-mail\nin off-line mode.\nExperimental set-up\nSince a semi-static INMARSAT terminal was already operational at\nMAITRI, connectivity options for near real-time transmission were listed as\nfollwos.\nSemi-static INMARSAT terminal at MAITRI to fixed land-line telephone\nat N.Delhi\n• Semi-static INMARSAT terminal at MAITRI to portable INMARSAT\nterminal at New Delhi.\nIn both cases, the call routing takes place through the INMARSAT Coastal\nEarth Station (CES) at Arvi near Pune. However, preliminary link trials indi-\ncated that connecting through a land-line involved signal flow though multiple\nswitching centers thereby reducing the link  avilability and reliability. It was\ntherefore decided to use mobile INMARSAT terminal at New Delhi end to en-\nsure reliable data transfer. The complete set-up is shown in Fig-1\nThe process of picture transmission can be split into three stages.\n Digitisation\n Encoding an d compression\nTransmission and reception\nDigitisation\nTo capture a scene, a colour CCD camera was interfaced to a PC using a \ndigitiser card plugged into the PC motherboard. The PAL compatible analog\nvideo signal was digitised and stored in a frame buffer. The digitised picture\ncould be viewed in the PC at a preview rate of 6 frames per second. At suitable\ninstants, frames were freezed in 320x200 or 640x480 high resolution mode and\nconverted to binary files. Alternatively, a slow-scan video in 256x200 resolu-\ntion mode could be captured continuously over an extended time period.\nDigital Picture Transmission  405 \nEncoding and compression\nHaving captured a picture frame or a motion video clip, the frame buffer\ncontents are stored in the hard disk in the form of a binary file using the standard\nJPEG format. Though the image can be stored in various standard file ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "6]Engineering And Environmental Studies",
+    "subcategory": "Digital picture transmission between Antarctica and India",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:48.867735Z"
+  }
+}

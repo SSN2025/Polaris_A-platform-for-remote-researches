@@ -1,0 +1,72 @@
+{
+  "id": "article_6",
+  "document_id": "NCPOR-F93301",
+  "source_file": "ARTICLE+6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/341/3/ARTICLE+6.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+6",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 65-90 \nA  Study  on  the  Population  Ecology of Soil Nematode  Fauna  in\nRelation  to  Some  Edaphic  Factors  in  Schirmacher  Oasis,\nAntarctica\nA.K. HAZRA\nZoological Survey of India, Calcutta\nAbstract\nInvestigations relating to ecology of terrestrial invertebrate fauna of Antarctica are mainly\nconfined to the Sub-Antarctica and maritime zones. The effects of some physico-chemical soil factors\non the distribution of soil nematode fauna have not been attempted so far in Schirmacher Oasis of\nAntarctic Continental zone. Only ten species, representing six genera of nematodes, have so far been\nrecorded from the Continental Antarctic zone (Maslen, 1979). Five genera of nematodes viz.,\nTylenchorhynchus, Drylaimellus, Aporcelaimellus, Dorylaimoides, and Paramylonchulus were\nrecorded for the first time from this area. Altogether 30 stations among 15 study sites were chosen for\nsampling during the study period from 3.1.90 to 30.2.90.\nThe population of nematodes, including juveniles, was maximum (22.27%) on 27th January and\nminimum (2.38%) on 25th February, The sitewise maximum population was obtained from the site\n15 (11,62%). Nematode genus Tylenchorhynchus was most dominant taxa comprising 41.45% of the\ntotal population. The vertical distribution study for all the four genera revealed that maximum faunal\ncomposition was in the upper 0.5 cm. depth.\nThe physico-chemical factors of soil viz., temperature, relative humidity, nitrate, pH and organic\ncarbon were also studied. Peak population was associated with the higher levels of temperature,\nnitrate, organic carbon and relative humidity.\nThe statistical analysis revealed that a significant correlation exists between soil nematode\npopulation and soil factors.\nIntroduction\nThe terrestrial animal life of Antarctic is dominated by the invertebrates, such as\nProtozoa, Insects and Mites (Somme, 1985). A review of earlier literature reveals that the\necological studies of the Antarctic invertebrate fauna is very scanty, and is mostly confined\nto sub-Antarctic and maritime zones.\nThe first ecological account of nematodes was made available by Bunt (1954a) who\nworked on the Macquarie Island — a sub-Antarctic island. Another important contribution\non the ecology of nematodes from Signy Island of Antarctica was made by Spaull (1972,\n'73a, '73b). In addition to this, there are some fragmentary reports on the taxonomy of\nnematode from the Antarctic continent (Maggenti, 1961; Holdgate, 1970; Ingole and\n66\nA.K. Hazra \nParulekar 1987). However, no s erious attempts have been made to study the ecology of soil\nnematode in the Antarctic continent. Inview of this, an attempt has been made to study the\ndistribution patterns of nematode in relation to som e physico-chemical parameters of the\nsoil at the Schirmacher Oasis areas of Antarctic Continental Zone.\nMaterials and Methods\nLocation and characteristics of sampling sites  . \nThe sampling sites were located at Schirmacher Oasis, in eastern Antarctica, where the\nIndian Station \"M aitri\" is located (Lat. 10°44'30\" - 70°46'30\" S and Long. 11°22'40\" -\n11 °54'00\" E). There are over 25 fresh water lakes of different sizes within this oasis. Fifteen\nsuch lakes (embankment) were chosen for the present study (Fig.l). Each sampling plot\nmeasured 5 m x 5 m in moss-turf or moss-carpet areas in the periphery of the lakes.\nSoil samples were drawn at  random, at the  rate of 3 samples per site on eight different\ndates during the period from 3rd January to 25th February, 1990. Samples were drawn by\nusing stainless s teel corers (cross sectional diameter 8.55 cm) from adepth of 5 cm. Separate\nsample units were taken on several dates from 7 different sites to study the vertical\ndistribution of nematodes. Three samples per plot were drawn from a depth of 10 cm and\nsubdivided into two 5 cm sub-samples as per metho d described by Curry (1971). The soil\nsamples thus collected were kept in polythene packets and  properly closed with rubber\nbands and stored in fridge in the ship to avoid evaporation. The extraction of soil samples\nwere made in the  laboratory of Dr. Q.H. Baquri, Z.S.I. and major part of the work was\ncompleted in the Neonatology research unit of the Department of  Zoology, Burdwan\nUniversity. The  methodology followed for sieving was after C obb's (1918),while for\ndecantations, the  Bearmann funnel technique of Christie and Perry (1951) was used.\nSoil factor viz. organic carbon was determined by rapid titration method of Walkley and\nBlack (1934), nitrate was estimated colorimetrically by Sprengell method, temperature was\ntaken with a telethermometer using thermistor probe with thermocouple bridge, pH was \ndetermined by pH meter (Cambridge pH meter, model PI 014) and relative humidity was\nFig. 1. Map of Schirmacher Oasis showing the sampling sites. \nStudy on the Population Ecology of... \nTable 1: Mechanical Analysis ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 26
+  },
+  "taxonomy": {
+    "category": "4]Biological Sciences",
+    "subcategory": "A Study on the Population Ecology of Soil Nematode Fauna in Relation to Some Edaphic Factors in Schirmacher Oasis,Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:17.868674Z"
+  }
+}

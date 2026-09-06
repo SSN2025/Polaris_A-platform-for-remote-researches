@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_18_2c_pp_243_261",
+  "document_id": "NCPOR-EE514E",
+  "source_file": "Technical+Publication+No.+18%2C+pp+243-261.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/824/1/Technical+Publication+No.+18%2C+pp+243-261.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+18%2C+pp+243-261",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twentieth Indian Expedition to Antarctica, Scientific Report, 2006 \nMinistry of Earth Sciences, Technical Publication No. 18, pp 243-261 \nReport on the Logistic Activity Carried out by \nthe 20th Indian Antarctic Expedition \nMaj Atul Apte \nIntroduction \nThe 20th Indian Antarctic Expedition had a logistics team of 13 \nmembers drawn from the Indian Army. The team primarily was responsible \nfor providing logistic back up to the Indian Antarctic Scientific Expedition \nand to maintain and run all the life support systems at the Indian Antarctic \nbase-Maitri. The main logistic tasks assigned to the team were as \nenumerated below. \n1. Upkeep of station infrastructure and all its life support systems. \n2. Up-gradation and regular maintenance of land convoy vehicles and \nsupport systems. \n3. Testing and commissioning of new SATCOM terminals (B, C&M) \nat the Indian base. \n4. Upkeep of fire fighting equipment at Maitri and updating the \nserviceability of all fire fighting equipment. \n5. Upkeep of natural habitat of Maitri and its surroundings in \ncompliance with the environmental protocol requirements. \n6. Re-laying of the Station heating pipelines from Boiler room. \n7. Transportation of fuel and bulk stores from India Bay to Maitri. \n8. Re -commissioning of Polar Bear Vehicle. \n9. Retrieval of Polar Bear Trailer from Blue Ice. \n10. Stock taking of spares of all life support systems and vehicles and \nprojecting demands for future procurements. \n11. Providing logistic support to the scientific activities. \n12. All other tasks as assigned by the Leader of the expedition from \ntime to time. \nThe logistic team made a concentrated effort braving the blizzards \nand Antarctic chill to complete the entire task it was assigned. The extreme \n244 Maj Atul Apte \nAntarctic conditions did not prove to be a major hindrance. The logistic \ntask carried out by the team is as listed below. \n1. Activities on board ship \"M/v Magdalena Oldendorff\" \nIssue of clothing items: The Extra Cold Climate (ECC) clothing \nwas issued to the entire team as per the directives of Leader. The issue \nwas organized in an orderly fashion keeping in consideration the size of \nindividual member. \nProblems faced: The main problem faced during the issue of the \nclothing was that there were inadequate number of Medium sized clothing. \nThis caused a lot of problems to team members as majority of them had \nto wear incorrect size clothing. \nReadjustment of cargo: The cargo in the containers was readjusted \nto minimize the number of loads to be taken by convoys as well as identify \nand separate the items that would be required to be sent on priority by \nthe air sorties. This exercise was carried out in great detail and resulted \nin entire scientific cargo being shifted to Maitri in just three days, saving \na lot of flying hours. \nPlanning of helicopter sorties: This was done with utmost care to \nmake optimum use of all helicopter sorties to and from the ship (Fig.l). \nFig. 1: Helicopter operation being carried out from Ship M V Magdalena Oldendorff. \nReport on the Logistic Activity Carried out by the 20th IAE .... 245 \nPriority was given to move a sizeable detachment of the logistic team and \nscientists to Maitri, to establish the summer camp and then shift the stores \nrequired for summer tasks and setting up of various field camps. \n2„ Activities during the summer period \nActivation of Summer Camp: The summer camp was activated by \nthe 17th WOT at Maitri. A part of the army team was moved to carry out \nmaintenance work for the living huts, toilet module and incinerators. The \ntoilet incinerator burners were checked and made functional. \nTaking over of various stores: The important task of taking over \nof the vehicles, life support systems and stores was carried out \nsimultaneously with other summer activities. The new logistic team \nreceived on job training on the installed life support system at Maitri. This \nwas an important aspect of induction of the team as most of the new \nmembers had no experience of functioning under such extreme \nconditions. \nEstablishment of Dakshin Gangotri Summer Camp: a summer \ncamp was established at the Dakshin Gangotri station site for Indian \nInstitute of Geomagnetism (Fig. 2). This involved overhauling a 30 Kva \ngenerator lying unused at DG station site and relocating the living module. \nA Mantis crane located at DG station site was made operational. \nSurvey of India Camp (SOI): A living module on sledge named \n'SANKALP'was made operational as a field camp for SOI team which \nFig. 2: Location o/IIG summer camp at DG \n246 Maj A tul Apte \nhad a program of surveying a site 6 km west of Maitri. A mini generator \nand communication equipments were placed at the camp. \nEstablishment of WIHG Camp: The Scientist from Wadia Institute \nof Himalayan Geology had a program of carrying out Ground Probe Radar \nSurvey on the Polar Ice sheet South of Schirmacher Oasis. A convoy living \nModule Banjara was made available with a vehicle and two logistic ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 19
+  },
+  "taxonomy": {
+    "category": "6] Logistics",
+    "subcategory": "Report on the Logistic Acitivity Carried out by the 20th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:22.847147Z"
+  }
+}

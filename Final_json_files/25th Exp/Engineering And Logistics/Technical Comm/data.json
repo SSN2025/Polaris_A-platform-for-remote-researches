@@ -1,0 +1,72 @@
+{
+  "id": "chapter_1",
+  "document_id": "NCPOR-7AA889",
+  "source_file": "Chapter+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1010/1/Chapter+1.pdf",
+  "bibliographic": {
+    "title": "Chapter+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "ENGINEERING AND  \nLOGISTICS\n\nTwenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 287-292\nTechnical Report on Antarctic Communication\nNarendra Singh and Ajay Sharma\nDefense Electronics Applications Laboratory, Dehradun\nCommunication is a vital need of human being in modem society. \nThe significance of communication is enhanced further in Antarctica due \nto its hostile weather conditions and isolation from rest of the world. DEAL \nDehradun has been responsible for providing total communication facilities \nviz.; convey communication, HF/VHF communication to the field parties, \nflight operations, communication with ship and communication between \nMaitri Antarctica and India. The DEAL team is also responsible for \nmaintaining the satellite terminals for telephone, telex, fax and E-mail \nservices from 15th expedition onwards. Since then the communication \nscenario has changed drastically and state of the art equipment have been \nintroduced for providing HF/VHF and satellite communication. A high \ngain log periodic antenna was installed for better performance of HF link. \nExperimental HF voice/data communication trials have been conducted to \nget the new communication window for data transfer between India (DEAL) \nand Maitri. In continuation of this specific program, the following tasks \nwere carried out during the 25th ISEA.\nCommunication during Voyage\nThe 25th (Silver Jubilee) Antarctic expedition comprising 52 members \nsailed on 29th Dec, 2005 from Cape Town port, South Africa, under the \nleadership~Qf Sh L. Prem Kishore of NGRI Hyderabad. Every Antarctic \nexpedition is very significant and unique. Expedition team comprised \nscientists, engineers, communication team, doctors and logistic support \npersonnel. Role of the communication team started from the day of sailing. \nDuring voyage phone, fax and e-mail facility were provided to the members \nby using the system available on board the ship. Calling time and e-mail \nsize were kept to a minimum to restrict the expenditure on communication. \nThroughout the journey regular HF contact was maintained with India and \nMaitri Station. The first courtesy sortie reached Maitri on 9th January 2006. \nThe VHF communication was installed the next day at ship for flight \noperation.\n\n288 Narendra Singh and Ajay Sharma\nInstallation of VHF Repeater\nVHF communication is highly reliable and dependable due to line of \nsight communication. The peak of Vitehia hill 300 meter above Maitri level \nwas selected for the purpose. The repeater and battery were housed in a \nseparate wooden box. Ground plane antennae were installed with proper \nguy wires. No charging facility was available and so every time before \nconvoy we had to replace the battery for convoy communication.\nVHF Communication\nVery High Frequency (VHF) is used to describe the 30 MHz to 300 MHz \nportion of the radio spectrum. This range of frequency provides short range \nline of site communication. The range for VHF communication can be \nfrom several hundred meters to several miles depending on equipment used, \nRF power level, antenna height, and terrain etc. VHF is the best choice to \nuse when communication is needed to tie all personnel together in a localized \narea. Routine life cycle of Maitri Station depends on VHF Communication. \nIt is necessary to execute several activities. VHF Radio Sets are used to be \nin touch with the field parties. Communication Officer quite frequently \nexchange information including location update, weather update with the \nscientists in field. It is mandatory to carry the VHF Set while leaving the \nstation for any outside activity. VHF is used for route information, weather \nupdate to Convoy team. The VHF communication is also used to contact \nwith summer huts, as well as in daily activities like generator operation \nand power change over, operating the pump house, to contact with the \nmaintenance and support personal etc. VHF is also useful to keep regular \ntouch with the neighboring Russian station ‘Novolazarevskaya’. Some in­\nfield scientific activities require conversation at regular intervals with team \nmembers dispersed in few hundred meters and they interact with each other \nby switching to VHF Radio set to different channel assigned to them for \nin-field operation. VHF repeater is very useful to extend the range of \ncommunication especially in the hilly and uneven terrain. Line of sight \n(LOS) is one of the prime requirements for VHF communication. The 165 \nkm long convoy route from Maitri to the sea shore (India Bay) is covered \nby undulated snow surfaces. To provide VHF communication between \nMaitri and the mobile Convoy, the height of the transmitting antenna is \nvery important to maintain LOS. By using the DC operated repeater station\n\nTechnical Report on Antarctic Communication289\nat the top of ‘Veteheia Hill’, sited behind the Maitri station, there was a \nremarkable enhancement in the VHF Communication range.\nAviation b",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "6] Engineering And Logistics",
+    "subcategory": "Technical Report on Antarctic Communication",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:59:52.451989Z"
+  }
+}

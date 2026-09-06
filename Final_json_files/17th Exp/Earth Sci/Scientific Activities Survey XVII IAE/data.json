@@ -1,0 +1,72 @@
+{
+  "id": "article_12",
+  "document_id": "NCPOR-46A9DD",
+  "source_file": "ARTICLE+12.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/524/3/ARTICLE+12.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+12",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. 15, PP 145-153 \nSCIENTIFIC ACTIVITIES REPORT OF\nSURVEY OF INDIA\nDURING XVII IAE 1997-98\nV. Ravichandran\nIntroduction\nMan always endeavours to understand nature, for nature has\nprofound influence on his living. Study of Plate movements is just\nnot an academic interest but it has utility in understanding the past\ngeology and in monitoring the present tectonic processes. Survey of\nIndia, NGRI and the I nstitute of Planetary Geodesy, University of\nDresden, Germany have taken up combined work in the field of\nPlanetary Geodesy in  Antarctica duting the 17th Indian Scientific\nExpedition to Antarctica 1997-98. In this report the main objectives,\nfield activities, general considerations for the studies and the results\nof some of the activities will be presented.\nMain objectives\na) Study of Antarctica Plate movements with reference\nto othe r plates.\nb) Study to understand the Ice-shelf dynamics.\nPlate movements study in  Antarctica\nPlate tectonics explain the dynamic system of lithospherical\ngrowth and destruction of, plates. This continual process of growth\nand destruction are driven by the convection calls in  the mantle.\nTectonic Processes take place throughout the earth. The Antarctica\n146 V. Ravichandran \nplate is encircled by divergent plate boundaries along roughly 95%\nof its perimeter and is broken internally by numerous large rift\nstructures.\nTectonic setting of Antarctica \nIn geological parlance Antarctica is divided into two major\ntectonic units : the East Antarctic shield and th e microplates of\nWest Antarctica.\nThe larger East Antarctica shield is defined as the region,\nbounded on th e seaward and northern side by the South Atlantic and\nIndian Ocean. On the landward side it is bounded by the\nTransantarctic Mountains, the Pensacola Mountains and the east of\nthe Filchner-Ronne Ice Shelf.\nThe West Antarctica encompasses the Scotia Arc region, the\nAntarctic Peninsula, Ellsworth Land and Mountains, Marie Byrd\nLand and other areas not included in East Antarctica (Tingey,\n1991).\nGeneral considerations of the study \nTo study plate movements a well defined geodetic network\nis to be establishe d and geodetic obs ervations are to be carried out\nin various epochs with time interval of several years. For this the\npoints observed should be of permanent nature and with proper\ndocumentation so that they can be reoccupied at future dates. For\neach epoch a detailed data screening analysis and adjustment has to\nbe carried out, resulting in estimated co-ordinates for all stations,\nwhich represents the currently valid geometry of the network.\nThe suspected movements are derived by a rigorous\nstatistical analysis, using the  co-ordinate sets x of the points and\ncovariance matrices σxx of atleast two epochs.\nField activites \nA new GPS bench mark MAI1 was established near Maitri\non a hill top adjoining the Priyadarshini (Zub) lake on its eastern\nScientific Activities report of Survey of India  147 \nside. This was made on the bed rock  by driving the specially\ndesigned GPS marker by a mechanical drilling system developed for\nbolting in mountain climbing and on speleology. The GPS marker\nhas thread on its top upon which the receiver antenna can be firmly\nmounted. The problem of power supply was overcome by installing\na small wind charger which supplied power to the receiver by\ncharging the battery. This point was chosen as the originally\nmonumented point behind the 'Tirumala Hut' was abandoned as the\ndigging operations for Seismic vault was goin g on in the same area\nwhich might interfere with the data reception. The old GPS point\nFORI near Russian station Novolazarevskaya was also chosen for\nGPS observations and here the power supply is made through cable\nfrom the station. Continuous GPS observations are made with 15\nseconds epoch interval from 20th January (00.00 UTC) to 10th\nFebruary (24.00 UTC), 1998 as part of SCAR GPS campaign,\n1998. The data is downloaded every third day at the MAI1 point\nand on every seventh day at the FOR 1 point.\nData processing and Results \nThe GPS data of these two points and other SCAR GPS\ncampaign points which were observed throughout Antarctica during\nthe same period are being screened and adjustments are made. The\ncollective data of SCAR GPS campaign, 1998 will be processed\nthrough Bernese software using co-or dinates of IGS sites in the\nsouthern hemisphere as a-priori reference co-ordinates in order to\nconnect the Global Antarcti c network to the ITRF (IERS-\nInternational Earth Rotation Services - Terrestrial Reference Frame).\nOther a-priori infomations to be used in this processing are : the\nfinal IGS orbits and the Earth Rotation Parameters (ERP) associated\nwith them. The final processing will be carried out once all the a-\npriori informations are obtained. The results will be published\ncombinedly by the German and Indian teams.\nIce Shelf  dynamics study\nThe Ice Shelf ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Scientific Activities Report of Survey of India during XVII IAE 1997-98",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:13.953744Z"
+  }
+}

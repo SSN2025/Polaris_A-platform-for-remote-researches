@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_30a",
+  "document_id": "NCPOR-A3E1FE",
+  "source_file": "RRChapter-30A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/972/1/RRChapter-30A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-30A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "373Study on anthropogenic pressure on waterbodies situated in........\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 373-374\nStudy of Water Bodies in Larsemann Hills, Ingrid\nChirstensen Coast, East Antarctica\n Ashwani Wagnaneo\nDepartment of Limnology, Barkatullah University, Bhopal, M.P.\nThe work conducted on various water bodies situated in the Larsemann\nhills (proposed site for the third Indian station in Antarctica) involved\ncollection of samples from the water bodies designated as L-1 to L-12\n(after GSI-2005). Water samples could be collected from water bodies\nmarked as L-1, L-2, L-3, L-7, L-8 and L-9 only. It was not possible to\ncollect the water samples from water bodies marked as L-4, L-5, L-6, L-10,\nL-11 and L-12 as they all were frozen to such an extent as to make it\nimpossible to drill a hole for procuring the sample. The water samples\nfrom L-1, L-2, L-3, L-8 and L-9 were collected only after digging through\nthe ice sheet covering the water bodies completely. The main water body\n(L-7, comparatively bigger) was partially frozen towards the margins only.\nPreliminary Primary production experiment was conducted in the\nsurface water of (L5) water body, where from plankton samples have also\nbeen collected besides Water body designated as L7 for investigation.\nCollection of samples using plankton net\n374 Ashwani Wanganeo and Rajni Raina nee Wanganeo\n The source of water into these tarns is mainly from the accumulated\nsnow in respective catchments areas during the winter months. There are\nno permanent Glaciers feeding these tarns. As such, the amount of snow\nwhich accumulates during the winter is alone the main source of water.\nThe nearness of the sea cautions about the availability of fresh water\nin plenty. The elemental composition of the rocks and their leaching needs\nto be worked and understood under varying climatic conditions for working\nout the nutrient budget of the water bodies in detail. This is of utmost\nsignificance for restricting the bio- magnification of lethal elements.\nThe morphological characteristics of the main water body (L-7 situated\nin Larsemann hills reveals its Tarn nature, having theoretically high\nresidence time. It thus is advisable to conduct thorough investigation of\nthis water body which is supposed to be the main potable water source to\nthe inhabitants of new base. The inputs from its respective water shed areas\nneeds to be worked out for better understanding of the routing of elements\ninto the water body. Since the hydraulic detention influences the\naccumulation of nutrients, it as such, becomes necessary to work out this\nfeature in detail.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "6] Task Force",
+    "subcategory": "Study of Water Bodies in Larsemann Hills, Ingrid Chirstensen Coast, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:55:04.143216Z"
+  }
+}

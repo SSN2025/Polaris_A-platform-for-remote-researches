@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_225_237",
+  "document_id": "NCPOR-00E287",
+  "source_file": "Technical+Publication+No.+19%2C+pp+225-237.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/884/1/Technical+Publication+No.+19%2C+pp+225-237.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+225-237",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 225-237 \nReport of Tasks Completed By Snow and Avalanche \nStudy Establishment (S.A.S.E.) during \nWinter - XXI IAE \nSudesh Jamwal \nSnow and Avalanche Study Establishment \nIntroduction \nSnow and Avalanche Study Establishment (SASE) is engaged to \ncarry out studies on snow in different fields of science. Some of the \nimportant studies are; snow mechanics, snow dynamics, heat changes in \nsnow pack, energy budget model based on reflectance, glaciological and \nmeteorological parameters, snow metamorphism, accumulation and \nablation pattern of snow cover, settlement rate of snow and glaciers, \nrecording of snow and met parameters manually as well as using automatic \nweather stations. Studies on crevasse formation are also being carried out \nin world's highest battlefield (i.e. Siachen Glacier). \nBased on above studies, the main aim of SASE is to minimize the \navalanche hazard and to save the men and material. These avalanche \nhazards can be minimized using active and passive methods. Active \nmethods are control of avalanches using different control structures and \npassive is avalanche-forecasting techniques based on current parameters \nand past experiences. \nDuring this XXI Indian Antarctic Scientific Expedition following \nprojects were included in Antarctic study program by SASE. \n(a) Energy Budget Model Based on Reflectance (Albedo) and \nGlaciological, Meteorological parameters of Antarctic Ice Sheet \nthrough ground based observations, Automatic Weather Station \ndata. \n(b) Microstructural Analysis of different Snow and Ice medium in \nAntarctica; Grain size, Structure and Orientation Fabric in Glacier \nand Ice Sheet. \n(c) Study of Crack propagation on Ice Sheet using GPS and Satellite \nImagery. \n226 Sudesh Jamwal \nEnergy Budget Model Based on Reflectance (Albedo) and \nGlaciological, Meteorological parameters of Antarctic Ice Sheet \nthrough ground based observations, Automatic Weather Station data: \nThe reflectance, absorption and transmission of solar radiation from \nany glaciological surface controls the radiation energy budget and hence, \nthe surface conditions. The radiation budget estimation of strongly \nreflecting surfaces of different snow and ice media in Antarctica \n(continental ice, shelf ice and drifted snow, etc.) makes the study of their \noptical properties in order to estimate the global energy balance and \nclimate modeling. The knowledge of energy balance over a variety of \nterrain existing in Polar Regions could only be obtained by understanding \nreflectance and albedo characteristics of different snow and ice mediums. \nThe heat budget of different types of terrain during winter remains similar. \nHowever during summer season, the melting process exposes the blue ice \nregions and causes wide variations in the reflectance and albedo. \nIn Indian Antarctic Program, this project was initiated by SASE in \nthe 15th expedition during summer with the albedo study of shelf ice at \nDG. Since then, the reflectance characteristics of different snow and ice \nmedia are being carried out in Antarctica by SASE scientists. The ultimate \naim of the project is to develop the monogram, accounting for various \nsnow and meteorological parameters controlling reflectance behavior. \nEnergy budget is estimated using various energy fluxes i.e. short \nwave radiation flux, long wave radiation flux, sensible heat flux and latent \nheat flux. Short wave radiation flux is the amount of total short wave \nenergy absorbed by the snow surface. It depends on the albedo of the snow \nsurface and the amount of insolation received by the surface. The \ninsolation is estimated with the help of upper pyranometer or by using \nvarious physical models. The short wave radiation flux is in the wave \nlength range of 0.3 to 3.0|u m. The long wave radiation flux are the \nelectromagnetic radiation received from the atmosphere, clouds and snow \nsurface, if the long wave radiation are responsible for cooling and heat of \nthe surface. The night time cooling is because of the long wave radiation \nescaped from the snow surface. Latent heat flux is a phase change because \nof condensation and sublimation as gradient of water vapours between \nsnow surface and atmosphere. If vapour pressure at snow surface is more \nthan the atmosphere, there will be sublimation and if it is low, there will \nbe condensation. The sensible heat flux is as a consequence of temperature \ngradient between snow surface and atmosphere. It will be positive if snow \nsurface absorbed energy from the atmosphere and negative if, it transmits \nenergy to the atmosphere. The total energy budget depends upon the sum \nof all these components. \nReport of Tasks Completed By Snow and Avalanche Study .... 227 \n228 Sudesh Jamwal \nReport of Tasks Completed By Snow and Avalanche Study .... 229 \nWhere Lv is the latent heat of vaporization, ea is the vapour pressure \nat heigh",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "4] Earth Sciences",
+    "subcategory": "Report of Tasks Completed by Snow and Avalanche Study Establishment (SASE) During Winter period - XXI IAE",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:58.789315Z"
+  }
+}

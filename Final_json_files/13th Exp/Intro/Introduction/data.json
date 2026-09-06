@@ -1,0 +1,72 @@
+{
+  "id": "pages_from_13th_indian_expedition_1_13",
+  "document_id": "NCPOR-01F728",
+  "source_file": "Pages+from+13TH+INDIAN+EXPEDITION+1-13.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/749/1/Pages+from+13TH+INDIAN+EXPEDITION+1-13.pdf",
+  "bibliographic": {
+    "title": "Pages+from+13TH+INDIAN+EXPEDITION+1-13",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "13] Scientific Report Of Thirteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SCIENTIFIC REPORT \nTHIRTEENTH INDIAN EXPEDITION \nTO ANTARCTICA \nSCIENTIFIC REPORT \nTHIRTEENTH INDIAN EXPEDITION \nTO ANTARCTICA \nTECHNICAL PUBLICATION NO. 11 \nDEPARTMENT OF OCEAN DEVELOPMENT \nCGO COMPLEX, LODI ROAD \nNEW DELHI -110003 \nINDIA \n1997 \n____________________________________________________________________ \nPrepared by: India Meteorological Department \nLodi Road, New Delhi-110003 \nand \nDepartment of Ocean Development \nNew Delhi-110003 \nPrinted at: National Institute of Science Communication, CSIR, \nDr. K.S. Krishnan Marg, New Delhi -110012. \nJanuary 20, 199 \nFOREWORD \nIndia has crossed one more milestone in Polar Research with the \nsuccessful completion of the Thirteenth Indian Scientific Expedition to Antarctica. \nThe publication of the technical report of this expedition will certainly contribute \nto a better understanding of the intricate global processes which nature controls \nfrom the remote continent of Antarctica, \nThe quest for truth, the pursuit for scientific knowledge and the spirit to \nface challenges have been the principal motivating force behind this multi-\ndisciplinary and multi-institutional expedition. Despite all odds, during the \nexpedition, two sophisticated instruments, namely, the laser heterodyne system \nand the mm wave radio spectrometer were successfully commissioned and \ntested for measuring ozone concentrations over Antarctica. Geological survey \nwas extended further South to the Orwin Mountains. A unique experiment to \nmonitor and study day-time auroral phenomenon was also initiated, thereby \nadding new dimensions to the Indian Polar Research. \nThe valuable data collected and the scientific knowledge gained through \nthis expedition has been systematically collated by Shri G. Sudhakar Rao, the \nleader of the expedition in this report. I am sure that this technical publication \nwill make valuable contribution to the furtherance of polar science and will serve \nto be a useful source of information for those interested in this field of research. \n(A. E. Muthunayagam) \nGOVERNMENT OF INDIA \nDR. A.E. MUTHUNAYAGAM DEPARTMENT OF OCEAN DEVELOPMENT \nSECRETARY ' MAHASAGAR BHAVAN', BLOCK-12, C.G.O COMPLEX, \nLODHI ROAD, NEW DELHI-110 003 \nPREFACE \nThirteenth Indian Scientific Expedition to Antarctica with thirteen scien-\ntific organizations will be remembered in the history of Indian Antarctic \nExpeditions as an expedition with many superlatives to the continent of \nsuperlatives, i.e. Antarctica. Highest ratio of Scientists to Logistic personnel \n(25 out of 58), least flying facilities (only two Chetak helicopters, out of which \none became unserviceable after one month of usage). Because of limited flying \nfacilities, best possible planning to use the air-sorties with maximum efficiency \nwas done so as not to sacrifice any assigned scientific responsibilities. The \nsummer camp was set up on 1 st Jan itself and the scientific induction started \non the same day. Except for the Laser Heterodyne Experiment, all scientific \nworks of summer programme started in about a week. Due to the blessings from \nweather god with many fair weather days, scientists completed their pro-\ngrammes very early and by the 20th of Feb, all summer scientific programmes \nin field camps were completed. \nEven though weather favoured this expedition with practically no blizzard \nday during summer and all scientific programmes went smooth, many odd \nevents occurred in this expedition; starting with Chief Officer of Ship's fall in \na crevasse, followed by helicopter's crash landing and its unservicability for \nthe expedition, fire accident in main Maitri building, rudder breakdown to the \nexpedition's ship during its return voyage, breakdown to the newly supplied \nheavy transport carrier, viz., Polar Bear Transporter during in its first journey \nitself enroute to Maitri, frost-bite to an expedition member to name only a few \nfollowed in order. It is a miracle that even though all the above mentioned \naccidents had the potential of taking invaluable human lives, I am happy to \nrecord here that the members who were affected by these accidents could escape \neven without minor injuries. \nThe reason behind the successful completion of all the assigned scientific \ntasks even with facing many odds is hard work, sincerity, dedication, full \ncooperation, and daring efforts shown by each and every member of the team. \nAn expedition is a team work, and every member should have concern for every \nother member for ensuring safety of all and at the same time, completing all the \nassigned tasks especially in a place like Antarctica. All the team members \nviii. \nfollowed this principle irrespective of their ranks/designations, and organiza-\ntions to which they belong. My sincere appreciations to all of them. The support, \nguidance and help received from the concerned officials of Department of \nOcean Development and all the participating organisations from time to time \nwas an immense help in achieving our tasks. \nMyself and my team ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Introduction",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:22:58.840112Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "introduction",
+  "document_id": "NCPOR-98B986",
+  "source_file": "INTRODUCTION.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/335/3/INTRODUCTION.pdf",
+  "bibliographic": {
+    "title": "INTRODUCTION",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SCIENTIFIC REPORT OF\nNINTH INDIAN EXPEDITION TO\nANTARCTICA\nSCIENTIFIC  REPORT  OF\nTECHNICAL PUBLICATION NO. 6 \nDEPARTMENT OF OCEAN DEVELOPMENT\nCGO COMPLEX, LODI ROAD\nNEW DELHI 110003\nINDIA\n1994\nNINTH  INDIAN  EXPEDITION  TO\nANTARCTICA\nPrepared by: Antarctica Division\nGeological Survey of India\nNH-5P,Faridabad-121001\nand\nDepartment of Ocean Development\nNewDelhi-110 003\nPrinted at: Publications & Information Directorate\nDr K.S. Krishnan Marg, New Delhi 110 012\nThis report is dedicated to \nlate V.K.Shrivastava, A.K.Bedi and B.L.Sharma; \nall scientists from Geological Survey of India and \nPOEL(R) N.C.Joshi of Indian Navy who lost their lives while \ncamping in Wohlthat Mountains, Antarctica. \nFOREWORD\nThe Ninth Expedition to Antarctica was yet another step towards achievement of goals\nof our National Antarctic Programme. The 81 member expedition team with 25 member\nwinter component, drawn from various research Institutes/Universities and Services, was\nentrusted with stupendous additional task of decommissioning Dakshin Gangotri. This\ninvolved shifting of sophisticated scientific equipment and logistic stores to Maitri and\nconstruction of a shelter accommodation at DG to cater for its new role as a Supply Base.\nThe team was successful in establishing and making functional a modern meteorological\nlaboratory and initiating research in the fields of Solar Astronomy and Human Physiology\napart from continuing the work on ongoing projects in earth sciences, meteorology, biology,\noceanography, environmental sciences and cold region engineering.\nOne of the laudable feats of the expedition was its success in reaching upto the interior\nmountains of Wohlthat Range in austral winter, using the surface route, to collect signifi-\ncant geological and glaciological data.\nWhile the expedition gained immensely in terms of science, it lost four bright young\npersons, namely S/Shri V.K. Shrivastava, A.K. Bedi and B.L. Sharma, all from Geological\nSurvey of India and POEL(R) N.C. Joshi from Indian Navy. The Nation will always\nremember their ultimate sacrifice in the cause of science.\nThe present report incorporates selected papers pertaining to work done during the Ninth\nExpedition, compiled and edited by Shri Rasik Ravindra, Leader of the Expedition.\nI feel confident that the report is a valuable addition to Antarctic Science.\nP. RAMA RAO\nSecretary\nDepartment of Ocean Development,\nNew Delhi\nDecember, 1994\nPREFACE\nAn Antarctic expedition has many facets. It encompasses in its fold the temptation of\npolar science, the spirit of adventure and a national commitment. The responsibilities are\nenormous and tasks are stupendous. Having this charter in background, the Ninth Indian\nAntarctic Expedition sailed on 30th November 1989 with 81 members on-board\nM.V. Thuleland. \nThe future was distant though challenging. Treading into unknown was exciting and a \nsense of dedicated team spirit was already permeating into the psyche of members during\nthe cruise. Against this optimism, the trials and tribulations forced on us were unique and\nunparalleled. We came across worst ever pack ice conditions faced by any Indian expedition\nso far. At Antarctica, we had just launched our scientific activities when we were jolted by\na tragedy in which four of our members lost their lives in the deep interior mountains of\nHumboldt. This was a tragedy which transformed all of us into a vital force. We dedicated\nour tasks to the memory of departed souls. The site of the tragedy is a constant reminder of\nthe resilience and tenacity of Indian scientists to achieve their objectives against all odds.\nAgain, the lone medical specialist had to be repatriated to India for medical reasons leaving\nthe team with no alternative but to face the vagaries of Antarctic winter without a medical\ncover. Inspite of these heavy odds, we not only accomplished all the assigned tasks but also\nexceeded our targets in both the scientific and logistic fields.\nSound moral and logistic backup from the main land is an essential prerequisite of any\nexpedition. We were fortunate to have the blessings of the then H'ble Prime Minister of\nIndia, Mr Vishwanath Pratap Singh and the H' ble Minister of Science and Technology, Prof.\nM.G.K.Menon. Prof. V.K.Gaur, the then Secretary, Department of Ocean Development\nguided us throughout the expedition. We are grateful to him for the concern, affection and\nguidance given to us during and after the expedition. His words were always a source of\ninspiration to the members. We are grateful to Prof. P.Rama Rao, Secretary and Shri\nJ.V.R.Prasada Rao, Joint Secretary, Department of Ocean Development for their sustained\ninterest in the expedition and guidance. The senior officers at the Department of Ocean\nDevelopment — Shri M.M.K. Sardana, Joint Secretary, Sarvashri G.B. Mukerji and\nH.P. Rajan, Directors and Cdr. P. Sayal, PSO gave unquestioned support and valuable\nadvice. The logistic support rendered by Sh. P.S. Singh and members of OD-I Section was\nalways available ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Introduction Of Publication",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:04.224263Z"
+  }
+}

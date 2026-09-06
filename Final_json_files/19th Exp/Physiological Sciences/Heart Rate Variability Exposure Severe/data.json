@@ -1,0 +1,72 @@
+{
+  "id": "article_16",
+  "document_id": "NCPOR-E12A83",
+  "source_file": "ARTICLE+16.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/582/3/ARTICLE+16.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+16",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 223-238 \nHeart Rate Variability on Exposure\nto Severe Gold at Antarctica\nK. Harinath, A.S. Malhotra, Karan Pal, R. Prasad, and R.C.  Sawhney\nDefence Institute of Physiology and Allied Sciences, Timarpur, Delhi\nAbstract\nAn attempt has been made to evaluate Heart Rate Variability (HRV) as a reliable index for\nsympathetic and parasympathetic components of the autonomic nervous system response\nduring the course of acclimatization to severe cold at Antarctica. Two groups (10 each) of\nhealthy men in the age group of 2344 years participated in the study. Group A consisted of\nfresh inductees to Antarctica for conducting scientific research during austral summer. Group\nB consisted of winter team members who had already completed 14 months of stay at Antarctica.\nThe HRV experiments were conducted at New Delhi; and on 7\nth\n, 30\nth\n and 60\nth\n day of stay at\nAntarctica. The HRV was measured as spectral components of low frequency (LF) 0.04-0.05\nHz, related to sympathetic activity and high frequency (HF) 0.15-0.50 Hz due to vagal efferent\nactivity and the sympathovagal balance as LEVHF ratio. The results showed a significant increase\n(P<0.05) in heart rate (HR), systolic blood pressure (SB) and diastolic blood pressure (DBP) at\nsupine rest as well as to standing on 7\nth\n day and showed a decline on 30\nth\n and 60\nth\n days of stay\nat Antarctica. When compared to winter team, the HR, SBP and DBP were not significantly\ndifferent in supine position however, the SBP and DBP response to standing was significantly\nhigher (P<0.05) in winter team. The skin temperature (SKT) showed a significant decline\n(P<0.05) on 30\nth\n day and remained low on 60\nth\n day of stay; however, it was not different\nbetween the groups. The LF response to orthostatic challenge showed significant increase\n(P<0.01) on 7\nth\n day but showed decline on 30\nth\n day and 60\nth\n day. The HF power also showed\na significant decline (P<0.05) on 7\nth\n day in supine position but was not altered with the change\nin posture. However, it was not different between the groups. The LF/HF ration in supine as\nwell as in standing position showed a significant increase (P<0.01) on 7\nth\n day and fell during\nrest of the stay period. The LF/HF ratio of the winter group also showed a significant (P<0.05)\nincrease in supine position as compared to summer, whereas, the response to standing position\nwas not significantly different. The observations suggests that continuous cold exposure to\nAntarctica (at least for eight weeks) results in attenuated sympathetic tone which, may lead to\na gradual shift in the automatic balance towards parasympathetic dominance, which is likely to\nbe responsible for increased cold tolerance and prevention of cold injuries.\nIntroduction\nAcclimatization to cold is one of the important physiological\nmechanisms for men to achieve adequate w ork performance without\ndeveloping cold injuries at Antarctica (1-3). To tolerate such stressful\n224 K. Harinath et al. \nenvironment, the efficiency of cardiovascular regulatory mechanisms s u c h\nas autonomic nervous system (ANS) is of particular importance (4). T h e\ncondition of stress either of physical or psychological origin is first\nregistered by central nervous system resulting in activation of t h e\nsympathetic nervous system (SNS). The stimulation of SNS in response\nto stressful stimuli is an essential component to cope with challenge, which\nis crucial for the survival of the organism (4).\nProlonged exposure to moderate cold or intermittent exposure to very\nsevere cold has been shown to induce cold acclimatization in rats (5-7).\nExtensive studies conducted on primitive men who were habitually exposed\nto severe cold without adequate clothing suggested the possibility of c o l d\nacclimatization in such a population. They had developed certain\nphysiological mechanisms to cold as well (8-11). Korean women divers\nwho have dived in cold waters are another example of cold acclimation\n(12). It has been shown that humans have an extraordinary ability to adapt\nto any stressful environment (13) and prolonged exposure to cold stress\nresulted in altered responses which may be categorized as adaptation,\nacclimatization, conditioning, habituation or tolerance (14-17). Though\nthese regulatory responses are well known to occur, the precise mechanism\nare not yet understood. The consensus of opinion is that people become\nacclimatized provided they allow their bodies to be exposed to c o l d\nperiodically.\nSpectral analysis of HRV is a convenient method of a non invasive\nassessment of the mechanisms involved, especially the ANS. HRV depends\non the sympathetic-parasympathetic balance, adjusting HR to changing\nenvironmental factors (18-20). The influences of the sympathetic and\nparasympathetic innervation on modulation of the heart rate are quantified\nby the power of the heart rate variability spectrum i",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "6]Physiological Sciences",
+    "subcategory": "Heart Rate Variability on Exposure to Severe Cold at Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:36.946152Z"
+  }
+}

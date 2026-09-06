@@ -1,0 +1,72 @@
+{
+  "id": "overview",
+  "document_id": "NCPOR-772C91",
+  "source_file": "Overview.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1078/1/Overview.pdf",
+  "bibliographic": {
+    "title": "Overview",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "An Overview of the 27th Indian Antarctic Expedition         xv\nAn Overview of the 27th Indian Antarctic Expedition\nArun Chaturvedi\nLeader & Station Commander\nThe 27th Indian Antarctic Expedition was flagged off from V asco,\nGoa o n 6th December 2007, by Dr. P.S. Goel, Secretary, Ministry of\nEarth Sciences (MoES); in the presence of Dr. Rasik Ravindra, Centre\nDirector, NCAOR. The expedition team had 61 members; 26 for the Polar\nWinter, and 35 for the Polar Summer. It was an all-male expedition-team.\nSummary of the Voyage: Some of the members, with longer duration\nscientific experiments and logistic tasks, had taken earlier DROMLAN\nflights from Cape Town (South Africa) to Antarctica, in November 2007;\nthe remaining members of the team boarded the ship MV Emerald Sea at\nGoa.\nThe Scientific experiments and logistic tasks were planned in two\ndistinctly separate regions— first at Indian Antarctic Station Maitri and its\nsurrounding area; and the other at the new site selected for the third Indian\nAntarctic station, on Bharati Island in Larsemann Hills area. Since both\nthe locations are about 3000 km apart; the work-plan was to finish the\ntasks at Maitri, as early as possible, and then to leave the ship for Larsemann\nHills area quickly. The Leader of the Expedition (Arun Chaturvedi) was to\nstay back with the Winter team at Maitri; while Shri Ajay Dhar was declared\nthe V oyage Leader for Larsemann Hills work, and he was to return to India\nwith the Summer team.\nThe ship had left Goa, India on 6th December 2007. After almost a\nmonth, it reached the coastal area near India Bay on 3rd January 2008. The\nteam worked furiously at Maitri between 3 Jan – 14 Feb; and then on 15th\nFebruary 2008 the ship left India Bay. After about ten days of sailing, the\nship arrived at Larsemann Hills coast on 24th February 2008 and the team\nworked at the new station site on Bharati Island and its surrounding area.\nAfter finishing all the tasks, the ship left Larsemann Hills area on 9th March\nand the Summer team reached back Goa on 11th April 2008.\nScientific Objectives: The team had a participation from 19 different\nscientific organizations— various Govt. Departments, Research Institutes\nand Universities. These were— National Centre for Antarctic and Ocean\nResearch (NCAOR), Geological Survey of India (GSI), Indian Institute\nof Geomagnetism (IIG), India Meteorological Department (IMD), National\nPhysical Laboratory (NPL), National Geophysical Research Institute\nxvi                                                   Arun Chaturvedi\n(NGRI), Snow and Avalanche Study Establishment (SASE), All India\nInstitute of Medical Sciences (AIIMS) , Birbal Sahni Institute of\nPalaeobotany (BSIP), Survey of India (SOI), Shriram Institute of Industrial\nResearch (SIIR), Zoological Survey of India (ZSI), National Hydrographic\nOffice (NHO), Space Physics Laboratory (SPL), Indian Centre for Space\nPhysics (ICSP), Barkatulla University (BU), Viswa Bharati (VU), Avadh\nUniversity (AU), Nicholas Piramal Research Centre (NPRC). All the\norganizations, barring the last two, have submitted scientific papers about\nthe work carried out by them in Antarctica. These papers have been included\nin this Report.\nIt is worth emphasizing that the team got just 42 days’ of summer\ntime at Maitri; and even within this period, about 13 days were lost to\nblizzards and high winds. Thus, within the constraint of just one month’s\nworking time, the team achieved almost all the scientific objectives, which\nis quite creditable.\nThe summer team at Larsemann Hills got only 14 days of total time\nand finished all the listed scientific work satisfactorily; this was\nmeticulously planned and supervised by Shri Ajay Dhar.\nDuring the wintering period, one major achievement was depth-\nprofiling of frozen lakes of Schirmacher Oasis by using the GPR. This\nwork was done during the peak polar winter, by taking PB-vehicle tracked\nGPR to extremely difficult areas. Thus Indian scientists have brought out\nthe first-ever depth-data from even the inaccessible epi-shelf lakes of\nSchirmacher Oasis. This work has demonstrated the sub-shelf channel\nconnection of these lakes to the high tides of the Southern Ocean (Photo-\n1).\nLogistic Objectives: Apart from the routine logistic necessities of\nevery Antarctic Expedition, like— shifting of all fuel, supplies, equipment\nto Maitri station and back-loading the cargo of the previous team; this\nExpedition had four major logistic objectives:\n1. Construction of an Earth Station at Maitri, to link Indian Antarctic\nStation to India.\n2. Construction of a new eco-friendly Toilet & Bath Complex at\nMaitri, as desired by the Hon’ble Minister during his Antarctic visit\nin February 2005.\n3. Preparatory work at Bharati Island, the new Antarctic station\nsite in Larsemann Hills.\n4. Testing a new policy-decision of all Logistic Maintenance and Coastal\nConvoys to be done by Contract Employees and Veh/Mechs of\n                           An Overview of the 27th Indian Antarctic Expedition       ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "An Overview of the 27th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:11:45.643224Z"
+  }
+}

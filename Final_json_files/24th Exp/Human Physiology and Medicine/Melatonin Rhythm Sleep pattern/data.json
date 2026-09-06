@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_23a",
+  "document_id": "NCPOR-05F447",
+  "source_file": "RRChapter-23A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/965/1/RRChapter-23A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-23A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "HUMAN PHYSIOLOGY\nAND MEDICINE\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 327-337\nMelatonin Rhythm and Sleep Pattern in Antarctica\nMoushum Bhattacharyya and Dhurjati Majumdar\nDefence Institute of Physiology and Allied Sciences\nLucknow Road, Delhi-110054\nABSTRACT\nMelatonin rhythm and sleep pattern of 6 wintering members of the XXIV\nIndian Scientific Expedition to the Antarctica were investigated during the entire\nperiod of journey and stay at Antarctica. The study was carried out at three different\ngeographic locations. Baseline data collection was carried out in November 2004\nat Delhi, India, before departing for Antarctica. On board ship, in December 2004\nsoon after entering the Antarctic Circle and at Maitri (latitude 70° 45’ S, longitude\n11° 44’ E) from January 2005 to January 2006. Melatonin was estimated from\nsaliva by ELISA method and sleep was assessed polysomnographically. A consistent\ndelay in the melatonin acrophase was observed during the dark winter months.\nThe mesor of this hormone showed a maximal increase in the midwinter month of\nJune. Polysomnographic recordings of sleep pattern showed a decrease of TST, an\nincrease in sleep latency mainly in the initial summer month, increase in WASO,\ndecreased sleep efficiency, significant reduction in slow wave sleep (stage 3 & 4)\nand significant increase in stage 1 and 2 and REM sleep during the dark winter\nmonths. It was concluded that the changes in circadian rhythm of melatonin secretion\nin Antarctica might be due the altered photoperiodic conditions. Reduced physical\nactivity and increased sensory information input during winter might have\ncontributed to the decreased deep sleep and increased REM sleep.\nINTRODUCTION\nDisturbances in sleep, mood, behaviour and biological rhythms are\nsome of the frequent complaints amongst over-wintering expeditioners of\nthe Indian Antarctic Expedition (IAE). Potential disturbances in sleep and\ncircadian rhythmicity in an Antarctic environment which results in\nconsequent decrements in performance efficiency and well being of\nexpedition members are a major concern (Gunderson EKE, 1963; Taylor,\n1960; Shurley et al., 1970; Joern et al., 1970; Palinkas et al., 2000).\nSynchronized body functions with a 24 hr (circadian) periodicity are critical\nfor the maintenance of internal physiological harmony. Environmental and\n328 Moushum Bhattacharyya and Dhurjati Majumdar\nsocial cues are known to regulate the endogenous circadian rhythmicity of\nhuman beings. The neurohormone melatonin released from the pineal gland\nin close association with the light-dark cycle is known to be involved in\nregulating sleep and circadian rhythms. Melatonin is considered to provide\nthe best estimate of circadian rhythm phase. Seasonal variation of mood,\nearly morning awakening and sleep disturbances are linked with circadian\nrhythm function. When desynchronisation between external and internal\nclock occurs, the temporal orchestra of the human physiological system\ncan quickly get out of tune (Dijk and Cajochen, 1997; Krauchi and Wirz-\nJustice, 2001; Cajochen et al., 2003; Armstrong, 1989). It has been reported\nthat altered photoperiodic conditions in Antarctica affects the circadian\nmelatonin rhythm (Broadaway and Arendt, 1988; Broadaway et al., 1987;\nKennaway and Van Dorp, 1991; Yoneyama et al., 1999), which is known\nto influence sleep, mood, behavior and other human biological rhythms. It\nis in this context that the present study was undertaken to find out whether\nthere is any change in the circadian rhythm of melatonin secretion and\nsleep pattern of tropical Indian expeditioners, who are mostly unkown to\nthe alien Antarctic environment of altered photoperiod and prolonged\nisolation and extreme cold.\nMETHODOLOGY\nLocations : The observations were made at three locations. Baseline data\nwere collected in Delhi, India in November 2004 before departing for\nAntarctica. The next set of data were collected on board the ship, in\nDecember 2004 soon after entering the Antarctic Circle and the third set of\ndata at Maitri, Antarctica (latitude 70° 45’ S, longitude 11° 44’ E) from\nJanuary 2005 to January 2006.\nSubjects : The study was carried out on 6 wintering members. Their mean\n(SEM) age, height and weight were 35.7 (2.32) years, 168.3 (2.37) cm and\n71.0 (1.88) kg, respectively. Subjects were briefed about the experimental\nprocedures prior to the commencement of the study. None of the subjects\nsuffered from any circadian rhythm or sleep disorder problem on mainland\nprior to their departure for Antarctica.\nMelatonin Estimation : Melatonin was estimated from saliva collected at\n8 time points (1100 hr, 1500 hr, 1900 hr, 2300 hr, 0100 hr, 0300 hr, 0700 hr\nand 1100 hr on the next day) over a of 24 hr period for each subject, at\nDelhi, onboard ship and at Antarctica on every month from Januray 2005\nto January 2006. Samples were pretreated and assayed using Direct Saliva\n329Melatonin Rhythm and Sleep P",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "5] Human Physiology and Medicine",
+    "subcategory": "Melatonin Rhythm and Sleep pattern in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:55:03.362328Z"
+  }
+}

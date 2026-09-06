@@ -1,0 +1,72 @@
+{
+  "id": "article_7",
+  "document_id": "NCPOR-B79E98",
+  "source_file": "ARTICLE+7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/570/4/ARTICLE+7.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+7",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 65-82 \nStudy of Snow-Met Parameters\nAnd Estimation of Surface Energy Budget\nOver Continental Shelf\nThrough Ground Based Observations\nPartap Singh Negi and Mahender Kumar\nSnow & Avalanche Study Establishment, Manali\nObjectives\nTo measure\n• Snow-met parameters over continental shelf\n• Albedo values over continental shelf\nComponents of surface energy budget over continental shelf\n• Estimation of net surface energy fluxes over the continental shelf\nMicrostructural Analysis of Different Snowllce Medium in\nAntarctica\nIce sample and study area : Near coastal blue-ice region\nMean crystal size in the surface layer and their spatial distribution within\nthe study area.\n• Effect of slope variation on the mean crystal size\n• Depth density profile and crystal size variation with depth in near\nsurface ice core stratigraphy\nTo estimate the energy budget of continental ice, SASE has installed\none AWS near the \"Sankalp Point\", that is approximately 6 km form Maitri\nstation. This year the AWS was re-installed and renovated.\nThe following Sensors were mounted on the AWS : \n1. Albedo meter\n2. Anemometer\n3. Dry bulb temperature\n4. Wind direction\n5. Relative humidity\n66 Partap Singh Negi and Mahender Kumar \n6. Maximum temperature\n7. Minimum temperature\n8. Wind speed\nInstallation of Observatory Over Shelf-Ice Near Dakshin Gangotri\nTo estimate the energy budget of continental shelf SASE installs snow-\nmet observatory near Dakshin Gangotri every year. This observatory is\ninstalled for the austral summer only because during winter no one stays  a t\nthis location.\nThe various instrument required and installed for the observatory are:\n1. Pyranometer\n2. Hand held cup type anemometer\n3. Dry bulb thermometer.\n4. Dial gauge thermometer\n5. EPR recorder.\n6. Battery 12V 88AH\n7. Digital Pressure displayer.\nSnow Met Data Collection for Estimation of Energy Budget o v e r\nContinental Shelf at Dakshin Gangotri\nThe following parameters were measured, from the observatory, set\nup near Dakshin Gangotri during the austral summer of 1999-2000:\nFig. 1: Indian Base in Antarctica 'Maitri' \nStudy of Snow-Met Parameters and Estimation of Surface Energy....  67\n• Solar radiation\n• Snow surface temp.\n• Ambient temp.\n• Wind speed\n• Pressure\n• Albedo\nMeasurements of snow-met data for estimation of  surface energy\nbudget includes net radiation, wind speed, air temperature, s urface\ntemperature and pressure. All the snow-met data were collected on hourly\nbasis. The net radiation is sum of net short wave radiation and net long\nwave radiation. The net short wave radiation is the difference between the\nmeasured incoming solar radiation and the measured reflected solar\nradiation. The long wave radiation was calculated from the model. The\nincoming and reflected radiations were measured with tw o precision\npyranometers, one facing upward and other downward. These instruments\nhave a nominal sensitivity of 7-8 V/Wm\n-2\n. They have a flint glass double\ndome with excellent transmission characteristic for solar radiation in the\nwave length range 0.3-3 m. This instrument was kept at a height of 1.5m\nabove a flat snow/ice surface so that cosine error can be minimized. An\nEPR Recorder was used to record incoming and outgoing radiation on a \nthermal chart. The measurements of one-hour intervals were taken for the\ncalculation of Albedo. Spot wind speed was measured with a hand held\ncup type anemometer. Atmospheric pressure was measured with a digital\nbarometer. The Air temperature was measured with a dry bulb thermometer.\nThe surface temperature was measured with dial gauge thermometer having\na measuring range of -50°C + 50°C. Surface temperature has been found\nFig. 2: Ice class logistic vessel provided far XIX IAE \n68 Partap Singh Negi and Mahender Kumar \nvery important parameter for estimation of\nenergy budget of snow/ice surface. Cloud\namount and cloud types were observed\nevery one hour interval during the\nobservation period.\nThe surface energy balance:\nThe energy available on snow/ice\nsurface is obtained from the following\nequation\nFig. 3: AWS Continental ice \nQ = S\nw\n + L\nw\n + Q\nh\n + Q\ne+\nQ\nm\n+Q\ng\n ...(1)\nWhere Q is the net surface energy budget, S\nw\n is the net short-wave radiation\nflux, L\nw\n the net long wave radiation flux, Q\nh\n and Q\ne\n are the sensible a n d\nlatent turbulent heat fluxes respectively. Q\nm\n and Q\ng\n are advected heat flow\n(mass transfer due to rain/snow) and heat exchange and snow-ground\ninterface respectively. The last two terms on right hand side of the Equation.\n1 are negligible components in daily energy balance of a surface when\ncompared to the other terms.\nTherefore, neglecting the last two terms the net change in energy\nstorage at the snow/ice interface is given as:\nQ = S\nw\n + L\nw\n + Q\nh\n + Q\ne\n ...(2).\nThe surface of first two terms on the right hand side of the Equation\n2 gives net radiation components and the su",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 18
+  },
+  "taxonomy": {
+    "category": "2]Earth Sciences",
+    "subcategory": "Study of Snow-Met Parameters and Estimation of Surface Energy Budget Over Continental Shelf Through Ground Based Observations",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:03.432320Z"
+  }
+}

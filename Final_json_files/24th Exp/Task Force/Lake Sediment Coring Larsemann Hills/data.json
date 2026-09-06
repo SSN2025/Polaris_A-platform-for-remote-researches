@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_28a",
+  "document_id": "NCPOR-8F8B91",
+  "source_file": "RRChapter-28A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/970/1/RRChapter-28A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-28A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "369Lake Sediment Coring in the Larsemann Hills, Ingrid Chirstensen.....\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 369-370\nLake Sediment Coring in the Larsemann Hills, Ingrid\nChirstensen Coast, East Antarctica\nMihir K. Dash and Comdt M. Shrivastava*\nNational Centre for Antarctic & Ocean Research, Vasco-Da-Gama, Goa\n*Indian Coast Guard, V asco-Da-Gama, Goa\nAntarctica is scientist’s paradise. The past climate has been preserved\nin its pristine condition in Antarctic environment. Harsh and inhospitable\npolar climate made it difficult to make extensive observations in this icy\ncontinent. Shortness of meteorological record from occupied stations and\nAWSs can potentially be extended through the use of proxy data derived\nfrom different sites across the Antarctic. The core provides information on\nthe aspect of climate at the drilling site.\nDifferent regions of Antarctic behave differently to the climate change.\nKeeping the above in mind we retrieved two cores from different region of\nthe Antarctic, (i) a glacial lake near Maitri and (ii) from a saline lake near\nDavis.  This report gives a detailed description of the retrieval of the second\ncore.\nThere are 12 lakes in the area (after GSI-2005). It was observed that\nall lakes but for L-7 were totally frozen and had rocky bottoms with low\nsediment supply from glaciers, possibility of getting sediment core was\nAttempting sediment core retrieval from a glacio-marine lake\n370 Mihir K. Dash and Comdt. M. Shrivastava\nremote. On our way to Davis some lakes with ample opportunity of sediment\ndeposition were sited. After surveying the Larsemann hills on 18\nth\n and 19\nth\nFebruary it was realized that coring was not possible. On 20\nth\n February we\nresumed the survey using helicopters towards Davis and two shallow- saline\nlakes at around 69° 24’ 02.3\" S & 76° 13’ 02.4\" E and 68° 37’ 26.7\" S &\n77° 58’ 14.6\" E were identified. The former totally frozen and the later\nappeared suitable for coring.\nThe lake sediments were collected using the NCAOR corer by\nrepeating the same technique as done before at Maitri; getting into the lake\nwith immersion suits on and hammering the corer through the sediments.\nThe sediment core –instate- along with corer was brought to the ship in\nundisturbed condition. It was kept at minus 20° C, for about four hours\nallowing the interstitial water to freeze in order to make sure that the\nsediment layers remain undisturbed while taking out the core. The core\nmeasuring 50+10 Cm, was successfully removed from the outer casing\nand stored at minus 20\no\n C in the deep freezer of m/v Emerald Sea.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "6] Task Force",
+    "subcategory": "Lake Sediment Coring in the Larsemann Hills, Ingrid Chirstensen Coast, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:55:06.185475Z"
+  }
+}

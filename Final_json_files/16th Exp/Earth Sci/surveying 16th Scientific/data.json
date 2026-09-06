@@ -1,0 +1,72 @@
+{
+  "id": "article_21",
+  "document_id": "NCPOR-DA8F6A",
+  "source_file": "ARTICLE+21.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/626/3/ARTICLE+21.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+21",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nA report on surveying in Antarctica during 16\nth\n Indian\nscientific expedition to Antarctica\nS.S. RAWAT & S.K. MEHTA\nSURVEY OF INDIA\nIntroduction\nEnvironmental danger to Priyadarshini lake by  the continuous flow of\nliquid waste materials into it from Indian summer camp necessitates the\nestablishment of an alternative summer camp set-up in a location such that it\ndoes not allow flow of seepage into the lake. In addition environmental concerns\nof DOD and the appreciable development in the scientific activites during earlier\nIndian Scientific Expeditions to  Antarctica necessitated the provision of\ngeodetic and geophysical control points around Indian Station, Maitri.\nAs a follow up, action a two member Survey Of India team participated in the\n16\nth\n Indian Scientific Expedition to Antarctica to carry out field survery for prepa-\nration of a site plan for new location of the summer camp on 1:1,000 scale with\none metre contour interval.\nObjectives\nThe following objectives were identified for Survery of India team during\nexpedition :-\na) Extension of planimetric and height control to the new site for an alternative\nsummer camp set-up in the vicinity of Indian Station, Maitri.\nb) Densification of the control at the above mentioned site.\nc) Preparation of a detailed contour map of the new site on 1:1,000 scale with\none metre contour interval.\nScientific operations\na) Reconnaissance \nA thorough reconnaissance was carried out for providing ground control\npoints. All points were unifromly distributed in the area of work such that height\nof any point could be computed with respect to them. Cairns were erected for\ncorrect identification of ground control points. However, traverse staves were\nused on main traverse stations.\nb) EDM Traverse : \nA traverse was started from two known points, viz, Maitri 'S' and TS-3\nestablished by SOI during previous expeditions and closed on the same points.\n336\nS.S. Rawat and S.K. Mehla \nWild T2 theodolite for anuglar measurement and DI3000S EDM instrument for\nlinear measurements were used.\nThereafter five sub-traverse lines were run to provide a mesh of 61 subsidiary\nground control points (Offsets).\nHorizonatal angles to main traverse stations were observed on both the faces at\ntwo different zeros and vertical angles were observed on both the faces. The\nagreement in the horizontal angles at two different zeros was kept within 10\nseconds. Horizontal angles to subsidiary ground control points (Offsets) were\nobserved on both the faces at one zero and vertical angles to them were observed\non both the faces.\nFor main traverse, five sets of distances were observed between traverse stations\nand their mean was accepted. For subsidiary control points (Offsets) one set of\ndistances was observed.\nc) Computations \nComputations of EDM traverse was carried out using standard method of com-\nputations with the help of scientific calculator.\nd) Detail and Contour Survey : \nThe plane table section was divided into regular girds and the ground control\npoints were plotted on it.\nIn all 61 fixings (plane table positions) were made to cover an area of 0.2 Sq km.\nThe heights of the fixings were always obtained form ground control stations\nand not from other deduced heights to maintain the accuracy of contours.\nAssistance to Other Scientific Teams\na) Norwegian Geodetic Team \nSurvey of India team assisted a Geodetic team of Norway in doing GPS\nobservations at Indian GPS station, Maitri 'S' with Ashtech GPS instrument.\nb) Geological Survery of India Team \nOn the request of the GSI team incharge & leader of 15th IAE-Shri Arun\nChaturvedi, 18 ground control points were established to enable GSI scientists to\ncontinue their study of D.G. Snout movement which they have been doing for\nthe last 8 to 9 years.\nc) Environmental Team \nOn the request of the Environment officer of 16\"' IAE-Shri Rasik Ravindra, Sur-\nvey of India team provided 37 ground control points around Priyadarshini lake\nfor environmental purposes.\nSurveying in Antarctica  337 \nd) Naval Hydrographic Team \nNHO scientists were assisted in operation of their survey instrument installed in\na container on shelf when they were away in their boat.\nRecommendations\nTechnical\na) At present, only Russian map on scale 1:25,000 of Schirmacher oasis is\navailable and it has its own inherent drawbacks and it is very difficult to decipher\non the ground. Therefore, Survey of India map of Antarctica on scale 1:25,000\nor larger, as required by the members, should be prepared, for which G.P.S. can\nbe used to provide topographical control.\nb) G.P.S. observations in kinematic mo'de may be used to prepare map of the\nconvoy route from berthing place of the ship at shelf to the dozer point at Maitri.\nc) Geodynamic study can be carried out in collaboration with some other country\nof Europe or Africa.\nConclusions\nAfter putting in our best e",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "4]Earth Sciences",
+    "subcategory": "A report on surveying in Antarctica during 16th Indian Scientific Expedition to Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:32.712974Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_18",
+  "document_id": "NCPOR-FDD059",
+  "source_file": "ARTICLE+18.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/220/3/ARTICLE+18.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+18",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian Expedition to Antarctica, Scientific Report, 1986 \nDepartment of Ocean Development, Technical Publication No 3. pp 243-248 \nA Study of Dakshin Gangotri Ice-shelf\nSatya S.  Sharma 1\nThe part of the ice shelf where Indian station Dakshin Gangotri is located forms part of an un-\nnamed ice-shelf. Snow studies pertaining to this ice-shelf, carried out during 1983-'85 and the\nstudies carried out in the past are described in this paper.\nDuring the period of study, the central part of this ice-shelf, where Dakshin Gangotri is located,\nexperienced severe blizzards and substantial amount of snow accumulation. The net snow accu-\nmulation in this region is 70 to 80 cm/year. This part is a fairly stable ice-shelf, the rate of flow of\nwhich is not very appreciable. Measurements on ice thickness, carried out in the past, indicate the\naverage thickness in the region of the station as about 390 m.\nINTRODUCTION\nThe area where Dakshin Gangotri  is located forms part of an unnamed ice-shelf. Some snow\nstudies pertaining to this ice-shelf have been carried out in the past (Korotkevich, 1978; Richter and\nStrauch, 1982). In order to understand further this shelf for planning future explorations, snow studies\npertaining to this shelf was taken up by the author during 1983-'85.\nGEOGRAPHICAL LAYOUT\nThe study area extends from 69°50'S to 70°45'S and 08°30'E to 13°E within Queen Maud\nLand. It has Fiambul ice-shelf on the west and an unnamed ice-shelf on the east. The complete ice-\nshelf, 150 km long with an average width of 70 km, runs along the Princess Astrid coast in a zigzag\nmanner. It is flat-topped having gradual southward ascent of approximately 80 m in 90 km from sea-\nedge to its point of origin at the foot of the Schirmacher Oasis. The total area of the shelf is about\n10,000 sq.km.\nThere is no station functioning at present on this shelf except the Indian station Dakshin Gangotri. \nThe other station, which earlier operated in this region is the USSR station Lazarev (69°59'S : 12°55'E),\nwhich was abandoned in early sixties.\nTOPOGRAPHY\nThe shelf originates from Schirmacher Oasis which extends from 11°49'E to 11°26'E with a \ntotal area of about 35 sq.km. This includes 27 sq. km of bedrock, 3 sq. km of lagoons, 3 sq. km of firm/\nice-fields and 2 sq.km. lakes. Due to the presence of many fresh water lakes the area of Schirmacher\nOasis has been named as Schirmacher lake district (Richter and Strauch, 1982). The depth of lakes\nin this region varies from 5 to 13 m with water availability practically throughout the year. The Soviet\nstation Novolazarevskaya is located in the Oasis at an altitude of 105 m at the foot of a glacier. The ice-\nshelf under study starts from the foot of the north wall of Schirmacher Oasis which can rightly be termed\n1 Research & Development Establishment (Engineers), Dighi, Pune.\nABSTRACT\n243\n244\nA STUDY OF DAKSHIN GANGOTRI ICE SHELF\nas the hinge point or the strand track area of the shelf. All along the southern edge of this shelf, there\nare large lakes having depths as much as 100 m. Prominent among these are lake Ozhidanrya with a \nmaximum depth of 105 m and lake Zigzag with a maximum depth 122 m. These lakes are permanently\ncovered with ice (Richter and Strauch, 1982). In this region, there are also some shallow fresh water\nseasonal streams running from west to east, which makes this area inaccessible for snow vehicles during\nsummer months. In addition, there are a number of crevasses covered by snow bridges during most\nof the year. The crevasses are surface fractures caused by movement of the shelf due to tidal waves\nabout the hinge point of the strand track region.\nIn the lower region of this shelf, near the coast, there are two high grounds permanently covered\nwith snow/ice which are named as Kurklaken and Leningrad kollen. The height of these features\nvaries from 50 to 100 m. The general layout of the shelf is shown in Fig 1.\nFig 1 Layout of Indian base in Antarctica\nTHICKNESS OF THE ICE SHEET\nMeasurements of ice thickness of the shelf taken in 1984-85 indicate that the thickness on\nthe seaward edge varies from 100 to 200 m out of which about 10 to 30 m is exposed above the sea\nlevel Korotkevich (1978). Carried out measurements of ice thickness towards interior of the shelf in\n1975 which is presented in table 1.\n______________________________________________________________________________________________________________________________\nLAYOUT OF INDIAN BASE ANTARCTICA\nSATYA S SHARMA______________________________________________________________________________________________________________________________\nTABLE 1 \nMeasurements of ice thickness in different locations \nVerma and Mittal (1985, personal communication) carried out measurements of ice thickness\nin the region of  Dakshin Gangotri  by seismic studies. Preliminary analysis of their studies suggest an\naverage thickness of 300 m.\nMOVEMENT OF THE SHELF\nNo factual data on rate of flow of the shelf are available. However, from the co",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "5]Enivironmental Studies",
+    "subcategory": "A study of Dakshin Gangotri ice-shelf",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:01.748496Z"
+  }
+}

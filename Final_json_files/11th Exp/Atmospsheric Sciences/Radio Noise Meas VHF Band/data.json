@@ -1,0 +1,72 @@
+{
+  "id": "115_119",
+  "document_id": "NCPOR-4636E8",
+  "source_file": "115-119.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/707/1/115-119.pdf",
+  "bibliographic": {
+    "title": "115-119",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "11] Scientific Report Eleventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Radio Noise Measurement in HF/VHF Band at Antarctica \nCalcutta. \nEleventh Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development Technical Publication No. 9, pp. 115-119 \nS.K. DATTA \nInstitute of Radiophysics aid Electronics \n92, A.P.C.Road, Calcutta - 700 009 \nAbstract. \nLong distance communication from Antarctica is heavily dependent on HP propagation \nwhich, in turn, is influenced by local and non-terrestrial noise levels. Present study shows \nthat local noise level in Antarctica is much less as compared to latter. The study has been \nconducted keeping in background the noise level at different frequencies in a city like \nto be severely affected in Antarctica. For long distances HF mode is still \nconsidered as the easiest way of communication. For local-communication at \nAntarctica, VHF remains the only solution. In Antarctica, the performance of \na VHF walkie-talkie, which can maintain communication within about 15 kms \naerial distance in a city like Calcutta; becomes so poor that it fails to maintain \ncommunication sometimes even between points just 2 kms apart. In principle, \nperformance of a communication system is controlled grossly by radio noise \nlevel of tie location of operation. Radio noise is generated from different \nsources. One is man-made noise which originates mainly from most electrical \ninstruments. Any spark or loose contact in an electrical instrument can develop \nstrong radio noise in that locality. Other sources of noise are the stars, Sun, \ngalaxies, etc. from which radio noise are showered on the earth. Man-made \nnoise could be' reduced to some extent by ensuring proper shielding of the \ninstrument producing the noise. We, however, do not have any control over the \nnon-terrestrial noise. So the local noise and terrestrial noise together influence \nand receiver performance, actual noise level prevailing around Maitri station \nin Antarctica is taken into account. \nthe communication. To understand the mechanism of  in transmitter  degradation\nThe performance of communication systems in HF and VHF bands is \nfound \n116 \n :  2\n 30\n :  8\n :\n :  7.\nAll electrical  waveforms  or  signals  are  composed  of  a combination  of \nsinusoidal  signals  of  varying  amplitude  and  frequencies.  The  combination  of \nsine waves  can  be  observed  in  the  frequency  domain  with  the  spectrum \nanalyser.  A  spectrum  analyser  permits  observation  of  the  amplitudes  and \nfrequencies  of  various  discrete  sinusoidal  signals  during  the  measurement \ninterval,  the  vertical  scale  being  the  amplitude  scale  and  the  horizontal  axis \nbeing the frequency  axis. The spectrum  analyser  used for the measurement  has \nfollowing  specifications: \n :  Advantest,\n :  lOKH\n :\n :\n :\n :\n :\n :\n :\n :\nS.K. Datta \nExperimental set-up \nLower frequency range 0 MHz \nHigher frequency range 0 MHz \nAntenna gain  dB \nTotal number of elements  13 \nBoom length 6 metres \nMale  USA. . \nRange z - 4.5 GHz \nModel  TR 4110 \nSensitivity  -150 dBm \nResults \nThe atmospheric radio noise level has been studied from 2 January to 14 \nFebruary, 1992 from 0500 to 2300 at suitable intervals. Fig 1 (a) and Fig 1(b) \nshow the distribution of locally transmitted signal of 4 MHz and 18 MHz, \nrespectively, which appear in the photograph as high peaks. Small peaks are \nthe associated noise close to those frequency spectrum. A table below shows \nRadio noise at low frequencies were measured by means of dipole anten-\nnas. Two dipoles were used, one to cover 1-10 MHz and another to cover 10-20 \nMHz frequency bands. For higher frequencies, log periodic antenna is most \nsuitable for receiving wide band signals. Therefore, a similar antenna was \nemployed to measure the noise level around Maitri station. A log periodic \nantenna of 8 dB gain was developed by computer aided design software written \nby the author. The antenna was fabricated with aluminium pipes and channels \nof standard dimensions that are readily available in market. The design speci-\nfications are siven below: \nRadio Noise Measurement in HF / VHF Band \n117 \n(a) \nFig 1:Photograph showing distribution of locally transmitted signals at Maitri, \nAntarctica - a) of 4 MHz and b) of 18 MHz frequency. \nthe results of continuous observation of radio noise around Maitri station. \nSeveral noise peaks at 4,12, 14,16, 17.6, 18, 22 MHz were noticed for which \n4 and 18 MHz were identified to be the signals transmitted from Maitri station \nfor communication with India. The communication links were used, at certain \ntimes of the day. Other sources of the signals were not known. However, there \nis a possibility that neighbouring Russian and German stations were the source \nfor other signals. Different noise mean levels were found at different frequency \n\n118 S.K.Datta \n* \nfrequencies \nranges which remained almost same throughout the observation period. These \nare listed below as mean levels : \nFrequency in MHz\nMaitri  Calcutta \nNoise peaks: \n4.0\n12.0\n14",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "2]Atmospsheric Sciences",
+    "subcategory": "Radio Noise Measurement in HF_VHF Band at Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:39.395208Z"
+  }
+}

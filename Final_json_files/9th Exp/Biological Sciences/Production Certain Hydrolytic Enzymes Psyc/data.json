@@ -1,0 +1,72 @@
+{
+  "id": "article_8",
+  "document_id": "NCPOR-4D5D6D",
+  "source_file": "ARTICLE+8.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/349/3/ARTICLE+8.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994\nDepartment of Ocean Development, Technical Publication No. 6, pp. 107 114 \nProduction of Certain Hydrolytic Enzymes by Psychrophilic\nBacteria from the Antarctic Krill, Zooplankton and Seawater\nN. RAMAIAH\nBiological Oceanography Division, National Institute of Oceanography, Goa\nAbstract\nPsychrophilic bacteria isolated from krill, zooplankton and water samples collected in the Indian\nOcean Sector of Southern Ocean during the Ninth Indian Expedition (1989-1990) were enumerated\nand several strains subjected to various biochemical tests. Presence of different enzymes was exam-\nined from about 500 of these strains. Bacterial numbers were the highest in the krill gut samples;\nmoderate on zooplankton surfaces and low in water and the ice samples. Pseudomonas, V ibrio.\nChromobacterium, Aeromonas, Acinetobacter and Moraxella were the genera among the Gram-\nnegative organisms. Nearly 8% of the isolates were Gram-positive and over 15% were unidentifiable.\nNotably, the bacterial strains collected from zooplankton were found to possess large number of\nhydrolytic enzymes compared to those strains collected either from water or krill samples. Based on\nthese results, the functional role of bacterial enzymes in relation to trophodynamics of euphausiids and\ntheir role in the post-harvest technology of krill is discussed.\nIntroduction\nOur understanding of bacterial processes in  the Southern Ocean has radically changed\nover the last few decades. The contentions of earlier investigators were that bacteria would\nstrongly be inhibited by low temperatures and that oxidation of  dissolved organic matter\nwould be  extremely low. However, recent application of new enumeration and assay\ntechniques in the Southern Ocean ecological studies has highlighted the presence of various,\nhighly active and abundant bacterial communities in al l the available  ecological niches\n(Hanson  et al.,  1983) and microbial heterotrophy is now recognised as an important\npathway of. Carbon and  energy transfer (Hempel, 1985: Holm-Hansen, 1985 and Tanner,\n1985). Although there can be no doubt that krill pervades the foodweb of the maritime\nAntarctic ecosystem, the trophic structure of marine communities in this system appears to\nbe more complex (Hopkins, 1985 and Vincent, 1988) than earlier views would suggest.\nOxidation and biotransformation of organic debris derived from the krill moults and fecal\npellets by the  bacterial communities is an important aspect in the trophodynamics of the\nSouthern Ocean. T anoue and Hara (1986) proposed two new  pathways of  organic material\none of which is a new foodchain including nonliving  particulate + dissolved organics + \nbacteria - choanoflagellate - krill - vertebrate. Much of the current interest with the krill,\nEuphausia superba is for its exploitable resource potential. Hence, microbiological studies,\nin this regard, attain greater importance primarily in the understanding of nutrient regenera-\n108 N. Ramaiah \ntion within the Antarctic marine systems and also in the post-harvest handling of krill as the\nbacterial enzymatic activities can be detrimental to the quality of processed products.\nVery few microbiological  studies are available from the Indian Ocean s ector of the\nSouthern Ocean. Since the knowledge of distribution of bacteria in different niches is\nnecessary to gain valuable insights on their ecological role, the present study was undertaken\ni) to examine the quantitative distribution pattern of bacteria in the water column, sea-ice,\nkrill and zooplankton; ii) to characterise biochemically some of the str ains isolated from\nthese samples; and iii) to record the pattern of extracellular enzyme production in these\nstrains with a view to assess their role in nutrient regeneration as well as in the spoilage of\nkrill.\nMaterials and Methods\nWater, krill and zooplankton samples were collected from five different sampling\nstations located between 65°S and 45°S in the Indian Ocean sector during the return voyage\nof the Ninth Indian Scientific Expedition (1989- 90). Water samples were collected from 6 \ndifferent depths using modified JZ-bacteriological samplers. Zooplankton and krill were\ncollected by hauling the Heron-Tranter net both horizontally and vertically upto a depth of\n200 m.\nViable populations of bacteria from several water, ice, zooplankton and krill s amples\nwere enumerated on the seawater nutrient agar or Zobell marine agar. Standard microbio-\nlogical methods such as a) membrane filtration technique for counting bacterial cells in\nseawater and ice samples and b) serial dilution and spread plate techniques for enumerating\nbacteria from zooplankton, body surfaces of krill, whole krill homogenates as well as\nbacteria in the alimentary tracts of krill were followed. All plates were  incubated at\nrefrigerated temperature (5°C) for 10 days, checked periodically for growth and viable\ncounts recorded. Total direct counts of bacteria from the wat",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "4]Biological Sciences",
+    "subcategory": "Production of Certain Hydrolytic Enzymes by Psychrophilic Bacteria from the Antarctic Krill, Zooplankton and Seawater",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:14.694126Z"
+  }
+}

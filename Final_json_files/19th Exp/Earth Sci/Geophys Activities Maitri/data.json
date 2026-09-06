@@ -1,0 +1,72 @@
+{
+  "id": "article_5",
+  "document_id": "NCPOR-CD3F6D",
+  "source_file": "ARTICLE+5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/568/3/ARTICLE+5.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 41-45 \nGeophysical Activities at Maitri, Antarctica\nY.V.V.B.S.N. Murty\nNational Geophysical Research Institute, Hyderabad.\nNational Geophysical Research Institute, a premier laboratory under the\nCSIR, is carrying out two scientific projects in Antarctica:\nA. Seismological Observatory at Maitri\nB. Permanent GPS tracking station at Maitri\nA. SEISMOLOGICAL OBSERVATORY AT MAITRI,\nANTARCTICA\n1. Introduction\nAntarctica is one of the stable continents in the world. Seismic activ-\nity is very low and the modern crustal deformation is highly precise. Only\nten earthquakes with magnitudes 4.1 ~ 4.9 were located by the world wide\nseismic network in stable Antarctica during last three decades. In order to\nmonitor the seismic activity in Antarctica and Indian ocean, a reconnais-\nsance survey for site selection and the feasibility of operation of seismo-\nlogical observatory in Antarctica was initiated during the 16\nth\n expedition,\nin January-February 1997. A permanent Digital Seismological Station has\nbeen installed during the 17\nth\n expedition. The station was fully commis-\nsioned on 26\nth\n January 1998.\n2. Objective\nThe establishment of the seismic station with high-resolution digital\nseismograph station as well as analog seismic recorder is intended to moni-\ntor the seismic activity within Antarctica. The station also aims at monitor-\ning of teleseismic activity as well as the activity in mid oceanic ridge in the\nIndian Ocean. Data exchange with other stations besides participating in\nthe global earthquake epicentral determination is envisaged.\n42\nY.V.V.B.S.N. Murty \n3. Methodology and Results\nA special thermally insulated vault was designed and fabricated by R \n& D Engineers, Pune of DRDO. An underground pit has been dug and the\nvault was buried in that pit. An electronically controlled temperature de-\nvice has been installed in the seismic vault, which maintains the inside\ntemperature at 170+/-2 det. Celsius. Recording of the data is done in the\n\"Tirumala\" hut. Digital data acquisition system (REFTEK) is connected to\nthree S-13 short period seismometers (of Teledyne Geotech). A GPS clock\nhas been attached for accurate time keeping. Three component digital data\nis collected @50 samples /sec. A vertical component analog record (S-13\nof teledyne Geotech) is also being operated simultaneously. R ecording is\ndone with ink on RV320R Portacorder. Drastic changes in temperatures\ninside the hut were observed during previous winters. To prevent damage\nto equipment wooden partition was erecte d during this winter, inside the\nhut due to which temperature within the hut was maintained above 15° C \nthroughout the winter, using only two heaters.\nNew software SEISAN has been installed in the computer for analy-\nsis of the Digital Data. Preliminary analysis of both the digital and analog\nrecords is done regularly. Management of data is done using FOXPRO\nprograms, written by th e project member. The phase data for the period\nFebruary 2000 to May 2000 was sent to NGRI, Hyderabad and USGS.\nLater due to the problems with email facility, data exchange could not take\nplace. Epicentral data for the months of January and February 2000 were\nreceived from NGRI through FAX. Final analysis of the data for the month\nof January 2000 is in progress. The station recorded more than 400 earth-\nquakes during the wintering period. Most of the earthquakes are teleseismic.\nFew regional earthquakes with its epicenter in Indian Ocean were recorded.\n4. Highlights\nThe observatory is running satisfactorily without any interruption till\ndate. Seismic data acquisition, storage and analysis is going on uninter-\nruptedly with desired precision. More than 400 earthquakes from different\nazimuths, distances and of varied magnitudes are recorded. Daily 16 MB\nof digital data is generated and the data is stored on tapes on a weekly basis.\nAt the end of every month, data is stored on compact disks also after con-\nversion to archive format. In all about 6 GB of digital data is generated and\nstored for further analysis.\nTwo tremors were recorded on March 25, 2000 from a distance of\nabout 500 km. One tremor (3.5 MD) was recorded on December 22, 2000\nfrom a distance of about 600 km.\nGeophysical Activities at Maitri, Antarctica \n43\nFig. 1: Events recorded at Maitri, year 2000; total events 461, selected events 461, \nB. PERMANENT GPS TRACKING STATION AT MAITRI\n1. Introduction\nNGRI, Hyderabad has launched a study with a focus on plate move-\nment and crustal deformation, precisely between India and Antarctica by\nestablishing permanent GPS station at Antarctica, adopting space geodetic\ntechnique.\n2. Objective\nThe objective of GPS tracking station is to measure very long base\nlines between India and Antarctica by continuous GPS monitoring. The\nestimation of coordinates, the change in position coordinates, baselines,\nrate of base line vectors and ve",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "2]Earth Sciences",
+    "subcategory": "Geophysical Activities at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:08.580373Z"
+  }
+}

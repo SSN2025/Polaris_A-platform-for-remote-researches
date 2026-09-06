@@ -1,0 +1,72 @@
+{
+  "id": "chapter_2",
+  "document_id": "NCPOR-5891B4",
+  "source_file": "Chapter+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1100/1/Chapter+2.pdf",
+  "bibliographic": {
+    "title": "Chapter+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Morbidity Pattern in the 27th Indian\nAntarctic Expedition\nAbhijeet Bhatia\nNational Centre for Antarctic and Ocean Research, Goa\nABSTRACT\nAn analysis of the health disorders faced by the 27th expedition members is discussed.\nThere were no major illnesses. Injuries were the most common mishaps.\nKeywords: Antarctica, Expedition, Health Disorders.\n1.0  INTRODUCTION\nIndia has had a regular ongoing Antarctic scientific research\nprogram since 1981, when the first Indian Antarctic Expedition1. The health\nof the team members is strongly influenced by the unique physical and\nenvironmental conditions prevalent in Antarctica and on the journey to\nAntarctica and the psychological effects thereof.\nThe members of the 27th expedition were selected after an interview\nprocess followed by medical examination consisting of mental and\nphysical health evaluation. The physical health appraisal included a\nthorough examination by a general physician, surgeon, and\nophthalmologist (and gynaecologist in case of women) appointed by a\nmedical board in consultation with the National Centre for Antarctic and\nOcean Research (NCAOR). All team members underwent a complete blood\ncount, liver and kidney function tests, blood glucose, serum cholesterol\nand triglycerides, and urinary examination by routine microscopy. They\nwere also subjected to electrocardiography (with a treadmill test, if\nindicated) and chest roentgenogram. The team selection was followed by\nan orientation, acclimatization, and training program at a high altitude camp\norganized at Auli (3000 m above sea level) in the Indian state of Uttarakhand\nfor a duration of 15 days, well before the launch of expedition.\nHealthcare was provided by two medical officers, Dr. Caspar Johnson\nand Dr. Abhijeet Bhatia. Dr. Johnson was inducted by air in November\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 283-288\n284                                          Abhijeet Bhatia\n2007 and Dr. Bhatia by the expedition vessel, MV Emerald Sea, in January\n2008.\nThe ship sailed from V asco-da-Gama harbour on 6th Dec 2007 and\nreached India Bay, East Antarctica on 3rd Jan 2008, via Cape Town, South\nAfrica. The medical facilities on board the expedition vessel consisted of\nessentially first aid. The ship's medical supplies were available to the team\nin case of requirement. These consisted of essential surgical and\ndiagnostic facilities.\nAll the basic medical facilities were available at Maitri station. These\nconsisted of a consultation and treatment room, operation theatre with\ngeneral surgical instruments, an anesthesia machine, electrocardiography\nrecorder, cardiac defibrillator, and basic radiological, hematological, and\nbiochemical investigation facilities. Emergency evacuation was not\npossible from March to November, after flights to Antarctica ceased\nowing to adverse climatic conditions, darkness, and unserviceable runway\nconditions. An online specialist telemedicine option was not available\nuntil 2009, because of limited internet accessibility, although specialist\nopinion could be sought by e-mail and telephone.\nThe diet of the expedition team members consists of normal Indian\nmeals. The supplies were brought to the station by winter convoys from\nthe Indian coastal camp. Water is supplied from Priyadarshani Lake, which\nis a landlocked, glacier-fed freshwater lake, about 100 m from the station.\nRecreational activities at Maitri included facilities for indoor and outdoor\ngames, gymnasium, Indian and western musical instruments, a well-stocked\nlibrary for books, and an audio and video library. Maitri also housed a\nmulti-religion place of worship.\n2.0  METHODS\nThe analysis includes all members and medical room consultations.\nThe duration of study corresponded to the entire duration of the\nexpedition, i.e. January 2008 to January 2009. Medical consultation records\nwere retrospectively reviewed. Some team members had pre-existing\nillnesses, which were detected during the pre-induction medical\nexamination conducted in India. These individuals were already receiving\ntreatment. The pre-existing illnesses have also been considered in the\nanalysis.\nT h e e x p e d i t i o n d o c t o rs c ar r i e d o u t h e a l th e x a m i n a t i o n o f a l l t e a m\nmembers every 2 months. This included a personal interview, weight\n          285          Morbidity Pattern in the 27th Indian Antarctic Expedition\n(and basal metabolic rate), blood pressure, pulse, respiratory rate, and\ngeneral physical examination, including dental hygiene. The author also\ncarried out data collection for a research project being conducted by AIIMS,\nNew Delhi titled \"Assessment of psychological health and morbidity,\nadaptation and cognitive functioning during Antarctic expedition\".\nO n t r an s f e r t o M a i t r i , t h e m e d i c al o f f i c e r s w e r e b r i e f e d a b o u t th e\nmedical facilities at the station by Dr. Uday Uthappa and Dr. Ganesh\nChaudhary, Medical O",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "6] Medical Sciences",
+    "subcategory": "Morbidity Pattern in the 27th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:16:02.082255Z"
+  }
+}

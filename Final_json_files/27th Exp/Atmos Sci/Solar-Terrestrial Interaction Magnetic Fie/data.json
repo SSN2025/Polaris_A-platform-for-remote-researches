@@ -1,0 +1,72 @@
+{
+  "id": "chapter_1",
+  "document_id": "NCPOR-6F9C3C",
+  "source_file": "Chapter+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1087/1/Chapter+1.pdf",
+  "bibliographic": {
+    "title": "Chapter+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "ATMOSPHERIC\nSCIENCES\nStudy of Solar-Terrestrial Interaction Based on\nMagnetic Field Observations from Bharati Station,\nLarsemann Hills, Antarctica\nAnand K. Singh1,2,   Ajay Dhar1,  A. L. Gudade1  and B. M. Pathan1\n1Indian Institute of Geomagnetism, Navi Mumbai\n2National Centre for Antarctic & Ocean Research, Goa\nABSTRACT\nVarious dynamic processes in the near-Earth space environment, driven by the\ntransient solar activity, severely affect the high latitude regions. Magnetic field data collected\nat globally distributed observatories have been an important tool for the study of\nmanifestations of solar-terrestrial interaction in different regions of the Earth. A newly\ncommissioned Indian Antarctic station, Bharati located at corrected geomagnetic (CGM)\ncoordinates 74.7° S and 97.2° E is well suited for the study of several polar region specific\nprocesses associated with solar-terrestrial interaction. Around 20 days magnetic field\nvariations recorded at Bharati during the austral summer months of XXVI and XXVII\nIndian Scientific Expeditions to Antarctic (ISEA), form the basis for this study. Initial\nresults of polar geomagnetic substorms and long period geomagnetic pulsation\ncharacteristics have been presented in this study.\nKeywords: Geomagnetic Disturbance, Pulsations, Solar Wind, Substorm.\n1.0  INTRODUCTION\nThe terrestrial magnetic field is confined in a cavity like shape, called\nmagnetosphere, in the interplanetary space due to the pressure exerted by\nthe continuously impinging solar energetic ions and electrons known as\nsolar wind (Parker, 1959). The magnetosphere quite effectively shields the\nnear-Earth space from direct entry of the solar wind particles. However, in\nnarrow and funnel-shaped regions (around 75° latitudes in both the\nhemispheres), separating the day and night sides geomagnetic field lines,\nthe solar wind has direct access to about 100 km altitude (Russell, 2000).\nMoreover, magnetic flux eroded from the day side due to reconnection\nprocess, subsequently energizes the magnetotail on the night side and\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 121-131\n122                                          Anand K. Singh, et al.\ntremendous amount of energy and mass is further released into the inner\nmagnetosphere and ionosphere (Dungey, 1961).\nThe transfer of particles flux and energy into the inner magnetosphere\nor ionosphere results in various dynamic geophysical processes, namely\ngeomagnetic storms, substorms and pulsations, etc. which may disturb the\nnear-Earth electromagnetic environment  on the global scale (Sastri, 2002\nand Singh et al., 2012). From the activity region in the magnetotail, energetic\nparticles find path (i) across the geomagnetic field lines into the inner\nmagnetosphere where they intensify the global scale \"ring current\"\n(Williams, 1985) and (ii) along the highly conducting field lines to the\nhigh latitude ionosphere resulting in magnificent auroral display and\nenhancement of the field-aligned and ionospheric currents (Akasofu, 1964).\nThese intensified currents produce strong magnetic field variations\nthat may be globally observed by magnetometers. The ring current encircles\nthe Earth in the equatorial plane at a distance of about 2-7 RE (where RE is\nthe radius of the Earth = 6378 km). Due to enhanced population of the\nenergetic charged particles and subsequent decay in the ring current region,\na systematic magnetic field disturbance is observed at all local times in the\nequatorial region that is known as geomagnetic storm (Chapman and\nFerraro, 1931). Meanwhile during storm times, a series of shorter duration\nbut far more intense magnetic disturbances, known as substorms, are\ntypically observed around 65° latitudes on the night side (McPherron et\nal., 1973). A geomagnetic substorm is essentially accompanied with visible\nauroral activity which is direct manifestation of energetic particles\nprecipitation from the magnetotail. Moreover, various types of periodic\nmagnetic field fluctuations having amplitudes about tens of nT and and\nperiod range ~ 1-1000 s are observed during the geomagnetic activity\n(Jacbos et al., 1964). These fluctuations, known as geomagnetic pulsations,\nare good indicator of the state of the magnetosphere and its interaction\nwith the solar wind (McPherron, 2005).\nMagnetic disturbance recorded in different latitude regions are used\nto compute geomagnetic activity indices. The Dst index, which is an\naveraged magnetic disturbance observed at a set of globally distributed\nlow latitude stations, monitors geomagnetic storms (Sugiura 1964). The\nauroral region (60°-70° magnetic latitude) is far more dynamic during\nsubstorms than the lower latitudes and different current systems\nsimultaneously exist at different local times. Often an eastward current\n(electrojet) flows in the dusk hours and westward electrojet prevails in the\ndawn and midnight local times. The maximum intensities of the eastward\nand we",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "3] Atmospheric Sciences",
+    "subcategory": "Study of Solar-Terrestrial Interaction Based on Magnetic Field Observations from Bharati Station, Larsemann Hills, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:14:48.143389Z"
+  }
+}

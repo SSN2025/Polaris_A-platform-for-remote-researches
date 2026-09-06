@@ -1,0 +1,72 @@
+{
+  "id": "article_20",
+  "document_id": "NCPOR-0E2EE0",
+  "source_file": "ARTICLE+20.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/361/3/ARTICLE+20.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+20",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 259-268 \nBody Weight and Skinfold Thickness in Antarctica\nD. MAJUMDAR, S.S. PURKAYASTHA AND W. SELVAMURTHY\nDefence Institute of Physiology and Allied Sciences, Delhi Cantt\nAbstract\nBody weight and skinfold thickness at eleven different sites of 18 men of the IX Indian Scientific\nExpedition to the Antarctica were measured during the entire period of journey and stay of 14 months\n(December'89 to January'91) at Maitri (70°45'S, 11°44'E). Group mean body weight and mean\nskinfold thickness increased at all the sites significantly almost throughout the stay. Maximum\nincrease of mean body weight was 6.14 kg in November'90. Increase of skinfold thickness was\nmaximum at abdomen (17.0 mm), mid - axilla (15.0 mm), juxtanipple (10.1mm), suprailliac (9.7mm)\nand subscapular (9.3mm) points. Mean increase of body weight showed positive correlation with the\nvarious skinfold thickness in each month. However, body weight was significantly correlated to the\nforearm, abdomen, juxtanipple, suprailiac and mid-axillary skinfold thickness only, except the\nforearm limb sites, that had very little significant correlation with body weight. It was concluded that\nmuch of the fat deposition took place around the abdomen, chest and back of the Indian wintering\nmembers. The data could be used for the designing of exercise schedule to keep the members fit and\nproductive during long term stay in Antarctica.\nIntroduction\nMost of the reported observations on the changes of body composition on long term stay\nin Antarctica considered mainly skinfold changes in relation to body weight variations.\nThese observations were mostly contradictory.\nLugg (1965) and Acheson (1980) found a negligible change in the body weight and\nskinfold thickness (SFT) throughout the year. Easty (1967) showed  that body weight and\nSFT at four sites (subscapular, lateral arm, abdomen and chest) increased from February to\nSeptember and then declined slightly.  However, Massey (1956), Lewis et al.,  (1960) and\nWilson (1960) observed a seasonal change in body weight and SFT i.e. an increase in winter\nand a fall in the summer. In contrast to the above, Orr (1965) found no or little change in\nbody weight but a distinct decrease in SFT during the first 2 or 3 months of residence in\nAntarctica.\nAll these studies were carried out  on the white population drawn mainly from the\ntemperate zones of the world (Gunderson, 1974).\nThe wintering members of th e IX Indian Scientific Expedition to Antarctica were\nexamined during their prolonged stay of 13 months at the Indian permanent base, Maitri, in\nEast Antarctica. The study evaluated the response of body weight and SFT of tropical Indian\nsubjects during their stay in the extreme environment with altered life style in Antarctica.\n260\nD. Majumdar et al. \nMethod\nThe observations were made on board ship, on the way to Antarctica and at Maitri\n(70°45'S, 11°44'E) during 1989-91.\nSubjects : Eighteen out of the 21 wintering members served as subjects. They were aged\nbetween 25 and 51 yrs (mean 37.5 ± 1.48 yrs), with their initial body weight ranging between\n50.56 and 78.21 kgs (mean 65.38+1.49 kg) and their heights between 1.65 and 1.80 m (mean\n1.70+1.17 m). There were 4 scientists, 13 technicians and one cook. All the technicians and\nthe cook were drawn from Indian Army and Navy.\nBody Weight: All the volunteers at base were weighed at approximately monthly intervals\npreferably at the beginning of every month. The men were weighed wearing underwear in\nthe early morning hours immediately after getting up from an overnight sleep and after\nemptying the bladder. A human electronic platform scale (capacity 100 kg ± 20 gm) was\nused to measure the body weight.\nSkinfold Thickness (SFT) :  SFT was measured with a Lange skinfold caliper using the\ntechniques described by Weiner and Lourie (1969) at eleven different sites namely, biceps,\ntriceps, subscapular, mid-axillary, juxtanipple, abdomen, suprailiac,forearm, anterior thigh,\ncalf (medial) and calf (lateral) on the right side of the body. SFT was measured simultane-\nously with the body weight. Each measurement was made three times and the mean of all\nthe measurements was taken as the SFT of that site. SFT was recorded to the nearest 0.1 mm.\nStatistical Analysis : Statistical analysis of the data was performed by the methods of the\ntwo way analysis of variance using Newman-Keul's multiple range test for comparing the\nmeans of each month with the initial. The product moment correlations between body\nweight and different SFT were calculated using the standard statistical formula. The\nsignificance of the correlations were evaluated using t-test.\nResults\nThe physical characteristics of the 18 subjects and their maximum weight gain have been\npresented in Table 1. The subject's weight gain ranged from 0.61 kg to 16.5 kg, during their\nentire stay.\nThe mean (SEM) increase of body we",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "7]Physiological Sciences",
+    "subcategory": "Body Weight and Skinfold Thickness in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:29.841392Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "pages_305_346",
+  "document_id": "NCPOR-5134CF",
+  "source_file": "pages+305-346.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/919/1/pages+305-346.pdf",
+  "bibliographic": {
+    "title": "pages+305-346",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic Expedition\nMinistry o f Earth Sciences, Technical Publication No. 21, pp 305-346\nStructural Assessment of Maitri Station at  \nAntarctica\nAnurag Sinha\nStructure & Architecture Department \nEngineering Division, Engineers India Ltd., New Delhi\nABSTRACT\nNational Centre for Antarctic & Ocean Research (NCAOR) invited Engineers India \nLimited (EIL) to associate and participate in the 23r d  Indian Antarctic Expedition (XXIII- \nIAE) for studying the structural adequacy of the Maitri Station that now has over-lived its \n10 year design life by 4 years.\nEIL having its headquarters in New Delhi and offices in India and abroad is a premier \nconsulting organization in South-east Asia which provides value-added services in varied \nfields of engineering using state-of-the-art technology. During the past EIL has been awarded \nnumerous works related to health check of structures including its rehabilitation both in \nIndia and abroad.\nShri Anurag Sinha (Manager, Structural & Architecture Department, EIL) participated \nin the XXIII-IAE as a summer team member to carry out the assigned project. Shri G \nVeerabhadraiah (Manager, Environment Division, EIL) also participated in the expedition \nto carry out “Review of Waste-water Management System”.\nThe scope of work for investigation included building comprising the ‘Main Block’, \n‘A Block’, ‘B Block’  and ‘C Block’  of Maitri station.\nNecessary data collection was made to study and analyse the present structural \ncondition of the station. Major tasks performed during the expedition included compilation \nof the collected data/ information and possible remedial measures covering:\n• Detailed visual inspection of the condition of various structural components including \nColumns, Beams, Bracings, Walls, Floor & Roof Panels. The extent of distress and \ndamage noted was:\n• Existence of longitudinal cracks in some of the main structural columns,\n• Sagging of floor panels at certain locations in ‘Main Block’  & ‘B Block’,\n• Heavy snow ingress in ‘A Block’  during blizzards.\n• Collection of representative samples of structural members (of the stilt), to study \nits metallurgy and confirming its adequacy for usage in the sub-zero conditions.\n\n306 Anurag Sinha\n• Videography of the structure to record its present condition and problem areas in \norder to facilitate review at a later date.\n• Precautionary measures related to the structure, required to be undertaken \nimmediately in order to have less trouble during the preceding long & difficult \nperiod of winter and darkness were also suggested.\n• Collection of information/ feedback from the current occupants (XX-WOT) for \nother noted structural inadequacies and suggestions for planning for future \nrequirements.\n• Preparation of working sketches in AutoCAD to facilitate easy identification of \nproblem areas during subsequent works, and development of detail drawings if \nrequired for archival purpose.\nA report containing observations and recommendations on the subject has already \nbeen submitted to NCAOR vide document no. 8516-00-16-48-4001 Rev.O dated 15-07- \n2004.\nEIL looks forward to actively contribute towards this mission of great importance to \nthe nation by offering its services for any engineering and technological requirements.\nINTRODUCTION\nIndia started its expeditions to icy continent of Antarctica as early as \n1981 to carry out various scientific research activities. The first permanent \nscientific research station ‘Dakshin Gangotri’  was established in 1983 at \n70° South & 12° East on the ice shelf on Princess Astrid coast of eastern \nAntarctica to provide necessary living and laboratory facilities for the \nwintering over team.\nTo expand its scientific research program, a second permanent \nscientific station was conceived and a suitable site was selected in 1984 in \nthe Schirmacher Oasis region of Central Donning Maud Land of eastern \nAntarctica. A new station named ‘Maitri’  station (refer Figure below) was \nbuilt in the year 1987-88 using indigenous expertise by the Research & \nDevelopment Establishm ent (Engineers) of Defence Research & \nDevelopment Organisation (DRDO). The station was later commissioned \nin 1989 after Dakshin Gangotri got buried under accumulated snow. Winter \ncomponent of the expedition team consisting of 25 members stays in the \nMaitri station for a period of 12 to 15 months.\nThe active service life of the station was estimated as 10 years at the \ntime of its conception, which is now over by 5 years. During this period \nMaitri has withstood the extreme Antarctic weather conditions and served \nas a comfortable shelter for the scientists engaged in Antarctic research.\n\nStructural Assessment o f Maitri Station at Antarctica 307\nWinter component of the expedition team consisting of 25 members stays \nat the Maitri station for a period of 12 to 15 months.\nTo assess the present structural condition of the station building and to \ntake suitable measures to enhance its lifespan by strengthen",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 42
+  },
+  "taxonomy": {
+    "category": "5] Engineering & Communication",
+    "subcategory": "Structural Assessment of Maitri Station at Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:41:20.280012Z"
+  }
+}

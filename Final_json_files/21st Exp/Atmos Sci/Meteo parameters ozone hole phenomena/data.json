@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_73_93",
+  "document_id": "NCPOR-C61E2A",
+  "source_file": "Technical+Publication+No.+19%2C+pp+73-93.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/836/1/Technical+Publication+No.+19%2C+pp+73-93.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+73-93",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 73-93 \nStudy of Meteorological Parameters and Ozone Hole \nPhenomena at Schirmacher Oasis Antarctica During \n21st Indian Antarctic Expedition 2002-2003 \nR.P. Lai and Prakash Machnurkar \nIndia Meteorological Department \n(M.C. Lucknow & DDGM (WF) Pune) \nAbstract \nIndia Meteorological Department has an ongoing meteorological program in the \nAntarctic Expeditions. During the XXI Indian Scientific Antarctic Expedition operation \nof Brewer Spectrophotometer, for measurement of Total atmospheric Ozone, Sulphur \ndioxide and Nitrogen dioxide, Damaging Ultraviolet radiation, to supplement the \nozonesonde programme for the study of Ozone hole phenomena was undertaken. The \ninstrument was installed in 1999 and was operational since then. In addition to total Ozone, \nDUV, S02, N02 measurements using Brewer Spectrophotometer, Atmospheric Ozone \nprofile by Ozonesonde, Meteorological parameters observed during the year 2002 has \nbeen discussed in this report. \nIntroduction \nThe India Meteorological Department has been continuously \nparticipating in all Indian Scientific Antarctic Expeditions from the \nbeginning. This is an ongoing Programme of recording and analyzing the \nmeteorological data. New members continue to collect and record the \ndifferent meteorological data during their stay at Indian Antarctic Station \nMaitri located in Schirmacher Oasis Antarctica Standard equipment and \ntechniques approved as of world standard by World Meteorological \nOrganization (WMO) is being used for the data collection. The synoptic \nweather data generated is also transmitted over global telecommunication \nnetwork (GTN) on real time basis for the use of weather forecasting world \nover. \nScientific Objectives \n1. Scientific objectives for the meteorological programme during XXI \nIAE was study of Atmospheric Ozone profile, its distribution and \n74 R.P. Lai and Prakash Machnurkar \nannual variation at different levels and total atmospheric ozone \nusing Brewer Spectrophotometer and Antarctic meteorology in \ngeneral. During the year 2002 following studies were carried out \nto fulfill above objectives. \n1. Daily, monthly and annual variation of atmospheric pressure, \nsurface wind, surface air temperature, surface ozone, snowfall, \nand clouds. \n2. The atmospheric changes with reference to specific synoptic \nweather systems. \n3. The radiation budget studies including Total Global Solar \nRadiation. \n4. Monitoring and archival of information through weather \nsatellites and HF radio sets regarding weather system affecting \nthe Antarctic continent. \n5. Atmospheric turbidity measurement using Sunphotometer with \n500 & 560nm filter. \n6. Balloon borne measurements of ozone for its vertical profile \nover Maitri through out the year at regular interval for the \nstudy of occurrence of Ozone hole phenomena over Antarctica \nduring austral- spring months. \n7. Operation and maintenance of Brewer Spectrophotometer and \nits operation during all fair weather days for study of daily, \nseasonal and diurnal variation of total Ozone, DUV, S02 and \nN02. \nExecution of the Programme \nDuring onward cruise by ship, MV Magdalena Oldendroff, \nobservations were taken eight times a day at three hourly intervals at \nsynoptic hours from the day of departure from Cape Town till Antarctic \ncoast. At every six hours i.e. at 0000, 0600, 1200 andl800 hrs UTC \nthey were transmitted to IMD NEW DELHI for onward transmission \nto GTN. \n2. Surface observational programme is divided into the following \ntypes: \n(a) Surface observations of all weather parameters recorded at \nsynoptic hours on all days and four observations out of eight \nStudy of Meteorological Parameters and Ozone Hole Phenomena .... 75 \nwere transmitted to IMD office New Delhi, India over telex \nfor real time use and for global exchange. \n(b) Atmospheric pressure, temperature, wind speed, and direction, \nsurface ozone, snowfall, global solar radiation are \ncontinuously recorded. \n(c) Sun-photometer observations were taken on all clear weather \ndays for analysis of atmospheric turbidity. \n3. For the study of the Antarctic ozone hole phenomenon 52 \nOzonesonde ascents were taken using Indian Electro-chemical \nozonesonde. For study of Radiation balance 13 numbers of \nRadiometersonde ascents were taken. From the month of June \nOzone ascents started terminating at much lower height due to \npremature burst of balloons. The treatment of balloons was \nattempted using ATE \n4. Weather forecasting in Antarctica is a great challenging job with \nlimited resources such as weather charts and network of \nobservatories. Automatic Picture Transmission receiving equipment \nwas lying unserviceable since last one year at the time of takeover. \nThe equipment was made operational at the earliest possible time \nfor the reception of cloud imageries. Reception of weather charts \ntransmitted from the Pretoria was very irr",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 21
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Study of meteorological parameters and ozone hole phenomena at Schirmacher Oasis, Antarctica during 21st IAE",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:43.359496Z"
+  }
+}

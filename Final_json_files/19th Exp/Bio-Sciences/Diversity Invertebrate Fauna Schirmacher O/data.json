@@ -1,0 +1,72 @@
+{
+  "id": "article_14",
+  "document_id": "NCPOR-E56CDB",
+  "source_file": "ARTICLE+14.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/580/3/ARTICLE+14.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+14",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 . \nDepartment of Ocean Development, Technical Publication No. 17, pp 173-187 \nDiversity of Invertebrate Fauna of\nSchirmacher Oasis, East Antarctica\nA.K. Sanyal\nZoological Survey of India\nAbstract\nThe present study was done during the 19\nth\n expedition. The  invertebrate fauna\ncollected from 32 sites (28 lakes, 2 swampy areas, one open land and one waste-water site)\nin Schirmacher Oasis were studied. Some physico-chemical parameters like soil temperature\nand relative humidity were also recorded in the field. In this study ten species of protozoa,\none species of rotifera, two species of tardigrada, two species of nematoda, four species of\ncollembola, one species of diptera and ten species of mite including several new records\nfrom Antarctica have been reported.\nIntroduction\nThe earliest account on  Schirmacher Oasis was on the study of\nchemical characteristics of the Oasis by Bardin and Leflat (1965). The\nfreshwater algae Phormidium of the area was first studied by Komarek and\nRuzicka (1966). They reported that these blue green algae were highly\nproductive even at low temperature of 0° to -5° C. In the first Indian,\nMatondkar and Gomes (1983) and Sengupta and Qasim (1983) made\nbiological and chemical studies on the ice shelf and in freshwater lakes.\nThey observed that the lake waters at Schirmacher Oasis contained high\nbacterial population. Later Ingole and Parulekar (1987,1990,1993), Ingole\net al. (1987) and Verlecar et al. (1996) published comprehensive scientific\nreports on microfauna present in the water-moss communities, their\ncomposition, spatial distribution and influence of different physical and\nchemical factors on eco-biology of freshwater environment in lakes of\nSchirmacher Oasis during austral  summer in Antarctica. Ingole and\nParulekar  (op. cit.)  reported 7 microfaunal gr oups, viz.,  Protozoa, \nTurbellaria, Nematoda, Oligochaeta, Tardigrada, Rotifera and Acarina.\nThey identified only 8 species up to generic level. Dhargalkar (1988)\nreviewed the biological studies in the Antarctic waters and indicated\ndiscontinuity in the studies done so far. The first record of microfauna\n174 A.K. Sanyal \nfrom moss-soil habitat on ice-free land areas near lakes in Schumacher\nOasis was done by Richter et al (1990). They reported some unidentified\nmites and collemboles. Hazra (1994) studied the population of nematode\nspecimens under 5 genera collected from soils at the Oasis in relation to\nsome physico-chemical characteristics of soil. Arif (1995) recorded\nEarthworm, Nematode, Mite, Collembola, Diptera (adult and larvae) and\nLepidoptera (moth) from moss and soil of lake area. The specimens were\nnot identified up to species level but there were some groups of animal\nwhich were recorded for the first time from this area. Venkataraman (1998)\nrecorded two species of Tardigrada, three species of Nematoda and only\none species of Rotifera from the moss species Bryum argenteum.  The\nnext year Mitra (1999) in his technical report on the studies of moss\ninhabiting invertebrate fauna of Schirmacher Oasis reported 17 species of\nProtozoa, 1 species of Rotifera, 2 species of Tardigrada, 5 species of\nNematoda, 2 species of mite and 2 families of collembola. Further studies\non invertebrate fauna of moss-soil habitat at Schirmacher Oasis by Barman\n(2000) recorded 9 species of Protozoa, 1 new subfamily containing 1 new\ngenus of Nematoda and 3 new species of mite. Personal communication\nwith the author reported that the descriptions of new taxa of Nematoda\nwill be published shortly. Besides the invertebrate fauna, birds like Penguin\nand South Polar Skua of Schirmacher Oasis were also studied by\nChattopadhyay (1995) and Venkataraman (1998). The review of work as\nabove shows that several workers have conducted studies on invertebrate\nfauna of Schirmacher Oasis but the knowledge is still fragmentary. In this\ncontext the comment made by Somme (1985) is still appropriate even\nafter 15 years that more works on taxonomy, zoogeography, population\nand physiography of invertebrates are needed. Hence the present study\nwas undertaken by the author during the 19\nth\n expedition for taking up\ntaxonpmic and ecological programmes to add more knowledge to the faunal\ndiversity particularly of invertebrates in the area.\nMaterials and Methods\nA) Collection Sites : A total of 32 sites (28 lakes, 2 swampy areas, one\nopen land and one waste-water site) were selected in between polar ice cap\nto shelf-ice located on eastern, western and northern sides of the Indian\nStation 'Maitri' (Map-1) Maximum number of samples were collected\nfrom, the: periphery of Priyadarshini Lake. Soil samples from a stagnant\nwater pool outside the Maitri Station, which received kitchen water of Maitri,\nwere also collected for ecological studies of soil inhabiting mites and also\nto find out their interrelationship with some physico-chemical parameters\nDiversity of Invertebrate Fauna of Schirmacher Oasis, East Anta",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "4]Bio-Sciences",
+    "subcategory": "Diversity of Invertebrate Fauna of Schirmacher Oasis, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:28.779958Z"
+  }
+}

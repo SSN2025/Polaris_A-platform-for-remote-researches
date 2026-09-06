@@ -1,0 +1,72 @@
+{
+  "id": "article_16_1",
+  "document_id": "NCPOR-DAB612",
+  "source_file": "ARTICLE+16_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/556/3/ARTICLE+16_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+16_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eighteenth Indian Expedition to Antarctica. Scientific Report, 2002 \nDepartment of Ocean Development. Technical Publication No. 16. pp 305-336 \n305\nTHERMOREGULATORY EFFECTS OF TROPICAL MAN IN\nANTARCTICA WITH REFERENCE TO SPECIAL CLOTHING\nT P Baburaj, Gulab Singh, A C Bajaj, P K Banerjee and W. Selvamurthy\nDefense Institute of Physiology and Applied Sciences,\nLucknow Road, Timarpur, Delhi 110 054.\nINTRODUCTION:\nUntamed icy wilderness of Antarctica is a physiological challenge to\nsojourners for coping of cold (Edholam, 1960). Thermal status prevails at out door is\nantilogy to comfort. The comfort is achieved in Antarctica by balancing heat-loss and\nheat gain. One of the ways it can be achieved is by selecting proper clothing, which in\nturn helps to balance, the heat gained from exercise and sunlight against the heat loss\nto the cold winds, sky and terrain. But, if the required clothing adjustments is inad-\nequate or delayed, man becomes too hot or too cold for comfort (Bud et al., 1966,\nWyndham et al., 1969). Frequent stimulation of cold and warm would affect the under-\nlying vascular system. Most outdoor occupations in Antarctica require greater ex-\npenditure of energy than their counterparts in tropical or Temperate Zone. This is the\nresult of the nature of terrain underfoot, wind resistance, and bulky heavy cloth\n(Bountelier et aL, 1981). In addition, the climate of Antarctica may entice to engage in\nmore active pursuits than he would ordinarily do. As adjustment to exercise, some\nauthors revealed that, although man is free to adjust their clothing for comfort, it was\ndifficult to do so in many outdoor tasks in Antarctica. Consequently, sweating as well\nas discomfort from warmth, which increases progressively with the physical exertion.\nThose engaged in heavy work, man feels very hot of the trunk and would end up with\nsweating (Budd et al., 1969). The overall hectic situation increases heat production of\nthe expedition member in combination with the sophisticated protective measures against\nthe cold and task nature. Increasing the insulation of clothing may allow heat balance to\nbe maintained in the worst weather or blizzards. Conversely, it backlashes the other way\naround during endurance by posing potential heat stress issues (Budd, 1973), There-\nfore, insulative coping reassures further studies to understand the adaptation process\nin subzero temperature.\nIBEA (International Biomedical Expedition to Antarctica) had carried out\nsome studies under the leadership of Rivolier (1987), to investigate the heat exchange\nprocess of man with the environment. The study was conducted on four volunteers\nand data collected on sixteen occasions. This study had taken account of cooling\nppwer indices (Rivolier et al., 1981) with the determination of heat exchange in specific\n306\nT P Baburaj et al. \nexperimental situations, skin temperature of the both exposed and clothed area of the\nbodv was routinely recorded to quantify the cold stimuli. The objectives were to deter-\nmine correlation between microclimate of man within the suit and outside temperature\nof the clothing in which the man is exposed. Studies have revealed that, living in this\nsevere climate might lead to some habituation, but could not avoid hypothermia in the\nlong run as per the cooling power of the environment.\nPhysiological coping to subzero climate is a brain twister regarding the\nresidual cold stress. The pre-acclimatization studies of Australian scientific expedition\nteam reported that, prior cold-condition by means of the bath treatment in Sydney had\nno apparent effect on the thermal discomfort experienced at Antarctica (Rivolier et al.\n1986). Physiological response to cold climate of people differs by the nature of expo-\nsure such as habitual or occasional. Responses are diversifying in a way that, either by\nallowing their body temperature to fall or by exchanging insulation to prevent signifi-\ncant cooling or by increased heat production perhaps or by non-shivering thermo\ngenesis. Shivering process, up to an extent maintain the level of deep body temperature\nby admitting a high metabolic cost. Thus in general terms there are three forms of\nadaptation such as hypothermic, insulative and metabolic. They might represent a \ncontinuum for an individual passing one form of adaptation to another depending on\nthe duration or the intensity of the stimuli. Some time it must be a manifestation of\"\ndifferent genetic potentials.\nMan's ability to adapt to hostile environment has been mainly character-\nized by behavioral changes in addition to the integrated technological achievements of\ncold protective gadgets. But, adaptation has another dimension, which includes altera-\ntions in physiological responses to the particular stress imposed by climatic condi-\ntions. This phenomenon was studied in resident population, invariably exposed abo-\nrigines, living in inhospitably cold part of the World. There is little conclusive evidence,\nwhether the particular additional r",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 31
+  },
+  "taxonomy": {
+    "category": "5]Human Physiology",
+    "subcategory": "Thermoregulatory effects of tropical man in Antarctica with reference to special clothing",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:45.136923Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "chapter_2",
+  "document_id": "NCPOR-7275FA",
+  "source_file": "Chapter+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1008/1/Chapter+2.pdf",
+  "bibliographic": {
+    "title": "Chapter+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 259-276\nInterpersonal Relations among Indian Antarctic \nExpedition Members in Isolated and Confined \nEnvironment\nK. Ramachandran, F. U. John Paul and Manas K. Mandal\nDefence Institute of Psychological Research, DRDO, Delhi\nABSTRACT\nWith the advancement of technology, interpersonal factors take on increasing \nimportance in relation to long duration missions in isolated and confined \nenvironments. This study explores the interpersonal orientation at the feeling and. \nthe behaviour level during prolonged residence in Antarctica. Twenty-four \nvolunteers from winter-over team of Indian Antarctic Expedition served as \nparticipants. FIRO-F and FIRO-B questionnaires were the tools used in this study. \nThe interpersonal orientation at feeling level showed that feeling of lovability was \ngreater than feelings of significance and control. Besides, the feeling of warmth \nand the respect for competence were low when compared to the feeling of \nsignificance desired from others. At the behavior level, the need for association \nwas greater than the need for personal intimacy with others. On the other hand, the \ndesire for affection from others was higher than the preference for social interaction. \nIn addition, the overall interpersonal behavior revealed a significant improvement \nin the second half of prolonged isolation in extreme environment.\nINTRODUCTION\nThe growing technologies have expanded human capabilities and \naccelerated human endeavor in the exploration of space and analog \nenvironments. Consequently, the number of people working in isolated and \nunusual environment has increased than ever (Suedfeld, 1998). Though \ntechnological sophistications increase the comfort and reduce the physical \ndanger, they do little to enhance the social life in a hostile, isolated, and \nunusual environment such as Antarctica. Hence, with the advancement of \ntechnology, interpersonal factors take on increasing importance in relation \nto long duration missions in isolated and confined environments.\nIn reviewing the literature pertaining to various extreme environments, \nBishop (2004) reported that small issues can take on a typical importance\n\n260 K. Ramachandran, et al.\nwhen individual is in confinement and isolation. Feelings and emotions \nare the prime factors that drive isolated personnel to perceive even usual \ndifficulties in a magnified way. Depending on the location and time of \nyear, expeditions are usually physically isolated from the outside world, \nwith darkness and weather conditions exerting severe restrictions on travel. \nPeople on such expeditions are separated from their family and friends and \nconsequently feel various levels of emotional deprivation. Personal crisis \nsuch as the death of a family member, financial difficulties, or deterioration \nin marital relations become magnified by the separation (Palinkas and \nSuedfeld, 2008).\nAt the same time, people experience social confinement within the \nexpedition itself. During fieldwork conducted at McMurdo and South Pole \nstations in 1988 and 1989, informants complained that the lack of privacy \nand constant gossip that pervaded the community had a negative influence \non social relations, especially relations between men and women. \nConsequently, as much as 60% of one’s leisure time is spent alone in \na dormitory room and 47.6% of residents reported feeling more irritable \nthan usual (Carrere et al., 1991). In addition, there is little separation between \nwork and leisure because living and working spaces are in close proximity \nto one another. This constant interaction is a potential reason for increased \ninterpersonal conflict among expedition members. In fact, winter-over crew \nmembers report that the isolation and confinement are more difficult to \nlive than the extreme environmental conditions and this is attributed to the \nseparation from usual sources of support and the relative difficulty in \nobtaining emotional support from other station members (Palinkas, 2003).\nSeveral anecdotal reports as well as studies of small groups in polar \nstations, and isolated and confined environments suggest that prolonged \nduration leads to negative affect, social withdrawal, and increased \ninterpersonal and social conflict (Natani and Shurley, 1974; Palinkas, 1992; \nStuster, Bachelard, and Suedfeld, 2000). In most cases, this interpersonal \nissue, (e.g. interpersonal tensions, problems resulting from crew \nheterogeneity, anger displaced to outside personnel, need for dominance, \nand decreased cohesiveness over time) seems to shoot up the negative feeling \namong personnel residing for extended duration in isolated and extreme \nenvironment. The conflicts or social tensions in isolated groups seem to \nresult from untoward feelings in interpersonal relations. This is evident \nfrom the reports of Sandal (2001) which state that with the end of the \ncohabitation people all",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 18
+  },
+  "taxonomy": {
+    "category": "5] Physiological Sciences",
+    "subcategory": "Interpersonal Relations among Indian Antarctic Expedition Members in Isolated and Confined Environment",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:59:22.125718Z"
+  }
+}

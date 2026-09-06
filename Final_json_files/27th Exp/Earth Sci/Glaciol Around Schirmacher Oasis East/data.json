@@ -1,0 +1,72 @@
+{
+  "id": "chapter_4",
+  "document_id": "NCPOR-D68BB1",
+  "source_file": "Chapter+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1082/1/Chapter+4.pdf",
+  "bibliographic": {
+    "title": "Chapter+4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Glaciological Observations In and Around\nSchirmacher Oasis, East Antarctica during\n27th Indian Antarctic Expedition\nAshit Kumar Swain1, Sandeep Roy 1 and Arun Chaturvedi2\n1Geological Survey of India, Polar Studies Division, Faridabad\n2Retired from Geological Survey of India\nABSTRACT\nDuring the 2nd Indian Antarctic Expedition, Dakshin Gangotri glacier snout was\nidentified in the Schirmacher Oasis, East Antarctica. Since then, the monitoring of the\nsnout is a regular annual observation. Analysis of the recorded data shows that from 1996\nonwards there is a recession of 65 to 70 cm per annum. During 2007 and 2008, there is a\nyearly average recession of 110 cm. Detailed analysis shows that there is variable amount\nof recession at different parts of the snout. In the year 2001, additional measurement points\nwere set up along the Western Wall of the glacier. In 2008, accumulation/ ablation studies\nin India Bay region show an average accumulation of 5.9 cm on the Ice Shelf, but ablation\nis recorded at few stakes.\nKeywords: Schirmacher Oasis, DG Glacier Snout, Recession, Ice Shelf, Ablation.\n1.0  INTRODUCTION\nIn 1983, as a part of the programme on monitoring fluctuations in\ncontinental ice sheet margin in central Dronning Maud Land (cDML), East\nAntarctica, a prominent glacial tongue was identified in western\nSchirmacher Oasis (Fig. 1)  and it was named Dakshin Gangotri (DG)\nGlacier snout (Fig. 2). This snout was monitored annually from fixed survey\npoints, which showed a consistent recession, but with fluctuations in the\nrate (Asthana et al., 1996; Chaturvedi et al., 1999a, b & c, Chaturvedi et\nal., 2003, 2005, 2008; Singh and Jayaram, 1989).  The annual recession\nrates were averaging 0.57 m during 1983 to 1995. In 1996, nineteen points\nwere fixed along this snout periphery (Fig. 3) to enhance observation details.\nAlso, the advancing patterns along the periphery of the glacier were recorded\nevery month, during the austral winter of 1996-98. Again, during the winter\nmonths of 1999-2000, advancement of the glacier was recorded. This\nestablished the overall yearly model of advance and retreat of the glacier.\nIn 2001, the area of observation was increased by many km to cover the\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 73-83\n74                                        Ashit Kumar Swain, et al.\nentire western wall of polar continental ice margin in Schirmacher Oasis;\nthis wall also shows annual recessions, but with fluctuations in yearly\nmagnitude.\nFig. 1: Location map of Scirmacher Oasis, East Antarctica (Inset: Map of Antarctica showing\nthe location of this oasis.)\nFig. 2:  View of DG Glacier Snout, Scirmacher Oasis, East Antarctica\nAnother long term project initiated in the second Indian Antarctic\nExpedition was to record the accumulation and ablation patterns on the ice\n75           Glaciological Observations In and Around Schirmacher Oasis,....\nFig. 3:  Sketch of DG glacier Snout periphery with Observation Points\nshelf near erstwhile Dakshin Gangotri Station, cDML, East Antarctica (Kaul\net al., 1985); this was done using fixed network of stakes. Depending on\nthe availability of logistics, network farms containing 8, 16 and 20 stakes\nwere fixed in a square grid fashion and have been monitored over a period\nof last 22 years (Chaturvedi et al., 2008, Ravindra et al., 1992, Singh et al.,\n1988). These observations have continued on yearly basis and sometimes\ndetails of monthly patterns are also available from wintering teams.\nMonitoring of icebergs in Antarctica as per the guidelines of the\nNorwegian Polar Research Institute for keeping a world-wide watch on\nicebergs had been a part of glaciological programme of the GSI since the\nbeginning of Indian Antarctic Expeditions in the year 1981. The\nobservations include recording the location, dimensions and morphological\ncharacteristics of the icebergs observed during the cruise. As the journey\nto Antarctica was performed by flight, this data could not be taken up\nduring the current expedition.\n2.0  METHODOLOGY\nThe study involves the measurement of DG Glacier Snout and its\nwestern flank with respect to fixed observation points. The permanent\nmarkers were fixed in 1996, from where the distance of the projected points\nalong a marked direction are measured every year. The accumulation and\nablation pattern on the ice shelf area near former Dakshin Gangotri station\nin India Bay region was obtained using a network of 16 stakes, fixed over\nthe ice shelf in a grid of 4 stakes in each row, separated 50m X 50m,\nencompassing an area of 22500 square meters.\n76                                        Ashit Kumar Swain, et al.\n3.0  OBSERV ATIONS\nThe monitoring activities at three sites— the Dakshin Gangotri Glacier\nSnout, the Western Wall of DG Glacier in Schirmacher Oasis,  and the Ice\nShelf region are described below. These observation points spread over a\ndistance of about 80 km.\n3.1  Glacier Snout\nThe monitoring of Da",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2] Earth Sciences",
+    "subcategory": "Glaciological Observations In and Around Schirmacher Oasis, East Antarctica during 27th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:12:57.925814Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_2b17_2",
+  "document_id": "NCPOR-47A236",
+  "source_file": "ARTICLE%2B17-2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/622/3/ARTICLE%2B17-2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE%2B17-2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendilion to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. I to 36 \nReport on hydrographic survey of Antarctica by XVI Indian\nscientific expedition\nS. Chandrashekharan and A. Sreedharan\nNaval Hydrographic Organisation, Vishakhapatnam - 530 014\nBackground\n1. India is a member of the Permanent Working Group on Co-operation in\nAntarctic (PWGCA). As per the International Scheming of the Charts for\nthe Antarctica region duly approved by the (PWGCA) Charts Nos 9050 and\n9051 covering Approaches to the Indian Permanent Stations has been as-\nsigned to India. Based on the Indian request, the (PWGCA) has also ac-\ncepted to redesign the limits of the Charts so to include the Indian Perma-\nnent Station \"MAITRI\". Therefore it is  important for India to carryout a \ndetailed scientific survey of these two areas in a phased manner by deputa-\ntion of hydrographic scientific team as part of the Indian expeditions to Ant-\narctica.\n2. A Hydrographic survey team formed part of XIV Antarctica Expedition to\nstudy the suitability of equipment, feasibility of ship and boat operation and\nhuman endurance in extreme cold conditions. The team was able to collect\nvaluable bathymetric data from point of view of preperation of charts, with\nin the form of tracing placed at Enclosure I.\nAchievements of XVI Antarctica expedition\n3. As a part of XVI Scientific Expedition to Antarctica, one Hydrographic team\nconsitsting of one Meteorological Officer, One Hydrographic surveying of-\nficer and one Hydrographic surveying recorder were deputed to embark MV\nPolar Bird. The following tasks were assigned to the Hydrographic team:-\na) Collection of bathymetric data in fresh area for eventual publication of nau-\ntical chart.\nb) Collection of  physical oceanographic data in the area of survey.\nc) Gather sufficient expertise in operating survey motor boats, survey equip-\nment and deployment of field parties under extreme cold conditions.\nd) Participation in the land survey form Continental Shelf to \"Maitri\"\n4 Hyclrographic Task Undrtaken. The survey in Antarctica was carried out on\nWorld Geodetic System 1984 (WGS84) Datum universal Transverse\nMercator projection Grid, Zone 32 with Central Meridian 09deg E. The\ninability to build sites on icy shelf necessitate temporary marking of Geo-\ndetic Control stations . GPS 200 in Kinematics mode was used for position\nfixing.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "4]Earth Sciences",
+    "subcategory": "Report on Hydrographic survey of Antarctica by XVI Indian Scientific Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:40.249162Z"
+  }
+}

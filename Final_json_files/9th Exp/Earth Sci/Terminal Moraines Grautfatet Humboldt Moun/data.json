@@ -1,0 +1,72 @@
+{
+  "id": "article_16",
+  "document_id": "NCPOR-1CD76E",
+  "source_file": "ARTICLE+16.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/357/3/ARTICLE+16.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+16",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 219-225 \nTerminal Moraines in Grautfatet, Humboldt Mountain, East\nAntarctica — Indicators of Rate of Glacier Recession\nN.C. PANT, R. RAVINDRA AND M.J. D'SOUZA\nAntarctica Division, Geological Survey of India, Faridabad\nAbstract\nGrautfatet is a vast, morainal flat within the Humboldt Mountain. The Somovken glacier\nbranching into the Grautfatet and Humboldt glaciers has controlled the deposition of terminal\nmoraines in this flat. The disposition of the two sets of terminal moraines, along with the relief pattern\nof the surrounding ridges have been used to decipher an ice level lowering of 350 to 400 metres and\na retreat of Somovken glacier by 7.5 km since the last peak ice condition. This recession, in\nconjunction with the inferred age of last peak ice condition, indicates an average retreat rate of 75\nmetres per 100 years for Somovken glacier.\nIntroduction\nHumboldt mountains and adjacent nunataks constitute a group of disjointed, i rregularly\nshaped hills showing variations of height from 1800 m above m.s.l. in the north to over 2700\nm above m.s.l. in the south. The ground level varies from about 1500m to about 1900 m \nabove m.s.l. Grautfatet, located within the Humboldt mountain is a vast amphitheatrical\nmorainal flat bounded by ridges in northern, eastern, southern and southwestern margins\nwith wide opening towards west.\nGeomorphology of the area around Grautfatet \nA detailed description of geomorphology of Humboldt and adjacent areas, including the\nlandscape evaluation, has been discussed by  Ravindra  et al.,  (1991). The landforms de-\nscribed by the m and Sekyra (1971) have been listed in Table 1. Both polar as well  as alpine\ntype of landforms have been reported and the  overall landscape is comparable to the\ncomposite erosional landscape des cribed by Sugden and John (1976).\nIn an earlier study, detailed work was carried out by Bardin, 1971, on th e moraines of\nNordvestoya nunatak and three age subdivisions of morainic material were made using\nseveral f actors such as the height level and morphology of moraines, degree of surface\ngeochemical weathering, wind polishing, growth of lichens, development of cryogenic\nforms and development of honeycomb weathering.  The subdivisions, named as Insel I, II\nand III were found to be comparable with Koettlitz, Taylor and McMurdo glaciations (Pewe\n1960) respectively.\n220 N.C. Pant et al. \nTable 1: Landforms Developed in Humboldt Mountains and Adjacent Nunataks\n(Data from Ravindra  et al,  1991 and Sekyra,  1971)\nErosion related landforms Ice and snow dynamics related landforms\nDisposition of moraines in Grautfatet \nThe Grautfatet, spread over an area of nearly 72 sq.km, exposes multipatterned, crescent\nshaped terminal moraine tr ails, locally modified by medial mor aines. Two main sets of\ncurved terminal moraines are recognizable (Fig.l) marking the retreat of Somovken and\nHumboldt glaciers which were directed into Grautfatet.\nThe bigger set of ter minal moraines (TM 1) are in form of  curved, crescent shaped ridges\n(Fig.2) s howing a distinct convexity towards east. The moraines, extending in a north- south\ndirection, attain lengths of over 1 km. The thickened central part of the ridge contains larger\nblocks (of the order of s everal metres) along with smaller ones, while the gradually thinning\nedges are made up of smaller sized fragments (6 cms to 35 cms). The clast characters\nindicate local provenance (Ravindra et al,, 1991). The TM1 set of moraines extend for nearly\n7.5 kms from east to west in the northern half of the Grautfatet. The second set of terminal\nmoraines (TM2) are present in the south eastern part of Grautfatet (Fig.l) and consist of\ncurved fragment trails which are convex towards northwest. The  individual moraine,\nextending nor theast-southwest, is ar ound 500 metres to 1 km long. The clast compositions\nand sizes are similar to the other set of moraines.\nThe maximum height of both TM1 and TM2 moraines, generally thickened at the centre,\nvaries from 20 metres to  35 metres. The  distance between the successive moraine ridge\nvaries betwee n 50 to 300 metres. However, this could not be  measured accurately due to\nsevere time and  logisti c constraints.\nPresent and past ice levels in Grautfatet \nThe bowl shaped Grautfatet valley is flanked by Somovken glacier in the west and\nHumboldt glacier in the east. The  Somovken glacier is diverted int o this flat through its\nwestern opening and this diversion is marked by the presence of flow lines on the surface\nof glacier and by the position of tensional crevasses northwest of the diversion ( Fig.3). The\nSomovken glacier movement within the valley, has been  guided by the northern edge of the\nHumboldt flat, which is a ridge having elevations of the order of 2000 to 2200 m. The\ndisposition of the moraines indicates control of the northern ridge over the ice movement\nwithin this part",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "5]Earth Sciences",
+    "subcategory": "Terminal Moraines in Grautfatet, Humboldt Mountain, East Antarctica — Indicators of Rate of Glacier Recession",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:22.927678Z"
+  }
+}

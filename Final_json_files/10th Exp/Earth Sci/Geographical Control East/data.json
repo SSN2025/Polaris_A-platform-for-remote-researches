@@ -1,0 +1,72 @@
+{
+  "id": "article_8_3",
+  "document_id": "NCPOR-86BF2B",
+  "source_file": "ARTICLE+8_3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/383/4/ARTICLE+8_3.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8_3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Global Positioning System\nTenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 151-154 \nGeographical Control in East Antarctica\nV.P. SRIVASTAVA AND H.B. MADHWAL\nSurvey of India, Dehradun\nAbstract\nDuring the Tenth Indian Scientific Expedition to Antarctica, geodetic and geophysical controls\nwere established in the area of Schirmacher Oasis and its surrounding nunataks, for map making and\nfuture scientific explorations. Global Positioning System (GPS) receivers were used in the icy\ncontinent by the Survey of India (SOI) scientists for establishing the precise positions of the selected\nlocations.\nIntroduction\nMap making and exploration need accurate estimation of position. This is\nnowhere more true, than on the vast and monotonous expanse of ice of Antarctica\nwith its few oasis and isolated nunataks.\nEstablishing a positional fix in the hostile weather conditions of this icy continent\nposes a challenge for surveyors engaged in position fixing and surveys. Normal\nclassical methods, viz. triangulation, traverse and trilateration are not suitable due\nto strong winds and blizzards which are a common phenomenon in this region. The\nuse of electromagnetic instruments is not advisable because of frequent magnetic\nstorms which adversely affect the instrumentation of such equipment.\nGiant strides in Space Geodesy and the capabilities of instrumentation, have now\nmade it possible to venture in such hostile areas for map making and exploration.\nThe development of GPS technology has the capability to give precise position\nfixing, required to provide vital control points for map making.\nThis paper describes the Global Positioning System, the processing technique\nused and discusses the results obtained from data acquired during the expedition.\nNA Vigation System with Time And flanging, NAVSTAR GPS is used in the field\nof navigation and geodetic positioning. The system provides accurate three dimen-\nsional estimates of position to the user on land, on sea and in the air on a world wide\nbasis. Satellites are in orbit at an altitude of about 20,000 kilometres. Orbit time for\nV.P. Srivastava and H.B. Madhwal 152\na satellite is 11 hours 58 minutes. These are in different orbital planes with an\ninclination of about 63 degrees. GPS satellites transmit signals on two frequencies,\none at 1575.42 MHz (L1), and another at 1227.60 MHz (L2), which are used to\nminimise the ionospheric effects.\nThe Global Positioning System, used in translocation mode (using two receivers\nat the same time at two different places) can determine the distance between two\nlocations of the receivers with an accuracy of a few centimetres. Observations taken\nin translocation mode minimise the errors due to ionosphere, troposphere and\nimposition of Selective Availability (SA). When observations are taken in point\npositioning mode, the positional accuracy deteriorates to within a range of 40 to 100\nmetres.\nScheme of Observations\nA tentative scheme for establishing the geodetic control in East Antarctica was\nmade in Geodetic and Research Branch, Survey of India, Dehra Dun, as a prelude\nto the Antarctic expedition. On reaching the icy continent, the area was reconnoitred\nand the locations for control points were selected on exposed ground.\nTo determine the coordinates of the selected locations, two GPS receivers were\nused and observations were taken in translocation mode. In thi s process, a total of\n34 vectors were observed to establish 15 geodetic control points. A chart showing\nthe scheme of observation is given in Fig. 1.\nProcessing and Results\nData collected on cassette tapes were transferred on the hard  disk of a PC-AT\ncomputer and processed using Post Processing Software (POPS). During process-\ning, the results were analysed and all residuals which were more than 19 cms in L1\nand 24 cms in L2 frequencies, have been screened to eliminate possible cycle slips.\nMaximum Root Mean Square (RMS) of each distance was accepted within 10 cms.\nTo compute the coordinate of each station, an adjustment software using the\ntechnique of the 'Variation of Coordinates' was employed. Initial requirements for\nthis adjustment program were (a) the coordinates of at least two points, and (b) the\nobserved distances in continuous series forming geometrical figures.\nIn order to get the coordinates of the two initial stations, the station Maitri and\nPoint 5 were selected as fixed stations and weighted mean of several epochs were\ncomputed from the coordinates obtained in the post processing of  satellite data.\nGPS technique gives the coordinates in the WGS 84 system but the height\nrequired for mapping and other scientific work is mostly with reference to the Mean\nSea Level. To achieve this, sea level connections were made to the Indian station\nConclusion\n153Geographical Control in East Antarctica \nFig.]. Survey observation scheme during Antarctic Expedition 1990-91. \nMaitri from two different sites near the sea,",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Geographical Control in East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:58.452248Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article33",
+  "document_id": "NCPOR-8C62C2",
+  "source_file": "article33.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/293/3/article33.pdf",
+  "bibliographic": {
+    "title": "article33",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SECTION-VIII\nNON-CONVENTIONAL ENERGY\ni\nFifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 445-453 \nExperiments on Harnessing Non-Conventional Energy Sources\nin Antarctica\nK.C. RAMAKRISHNAN\nBharat Heavy Electricals Ltd.\nHyderabad-500593\nAbstract\nDuring the Fifth Indian Scientific Expedition to Antarctica, an experimental model\nof Solar Photovoltaic (SPV) system designed and developed by the Bharat Heavy Electricals\nLimited (BHEL) was tested in Dakshin Gangotri (DG) and Schirmacher hills (SH). This\npaper discusses the experimental results of this system. Performance of the system was\nfound to be better in Antarctica compared to that in India as expected. Possible reasons\nfor this also have been discussed. The effect of albedo on the SPV system performance\nhas also been discussed. Due to lack of data on the solar radiation components and other\nfew meteorological parameters for the period of tes ting, the experimental results arc\nmostly confined to qualitative analysis. A feasibility study for the wind energy conversion\nsystem was also done during this Expedition.\nIntroduction\nBesides the huge ic e cover an d massive floating icebergs around it, the\nAntarctic continent is known for its typical climatology. While scientists all over\nthe world are trying to study the climatology of Antarctica, energy experts are\nfascinated by the long sunny days of summer and extremely high wind velocities\nthroughout the year. This aspect of Antarctic climate has triggered an interest\nto develop suitable energy conversion system and exploit the non-conventional\nenergy resources by several expedition teams. With this in mind, one more\ndimension was added to the objectives of the Fourth Indian Expedition. Based\non the feedback from this Expedition, BHEL started developing a SPV system\nprototype for testing during Fifth Expedition. Also, design and development\nwork was taken up for  a wind energy conversion system for the Sixth Expedition.\nThe SPV system was installed and tested during the Fifth Expedition in DG\nand Schirmacher hills. The results of this experiment are quite encouraging.\nObjectives\nBHEL participated in the Fifth Expedition with the following objectives:\n— to study the perfor mance o f BHEL made SPV modules in Antarctic\nenvironment,\n446 K. C. Ramakrishnan \n— to study the endurance and stability of the SPV system, including materials\nlike cables, structures etc.,\n— to identify suitable utility for the solar and wind energy systems,\n— to conduct a site survey  for installation of a windmill during Sixth Expedition,\n— to study the structural and foundation aspects for installing a windmill at\nMaitree station in Schirmacher hills.\nSolar Radiation\nThe major source of depletion for solar energy in Antarctica is cloud. In\nthe absence of cloud, solar radiation is affected by the following factors:\n1. Radius vector of earth:  As the solar distance varies while earth passes from\nperigee to apogee, the intensity of solar beam outside the atmospher e varies by\napproximately 7%.\n2. Altitude:  Other factors remaining constant, intensity of solar radiation will\nbe greater in elevated regions due to smaller air mass traversed. The Antarctic\nplateau has greater elevation and hence, high radiation intensities occur there.\n3. Solar elevation:  This is a function of hour angle, latitude and solar declination.\nIn the absence of depleting atmosphere, the direct radiation falling on a horizontal\nsurface on earth varies with the sine of the angular elevation of sun.\nwhere, I is the intensity of solar beam outside the atmosphere and\n is the\nsun's angle of elevation and S is the direct radiation falling on the horizontal\nsurface of earth. In the presence of atmosphere, S is  further reduced due to\nlosses in the atmosphere.\n4. Turbidity;  The intensity of solar radiation is  reduced because of scattering\nand absorption by dust and other suspended particles in the atmosphere. The\nturbidity value for the atmosphere over Antarctica is quite low, thus the losses\ndue to atmospheric turbidity are also low in Antarctica.\n5. Albedo;  Part of the radiation reflected from the earth's surface gets reflected\nback by the atmosphere thus contributing to the diffused radiation. Since about\n95% of the area of Antarctica is covered by ice and the albedo value ranges\nfrom 80% to 90% over this area, contribution to diffused radiation by albedo\nfactor is  quite significant.\nThe global radiation consists of the direct radiation and diffused radiation.\nWhile on a clear sunny day, major contribution to global radiation is from the\ndirect component, on a cloudy or blizzard day, it is the diffused component\nwhich is the major contributor.\nWind Energy\nAnalysis of wind velocities from 1961 to 1973 at Novolazarevskaya Station\nExperiments on Harnessing Non-Conventional Energy Sources...  447\nindicates an annual wind speed of around 36 kmph. This shows the tremendous\nenergy available from wind i",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "9]Non-Conventional Energy",
+    "subcategory": "Experiments on Harnessing Non-Conventional Energy Sources in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:52.546767Z"
+  }
+}

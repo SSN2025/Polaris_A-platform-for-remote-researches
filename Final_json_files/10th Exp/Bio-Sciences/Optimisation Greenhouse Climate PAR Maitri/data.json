@@ -1,0 +1,72 @@
+{
+  "id": "article_11",
+  "document_id": "NCPOR-4FEC12",
+  "source_file": "ARTICLE+11.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/387/3/ARTICLE+11.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+11",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No, 8, pp. 187-193 \nOptimisation of Greenhouse Climate and PAR at Maitri\nA.B.DHAULAKHANDI, R.P.JOSHI AND M.C.JOSHI\nDefence Agricultural Research Laboratory, Haldwani\nAbstract\nThe optimization of greenhouse climate at Maitri station in Antarctica is described. Strategies for\ncontrolling temperature, humidity, light and CO2 concentration are described. Heating load has been\nestimated. July was the coldest month and required most heating. Annual heating degree days at 25°\nC indoor temperature were 13277.3, while those for 20° C and 15° C indoor temperatures were\n11452.3 and 9627.3 respectively. Annual heating loads at 25, 20 and 15° C indoor temperatures were\n77038.56, 66449.04 and 55859.28 MJ respectively. Monthly heating loads varied between 4424.88\nand 8993.52 MJ at 25° C indoor temperature. Annual heating loads varied in accordance with the\ngreenhouse temperature as\nHmj = 24166.57 +2114.04 *Tg\nMaximum PAR (Photosynthetically Active Radiation) level at the ice surface reaches upto 90000\nlux. PAR levels inside the greenhouse varied between 100 and 45000 lux during polar day, while\nartificial illumination of 11225 lux to 20000 lux was provided during dark period through HPSV and\nfluorescent lamps. Temperature between 15 to 20 °C, relative humidity of 64% and CO2 level of 400\nppm was maintained. Thus optimum environment for plant growth was maintained inside the\ngreenhouse.\nIntroduction\nAntarctica, the most isolated continent, has only 2% of its area as free of ice.\nApart from snow algae, lower species of plant kingdom viz. moss and lichens are\nfound in these zones. Antarctic water and soil have a little amount of nutrients, so\nthe growth of these species is poor. The severe Antarctic climate limits the number\nof land plants that are able to grow. Higher plants can not survive here because of\nextremely low temperatures; although two vascular plants: Colobanthus quitensis \nand Deschampsia antarctica have been reported to grow in Antarctic peninsula. In\norder to grow plants in Antarctica, protected cultivation is the only way as outlined\nby Joshi and Banerjee (1988) and Kononov and Kiran (1988). Intensive production\nof vegetables is possible in greenhouses under controlled environment. In order to\nstudy plant growth and yield of vegetable crops, a greenhouse was constructed at\nMaitri station during the IX Antarctic Expedition. The strategies for controlling the\noptimum environment for plant growth inside the greenhouse are described in this\npaper.\n188 A. B. Dhaulakhandi et al. \nMaterials and Methods\nVarious parameters and their control are discussed below. Thermometers, ther-\nmohygrographs, luxmeter and gas analyzer were used for recording data.\nTemperature: Temperature is a basic factor controlling plant growth and devel-\nopment. Most of warm crops require a temperature of 15 to 30 °C, while cool crops\nrequire a temperature of 1 to 15 °C. Temperatures are to be maintained in such a \nway that a higher day-time temperature is followed by a lower night-time tempera-\nture. This is referred as thermoperiodism. The temperature is controlled by a \ntemperature controller. Six hot water radiators, installed inside the greenhouse\nprovided 18000 Kcal of heat per hour. Additional electrical heaters were used at low\ntemperatures. A day-night temperature regime of 30 °C and 15 °C was achieved.\nAverage temperature inside greenhouse was 24 °C, while the ambient temperature\nwas 0.4 °C.\nHumidity: Plants require relative humidity levels of 50 to 80%. Low humidity\nincreases transpiration losses, while high humidities increase incidence of the\ndiseases. An intermediate level is preferred. Relative humidity was maintained at\n64% level by employing humidistat/humidity controller with two humidifiers.\nOptimum level of humidity should be 60 to 70% (Kononkov and Kiran, 1988).\nLight: Light, an essential requirement for photosynthesis and plant growth, is\ngoverned by three basic processes viz. photosynthesis, photomorphogenesis and\nphotoperiodism. Photosynthesis and photomorphogenesis are responsible for plant\ngrowth, while photoperiodism helps in flowering. Plants enjoy a photoperiod of\nalmost 24 hours during polar day and none during polar night.\nPAR: The PAR (Photosynthetically Active Radiation) level inside greenhouse\nvaried from 100 lux to 45000 lux. Artificial illumination was provided through\nHPSV lamps and fluorescent tubes/lamps upto 20000 lux. Day-length could be\nadjusted by setting the required time in clock/timer. A combination of HPSV and\nfluorescent tubes was utilised for proper morphogenesis as described by Sase et\nal.,(1988). The artificial illumination was controlled by a clock/timer, adjustable\nupto 5 minute interval. The luxmeter (Yorko make) were employed for collecting\ndata. The time was measured by electronic clock in GMT.\nCO2 Concentration: Plants fix carbon during photoperiod through process of\npho",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "4]Bio-Sciences",
+    "subcategory": "Optimisation of Greenhouse Climate and PAR at Maitri",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:10.354480Z"
+  }
+}

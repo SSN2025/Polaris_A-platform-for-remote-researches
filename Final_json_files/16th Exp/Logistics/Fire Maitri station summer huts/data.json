@@ -1,0 +1,72 @@
+{
+  "id": "article_28",
+  "document_id": "NCPOR-0525C5",
+  "source_file": "ARTICLE+28.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/633/3/ARTICLE+28.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+28",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nReport on fire safety studies in Maitri station and summer\nhuts at Antarctica\nK.C. WADHWA\nDefence Institue of Fire Research, Brig. S.K, Majumdar Road,\nTimarpur, Delhi - 110 054\nIntroduction\nFire is the principal potential menace in Maitri Station at Antarctica. During\nthe winter, the hazard increases due to increased dry conditions and high winds.\nThe best way to lessen the danger is to practice stringent fire prevention. The\ncondition is further vurnerable because no external assistance from any other\nagency could be made available to tackle such an emergency. The difficulty of\ncombating fires at extremely low temperature and high winds fore warn that the\nestablished fire prevention discipline be observed rigidly. Precautions are\nrequired to be taken to eliminate all possible sources of ignition in these areas.\nFire preventive measures are the best way than cure by fire fighting.\nMaitri station\nThis permanent station (Appendix \"A\") presently in use is a compact integral\nunit encompassing the following modules:\nMAIN BLOCK : Consisting of living modules, station office,\nhospital & IMD Lab.\nLOFT LEVEL : On the top of these living modules used for\nstorage purposes.\nBLOCK \"A\" : Presently under renovation and\nreappopriation as hospital with medical\nequipment storage area.\nBLOCK \"B\" : This accommodates boiler room, kitchen,\nlounge/dinning hall, bath cubicles & chemi-\ncal toilets (now storage area).\nBLOCK \"C\" : Accommodates 5 Nos. incenerator toilets.\nMost of the modules/ rooms are constructed of marine ply sandwiched by\nPUF as insulating material.\nIn addition, the in-built risk in genset accommodation placed in three sepa-\nrate containers, garbage incinerator,nitrogen plant and garage-cum-workshop area\naway from station also becomes a point of concern from fire safety point of view.\n442\nK.C. Wadhwa\nFactors contributing to fire threat perception.\ni. Construction Material : \nii. Electrical wiring\niii. Fuel storage\niv Flammable liquids / Gases\nMost of the modules/ rooms are made of\nmarine ply with PUF sandwiching; a \nhighly combustible material.\n: Laid down from genertors to Maitri\nstation and summer huts for supplying\ncurrent; Ageing & blizzard conditions may\nlead to short circuiting.\n: Large quantity of ATF stored inside boiler\nroom & also other fuel dumps(50-60 KL\ntanks) lying around generator room area\nin the open.\n: Isopropy] alcohol, benzene etc stored in\nloft area of main block, use of LPG\ncylinders in kitchen without seprate gas\nroom and pipe supplying through\ncommon manifold.\nv. Incinerators : Garbage & toilet incinerator can cause\nfire due to malfunctioning and threatens\nthe adjoining fuel dumps and LPG\ncylinders in the vicinity.\nvi. Decorative materials : Wall papers/festive decortives of combus-\ntible nature inside living modules and\nlounge area adds to the fire load.\nPossible causes of fire:\nSmoking, use of inscence sticks, naked lamp lights etc.\nWorn out electrical cables/wirings.\nPoor housekeeping\nFaulty radiator type heater.\nOpen uncontrolled burning of packing material/garbage.\nIn persuarnce of the workplan submitted to DOD, the following fire safety\nrelated tasks were accomplished during my summer duration stay at Antarctica.\nInstallation of linear thermal detection cable (LTDC) systems:-\nThis latest technology in the filed of fire detection comprising fire sense\ncable, fire control panel, interface module and termination box were installed in\nthe boiler room covering all the four fuel feeding lines to the boilers, daily fuel\nstorage tank(500 ltrs.) and weekly fuel storage tank(2500 ltrs) . Fire sensing\nwire, interfce module and termination box were installed in the boiler room while\nReport on Fire Safely Studies in Maitri  443 \nthe fire control panel and hooter in the lounge/dinning hall keeping in view the\npresence of members round the clock in this area(appendix \"B\")\nAny rise in temperature/heat generation in the boiler room would activate\nthe fire sense cable which through interface module would tranfer audio-visual\nsignals to fire control panel, thus actuating the hooter for the turnout of the mem-\nbers to attend the call. The microprocessor based key board operating the panel/\nhooter would have to be brought into silence only by pressing four digit secret\nnumber known to the authorised persons only after attending the fault in the\nboiler room.\nRecommendations\nTo maintain the efficacy of the system and to avoid the false alarms the\nfollowing points must be strictly adhered to:-\ni. To charge maintenance free batteries supplying 24V DC to the\ninterface module once in a week.\nii. To reset the fire control panel immediately after the disruption of AC\nsupply feeding it.\niii. Only authorised person to handle and maintain this modern detection\ncum-alarm system.\nFire risk analysis of maitri station and summer huts\nA detailed fire safety survey was conducted co",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "7]Logistics",
+    "subcategory": "Report on Fire studies in Maitri station and summer huts at Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:53.475620Z"
+  }
+}

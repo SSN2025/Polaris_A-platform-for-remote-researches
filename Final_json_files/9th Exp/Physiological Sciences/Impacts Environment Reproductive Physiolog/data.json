@@ -1,0 +1,72 @@
+{
+  "id": "article_21",
+  "document_id": "NCPOR-C45653",
+  "source_file": "ARTICLE+21.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/362/4/ARTICLE+21.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+21",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp.269-273 \nThe Impact of Antarctic Environment on the Reproductive\nPhysiology and Immunity\nRITA SINGH\nDepartment of Zoology, University of Delhi, Delhi\nAbstract\nThe changes in the hormonal levels and immune system of human subjects were studied during\nand after acclimatization in Antarctica. Blood samples were collected and plasma separated and\npreserved at -20\no\nC. The Plasma samples were analysed for Hb„ TLC, DLC and for the levels of\nvarious hormones like TSH, LH, PSH, PRL, Cortisol and Testasterone. No significant changes were\nfound in the percentage of various cell types and total number of lymphocytes after one month from\nthe start of the expedition. It was interesting to find that there was a relative decrease in the number\nof total lymphocytes and various cell types after 3 months of stay in Antarctica.\nThe levels of hormones like TSH, PRL and Cortisol were not found to change after a stay of three\nmonths but there was a significant increase in the levels of luteinizing hormone and there was relative\nincrease in the levels of FSH. The levels of male hormone testasterone were found lower than the\ncontrol in the last months of stay in Antarctica. Such a study was carried out for the first time in an\nIndian expedition and shows that there are important implications of such effect of Antarctic\nenvironment on various parameters of human health.\nIntroduction\nImmunity and physiology (in particular, reproductive physiology) are the two thrust\nareas in understanding the parameters for human health and it is important to understand the\neffects of the adverse climate of Antarctica on these two systems. The elucidation of special\nfeatures of the development of immunity was a proposal by Russians in 1975 Antarctic\nexpedition and in the same year Australians included the study of human health and\nmedicine as an important area of study in Antarctica. Till now, however, few studies have\nbeen published. This paper reports the study undertaken during the 9th Indian Antarctic\nExpedition to understand the changes occurring at the hormonal levels and in immunity\nbefore and during the journey and after a stay of three months in Antarctica.\nMaterials and Methods\nCollection of Plasma \nPeripheral venous blood was drawn once every 25-30 days from 15 human males at 8.00\na.m. in heparinised vials and centrifused at 800 g for 20 min. Plasm a thus collected was\nstored at -20°C.\n270\nRita Singh \nBlood smear \nA blood droplet welling up from the finger tip was smeared on a glass slide with a \ncoverslip at an angle of 45°. Dried the smear and labelled it (subject's name and date).\nSmears were stained according to Leishman after 24 hr and differential lymphocyte counts\nwere recorded.\nMaterials\nEnzyme immunoassay buffer : 10 mM phosphate buffer saline with 1% BSA. Cortisol,\nvarious hormone antibodies, Penicillinase conjugates, Penicillin, V, \"H-Testasterone were\nall gifted by Dr. G.L. Kumari, NIH-FW, New Delhi. TSH and PRL immunoassay kits were\nobtained from Serono diagnostics, Switzerland.\nExtraction of steroids from plasma \nTo 500 μl of plasma diluted to 2 ml with assay buffer, 10 ml of HPLC grade diethyl ether\nwas added and mixed gently. Aspirated the diethyl ether and dried the residue Added 1-.5\nml of assay buffer and vortexed for one min. Let it stand for at least one hour and samples\nwere analysed for testosterone and Cortisol. To a second portion of plasma (25μl), 625μl of\n10 mM PBS was added and heated at 60°C for 30 min. 100μl of sample was taken for\nmeasuring Cortisol.\nHormone assays \nEnzyme immunoassay for Cortisol was performed according to the method of Shrivas-\ntava et al., (1988). Thyroid stimulating hormone (TSH) and Prolactin (PRL) were analysed\nin plasma sample using serono serozyme kit, (Rattle et al.,  1984). Human luteinizing\nhormone (LH) and Follicle Stimulating Hormone (FSH) were estimated by ELISA using\n2nd antibody coated 96 well plates. HLH and hFSH antibody, hLH- and hFSH- Penicillinase\nconjugate were used according to the method standardized in the laboratory of Dr. G.L.\nKumari, NIH-FW, New Delhi.\nResults and Discussion\nAnalysis of various parameters in the plasma samples collected at various time intervals\nduring the journey and stay in Antarctica revealed interesting information on the changes\noccurring in the physiology of reproductive system and immune system. There was relative\ndecrease in the percentage of various types of lymphocytes (like T- & B-cells, data not\nshown) and in the total number of lymphocytes after three months of stay in Antarctica but\nthere was no significant change in the above parameters after a month from the start of the\nexpedition (Table 1). The exact cause of the decrease in TLC and DLC is not clearly\nunderstood at this stage of study. In addition to the stressful conditions of Antarctica like\ncold, isolation, polar light regime and changes in the earth",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "7]Physiological Sciences",
+    "subcategory": "The Impacts of Antarctic Environment on the Reproductive Physiology and Immunity",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:28.765484Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_4",
+  "document_id": "NCPOR-55BE08",
+  "source_file": "ARTICLE+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/234/3/ARTICLE+4.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Results of Electromagnetic and Electrical Measurements\nin Antarctica\nB.B. Bhattacharya, M. Keramat* and R.S. Raju\nDepartment of Applied Geophysics, Indian School of Mines, Dhanbad-826004. \nABSTRACT\nTransient electromagnetic (TEM) soundings were carried out in Dronning Maud Land region of\nAntarctica. Self-potential (SP) and vertical electrical sounding (VES) measurements were also made in\nthe Schirmacher Oasis. The thickness of the ice shelf in the Dronning Maud Land is about 200 m. The\nthickness of the ice c a p over the rocky terrain south of Schirmacher Oasis increases rapidly and at the\nplace  o f  T E M  sounding is of the order of 400 m.  Self-potential profiles do not show any characteristic\nanomaly. VES d a t a reveal that the depth to fresh rock in the oasis is less than ten metres. There is exten-\nsive  scope of using TEM method in Ant arctica for determining the  thickness of ice cover.\nINTRODUCTION\nGeophysical surveys consisting of transient electromagnetic (TEM), self-potential (SP) and ver-\ntical electrical soundings (VES) were carried out in Schirmacher Oasis (77°44'30\" - 70°46'30\"S;\n11°22'04\" - 11°54'00\"E) and in the shelf ice areas near the Indian station of Dakshin Gangotri\n(70°05'37\"S; 12°00'00\"E) in Antarctica. The aim of the work was to determine the feasibility of the\nmethods in the  Antarctic conditions, and, if possible, to obtain:\n(a)\n(b)\n(c)\nt h e thickness of the shelf ice in the neighbourhood of Dakshin Gangotri Station,\nt h e thickness of the weathered zone in the Schirmacher Oasis, and\nself-potential anomaly zone, if any, in the Schirmacher Oasis.\nThe measurements were carried out in the (summer) months of January and February, 1985 in\nclear weather on relatively warmer days using transient electromagnetic system of MPPO type\ndesigned at ISM (Bhattacharya and Raju, 1986; Raju et al., 1987) and a standard resistivity meter\nrespectively. These types of geophysical measurements, as far as is known, have not been carried out\nby the Indian, Soviet or other countries in these areas till 1985.\nINSTRUMENTS\nSelf-potential and VES measurements were carried out by standard resistivity meters and the\ndetails of t h e equipment are well known. The essential features of the TEM system are given below.\nThe general field layout for the TEM method with MPPO system is shown in Fig. 1. The basic\nprinciple of the transient measurement is shown in Fig. 2. The measurements are made during the\nswitch off period. The block diagram of the system is given in Fig. 3. The ins trument consists of a \ntransmitter and a receiver both housed in a single box.\n*Deptt. of Applied  Physics and Electronics, Raj shahi University, Rajshahi, Bangladesh. At present with the Deptt. of\nApplied Geophysics, I ndian School of Mines, Dhanbad-826004.\n69\nResults of Electromagnetic & Electrical Measurements \nTRAVERSE LINES\nFig. 1. General field layout for transient electromagnetic (TEM)\nmethod including MPPO system.\nBLOCK DIAGRAM, ISMTEM\n___________________________________________________________________________________________________________________________________________________________\nMOVING RECEIVER\nFIXED\nTRANSMITTER\nLOOP\nOVERBURDEN\nDRILL HOLE\nRECEIVER\nFig. 2.  Transient measurement principle.\nCURRENT\nTRANSMITTED\nVOLTAGE\nMEASURED\nFig. 3. Block diagram of MPPO transient electromagnetic (ISM TEM) unit.\n70\n50-100\nAMPS\nPULSE-WIOTH\n20.40 MSEC\nPERIOD\n500 M SEC.\nVOLTS\nMICRO-\nVOLTS\n0 20 40 60 80 100 M SEC\nMASTER TIMER\nAMPLIFIER\nPOWER\nINT. (I?H0)-(42)V-Nk«l\nSV-Pack\nEXT. 0\"Z4V-L*adacld\nSAMPLE & HOLD\nSAMPLE & HOLD\nISOLATOR\nTRANSMITTER POWER\nSM\nEXT.\nCOIL\nBhattacharya, Keramat & Raju \n71\n____________________________________________________________________________________________________________________________________\nFig. 4. Loop geometry.\nThe transmitter consists of a pulse generating circuit providing 20 ms \"ON\" and 30 ms \"OFF\",\ni.e., with 40% of the duty cycle. The fall time of the transmitter current is 10 μs. The maximum pulse\ncurrent is 10 amp. In the TEM method, a rectangular or square loop is placed over the surface and a \nrectangular pulsed current is momentarily sent through the loop. The secondary field induced by the\neddy current is measured after the switch off. The signal received during the off time is amplified and\nprocessed. This is transient in nature which is sampled at various preselected time intervals which in\nturn is dis played in the display unit.\nThe coil consists of bare enamelled copper wire of 18 SWG. The criteria for the selection of\ngauge depends on easy handling of the wire in the field and the maximum current to be sent. Thus a \ncompromise has to be made between the thickness and the resistance of the coil. The size of the loop\nin the field can be 500 m X 500 m; 200m X 200m; 100m X 100m; 50m X 50m; 10m X 10m. The loop\nsize is decided by the user depending on the nature of the problem.\nIsolator is an important block in the design of TEM unit. It is achieved in the unit by the use of\nfast acting reed rel",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "2]Geology and Geophysics",
+    "subcategory": "Results of electromagnetic and electrical measurements in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:25.849171Z"
+  }
+}

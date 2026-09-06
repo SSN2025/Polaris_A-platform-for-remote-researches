@@ -1,0 +1,72 @@
+{
+  "id": "chapter_1",
+  "document_id": "NCPOR-F60ACE",
+  "source_file": "Chapter+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1092/1/Chapter+1.pdf",
+  "bibliographic": {
+    "title": "Chapter+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "BIOLOGICAL &\nENVIRONMENTAL\nSCIENCES\n          205Exploration of Faunal Diversity of Moss-inhabiting Terrestrial Invertebrates....\nExploration of Faunal Diversity of Moss-inhabiting\nTerrestrial Invertebrates of\nSchirmacher Oasis and Larsemann Hills\nAlong with some observations on Birds\nAnil Kumar\nZoological Survey of India\nABSTRACT\nPresent investigation was mainly aimed to explore the faunal diversity of moss-\ninhabiting invertebrates in and around Schirmacher Oasis and Larsemann Hills area. Nine\nspecies were identified from Schirmacher Oasis area, while in Larsemann hills area four\nspecies were identified. The protozoans were the most dominant group with five species.\nTwo species of tardigrades, two species of nematodes and one species of collembolan and\none species of rotifer were identified. Apart from this, 26 species of birds were identified\nduring voyage. Procellaridian was the most dominant group with 7 species. In the vocal\nrepertoire of South Polar Skua Catharacta maccormicki, total four types of calls (namely\nterritorial calls, alarm calls, begging calls and distress calls) were identified, based on\nbehavioral correlates. Different calls of communication were observed for Adelie Penguins\nPygoscelis adeliae. These were mainly composed of contact calls, alarm calls, threat calls\nand distress calls.\nKeywords:  East Antarctica, Faunal Diversity , Terrestrial Invertebrates, Acoustic\nSignals, Catharacta Maccormicki, Pygoscelis Adeliae.\n1.0  INTRODUCTION\nThe terrestrial invertebrate fauna of the Antarctica has been docu-\nmented in terms of species diversity, limited to a few invertebrates, such as\nspringtails and mites (Pugh 1997, Greenslade 1995, Stevens and Hogg\n2003, 2006), nematodes (Courtright et al. 2000) and tardigrades (McInnes\nand Pugh 1998). Review of the literature revealed that studies are scanty\non the moss-inhabiting invertebrates of Schirmacher Oasis of Antarctica,\nas compared to lakes of maritime and sub-Antarctic islands, which were\nstudied more intensively. Bardin and Leflat (1965) initiated the studies on\nchemical characteristics of Schirmacher Oasis. While Komarek and Ruzicka\n(1966) were pioneers in studying freshwater algae of the area. Studies are\nalmost negligible on the moss-inhabiting invertebrates of Schirmacher Oasis\n(Mitra, 1999). Keeping the above in view, it was realized that the studies\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 205-219\n206                                               Anil Kumar\non the moss-inhabiting fauna are still scanty and more extensive survey\nwork is required to explore a detailed and comprehensive account of moss-\ninhabiting invertebrate fauna of Schirmacher Oasis.\nThe Antarctic region is the home of over 21 species of mammals,\nincluding 6 species of seals and 15 species of whales (Bonner 1985), and\nabout 45 species of birds (Siegfried 1985). More than 25 nations have\ntheir permanent research stations in Antarctica. Over the years, they are\nworking on different aspects of the biology of penguins. In contrast with\nthe studies carried out by foreign scientists, our knowledge on the\nbehavioural ecology and sociobiology of penguins is still scanty. Although\nsome studies on population status and ecology were carried out by Indian\nscientists during earlier expeditions. The Wildlife Institute of India (WII)\nparticipated in 14th and 15 th expeditions to Antarctica, for the birds and\nmammals census in Indian Ocean and India Bay (Bhatnagar and Satyakumar\n1999a). During the voyage, 50 bird species and 14 mammal species were\nrecorded. Apart from this, in Antarctica five aerial census sorties were\nconducted to record penguins and seals abundance, habitat occupancy and\ndistribution in India Bay (Bhatnagar and Satyakumar 1999b). The\nscientists of Zoological Survey of India have conducted some studies on\nthe behaviour of skuas in Schirmacher Oasis. Research work on nesting\nsites, breeding success and population studies of South Polar Skua\nCatharacta maccormicki were conducted and data was compared with other\nobservations taken during earlier expeditions (Venkatraman and Hazra,\n2005).\nT h e p r e s e n t s t u d y w a s a i m e d t o e x p l o r e a n d e s t i m a t e t h e f a u n a l\ndiversity of moss-inhabiting invertebrates in and around the Schirmacher\nOasis and Larsemann Hills area. It was also planned to monitor the avian\nelements encountered during the voyage, and to conduct behavioural ob-\nservations on South Polar Skua and Adelie Penguins.\n2.0  METHODOLOGY\n2.1  Studies on moss-inhabiting invertebrates\nIn order to explore the moss-inhabiting invertebrates, samples of moss\nwere collected from various localities/ fresh water lakes in Schirmacher\nOasis (F ig. 1) between 6th to 22 nd January 2008 and in Larsemann Hills\n(Bharati, McLeod and Fisher islands) between 27th February to 9th March\n2008. All the samples were kept in polythene bags and properly stored\nunder low temperature, to avoid ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "4] Biological and Environmental Sciences",
+    "subcategory": "Exploration of Faunal Diversity of Moss-inhabiting Terrestrial Invertebrates of Schirmacher Oasis and Larsemann Hills Along with some observations on Birds",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:15:40.293569Z"
+  }
+}

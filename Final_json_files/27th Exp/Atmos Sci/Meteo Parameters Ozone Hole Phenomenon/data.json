@@ -1,0 +1,72 @@
+{
+  "id": "chapter_5",
+  "document_id": "NCPOR-D34F52",
+  "source_file": "Chapter+5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1091/1/Chapter+5.pdf",
+  "bibliographic": {
+    "title": "Chapter+5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Meteorological Parameters and Ozone Hole\nPhenomenon at Schirmacher Oasis\nAntarctica during 2008\nS. P. Sharma and K. C. Bhindwar\nIndia Meteorological Department, New Delhi\nABSTRACT\nIndia Meteorological Department (IMD) has been observing/ recording three hourly\nsynoptic weather observations constantly since its association with Indian Antarctic\nProgramme. It has covered various weather elements viz. surface temperature, surface\npressure, surface wind speed with its direction, cloud details, precipitation (snowfall etc),\nblizzards and other atmospheric phenomenon like Auroras etc. During the 27th expedition,\nstudy of Ozone hole phenomenon was also undertaken, using the vertical profile of\natmospheric ozone, recorded with the help of Ozonesonde flights. Surface weather\nobservations, atmospheric Ozone profiles recorded with the help of Ozonesonde,\nRadiometersonde observations, direct and diffused solar radiations and various other\nMeteorological parameters observed/ recorded during the year 2008 are discussed in this\nreport.\nKeywords: Antarctica, Maitri, Year 2008, Met Observations, Ozone\nMeasurements.\n1.0  INTRODUCTION\nIndia Meteorological Department has been continuously participat-\ning in all Indian Scientific Expeditions to Antarctica from its commence-\nment. IMD is dedicated to undertake Surface Observations, Upper Air\nObservations, Radiation Budget Studies, Atmospheric Ozone Profiles over\nSchirmacher Oasis, Atmospheric Turbidity etc. at Indian Antarctic Sta-\ntion, Maitri located in Schirmacher Oasis, Antarctica.\nIMD is collecting/ recording/ logging various weather elements and\nanalyzing the different meteorological parameters. Continuous recording\nof Surface Wind speed, Wind Direction, Surface Atmospheric Pressure,\nTemperature, Humidity, Surface Ozone, Diffuse Solar Radiation & Direct\nSolar Radiation using self recording instruments and their tabulation on\nhourly /10 minutes interval basis have also been done.\nThe data collection at Maitri is done as per the standards/ norms of\nWorld Meteorological Organization (WMO). The synoptic weather data\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 191-201\n192                                   S. P. Sharma and K. C. Bhindwar\ngenerated is also transmitted over Global Telecommunication System (GTS)\non real time basis for the use of weather forecasting throughout the world.\n2.0  SCIENTIFIC OBJECTIVES\nScientific objectives for the Meteorological programme during the\n27th expedition were to study the Atmospheric Ozone profile, its distribu-\ntion and annual variation at different levels and Antarctic Meteorology in\ngeneral. During the year 2008, following studies were carried out to fulfill\nabove objectives:\ni) Daily, monthly and annual variation of atmospheric pressure, surface\ntemperature, surface wind (speed and its direction), surface ozone,\nsnowfall, and clouds etc.\nii) The atmospheric changes with reference to specific synoptic weather\nsystems.\niii) The Radiation budget studies, including Total Global Solar Radia-\ntion.\niv) Monitoring and archival of information received through weather\nsatellites and facsimile regarding weather system affecting the Ant-\narctic Continent.\nv) Atmospheric turbidity measurement using Microtops II Sun Photom-\neter.\nvi) Balloon borne measurements of ozone for its vertical profile over\nMaitri, throughout the year at regular intervals, for the study of oc-\ncurrence of Ozone Hole phenomenon over Antarctica during austral-\nspring months. Continuous recording of surface ozone at Maitri,\nAntarctica.\nvii) Providing weather reports, meteorological briefing etc for helicopter\noperations, scientific requirements and other activities at the station.\n3.0  EXECUTION OF THE PROGRAMME\nDuring onward cruise by the ship, Emerald Sea, synoptic observa-\ntions were taken eight times a day at three hourly intervals from the day of\ndeparture of ship from Mormugao until it reached India Bay, East Antarc-\ntica coast.  At every six hours i.e. at 0000, 0600, 1200 and1800 hrs UTC,\nthese were transmitted to IMD, New Delhi for onward transmission to\nGlobal Telecommunication Network.\n          193    Meteorological Parameters and Ozone Hole Phenomenon....\nAt Maitri, surface observational programme was as following:\na) Surface observations of all weather parameters recorded at synoptic\nhours on all days. Four main synoptic observations (out of eight)\nwere transmitted to IMD, New Delhi, India through Internet for real\ntime use and for global exchange.\nb) Atmospheric pressure, wind speed, wind direction, surface ozone,\nglobal solar radiations were continuously recorded on autographic\nrecorders and tabulated on hourly basis throughout the year.\nc) Sun-photometer observations were taken on all clear weather days\nfor analysis of atmospheric turbidity.\nd) For the study of the Antarctic Ozone Hole phenomenon, a total of 71\nOzonesonde ascents were taken, using Indian Electro-chemical\nOzonesonde. For study of",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "3] Atmospheric Sciences",
+    "subcategory": "Meteorological Parameters and Ozone Hole Phenomenon at Schirmacher Oasis, Antarctica during 2008",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:13:17.501350Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article14",
+  "document_id": "NCPOR-3AB28A",
+  "source_file": "article14.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/273/3/article14.pdf",
+  "bibliographic": {
+    "title": "article14",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 219-224 \nGlaciochemical Studies in Antarctica\nV.N. NlJAMPURKAR\nPhysical Research Laboratory\nAhmedabad-380 009\nAbstract\nThe concentration of some major ions (Na, K, CI) and heavy metals (Fe, Co, Ni,\nCa, Mg, Zn, Cu, Pb and Cd) of ten snow, ice and lake water samples collected near\nDakshin Gangotri  (D.G.) Station (70°S, 12°E) have been measured.\nThe concentrations of major ions are normalised to Na. These ratios are similar to\nthat of seawater indicating that snow/ice/lake-water samples are influenced by the marine\nsalts. However, the reason for high Cl/Na ratios in Maitree glacier ice and Wohlthat\nlake are somewhat puzzling,\nThe concentrations of heavy metals Zn, Cu, Pb, Cd, Co, Ni are below the detection\nlimit indicating no significant anthropogenic contribution in the region under investigation.\nIntroduction\nThe Antarctic ice sheet is considered to be one of the important driving\nforces behind global atmospheric circulation. Antarctica is very well known\nto be the reference point for all environmental and pollution studies because ot\nits remoteness and the climatic conditions, restricting human activities to minimal\nin this region. An examination of potential pollutants, therefore, should give a \nbase value for comparing with time their increase in the marine environment.\nThe comparison of glacial ice of Antarctica with the Himalayan glaciers can\nindicate the concentrations of pollutants at the southern and northern extremities\nof the Indian Ocean.\nRecent glaciochemical studies provide better understanding of the chemical\ncomposition of Antarctic precipitation. (De Angeles et  ah,  1984; Delmas et  al.,\n1982; Palais and Legrand, 1985; Sengupta and Qasim, 1983).\nIt has been established that the ionic budget of recently deposited Antarctic\nsnow has marine influence. At the  present time,  great efforts are being made to\ndetermine the concentrations of alkali metals (Na, K, etc.) and heavy metals as\npollutants like Fe, Co, Ni, Zn, Pb, Hg, Cd etc. to obtain historical records of\n220 V. N. Nijampurkar \nthe concentrations of these elements in polar regions of both hemispheres.\nConcentrations to be measured are unfortunately of very low values in the range\nfrom fraction of a ppb to ppm levels ( 1 0 14  to 10 6 g/g). So it becomes extremely\ndifficult to collect the samples in the field and to analyse them in the laboratories\nwithout introducing an artifact contamination. Many published data are then\nerroneous upto several orders of  magnitude (Wolf and Peel, 1985). Special care\nhas to be taken in developing the procedures for sample collections and their\nanalvsis to obtain reliable data.\nIn the present preliminary work, a few selected samples of different nature\nlike snow, ice, fast ice and lake water from Antarctica were collected near the\nIndian station Dakshin Gangotri (DG) (70°S, 12°E) in Antarctica to study the\nionic concentrations of trace elements and heavy metals as pollutants which are\nexpected to have very low concentration levels.\nMaterials and Method\nTen samples of snow, surface and glacier ice, iceberg, lake waters of Maitree\nand Wohlthat mountains, and fast ice were collected near the DG station in\nAntarctica. Special care was taken to clean the plastic bottles with 2% HNO 3\nand then rinsing them with de-ionised water for several times. The bottles were finally\nrinsed with the sample water itself before the collection of samples. Wherever\nnecessary, the samples were melted in specially cleaned plastic mugs and then\ntransferred to the laboratories of BARC, Bombay and National Chemical\nLaboratory, Pune for analysis using Ion chromatograph , polarise d Zeeman\nAtomic Absorption Spectrometer and Plasma Emission Spectrography. Na, K \nand Cl were analysed using Ion chromatography and other heavy metals on\nAAS and Plasma emission spectrography according to standard procedures.\nResults and Discussion\nThe major ions (Na, K, Ca, Mg, Cl) and heavy metals (Fe, Co, Ni, Zn,\nCu, Pb and Cd) concentrations  of the ten representative samples of Antarctic snow/\nice/lake water are given in Table I.\nMajor ion concentrations \n(a) Na and K:  Concentrations of Na and K in samples A, C, P, Q, R and\nW (Table I) range from 180-525 ppb and 40-680 ppb respectively. The samples,\nD, E and T have higher values by an order of magnitude indicating that these\nthree samples which range from 4 to 82 ppm and 0.6 to 10 ppm respectively\nare of marine origin.\n(b) Ca and Mg:  Concentrations of Ca and Mg for the samples listed in\nTable I vary from 75 ppb to 13.6 ppm. The high concentrations of Ca and Mg\n(13.6 and 10.2 ppm) observed in the fresh snow sample 'A' indicate marine\ninfluence on the fresh snowfall that occurred near the Indian Bay on 1-1-1986\nTable I. Concentration of few major elements and a few heavy metals in snow, ice and lakewater samples,\nAntarctica\nSample\nCode\nA\nC\nD\nE\nP\nQ+\nR\nW\nT\n*P.S. b \nm\nNature of",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "3]Glaciology",
+    "subcategory": "Glaciochemical Studies in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:22.713546Z"
+  }
+}

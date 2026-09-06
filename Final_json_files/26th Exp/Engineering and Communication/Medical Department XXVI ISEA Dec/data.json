@@ -1,0 +1,72 @@
+{
+  "id": "445_450_pg",
+  "document_id": "NCPOR-EBF0AB",
+  "source_file": "445-450+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1068/1/445-450+pg.pdf",
+  "bibliographic": {
+    "title": "445-450+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "445\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 445-450\nMedical Department Report of XXVI ISEA\nDec 2006-April 2008\nSurg. Lt Cdr IB Udaya, NM\n1) A total of 431 medical cases were handled from the beginning of the\nexpedition till the completion. This includes the sick report attended\nduring the onward transit from Goa to Antarctica onboard Emerald\nSea, during our stay in Maitri, convoys, and during return journey.\n2) Most of the cases were minor in nature. The increase in the sick report\nwas observed while on board MV Emerald Sea. Minor abrasion,\ncontusion and lacerations were managed during the transit. Common\ninfective cases were on higher side onboard when compared to\nincidences while at Maitri.\n3) Almost all the cases responded well to the medicines which were\ncarried along with the expedition team. It was an interesting fact that\nsome of the summer members had elevated blood pressure. There were\nvery few reported cases of cold injuries during the entire expedition.\n4) The most common medical cases which were encountered during\nwinter over were abrasions, sprains, mouth ulcers, constipation,\nfolliculitis, dandruff, contusions, bruises, psychological changes etc.\nMonitoring the Vital Parameters of the Expedition Members\na) The vital parameters such as Pulse rate, Blood pressure and Respiratory\nrate were measured every week. The data recording began eight days\nprior to launch of expedition till the completion of the expedition. Vital\nparameters of summer & winter members were recorded separately for\neasy interpretation.\nb) Other Medical Investigations like Haemoglobin estimation, Pulmonary\nfunction test, cognition test, memory test, serum samples  for\nimmunoglobulin variations and Heart rate variability data recording\nwere carried out once every four months.\n446\nFew Medical Emergencies Managed during the Wintering over\nPeriod Include:\na) Handling a case of Acute Hypothermia due to immersion of\nMr. Ram Barkai, a tourist to Antarctica in a semi frozen Lake. He\nhails from Israel but settled in South Africa.\nb) Nb Sub Tejram who lost his bearing in the Ice shelf during the\nThird Indian Antarctic convoy was resuscitated from hypothermia\nand psychological shock.\nc) Angina case was diagnosed and handled in a summer member who\nhad come to Antarctica from GSI for carrying out Geological\nInvestigations from Troll station.\nd) A member with Suicidal tendency was counseled and motivated to\nresume his duties. Anti anxiety therapy was started with the strong\nsupport of the team leader and other fellow members.\ne) Second degree Hemorrhoids with fissure in Ano case was managed\nconservatively.\nStatus of Medical Stores\na) Medical store stock status and the shelf life were taken into account\nand drugs were procured to cater to even unforeseen medical\nemergencies at Antarctica and during transit. Few day care anesthesia\ndrugs, plasma expanders, Digital BP apparatus, newer antibiotics\nwere added to the Expeditions medical inventory.\nb) Unserviceable medical equipments like Boyle’s apparatus, Manual\nBP apparatus, Infra red light lamp etc., were back loaded so that it\ncan be replenished at the earliest.\nc) Expired drugs / chemicals were back loaded safely.\nOperational OT\nThe OT equipments like various types of Artery forceps, scalpels,\nretractors, tissue clamps, tissue holders etc. were sterilized using pressure\nautoclave machine. The OT was rigged as per surgical norms to be\nprepared for any type of medical/surgical emergencies. Non operational\nBoyles machine was back loaded and NCAOR was informed so that\nAutomatic Anesthesia machine (with ventilator function) can be procured\nand sent to Maitri at the earliest.\nSurg. Lt Cdr IB Udaya, NM\n447\nRadiography\nA total of 08 X-rays were taken despite the limitations, out of\nwhich only two were developed adequately.\nSignificant Findings/Observations\na) Minor injuries and common infections like Upper respiratory tract\ninfection were common during ship journey.\nb) Mouth ulcers, dandruff, constipation and flatulence were the frequent\ncomplaints of expedition members during wintering.\nc) Body weight of expedition members increased up to 10-20% in the\nfirst 8-9 months of stay in Antarctica.\nd) Psychological changes like anxiety, irritability, over confidence,\ndepression, and invulnerability were seen in few members.\ne) Haemoglobin levels decreased marginally in wintering members till\nDecember. Later reached normal value, which may be attributed to\nfresh fruits and vegetables, and increase in Vit ‘C’ intake.\nSuggestions\na) Life style modifications  such as regular physical conditioning,\nyoga and indoor games will not only prevent the incidence of\noverweight, psychological effects due to prolonged isolation and\nother health hazards but also promote healthy social environment\nand team spirit.\nb) Automatic anesthesia machine/Ventilator has to be procured and\nthe oxygen generation system or Gaseous oxygen supply has to be\nprovided i",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "5] Engineering and Communication",
+    "subcategory": "Medical Department Report of XXVI ISEA Dec 2006-April 2008",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:09:50.017601Z"
+  }
+}

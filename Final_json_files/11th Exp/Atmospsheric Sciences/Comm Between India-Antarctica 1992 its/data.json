@@ -1,0 +1,72 @@
+{
+  "id": "pages_from_103_113",
+  "document_id": "NCPOR-2D0DB8",
+  "source_file": "Pages+from+103++-113.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/706/1/Pages+from+103++-113.pdf",
+  "bibliographic": {
+    "title": "Pages+from+103++-113",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "11] Scientific Report Eleventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eleventh Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 9, pp. 103-113 \nK.JEEVA, A.HANCHINAL, AJAY DHAR, D.M.DAGA and GIRIJA RAJARAM \nIndian Institute of Geomagnetism \nColaba, Bombay - 400 005 \nAbstract \nObservations made  at the Indian station Maitri  in  East  Antarctica during the period \nspanning between July 1992 and January 1993, reveal that the state of HF communication \nbetween India and Antarctica is greatly dependent on the electromagnetic state of Earth's \nenvironment (as depicted by magnetograms). It is noticed that the radio signal intensity is \nalso dependent on season. Present work reports on some of these observations. \nIntroduction \nA hig h frequency (HF) radio link has bee n operating betwee n India and \nAntarctica right since 1984 , the very first year of wintering at Dakshin Gangotri \n(DG with geographic coordinates 70°05'S:12°00'E) . Th e sam e has bee n con -\ntinued fro m th e presen t statio n Maitr i (MA I wit h geographi c coordinate s \n70°46'S : 11 °45'E) since 1989.During 1992 , the radio frequencies used between \nMaitri an d Delh i (DE L with geographi c coordinates 28°42'N:77°20'E ) wer e \n16.94 MH z and 14.45 0 MHz . The link wa s regularly operated by the Indian \navy for a few hours centred around noon every day at MAI . Ove r the period \nJuly 199 2 to January 1993 , the Indian Institute of Geomagnetism in collabora-\ntion with the Indian Navy, kept a close watch on the state of this HF radio link \nin terms of amplitude and quality of radio signal between MAI-DEL , i n both \nthe forward and reverse directions. These observations were compared with the \nmagnetograms recorded at MAI. \nHF Communication Between India-Antarctica During \n1992, and its Dependence on \na) Geomagnetic Activity, b) Season \n K.Jeev a e t al . \nRelationship between magnetograms and state of \nIndia-Antarctica HF link \nThe HF  communication  link  between  Maitri  and  Delhi  was  generally \noperated everyday between 10  UT and 15  UT. During this period was built up \nsatisfactorily, the electron density in the F region of ionosphere which supports \nHF communication. Since the distance between Delhi and Maitri i s over 10,000 \nkm, the chances are  remote that  this HF link  operated  in  one-hop reflection \nmode. It is likely that a two-hop propagation takes place as shown in Fig 1, and \non occasions there could even be a three-hop mode (Saveskie, 1980). Recording \nof the geomagnetic  elements X (component  in the  north-south  direction),  Y \n(component in  the  east-west  direction)  and  Z  (component  in  the  vertical \ndirection) at MAI, was carried out by means of a Fluxgate Magnetometer. For \nthe daily variation (DV) records, the Riken-Denshi Speedex Chart recorder was \nrun at  a speed of 3cm/hr. The sensitivity of the recorder was changed from a \nvalue of 10 Volts Full Scale Deflection (FSD) to over 40 Volts FSD depending \non the degree of geomagnetic disturbance. A block diagram of the experimental \nset- up is shown in Fig 2. \nThe HF radio signal intensity has been assigned index values of 1,2,3,4 and \n5 in  conformity with  the classification described  by  Saveskie (1980). In  this \ncategorisation -\nIndex 1 represents Very poor communication \nIndex 2 represents Poor communication \nIndex 3 represents Fair communication \nIndex 4 represents Good communication \nIndex 5 represents Very good communication. \nVery often the HF radio link between MAI -DEL could not be established \nat the planned hour of 10 UT and  delays of 1 to  2 hours or even more could \noccur by the time  the  communication was  established. The characteristics of \nboth, the  signal intensity  and  time of onset of communication, were found  to \nbe well  related  to  the degree  of geomagnetic activity  seen  on  magnetograms \nbeing obtained simultaneously at Maitri. \nLooking at  a sample magnetogram,  that  of 17 August  1992  (Fig 3), it is \nseen that  the day  was magnetically quiet with dKp = 80. Kp is a three hourly \nindex of  planetary magnetic  activity published  regularly by  the  IUGG  from \nGottingen in Germany, and dKp represents the sum of eight 3-hourly Kp values \nfor any day. A value of dKp less than 10 would represent very quiet conditions, \nwhile a value exceeding 20 would represent disturbed conditions, Fig 3 shows \nthat the X,Y and Z traces of the magpetogram for 17 August 1992 are extremely \n104\nFig 1:Sketch showing usual two hop (small Open circles) and rare one hop(large full \ndots) propagation path for HF communication between Maitri and Delhi \ncalm between 05 UT and 20 UT. On this day the HF radio link between Maitri \nand India  was very  good  with  an  almost  constant signal  streagth  index  of  3. \nContact could be  maintained  over the time interval marked b y arrows on the \nmagnetogram i.e. 1 0 to 14 UT. \nIn contrast  to  above  picture.  Fig  4  shows  the  magnetogram  for a  very \ndisturbed day of the same month, the 5th of August 199",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2]Atmospsheric Sciences",
+    "subcategory": "HF Communication Between India-Antarctica During 1992, and its Dependence on a) Geomagnetic Activity, b) Season",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:41.707169Z"
+  }
+}

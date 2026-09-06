@@ -1,0 +1,72 @@
+{
+  "id": "article_6",
+  "document_id": "NCPOR-5F7436",
+  "source_file": "ARTICLE+6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/167/3/ARTICLE+6.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+6",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Magnetic  Characteristics of Princess Astrid Coast of\nAntarctica 70°S, 12°E, North of  Dakshin Gangotri \nG.S. Mittal and D.C. Mishra\nNational Geophysical Research Institute, Hyderabad \nABSTRACT\nEight magnetic profiles recorded on the coast of Antarctica towards Indian Ocean side around\n70°S 12°E during t h e second Indian expedition are analysed to obtain the magnetic characteristics of the\nbed rock beneath the ice cover in this region. A magnetic anomaly of the order of 180 200 approximately\n5-6 km from the coast has been consistently recorded in all these profiles The causative source appears\nto be approximately 3 km wide and lying at depth of 2 5 km magnetised with a feeble intensity of 80\n100 nT which could either be a metamorphosed basic intrusion extending deep into the crust or a de-\npression in the bed rock\nINTRODUCTION\nOwing to its pivotal position, Antarctica holds the key to the understanding of dynamics of\nevolution of southern continents which once formed the  Gondwanaland.  Since the discovery of this\nconcept, it has been the constant endeavour of workers to study the  subsurface structures and their\nevolution in the framework of this hypothesis and correlate the significant features from these\ncontinents with those found in the counterpart portion of Antarctica. From this view point, northern\ncoast of eastern Antarctica assumes special importance due to its presumed attachment with east\ncoast of India. However, due to ice cover, most of this continent is inaccessible and thereby\ngeophysical surveys have  special significance in deciphering the bed rock topography and subsurface\nstructures. Magnetic method  of  geophysical exploration has been used considerably for this purpose\n(Wellman, 1982; Mishra, 1983). During the second expedition of Antarctica from India (December,\n1982 - March, 1983) eight magnetic profiles were therefore recorded across Princess Astrid coast\nwhich have provided t h e  magnetic characteristics and structures below the ice cover in this region.\nBed rock below ice cover\nThe region (Fig. 1) characterised by an ice cover of the order of 500 m (Geological World Atlas,\n1976) is probably underlain by high grade metamorphic granites and gneisses of Precambrian period\nwhich are exposed south  of  this region in the hills of Hofmann mountains near  Dakshin Gangotri \n(70°44'75\"S, 11°36'49\"E) surveyed and named by the Indian expedition. The only and most\nsignificant geophysical work in this region to-date are two deep sounding profiles recorded by\nRussians (Kogan, 1972). According to the results of this investigation, basement rocks referred to\nabove are expected immediately below the ice cover and are characterised by deep fractures\nextending almost upto  Moho  and  filled with basic intrusive rocks. These fractures are 2-3 km wide\nand are reported to have  coincided with hig h magnetic and gravity anomalies. In case of any sediment\nbeing present under the ice cover, it should be thin (Bentley, 1974) in this region.\nDATA COLLECTION AND REDUCTION\nFig. 1 presents the area covered by the profiles recorded in the present programme. Eight\nprofiles totalling 65 line  kilometres are laid approximately 500 m apart along which the total intensity\n47\nMagnetic Characteristics of Princess Astrid Coast\nFig 1  Coverage of the surveyed area\nof the earth's magnetic field was recorded at 200 m intervals using a specially designed proton\nprecision magnetometer. This magnetometer can be operated in the low temperature range upto\n-40°C with a reasonable sensitivity of 1 gamma. Base station was occupied twice daily at the start and\nend of the day's survey. Another magnetometer of similar type was operated continuously at the\nbase station to correct for the diurnal variation in the earth's magnetic field. A daily variation of\napproximately 30-100 gamma was recorded during the period of this survey, a typical record of which\nis presented in Fig. 2. This also provided a check on the magnetic storms during which the intensity\nof earth's magnetic field depicted considerable variation and the survey was abandoned. The\nobserved total intensity, along these profiles corrected for the diurnal variation is further corrected\nfor the regional variation in the earth's magnetic field which is approximately 8/km in this region and\nare plotted in Fig. 3 (a, b, c).\nINTERPRETATION AND DISCUSSION\nAs apparent from the corrected magnetic profiles plotted in Fig 3 (a,b,c), all the profiles are\ncharacterised by a rise in the magnetic values as one goes from the coast towards the interior of the\ncontinent, i.e., from north to south. However, due to limitations of logistics, these profiles could not\nbe extended further beyond in order to record the total magnetic picture which would have been\nideal for the quantitative interpretation of large magnetic anomaly recorded in these profiles.\nHowever, the situation is considerably saved as the anomaly has already started falling and the\narea is located in high magnetic latitudes w",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "3]Geophysics and Geomagnetism",
+    "subcategory": "Magnetic characteristics of Princess Astrid Coast of Antarctica 70⁰S, 12⁰E north of Dakshin Gangotri",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:16.077024Z"
+  }
+}

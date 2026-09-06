@@ -1,0 +1,72 @@
+{
+  "id": "article_2",
+  "document_id": "NCPOR-B3C83C",
+  "source_file": "ARTICLE+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/541/3/ARTICLE+2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "17\nEighteenth Indian Expedition to Antarctica. Scientific Report. 2002 \nDepartment of Ocean Development. Technical Publication No. 16. pp 17-50 \nSTUDY OF OZONEHOLEPHENOMENAAND METEOROLOGICAL \nPARAMETERSATSCHIRMACHER OASISNTARCTICADURING \n18\nth\n INDIAN ANTARCTIC EXPEDITION 1998-2000 \nR.P. LAL* AND L. KRISHNAMURTHY**\nINDIA METEOROLOGICALDEPARTMENT\n(*M.C.LUCKNOW, **DDGM(SI), PUNE)\nAbstract\nIndia Meteorological Department has an ongoing meteorological programme\nin the Antarctic Expeditions. During the XVIII Indian Scientific Antarctic Expedition\ninstallation of Brewer Spectrophotometer, for measurement of Total atmospheric Ozone,\nSulphur dioxide and Nitrogen dioxide, Damaging Ultraviolet radiation, to supplement\nthe ozonesonde programme for the study of Ozone hole phenomena was undertaken in\nthe year 1999. In addition to total Ozone, DUV, S02, NO2 measurements using Brewer\nSpectrophotometer, Atmospheric Ozone profile by Ozonesonde, Meteorological and\nClimatological features observed during the year 1999 has been discussed in this re-\nport.\nIntroduction\nThe India Meteorological Department has been continuously participating in all\nIndian Scientific Antarctic Expeditions from the beginning. This is an ongoing Pro-\ngramme of recording and analysing the meteorological data. New members continue to\ncollect and record the different meteorological data during their stay at Indian Antarctic\nStation Maitri located in Schirmacher Oasis Antarctica. During the 18th expedition a \nnew Programme was included i.e. the installation of Brewer Spectrophotometer for\nmeasuring Total Atmospheric Ozone, Sulphur dioxide, Nitrogen dioxide and Damaging\nUltraviolet-B Radiation. This Programme will be continued in future with the other\nmeteorological parameter. Standard equipment and techniques approved as of world\nstandard by World Meteorological Organization (WMO)  i s  being used for the data\ncollection. The synoptic weather data generated is also transmitted over global tel-\necommunication network (GTN) on r e a l time basis for the use of weather forecasting\nworld over.\nR P Lal and L Krishnamurthy: \n18\nScientific Objectives\n1. Scientific objectives for the meteorological Programme during XVIII IAE was\nstudy of Atmospheric Ozone profile, its distribution and annual variation at different\nlevels and total atmospheric ozone using Brewer Spectrophotometer and Antarctic\nmeteorology in general. During the year 1999 following studies were carried out to fulfil\nabove objectives,\na) Daily seasonal and annual variation of atmospheric pressure, surface wind,\nsurface air temperature, surface ozone, snowfall, and clouds.\nb) The atmospheric changes with reference to specific synoptic weather\nsystems.\nc) The radiation budget studies including Total Global Solar radiation and\nDiffused solar radiation.\nd) Monitoring and archival of information through weather satellites and HF\nradio sets regarding weather system affecting the Antarctic continent.\ne) Atmospheric turbidity measurement using Sunphotometer with 500nm filter.\nf) Balloon borne measurements of ozone for its vertical profile over Maitri for the\nstudy of occurrence of Ozone hole phenomena over Antarctica during\naustral- spring months.\ng) Installation of Brewer Spectrophotometer and its operation during all fair\nweather days for study of daily, seasonal and diurnal variation of total Ozone,\nDUV, S02 and N02.\nExecution of the Programme\nDuring onward cruise by ship, MV Polar Bird, observations were taken eight\ntimes a day at three hourly intervals at synoptic hours from the day of departure from\nGoa. At every six hours i.e. at 0000,0600,1200 and 1800 hrs UTC they were transmitted\nto IMD NEW DELHI for onward transmission to GTN.\n2. Surface observational Programme is divided into the following types:\na) Surface observations of all weather parameters recorded at synoptic hours\n19\nStudy of O=one hole phenomena. \non all days and Four observations out of eight were transmitted to 1 M D office\nNew Delhi. India over telex for real time use and for global exchange.\nb) Atmospheric pressure, temperature, wind speed, and direction, surface ozone,\nsnowfall, global and diffused solar radiation are continuously recorded.\nc) Sun-photometer observations were taken on all clear weather days for analysis\nof atmospheric turbidity.\n3. For the study of the Antarctic ozone hole phenomenon 52 Ozonesonde ascents\nwere taken using Indian Electro-chemical ozonesonde. For study of Radiation balance\n18 Numbers of Radiometersonde ascents were taken. From the month of June Ozone\nascents started terminating at much lower height due to premature burst of balloons.\nEven balloons treated with the mixture of ATF and water were found terminating at\nlower levels. The treatment procedure was modified and treatment of balloons was\nattempted using ATF only. This new arrangement worked very good and about 20\nozone sonde ascents taken from the month of September to December reached more\nthan 30 Km till the end of calibration of pressure s",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 33
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Study of Ozone hole phenomena and Meteorological parameters at Schirmarcher Oasis Antarctica during 18th Indian Antarctic Expedition 1998-2000",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:54.232875Z"
+  }
+}

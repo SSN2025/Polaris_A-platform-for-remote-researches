@@ -1,0 +1,72 @@
+{
+  "id": "article23",
+  "document_id": "NCPOR-082CA1",
+  "source_file": "article23.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/282/3/article23.pdf",
+  "bibliographic": {
+    "title": "article23",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SECTION-IV\nBIOLOGY AND OCEANOGRAPHY\nFifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 311-320.\nPrimary and Extracellular Production during Austral Summer\nat 70°S, 12°E, Antarctica\nA. PANT\nNational Institute of  Oceanography\nDona Paula, Goa-403004\nAbstract\nMuch of the 14C radioactivity supplied as NaH14C03 accumulates in the low molecular\nweight fraction of the particulate matter, int o polysaccharides and proteins. There was\nlittle radioactivity in the lipid component. Phytoplankton exudation showed a significant\ndecline with greater depth within the euphotic column. The quality  of material exuded\nalso varied. In some cases, a greater amount of aminoacids was released wh ereas in other\ncases organic acids formed the greater fraction. These data ar e discussed in relation to\nphysical oceanographic factors.\nIntroduction\nEarlier studies have shown that Antarctic phytoplankton excrete from 1 to\n30% of assimilate d carbon as extracellular products (Home  et al.,  1969). Recent\nstudies on marine phytoplankton near the ice-edge at 70°S, 12°E during an austral\nsummer show that several low  molecular weight metabolites are exuded by\nnatural assemblages of Antarctic phytoplankton and that past physiological history\nof sampled populations may determine the nature of exuded material in these\ncolder waters as it  does in other regions of the world oceans. This hypothesis\nis discussed with reference to biomass estimated as chlorophyll a and ATP,\ngrowth r ates of phytoplankton and primary and extracellular pr oduct determina-\ntions.\nThe data presented here was collected during the Fifth Indian Expedition\nto Antarctica, 1985-1986.\nMaterial and Methods\nSeawater sam ples were collected using 5 litre Niskin samplers from 5 depths\nwithin the euphotic zone, and this zone was estimated on the basis of Secchi\ndisc readings and occasional quanta measurements with a LiCor quantameter\nwith deck and submersible cells.\n312 A. Pant \nChlorophyll a was measured on a Turner\n(R)\n fluorimeter using 90% acetone \nextracts of phytoplankton contained in 1 litre or less of seawater filtered through \nauto Whatman\n(R)\n GF/C p apers. \nATP content of 1 litre or less seston material filtered through a 0.45μ \nporosity sterile Mi llipore\n(R)\n membrane paper an d extracted with Tris buffer was \ndetermined using the Luciferin-Luciferase system on an SAI\n(R)\n Photometer. ATP \nand chlorophyll a were determined on board as were pH and alkalinity in \naccordance with techniques in Strickland and Parsons (1972). \nCarbon-assimilation was measured using radioactive bicarbonate \n(Steeman-Nielsen, 1952) in 1 ml of 5μCi N a H\n14\nC0 3 per 100 ml sample of \nseawater. Incubations were done in pumped surface seaw ater in a deck incubator \nfor a minimum of 6 hours although in most cases samples were incubated for \n24 hours. All incubations were done in  triplicate. After incubation samples were \nfiltered onto 0.45 μ porosity membrane filters. Duplic ates from each set were \nput into well-stoppered glass vials with 1 ml each of distilled w ater and methanol \nand stored at -20°C for later analysis of particulate and products. The third set \nof filter papers, one from each depth, was put into Beckman Unisolv\n(R)\n scintillation \ncocktail for subsequent\n 14\nC determination. No  dark correction has been made \nin any of the values expressed as μgC/l/hr although background ha s been \nsubtracted. Radioactive disintegrations were measured  in a Beckman\n(R)\n automatic \nsample changer standardized by the cha nnels ratio method. \nProducts of particulate carbon-assimilation were assayed by successive extrac-\ntions of filtered material in  chloroform, methanol and trichloroacetic acid to \ndetermine l ipid, low molecular weight water soluble compounds, polysaccharides \nand structural proteins in the four fractions by the method of Li  et al.  (1980). \nAll results presented are the average of duplicate determinations. \nFollowing filtration, acidification of filtrate to pH 4 and bubbling with air \nfor 45 minutes to remove inorganic\n 14\nC, the filtrates were neutralized back to \npH 8 and separated into three fractions successively on cation, anion and charcoal \ncolumns eluted with N H 4 O H , HC1 and ethanol in accordance with methods \npublished elsewhere (Shaila ja and Pant, 1986). 5 ml ali quots of eac h eluate were \nfreeze-dried and the radioactivity determined as above. All dpm values have been \nexpressed as μgC/1/hr or μgC/Chl a/hr. Only those dpm values which were \nsignificantly above background have been used in these calculations. \nResults and Discussion \nThe correlation between chlorophyll a an d Adenosine triphosphate (ATP) \nis positive and significant (r\n2\n = 0.67, Fig. 1) and most of the ATP is of \nphytoplankton origin although the /-intercept in Fig 1 suggests that bacterial \nATP also forms a substantial'part of the  extracted material. The vertical d istribution \nof organisms shows a clear sub-s",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "5]Biology and Oceanography",
+    "subcategory": "Primary and Extracellular Production during Austral Summer at 70°S, 12°E, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:38.003893Z"
+  }
+}

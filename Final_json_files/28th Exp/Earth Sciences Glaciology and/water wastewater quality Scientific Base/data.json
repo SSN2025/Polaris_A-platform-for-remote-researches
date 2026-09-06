@@ -1,0 +1,72 @@
+{
+  "id": "chapter_7",
+  "document_id": "NCPOR-16C27F",
+  "source_file": "Chapter+7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1129/1/Chapter+7.pdf",
+  "bibliographic": {
+    "title": "Chapter+7",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "ABSTRACT\nLake water sampling was carried out from Schirmacher Oasis during the XXVIIIth\nIndian Scientific Expedition to Antarctica for determining the various quality parameters.\nThe aim of the studies was to know the water characteristics of area, which are likely to be\ninfluenced by ongoing human activities and scientific research programs of Indian scientific\nstation. Water samples were collected from four lakes and analyzed for Physico-chemical\nparameters, microbiological and radiation contamination. Total dissolved solids were found\nto be maximum 14 mg/l in one of the four lakes. Few Psychrophillic bacteria were found in\nlandlocked lake. Radiation contamination was observed well below the permissible limits\nin all lake water. Two wastewater samples from Inlet and Outlet of wastewater treatment\nunit were also collected to assess the performance of the unit and to measure quality of\ntreated wastewater at Maitri station.\nINTRODUCTION\nWater is an essential element for sustainability of any form of life and\nits existing environment in Antarctica is influenced by natural factors viz.\nWind speed, ambient temperature, ice, snow, blizzard, glacier etc. The es-\ntablished Indian Scientific Base Maitri requires water for its operations,\npursuance of scientific research and other logistic activities in Schirmacher\nOasis. Lakes are the sources of fresh water and can be used as drinking\nwater in Antarctica. Water resources may be influenced in terms of quan-\ntity and quality depending upon the waterrequirements and wastewater\ndischarged by scientific station. The study of water resources at Maitri\nStation is significant for assessing the environmental impacts.\nThe Schirmacher Oasis area is about 100 km inside Princes Astrid\ncoast of Queen Maud Land between the ice shelf and the continental ice\ndome in Antarctica continent. The area has three types of lakes, viz. Pro-\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 247-256\nStudies of water and wastewater quality at Indian\nScientific Base Maitri, east Antarctica during XXVIII\nISEA\nBhupesh Sharma, Manoj Kumar, Pawan K. Bharti, R.K. Singh,\nV . K. V erma and U. K. Niyogi\nShriram Institute for Industrial Research, 19, University Road, Delhi- 110007, India\nE-mail: sridlhi@shriraminstitute.org, Telephone: 011-27667267, Fax: 011-27667676\n248  Bhupesh Sharma, et al.\nglacial Lake, land-locked lake and Epi-shelf lake. During summer, the polar\nice melts and water often flows into the lakes. The valleys are ice-free\nbecause the mountains block the flow of ice from the polar plateau and low\nprecipitation & strong winds lead to little accumulation of snow in the area.\nThe lakes occupy closed basins and vary in surface area, depth and ice-\ncover thickness.\nIndia established first permanent station 'Dakshin Gangotri' (70°05'37\"S\nLatitude, 12°00'00\" Longitude) on ice-shelf on Princess Astrid coast in 1983.\nThis station is now non-operational due to complete burial under ice and\nhas been declared as a historic site (HSM44). The Second Indian Perma-\nnent Scientific Base Maitri in east Antarctica was established in the year\n1989 in the Schirmacher Oasis. It is being operated throughout the year to\ncarry out scientific research in different fields. To support the continuing\nscientific research and stay of scientists and logistic staff, a huge quantity\nof freshwater is required for daily consumption. As a result, a substantial\nvolume of wastewater is generated at Maitri base (Tiwari et al., 2006).\nMonitoring and assessment was conducted to evaluate the quality charac-\nteristics of water and wastewater at Maitri station.\nWWTP Unit at Maitri\nA Wastewater Treatment Plant (WWTP) unit has been installed ad-\njacent to Kitchen/Lounge of Maitri Station. The ETP unit is a BioDisc\nsystem to treat the wastewater, bath and kitchen domestic wastewater\nproduced in Maitri station. The main body and cover of the BioDisc are\nconstructed of Fiber Reinforced Plastic (FRP). A general outline diagram\nof WWTP unit is given in Fig.-1.\nWastewater from Maitri station enters in the Primary Settlement Tank\n(PST), through inlet pipe. All the suspended solids are settled in the bottom\nof the tank and retained for periodic de-sludging. The surface of the BioDiscs\nbecomes colonized by naturally occurring microorganisms, which form a\nvisible coating known as the Biomass. As the biodiscs rotate, the Biomass\nis alternately submerged in the settled waste and aerated by exposure to\nthe atmosphere. Under these conditions the Biomass can efficiently break\ndown the pollutants in the wastewater.\nThe second stage of the Biozone is hydraulically sealed from the first\nstage and maintains a constant liquid level. Liquid is transferred to second\nstage at a steady rate, by a series of buckets attached to the rotor. This\ncontrolled flow of effluent is at the heart of the specially managed flow\nsystem, which promotes healthy and balanced growth of the microorgan-\nisms essential ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology and Climate Change",
+    "subcategory": "Studies of water and wastewater quality at Indian Scientific Base Maitri, east Antarctica during XXVIII ISEA",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:21:41.055238Z"
+  }
+}

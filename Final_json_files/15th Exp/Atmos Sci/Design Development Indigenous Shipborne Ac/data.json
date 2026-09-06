@@ -1,0 +1,72 @@
+{
+  "id": "article_4",
+  "document_id": "NCPOR-E32B02",
+  "source_file": "ARTICLE+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/448/3/ARTICLE+4.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 63-69 \nDESIGN AND DEVELOPMENT OF INDIGENOUS \nSHIPBORNE ACOUSTIC SOUNDER FOR REMOTE \nSENSING OF THE ABL OVER OCEAN \nH.N. Dutta, N.C. Deb*, A.K. Kaushik@ and G.S. Dhillon** \nNational-Physical Laboratory, New Delhi-110 012 \n*Indian Statistical Institute, Calcutta. \n@Department of Electronics, New Delhi-110 003 \n** Punjabi University, Patiala-147 001 \nAbstract \nProbing the lowest 1 km of the planetary boundary layer over ocean is important for \nvarious practical purposes, and to understand the dynamics of atmosphere over ocean. This \nis achieved on continuous basis by an acoustic sounder which captures the thermal picture \nof the atmosphere, on a time-height scale on continuous basis. We have designed and \ndeveloped shipborne acoustic sounders which were installed on the ships M.V. Thuleland \nand M.S. Brinknes. These ships sailed to Antarctica from Goa as part of the Indian Scientific . \nExpeditions to Antarctica. This paper provides detailed information on the basic design \ncriteria for the PC controlled shipborne acoustic sounder and the studies over the ocean. \nUser-friendly software for the system has been developed as to display the dynamic features \nof the atmosphere, in colour on SVGA monitor and to print them on a B&W dot matrix \nprinter. \nIntroduction \nAcoustic sounding is an important technique to probe the Atmospheric \nBoundary Layer (ABL) on round-the-clock basis. It is due to its effectiveness \nand simplicity, probing the ABL, that almost all the atmospheric science \nprogrammes all over the world, utilise acoustic sounding system, as an integral \npart of the probing systems. The technique has been developed to study the' \nABL over various terrains (hilly as well as flat), valleys, Antarctica, and even \nover the floating vessels. \nThe ABL group at NPL has designed and developed various types of \nmonostatic acoustic-sounders, including the one deployed at Maitri, Antarctica: \nThe group has to its credit transfer of technology of the equipment to a private \n64 H. N. Dutta et al. \ncompany, and thus holds total grip on the hardware, software, and other \nassociated problems. \nThe development of shipborne systems is a technological challenge, as the \nvessel is moving, and at the same time, it experiences pitching and rolling, apart \nfrom squatting. Ship also experiences high vibrational noise under the impact \nof sea waves, tides and swells. This also makes the moving platform noisy, and \noffers a challenge to acoustic sounding of the ABL over ocean. \nIn India, the first shipborne acoustic sounder was deployed onboard the \nship M. V. Thuleland during its return journey from the Indian Bay in Antarctica \n(69.98oS lat. and 11.2°E long.) to Goa (15.2°N lat. and 73.8°E long.) during \nFebruary-March, 1993 (12th Indian Scientific Expedition to Antarctica). How-\never, in this system, the antenna was stationary and no correction was applied \nfor the pitch and roll of the ship. Moreover, the data was received on facsimile \nchart and no correction could be applied to ensure the quality of data. However, \nthis development made India as one of the six nations to have developed the \nindigenous technology of shipborne acoustic sounder. \nTo overcome the limitation of pitch and roll, gyrostabilised antenna was \nmounted onboard the ship M/S Brinknes during its journey to Antarctica in the \nyear 1 995-96 (15 Indian Scientific Expedition to Antarctica), and the whole \nsystem was PC controlled. \nThis paper presents the details of this system and the efforts required for \nits upgradation in future. \nTechnique \nIn the acoustic sounding, a powerful pulse of sound is transmitted vertically \nup into the atmosphere and scattered signals from the thermal perturbations of \nthe atmosphere are received back by the same transmitting antenna. Fig.l \npresents basic system concept of a monostatic acoustic sounder. The returned \nsignals carry information of the thermal structure of the atmosphere and display \nalmost all the known atmospheric phenomena including convection, inversion, \ngravity waves, KH-waves, land and Seabreeze, trade wind inversions, hot and \ncold fronts etc. The records are displayed on a PC and printed on a dot matrix \nprinter. \nDesign Philosophy \nThe shipborne acoustic sounder has to operate over a moving, noisy \nplatform, therefore, the design criteria must take care of the following : \nDesign and Development of Indigenous Shipborne 65 \nFig. 1: Basic system concept of monostotic Acoustic Sounder \n1. High Doppler shift of scattered signals due to the moving ship and high \nrelative wind speed over ocean. \n2. Movement of the ship causing loss of returned signals. Pitch and roll of \nthe ship. \n3. High noise due to the ship engine, striking oceanic waves and tides. In \nthe Antarctic ocean, the ice breaking by the ship causes high vibrations \nand noise, requiring a high degree of isolation of",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Design and Development of Indigenous Shipborne Acoustic Sounder for Remote Sensing of the Abl over Ocean",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:34.291068Z"
+  }
+}

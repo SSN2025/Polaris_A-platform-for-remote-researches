@@ -1,0 +1,72 @@
+{
+  "id": "pages_from_79_86",
+  "document_id": "NCPOR-D15AA5",
+  "source_file": "Pages+from+79-86.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/704/1/Pages+from+79-86.pdf",
+  "bibliographic": {
+    "title": "Pages+from+79-86",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "11] Scientific Report Eleventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eleventh Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development . Technical Publication No. 9, pp. 79- 86 \nDesign and Development of a PC Controlled Acoustic \nSounding System for Antarctica \nN.C. DEB, JAYA NAITHANI and MIRA KAPOOR \nNational Physical Laboratory \nK.S.Krishnan Marg,New Delhi - 110 012. \nAbstract \nIndian planetary boundary layer programme in Antarctica is being inducted in a phased \nmanner. As part of this programme, a monostatic, PC controlled acoustic sounding system \nhas been designed, developed and installed at the Indian station Maitri (70.7°S: 11.7°E) in \nAntarctica. \nIntroduction \nRapid progress in the acoustic sounding technology has made it to be an \neffective and  simple tool  for  probing the planetary boundary  layer  (McAllis-\nter, 1968,McAllister et  al.,1969,Beran  et  al.,19 71,Gurm e t al.,1982 ) an d th e \ntechnique has  been  utilised  in  countless  applications  (Hooke  et  al.,1972,So-\nmal,1981,Dutta et al.,1989,Rao et al.,1991,Dutta et al.,1990,Venkatachari and \nDutta,1990,Prasad et al.,1991). As a result, there has been a rapid progress in \nthe development of technology itself and today, acoustic sounding is an integral \npart of almost all atmospheric science programmes even under the most hostile \nAntarctic environment  (Neff,1980,Kobayashi  and  Ishikawa,1983,Fiocco  et \nal., 1990,Dutta et al., 1991) where the success still depends on skill, imagination \nand efforts particularly in manned  operations. The Indian PBL programme in \nAntarctica is relatively new. By now, an automatic weather  station and  a 9m \noperational instrumented tower have been established to record data apart from \nthe surface based  meteorological observations, radiation  data  and  radiosonde \nflights.An acoustic sounder has also been fitted. \nGeneral climatic features over Maitri: \nThe average atmospheric temperature remains between 0 in summer and \n-30°C during peak winter period. Maitri station  experiences winds  from  ESE \nand SE  directions. During  the  passage of extra-tropical systems,  strong  gusty \n80  N.C  Deb et al. \nwinds from SE direction are observed. In general, winds are stronger in winter \nthan in summer. In winter, extra-tropical systems around the continent are more \nprevalent causing strong,  gusty  winds  on  most  of  the days  with  an  average \nvelocity of around 25-30 knots. From the acoustic sounding point of view, the \nwind speed .beyond 30 knots and  snowfall, generally termed as bad weather, \nare the  noise  producing  sources  in  which  acoustic  sounding  recording  is \nseverely affected. \nDesign philosophy \nThe atmospheric studies at the Indian stations Dakshin Gangotri and Maitri \nhave given basic inputs for the design and development of the proposed system. \nThe inputs  being  the high wind velocities loaded with  ice  crystals (upto  240 \nkm/hoyr wind velocity is recorded), low temperatures (upto -50°C) and abso-\nlutely no noise under normal conditions. The only sources of natural noise are \nthe winds and snowfall, and the man made periodic noise is die to the electricity \ngenerators and  continuous noise for a short period (5 to 10  minutes only) is \nduring the helicopter operations. Among all these factors, it is advantageous to \nhave lower  temperature  which  reduces  the  thermal  noise  of  the  system  in \nAntarctica. Low  noise  and  normal  wind conditions will  enhance  the system \nperformance in Antarctica. Therefore, if a proper shield is designed, the same \nsystem which is functioning in India, will operate in a better way in Antarctica . \nDue to limited manpower available to look after the system operation, it \nwas decided to make a PC based system so that  the continuous recording,  is \nmade automatically for days together on the HDD and  the data is transferred \nonto a  CTD/FDD,  Also,  the  colour  display  gives  a  better  insight into  the \natmospheric dynamics. \nPrinciple of operation \nIn this acoustic sounding system., a powerful pulse of sound is transmitted \nvertically up into the atmosphere by a 6' parabolic fibre glass dish. The weak \necho that returns from  the atmospheric thermal inhomogeneities are received \nby the same antenna. These weak signals are amplified and recorded either on \na PC or on a conventional facsimile recorder. The trigger for transmission of \nacoustic energy  at  regular  intervals  is  available  through  the  PC  and  it  also \naccepts an external trigger from a facsimile recorder. The advantage of using \nboth the recording media is to see the similarity of patterns and to modify the \nsoftware to bring the computer pictures close to the analog pictures which are \nwell accepted internationally  (McAllister,1968 & McAllister et al., 1969). \nDesign and Development of a PC Controlled \nBasic system \nThe basic system consists of four parts: \n1. The system electronics including the pre-amplifier. \n2. PC based recording system and operating software. \n3. Antenna assembly and acoust",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "2]Atmospsheric Sciences",
+    "subcategory": "Design and development of A PC Controlled Acoustic Sounding System for Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:46.852407Z"
+  }
+}

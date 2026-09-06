@@ -1,0 +1,72 @@
+{
+  "id": "chapter_5",
+  "document_id": "NCPOR-D73CB6",
+  "source_file": "Chapter+5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1096/1/Chapter+5.pdf",
+  "bibliographic": {
+    "title": "Chapter+5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Physico-Chemical Analysis of Waste Materials\nProduced at Indian Scientific Base Maitri in\nAntarctica\nNarendra Pal, Bhupesh Sharma, Pawan K. Bharti,\nR.K. Singh, V. K. Verma and U. K. Niyogi\nShriram Institute for Industrial Research, Delhi\nABSTRACT\nActivities which can have an effect on the environment at Maitri station are mainly:\noperation of generator, snow vehicle movement, disposal and treatment of waste, workshop\nactivity, fuel storage and oil spill, station activity, new construction activity, executing\nscience projects etc. Physico-chemical analysis of waste materials viz. wastewater, ash and\nwaste oil samples collected during the 27th expedition under the Environmental\nManagement Plan was carried out. The most important parameter for wastewater, biological\noxygen demand (BOD) at inlet to WWTP was found as 397 mg/l and at outlet (after\ntreatment) was 107 mg/l. Food Ash sample was found to have higher iron and magnesium\ncontents 23.2 and 10.4 mg/l respectively. Considerable quantity of zinc was found in waste\noil samples. The aim of the study was to carry out a monitoring and assessment study of\nthe waste materials at Indian Scientific Base Maitri and to have their physico-chemical\ncharacterizations.\nKeywords: Antarctica, Maitri Station, Waste Management, Assessment.\n1.0  INTRODUCTION\nSchirmacher Oasis is situated at about 100 km inside Princess Astrid\ncoast of Queen Maud Land, between the ice shelf and the continental ice\nsheet of Antarctic continent. It is about 2.5 km in width and 17 km in\nlength and covers about 35 sq. km. area of low-lying hills, with an average\nelevation of 100 m above the sea level. The geographical co-ordinates lie\nbetween Latitudes from 70 44.21 S to 70 46.04 S and Longitudes from 11\n26.03 E to 11 49.54 E. The average annual temperature is -10°C and mean\nwind speed is about 10 m/s. The average snow precipitation ranges\nbetween 2 to 3 cm and relative humidity is 15-20%. Air temperature ranges\nbetween -5°C and +9.2°C during summer months and between -12°C and\n-40°C during winter months (Richter, 1984).\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 241-248\n242                                      Narendra Pal, et al.\nIndian Scientific Base Maitri in East Antarctica was established long\nback in the year 1988 in the Schirmacher Oasis.  Since then, it has been a\npermanent Indian scientific base at Antarctica and is being operated\nthroughout the year to carry out purposeful research in different scientific\nfields, comprising of Atmospheric Sciences, Earth Sciences, Geomagnetism,\nBiological and Environmental Sciences, Human Physiology and Medicines,\nMeteorology, Ecology, Glaciology etc. It has facilities to conduct\nscientific research in several fields (Tiwari et al., 2006).\nStorage of food materials, cooking of food, maintenance of\ngenerators, cranes, snow scooters, piston bully vehicles, supply of\ndrinking water, te.wastewater discharge etc. are the regular and\nsupportive activities. These activities, to some extent, have an impact on\nsurrounding environment (SIIR, 2010).\n2.0  METHODOLOGY\n2.1  Sampling and Analysis of Wastewater\nWastewater sampling and analysis was carried out as per the\nguidelines of IS: 3025 (Relevant Parts) and APHA (2005).\n2.2  Sampling and Analysis of Ash Samples\nAsh residue left after burning of solid waste may contain hazardous\nsubstance and needs to be disposed of as per the standard guidelines.\nAnalysis of collected ash samples was carried out using the methodologies\ngiven in relevant parts as specified in IS: 1727. Chemical, titrimetric,\ngravametric and instrumental methods were used for various analyses.\nHPLC grade water was used for reagent preparation and blank\ncorrections. Analytical grade reagents were used in analysis of the samples.\n2.3  Sampling and Analysis of Waste Oil\nTwo samples of used oil were collected from Maitri station. First\nsample was collected from a drum containing stored used-oil and the\nsecond sample was collected from the workshop area, where used oil was\nstored.\nAnalysis of collected oils samples were carried out using the\nmethodologies given in various relevant protocols as specified. Chemical\nand instrumental methods were used for various analyses. HPLC grade\n          243Physico-Chemical Analysis of W aste Materials Produced at Maitri....\nwater was used for reagent preparation and blank corrections. Analytical\ngrade reagents or pure quality reagents were used in analysis. Used oil\nsamples were analyzed as per guidelines of ASTM D 5184 & IS 1448.\n3.0  RESULTS AND DISCUSSION\n3.1  Wastewater\nResults of analysis of wastewater are presented in Table 1. These are\ncompared with prescribed limit for effluent discharged into inland surface\nwaters Indian Standards: 2490 (1974) given by Central Pollution Control\nBoard (CPCB).\nTable 1– Wastewater quality at Maitri Station\nINLET OUTLET \n1 pH 5.5 – 9.0 6.2 7\n2 Total Suspended Solids, \nmg/l\n100 1380 34\n3 Dissolved Solids, mg/",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "4] Biological and Environmental Sciences",
+    "subcategory": "Physico-Chemical Analysis of Waste Materials Produced at Indian Scientific Base Maitri in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:14:58.618558Z"
+  }
+}

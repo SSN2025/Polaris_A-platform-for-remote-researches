@@ -1,0 +1,72 @@
+{
+  "id": "article8",
+  "document_id": "NCPOR-54EB90",
+  "source_file": "article8.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/267/3/article8.pdf",
+  "bibliographic": {
+    "title": "article8",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No, 5, pp. 157-167 \nGeotechnical Properties of the Antarctic Rocks*\nC. MUKHERJEE, K. SESHAGIRI AND T. RAMAMURTHY\nDepartment of Civil Engineering, Indian Institute of Technology,\nNew Delhi-110 016.\nAbstract\nRepresentative rock samples of the terrain between Schirmacher hills and Wohlthat\nmountains were subjected to tests for identifying some of their geotechnical properties,\non an experimental basis.  The tests for petrographic character, physical properties and\nstrength were carried out using standard test procedures. The results obtained are falling\nwithin the range of values generally acceptable for such rock types.\nIntroduction\nAn experimental programme was planned and executed to understand the\ngeotechnical characteristics of some of the rocks occupying the terrain in the\nSchirmacher hills and Gruber massif regions of the Princess Astrid Coast of\nQueen Maud Land, Antarctica which are the bedrock areas nearest to the Indian\nresearch station, Dakshin Gangotri. Ten representative rock samples from this\nterrain consisting of granulites, granitoid, melasyenite and various types of gneisses\nwere studied on an experimental basis. The details of their petrological nomenclature\nand regional location were supplied by the Leader of the Fifth Indian Expedition\nto Antarctica. These are presented in Table I and Fig. 1, respectively.\nTable I. List of Samples\nSl.No.\n1.\n2.\n3.\n4.\nCode of Study\nDrill core\nGneiss A \nGneiss A6\nGneiss B \nRock type\nMelasyenite\nMicrocline\nporphyroblastic gneiss . \n—do— (weathered)\nGarnet-bearing\ngneiss with mafics\nRegional location\nL1\nL1\nL1\nL1\n* Abridged by the  Expedition Leader from the detailed report submitted by the authors,\n158\nSl.No.\n5.\n6.\n7.\n8.\n9.\n10.\nCode of Study\nGneiss C \nGneiss D \nAugen gneiss\nBasic granulite\n-do-\nGneiss N \nC. Mukherjee et al.\nTable I. (Contd.)\nRock type\nGarnet-bearing por-\nphyroblastic gneiss with\npegmatite veins\nMicrocline rich\ngranoblastic gneiss\nwith foliation\nAugen gneiss\nBasic granulite\n—do—\nGranitoid\nRegional location\nLl\nLl\nL2\nL2\nL2\nL2\nFig. 1. location map \nGeotechnical Properties... 159 \nTests Conducted \nKeeping the scope of this study in view, th e tests that were conducted and \nthe procedures used are given below: \nPurpose Tests \nPetrography Thin section study \nX-ray diffraction an alysis \nScanning Electron Microscopy. \nPhysical Density determination \nProperties Specific gravity determination, \nwater absorption  determination \nporosity determination, permeability \nStrength Uniaxial compressive stength \nproperties (  o- C) \nBrazilian (Tensile) strength \n(o- tb) \nReference \nISRM, 1978 \nASTM using JCPDS \nindices \nIS 2720 (pt.III) \n1964 ISRM, 1972 \nISRM, 1972 \nISRM, 1978 \nISRM, 1977 \nIS 9143, 1979 \nISRM, 1978 \nASTM = American Standard Testing Methods \nJCPDS = Joint Committee on Powder Diffraction Standards (1972), Pennsylvania (USA) \nISRM = International Society of Rock Mechanics \nIS = Indian Standards \nProcedure \nThe related standard test procedure for different tests conducted are as follows:-\n1. Petrography/mineralogy \n(a) Thin section studies:  For all rock samples thin sections were prepared \nto study the optical pro perties of these rocks. Textural and mineralogical \nobservations were made for these sections under p rogrammable camera \ninter-phased microscope of N iccon (Japan) with ordinary and polarised \nlight at 100 A.S.A. exposure. \n(b) X-ray diffraction analysis:  X-ray diffractograms were obtained from the \npowder of rock samples (size 75Μ) using Rigabu Denki Co. Ltd. (Japan), \nCat No. 4057 A2 machine. Copper target (λ = 1.54), 2  theta values \nupto 85° with a scanning rate of 2 deg/minute were adopted. During \nscanning the variation in electrical potential (voltage) intensity is  interph-\nased with co mputer. Thereafter, the programme is executed by the \ncomputer in order to number the major peaks and their 'd' values for \nthe corresponding 2 theta values. Relative to th e strongest peak of the \ndiffractogram, feeble peaks upto 1 percent were scanned. \n_____________________________________________________________________ \nC. Mukherjee et al. 160\n(c) Scanning electron microscope:  In order to study the shape, size,\norientation of grains, intergranular arrangement, fracture pattern and\nother related textural characteristics, advanced Cambridge Stereo Scan\nwas employed.\n2. Physical properties\nWater absorption, saturated and dry densities, specific gravity and  effective\nand absolute porosities were determined using standard procedures.\nEffect of water head (confining pressure/cell pressure) on coefficient of\npermeability was studied at constant water heads equal to 1.38, 3.35 and\n5.51 MP a for all rock samples.\n3. Strength properties\nA very limited number of Brazilian and uniaxial strength tests of some\nrock samples were carried out. This was due to lack of sufficient quantity\nof rock specimens. For uniaxial compressive tests specim",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2]Geology and Geophysics",
+    "subcategory": "Geotechnical Properties of the Antarctic Rocks",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:06.449143Z"
+  }
+}

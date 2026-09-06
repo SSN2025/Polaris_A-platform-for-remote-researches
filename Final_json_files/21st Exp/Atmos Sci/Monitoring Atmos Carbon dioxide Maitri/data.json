@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_95_101",
+  "document_id": "NCPOR-6D650C",
+  "source_file": "Technical+Publication+No.+19%2C+pp+95-101.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/837/1/Technical+Publication+No.+19%2C+pp+95-101.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+95-101",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 95-101 \nMonitoring of Atmospheric Carbon Dioxide (C02) \nat Maitri, Antarctica \nSachin D. Ghude, S.L. Jain and B.C. Arya \nRadio & Atmospheric Sciences Division \nNational Physical Laboratory, New Delhi - 110012, India \nAbstract \nThe changing behavior of the atmospheric greenhouse gases, which are very \nfundamental to climate change, can be understood with the coverage of global \nmeasurements. In light of this an automated gas chromatograph has been setup in January \n2002 at Maitri (70° 46'S, 11° 45'E) Antarctica for the measurements of greenhouse gases, \nsuch as Carbon Dioxide (C02), and Methane (CH4). Annual average C02 found out to \nbe 368.5 ppm. The C02 concentration was found to vary in between 360 ppm to 377 \nppm during observational period. Monthly average C02 concentration showed rising trend \nhowever no seasonal variation was observed during the year 2002. \nIntroduction \nThe possibility of global warming due to anthropogenic and natural \nvariations of greenhouse gases has been debated increasingly in the last \nfew decades1\"5. The current important issues, which are dangerous for the \nsurvival of life on the earth, are global greenhouse warming, regional \nincrease in tropospheric ozone, urban and regional atmospheric pollution \nand the decrease in stratospheric ozone and ozone hole over antarctica6\"8. \nCarbon, in the form of C02, carbonate and organic compounds, is cycled \nbetween three main reservoirs, namely the atmosphere, the terrestrial \nbiosphere and the oceans. The observed increase of C02 in the atmosphere \nhas come largely from fossil fuel combustion and cement production9. \nFossil fuel combustion and the deforestation are the sources of the \natmospheric C02 but the atmospheric concentration of the C02 is affected \nonly by exchange between atmosphere and ocean. The green house effect \nof C02 increase, which has been the subject of scientific studies since later \nhalf of the nineteenth century10, has gained tremendous momentum during \nlast two decades. C02 is the critical element in the greenhouse effect, with \na current radiative forcing of 1.46 Wm'2, and most important agent of \n96 Sachin D. Ghude, S.L. Jain and B.C. Arya \npotential future climate warming because of its large current greenhouse \nforcing, its substantial projected future forcing, and its long persistence \nin the atmosphere. Various investigators \"~18 have reported measurements \nof C02 in the upper troposphere as well as ground level. The most of the \nobservations for green house gases are being made on western longitudes \nand almost no regular measurements in our region. In view of the above, \nonline measurements of various green house gases have been started during \n21st Indian Antarctic Scientific Expedition at Maitri and Methane in 22nd \nExpedition. In the present communication experimental setup and the \nresults obtained are discussed. \nExperimental Setup \nVarious techniques have been used for the continuous in suite \nmeasurement of atmospheric greenhouse gases at various places over \nglobe. Keeling et al. (1976) and Bacastow (1981) reported gas flasks \nsampling technique for continuous measurement of C02 using \nnondispersive infrared gas analyzer at South Pole, Antarctica19\"20. Francey \n(1996) Langenfelds (2001) reported analysis of air sample collected from \nthe South Pole using Gas Chromatograph 21. The instrumentation system \nfor the online measurement of surface C02 and CH4 using gas \nchromatograph during measurement period at Maitri, Antarctica is as \nshown in Fig. 1. \nFig. 1: Block diagram of gas chromatography \nThe instrumentation system has an independent nitrogen generator \nproducing ultra high pure nitrogen as carrier gas at site that transports the \nMonitoring of Atmospheric Carbon Dioxide (C02) at Maitri .... 97 \nsample components through the column to the detector. The system also \nhas separate Hydrogen Generator and inbuilt air compressor which is \nneeded to produce flame for FID (flame ionization detector). The samples \nfrom ambient air are injected into the column by an online sampling pump \nfor known interval of time. The entire process of online sample collection \nfrom ambient air and sample injection is handled by computer-controlled \nsoftware. To achieve optimum separation, good accuracy and precision, \ngood regulation of pressure and flow rate of mobile phase and temperature \nprogramming of the column is done using dedicated computer controlled \nsoftware. Additional regulation for the gas supplies to FID is also done \nby same technique. \nThe switching of carrier gas is achieved using ten port switching \nvalve already integrated in GC. Column switching is used to switch the \ncarrier gas through sample loop and injects sample into the column at \ndifferent interval of time, and also for venting, back-flushing, dual column \noperation and two achieve column switching. Two sepa",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Monitoring of Atmospheric Carbon dioxide at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:39.727524Z"
+  }
+}

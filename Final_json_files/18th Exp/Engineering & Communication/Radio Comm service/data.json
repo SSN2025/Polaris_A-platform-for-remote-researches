@@ -1,0 +1,72 @@
+{
+  "id": "article_19",
+  "document_id": "NCPOR-F396C8",
+  "source_file": "ARTICLE+19.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/560/3/ARTICLE+19.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+19",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "373\nEighteenth Indian Expedition to Antarctica, Scientific Report. 2002 \nDepartment of Ocean Development, Technical Publication No.16. pp 373-379 \nRADIO COMMUNICATION SERVICE IN ANTARCTICA\nHemant Gaur & Somprakash\nDefence Electronic Applications laboratory, Dehradun\nAbstract\nDefence Electronic Applications Laboratory, Dehradun, of DRDO  provided real\ntime communication to the 18th Indian Scientific Expedition to Antarctica. The continu-\nous communication with the rest of the world has been extended in the form of Voice as\nwell as Data communication. An excellent feat was achieved in VHF communication\nthroughout the expedition by installing repeater station at Veteheia Hill. This paper\ndescribes the details of communications and the facilities available at Maitri, Indian\npermanent scientific base at Antarctica.\nIntroduction\nThe real time communication is considered as the backbone of any mission be it\nin war or an expedition. Nowadays communication can be provided to any remote \ncorner of the world. But providing communication to the Antarctic environment is a \nchallenge because of the windiest and coldest working conditions as well as magnetic\nstorms, static electric charge and high magnetic field. DEAL, Dehradun has been\nentrusted the responsibility to carry out the communication requirements of the team.\nThe XVIII Indian Scientific expedition to Antarctica, under the Leadership of Shri\nAjay Dhar sailed off Goa on 14\nth\n Dec 1998. The team comprised of 60 members from\nvarious organisation of India and a member from Iranian National Centre for Oceanog-\nraphy (INCO), Iran.\nSince 1995 (XV Expedition), DEAL, Dehradun, was entrusted with the responsibil-\nity of total communication support for the Indian Antarctic Expedition along with SCIEN-\nTIFIC STUDIES and the DEAL team took over the responsibility from Indian Navy.\nDEAL'S participation in the Indian Antarctic Scientific Programme started in 1991\nwith a summer member to carry out experiments in HF propagation & DATA transmission.\nThe main objectives of the DEAL  team during 18th ISEA were:\n1. Installation of VHF repeater station\n374\nHemant Gaur and Somprakash \n2. VHF/HF communication and propagation studies.\n3. Reception of Contour weather chart from Pretoria on HF.\n4. Scientific data transmission\n5. Communication support to convoys and field camp.\n6. Aviation band communication\n7. Phone, Fax and Telex service through Satcom Terminal\n8. Operation of E-Mail, picture transmission and Internet.\nActivities\nThe expedition touched the Indian Antarctic coast on 10\nth\n of Jan 1999 by the\nchartered vessel MV Polar bird.\nDuring sea voyage phone/fax facility was provided to the members by DEAL\nteam using the system available on board ship. We were also maintaining regular HF\ncontact with India and Maitri during voyage. Messages for logistic support and other\ninformation were regularly exchanged between ship and Maitri. There was severe tech-\nnical fault in the aviation band radio set of the Ship. The communication facilities were\nprovided through our own new set from the Ship for two days. Later the DEAL team\nrectified the fault.\nVHF Repeater Station\nThe primary task on our arrival at Maitri, the Indian Antarctic Station, was to\ninstall a VHF repeater station at Veteheia Hill, 8km away from Maitri. The team visited\nVeteheia Hill to install the same on 18\nth\n January 1999. The repeater station was success-\nfully installed with the erection of ground plain antenna tied by guy ropes in order to\nprotect it from the heavy wind at the Hill. The repeater module was powered by 12-volt\nlead acid battery charged through two solar panels. The communication was sustained\nfor only 6 to 7 days at the maximum due to lack of power, as the two solar panels were\nnot sufficient enough to charge the battery for continuous power supply to the system\nwhile 24 hours sunlight was available during summer period. So, an alternative source\nfor charging the battery was thought of and as a result, a windmill from National Aero-\nspace Laboratory, Bangalore was commissioned to charge the battery on 24' February\n1999. This time the windmill charger charged two 12 volts batteries, connected in paral-\nlel. As the Veteheia Hill is an isolated place without any shelter so the repeater and all\nother accessories were put in two wooden boxes sealed properly. Although communi-\n. cation was proper but during heavy blizzard it was found that the wooden boxes were\nfilled with snow through newly developed leakages. The snow accumulation inside the\nwooden boxes might have caused severe damage to the equipment but regular clearing\nof snow and maintenance made the system operational successfully. After the comple-\ntion of first phase of convoy the repeater station was removed from Veteheia peak in the\nRadio communication service in Antarctica \n375\nlast week of May 1999. The repeater station was closed in order to avoid the damage\ncaused by high wind, blizzards and cold during peak winters.\nDuring the summer time co",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "6]Engineering & Communication",
+    "subcategory": "Radio communication service in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:47.989093Z"
+  }
+}

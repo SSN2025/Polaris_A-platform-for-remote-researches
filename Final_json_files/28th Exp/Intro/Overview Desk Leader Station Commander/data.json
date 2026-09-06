@@ -1,0 +1,72 @@
+{
+  "id": "expedition_overview",
+  "document_id": "NCPOR-E951CB",
+  "source_file": "Expedition+Overview.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1112/1/Expedition+Overview.pdf",
+  "bibliographic": {
+    "title": "Expedition+Overview",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "xxvi Pradip Ma\nlhotra\nIT Tunnel layout is dug in the permafrost and now being completed\nOn 13 th November our logistic team left in a convoy together with\nRussian friends to bring 100 kl of fuel from the Russian Bay to the airport\nfor ALCI operations of IL76 flights. This was done in the spirit of\nOverview from the Desk of the Le ader & Station\nCommander of 28 th I SEA\nTwenty Eighth Indian Scientific Expedition (28th ISEA) to Antarctica \nsta\nrted taking shape from the moment 15 members of the team assembled \non 29th O\nctober 2008 at G oa for the briefing sessi ons at NCAOR & F ire \nFighting training at the Directorate of Fire and Emergency Services at Panjim. \nAfter t\nhe preliminary activities we finally said adieu to NCAOR, The first \nbat\nch of our Expedition members of 28 th ISEA was flagged off by Shri \nRasik R\navindra, Director NCAOR to embark upon a journey on 31st October, \n2008 towards Antarctica via Mumbai, Dubai and Cape Town. On the \nmidnight of 5th November, 2008, we all took the IL-76 flight to Maitri \nand landed at\n Novolazarevskaya  Runway near Maitri in the very early hours \nof 6th November, 2008. Virtually this was the beginning of 28th ISEA.\nThe team members \ntook a couple of days to acclimatize to Maitri  \nenvironment and climate. \nOur first job was to repair and commission a non-\nfunctional excavator. It took some time, but the machine proved to be an  \nasset during the \nnext few weeks. Simultaneously, we started the planning of \nour IT project. T\nhis was a gain a very important project because ultimately it \nproved to be the greatest help in warding off the monotony of Antarctic  \nW\nin\ntering. Mishmi Hut  was selected as the IT hub of th e Summer \nCamp network at Maitri. Digging of a trench was started with the help of \nExcavator. Through this trench passed IT, Telephone & Electrical lines \nfrom main station to \nSummer Camp.\nAn Ove\nrview of the 28th Indian Antarctic Expedition         xxvii\nInternational co-operation in Antarctica. This operation was completed by\n15th November, 2008.\nWith the installation of Earth Station by 26th & 27th ISEA teams in the\nprevious year, we were privileged with the availability of current news and\ndevelopment around the world. We celebrated one such important event of\nChandrayan landing on Moon on 14th November at Maitri.\nLanding of Chandrayan on Moon being celebra\nted at Maitri on 14th November\n2008\nFrom 16th November to 30th November 2008 our logistic team went\nthrough hands on training programme under supervision of Mr. Marc Oliver\nBlattner, from Kassbohrer Company which supplies the Pisten Bully vehicles\nto our station. Our members utilised the opportunity to its maximum and\nthis was evident to me during the later phases of the expedition by observing\ntheir vehicle handling & maintenance.\nW orkshop training for \nPisten Bully vehicles maintenance\nxxviii Pradip \nMalhotra\nWhile this work was going on at the workshop, other members were\nbusy in replacing the whole of old defunct duct line from Pump House to\nMaitri Station from 18th November onwards. In the meantime other activities\nwere going on in full swing. Our scientists from NPL were busy in installing\nthe Digital Ionosonde Antenna near the Dobson Hut on a 28 metre high\ntower with help from other members of the expedition.\nInstallati\non of Ionosonde\nOne scientist, Dr. Asim Bej of Tavani Expedition from USA, sponsored\nby NASA, expressed his desire to work in and around the lakes of\nSchirmacher oasis and asked for our assistance. Maitri members were too\nhappy to extend the hospitality and members from GSI, AU & NBRI worked\ntogether with him on scientific issues.\nWith Dr Asim B\nej of Tavani Expedition during a traverse\nOn 1st of December another new instrument, \"Electric Field Meter\"\nwas installed by our Scientist from IIG Shri C. Panneerselvam for\nAn Overvi\new of the 28th Indian Antarctic Expedition         xxix\nmeasurement of Air Earth Current. On 5th December 2008, our first Joint\nconvoy of 27th & 28th Logistic team started with an additional task of pole-\nmarking of critical points of the convoy route.\nElectric Field \nMonitor installed by scientists from IIG\nParticipants briefing for1st Joint Convoy \nFrom 14th to 19th December 2009, an important task of widening and \nlevelling of the road at Dozer Point, was taken up and successfully \ncompleted by the Logistic team members of 28 th ISEA. This will save \nwear & tear of our Pisten Bully vehicles.\nBefore Dozer Point Remodelling\nxxx Pradip \nMalhotra\nSame path \nafter repair\nDuring this time the planning and execution of laying out the LAN\nnetwork in the main station and the Summer Camp was going on in full\nswing. The planning that was initiated on 8 th No v em be r w as e xe cuted in\nvarious phases of digging the trench, laying out the cable for indoor and\noutdoor networking and establishing the LAN. This host of activities\nultimately culminated in Inauguration of Internet facilities at Maitri on 12th\nof December 2008 by Shri Arun Chaturvedi, outgoing Lea",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 51
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "Overview from the Desk of the Leader & Station Commander of 28th ISEA",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:18:35.241279Z"
+  }
+}

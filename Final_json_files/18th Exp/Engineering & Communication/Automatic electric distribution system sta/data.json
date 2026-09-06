@@ -1,0 +1,72 @@
+{
+  "id": "article_17",
+  "document_id": "NCPOR-5CA1DA",
+  "source_file": "ARTICLE+17.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/558/3/ARTICLE+17.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+17",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eighteenth Indian Expedition to Antarctica, Scientific Report. 2002 \nDepartment of Ocean Development. Technical Publication No 16.pp 355-361 \n355\nAUTOMATIC ELECTRIC DISTRIBUTION SYSTEM AT\nINDIAN ANTARCTIC STATION MAITRI; NEED OF THE DAY.\nNarendra D Angal\nResearch & Development Establishment (Engrs), Pune.\nAbstract:\nThis report contains the work carried out during the summer of XVIII Indian Antarctic\nExpedition. Various projects were undertaken by R&DE  (Engrs), Pune, in the past and\nsome modification was needed in maintenance and methodology from time to time. A \nspecial attention was paid for distribution of electrical loads in the station, balancing of\nthese loads in different phases and designing of automatic alarm system in case of any\neventuality.\nIntroduction:\nThe maintenance and upkeep of Maitri Station and its life support system is\ncarried out by R&DE  (Engrs), Pune from the time it was constructed. Various parameters\nwere recorded for monitoring Generators, Maitri foundation. 28m mast etc. The data\ncollected was analysed at R & D E (Engrs) and various measures suggested for the\nmaintenance and upkeep of Station and its life support systems. As the Station and its\nlife support systems are becoming older day by day, the chances of failure and break-\ndowns are on the rise. A continuous and proper vigil needs to be maintained over these\naging systems to avoid any major breakdown in future. Over the past few years, changes\nin the procedure of condition monitoring and methodology have been undertaken and\nadopted. A few more changes were carried out during this expedition and various\nsuggestions put forward for future expeditions.\nWintering members monitor the generators and other life support systems round\nthe clock, by taking hourly observations. Lots of changes can take place within these\nobservation periods. A lot also depends on the timely systematic observations of the\nobserver, who has to follow the routine seriously and religiously. The life of rest of the\nmembers sleeping during the nights is at stake, if the person on duty is not performing\nhis duties carefully and systematically. The duty person has to be alert\nand attentive to any unfamiliar sounds, alarms or fluctuations in electrical loads. A little\nlapse on his part can have serious consequences and can result in fire, damage to\nstation and systems and loss of life.\n356\nNarendra D Angal \nA computerized system with monitors, flashing and sounding alarms, auto trip-\noff of defective systems to avoid any further damage and automatic power distribution\nis the need of hour to overcome these problems and safeguard the life and property.\nThe various projects undertaken were as follows:\nProject 1 \nCondition monitoring ofGcnerators At Antarctica:\nThe ongoing project by R&DE  (Engrs) was established during XV Indian Ant-\narctic Expedition. Fine-tuning was carried out from time to time. The requirement was to\nidentify the-exact time of maintenance call, announced by an expert maintenance engi-\nneer, not present in Antarctica all the time.\nFor this job, the acquired data was to be sent to India over telephone lines and\nthe analysis to be carried out by an expert at R&DE  (Engrs), Pune. Limitations on\nTelephone line speed, connectivity problems. File size and environmental conditions\nhave played an important role in deciding the project methodology.\nWe have adopted the following methodology:\n1) Make the file size as small as possible\n2) Send the required data only\n3) Send the data over Email for larger time\n4) Send the current operating generator data only.\nTo execute the above plan we had to make modifications in the following ways in\nearlier databases.\n1) Each Generator was used as an independent entity and hence got independent\ndatabase of its name.\n2) The number of measuring points were reorganized and reshuffled to make\nminimum required measurements, thereby reducing file size from 6.3Mb to 1.32Mb.\n3) The data files/database were split in smaller files for easy transfer and later joined\nat R&DE  (Engrs), Pune, to make a single file. This was essential as the continuous\ne-mail connection for longer duration was not available.\nThe Data integrity, format, errors if any were tested first by sending the files over email\nto India and back to Maitri again and executing the exact steps at Maitri. All the data\ntransfer was found to be error free.\nAutomtatic electric distribution system \n357\nAfter analyzing the data at R&DE (Engrs), necessary advice/suggestions were\nsent to Maitri For maintenance.\nProject II\nElectrical Power Distribution and Earth Potential Monitoring:\n3 Phase generators provide the power to Maitri Station, and even power distri-\nbution in all three phases is very important. If the loads are not balanced in each phase,\nthe neutral voltage changes, and can be very dangerous to the electrical instruments\nlike Computers, Satellite communication terminal and other sensitive electronic instru-\nments.\nThe electrical power distribution in Maitri S",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "6]Engineering & Communication",
+    "subcategory": "Automatic electric distribution system at Indian Antarctic station, Maitri; Need of the day",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:51.118763Z"
+  }
+}

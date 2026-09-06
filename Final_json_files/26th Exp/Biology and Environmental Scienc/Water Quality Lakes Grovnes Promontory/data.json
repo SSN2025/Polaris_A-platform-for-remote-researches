@@ -1,0 +1,72 @@
+{
+  "id": "379_396_pg",
+  "document_id": "NCPOR-B7B93A",
+  "source_file": "379-396+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1065/1/379-396+pg.pdf",
+  "bibliographic": {
+    "title": "379-396+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "379\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 379-396\nWater Quality of Some Lakes in Grovnes\nPromontory, Larsemann Hills, East Antarctica\nKhwairakpam Gajananda, R. K. Singh, Narendra Pal, Bhupesh Sharma,\nV . K. Verma and R. K. Khandal\nShriram Institute for Industrial Research, 19 University Road,\nDelhi 110 007, India\nABSTRACT\nDuring the 26 th Indian Scientific Expedition to Antarctica, survey of lakes\n(12 Nos) around the Grovnes promontory (69 0 24’ to 69 0 26’ S; 76 0 10’ to 76 0\n15’ E), Larsemann Hills of east Antarctica was carried out. The visual on-site\ndetails as well as the collection of water samples from the lakes were done\nmainly to assess the quality of water.\nBio-physicochemical parameters of the lakes water samples were studied\nand evaluated for drinking purpose. The results were compared with WHO and\nBIS drinking water standards. It was found that visually some of the lakes were\neutrophic and unfit for drinking purposes, while majority of the fresh water lakes\nwere unpolluted and the bio-physicochemical parameters were within the WHO\nand BIS limits. The eutrophic lakes were mainly due to the growth of algae and\nmosses, whereas, many lakes were oligotrophic. The data also indicate that the\npH ranged between 6.6 and 7.8; the colour and odour were <5 Hazen unit and\nunobjectionable, suggesting palatable water.\nMost of the heavy metals were below the prescribed limits and No Growth\nObserved for Coliform bacteria. However, the Chloride contents were large\nranging from 84 mgl\n-l in L3 to 1848 mgl -l in L 4. Lead (Pb) in L 4, L 6, L 7\nand L 7A were 0.06, 0.04, 0.02 and 0.02 mgl -1, respectively which are higher\nthan the prescribed permissible limits of WHO and BIS. Manganese (Mn) in\nLake L3 and L7 were also above the limit with the values of 1.2 and 0.8 mgl\n-1.\nContamination of the lakes water is unlikely, therefore, analysis for further\nconfirmation of the results is recommended.\nINTRODUCTION\nIn the Antarctic periphery, there are about 8 major oases regions,\nwhich become deglaciated or ice-free during local summer. The melted\n380\nwater gets accumulated in depressions, forming fresh water lakes and\nstreams of varying sizes.\nCoastal valleys drain parts of the mainland into the sea. Moreover,\nduring local summer the polar ice melts to supply fresh water to the\nexisting lakes. Sometimes, the melting become large, forming streams\nover the oasis regions and adds significant quantity of water into the\nlakes. Due to overflow of lakes, the streams transport water to the shelf,\nthereby, changing the physico-chemical characteristics of the water.\nIn this continent average annual precipitation (expressed in terms of\nwater) is between 50-150mm, most of which falls as snow (Schwerdtfeger\n1979). However, due to low temperature the water is frozen and gets\nlocked into the vast polar ice caps, making Antarctica, the largest stock\nof fresh water on earth.\nThe aim of the present study is to understand the quality of the\nlakes water present in the Grovnes Promontory (GP hereafter) for\ndrinking purpose. There is a dearth of published data on the lake water\nquality of GP, therefore, in this paper we attempt to quantify the various\nbio-physicochemical parameters required for drinking water. We also\ncompare the results with two important drinking water quality guidelines\nprovided by World Health Organisation (WHO) and Bureau of Indian\nStandards (BIS). This data we hope will give some insight into the water\nquality of this promontory; however, we recommend further investigation\nfor far-reaching conclusion.\nDescription of the Sites\nLarsemann Hills is at the Ingrid Christensen Coast of east Antarctica\n(69° 21’ 00\" S to 69° 27’ 00\" S and 75°\n 57’ 00\" E to 76° 27’ 00\" E). It\nis an ice-free Antarctic coastal oasis, located between the Amery Ice\nShelf and the Vestfold Hills. Isolated islands, peninsulas and nunataks\noccur along the coastal continental ice. The areas are mainly exposed\nhilly and rocky terrains. There are two main peninsulas in the Larsemann\nHills, of east Antarctica (i) Broknes Peninsula and (ii) Stornes Peninsula.\nIn between these two peninsulas, there are a number of promontories and\nislands of varying shapes, sizes, heights and water bodies.\nGrovnes Promontory (GP) (69° 24’ to 69° 26’ S; 76°\n 10’ to 76° 15’ E),\nis situated over the Larsemann Hills of east Antarctica. The ice patches\nKhwairakpam Gajananda et al.,\n381\nover the lake and the rocky regions are typical characteristics of the\noases regions. The polar ice is also seen in the background of the GP,\nwhich is one of the main feeders of fresh water to various lakes in this\noasis region. This promontory is bordered in the northern part by\nMcLeod Island; eastern part by the Quilty Bay, north-eastern part by\nFisher Island, western part by Stornes Peninsula and southern part by the\nAntarctic continent and polar ice caps.\nThe ecosystem of this area is simple and in the primary stage of\necologic",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 18
+  },
+  "taxonomy": {
+    "category": "4] Biology and Environmental Sciences",
+    "subcategory": "Water Quality of Some Lakes in Grovnes Promontory, Larsemann Hills, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:08:02.181277Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_26",
+  "document_id": "NCPOR-5D6CD4",
+  "source_file": "ARTICLE+26.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/470/3/ARTICLE+26.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+26",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report. 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 345-352 \nSERUM IMMUNOGLOBULINS AND CORTISOL\nDURING WINTER STAY IN ANTARCTICA:\nEFFECTS OF NALTREXONE ADMINISTRATION\nG. Sundaresan  and Usha Sachdeva\nDepartment of Physiology\nAll India Institute of Medical Sciences\nAbstract\nIn six volunteers, who were members of th e winter-over team of the 15 th Indian\nScientific Expedition to Antarctica, serum IgG, IgM and Cortisol were measured before and\nafter eight days of the opioid blocker Naltrexone (NLT) administration. The study was\nconducted in six phases. There were no significant changes in the IgG levels before and after\nNLT administration. However NLT administration reversed the decrease in IgM found\nduring the early winter and in the summer phase at the end of the isolation period indicating\na role for the opioid receptors. Results of the s erum Cortisol values measured before and\nafter NLT administration indicate that the central opioid receptor regulation may vary in\nhumans during different seasons in Antarctica. This may indeed reflect an inherent mecha-\nnism involving opioids in providing adaptation to the stressful situation by taking anticipa-\ntory cues from the environmental factors.\nIntroduction\nIn Antarctica there is extreme cold coupled with a varying photoperiodicity\nwith long polar days and polar nights amongst many other physical and social\nstresses, which a human sojourner has to face while on duty in Antarctica.\nImmunosuppression during Antarctic sojourn has been reported by many\nauthors (Muchmore  et al., l970;Tashpulatov  et al., 1971; Williams et al.,1986;\nMuller et al., 1995a; Muller et al.,  1995b; Tingate et al., 1997). The observed\nimmunosuppression during Antarctic stay may be due to several factors such\nas social and physical isolation,  extreme cold, alien photoperiodicity or may be\ndue to the compounded stress of all these factors.\nSituations of isolation do play a strong role in the modulation of immune\nresponses. Sonnenfield et al.  (1992) found that the total number of leukocytes\nstayed within the normal range over a 131-day isolation period in a cave. The\npercentage of  polymorphonuclear leukocytes decreased by two-thirds, while\n346 G.  Sundaresan & Usha Sachdeva \nthe lymphocyte and monocyte percentage rose by a factor of two. Interferon\ngamma production appeared to be high immediately prior to the isolation and\ncame down to normal range again after return of the subject to the usual\nenvironment. Bortnovskii and Myznikov (1993) reported increased inflamma-\ntory and infectious morbidity in submarine crew members during the post-\ncruise period than during seagoing period and these morbidities was\ncharacterized by seasonal outbreaks. Williams et al. (1986) studied the cutane-\nous cell mediated immunity Multitest in 2 Antarctic and sub-Antarctic groups\nat quarterly intervals over a wintering year. While the sub-Antarctic group\nshowed comparable responsiveness to other healthy populations in temperate\nregions, the Antarctic group exhibited decreased immune response.\nIt has been recognized that stress activates corticotrophin releasing factor\n(CRF), leading to the secretion of adreno corticotrophic hormone (ACTH) and\nbeta-lipotropin/beta-endorphin from the anterior pituitary (Morley, 1981). Ani-\nmal investigations indicate that physiologic stimulation of endogenous opioid\nrelease forprolonged periods results in inhibition of the immune system (Shavit\net al, 1984; Morley et al, 1989). It is possible that the immunosuppression\nseen in Antarctic conditions may be mediated through the release of endo-\ngenous opioids. This study is an attempt to find out the role of opioid receptors\nin the modulation immune status of humans during their prolonged stay in\nAntarctica.\nMaterials and Methods\nStudy Subjects \nThe human subjects included in this study were all Indian, male members\nof the 15th Indian Scientific Expedition to Antarctica who were on winter-over\nassignment. The objectives of the study were briefed to all the members of the\nexpedition and only those who volunteered for the study were included. Out of\nthe 25 winter-over members a group of 6 volunteers were included in the study.\nThis group had a mean age of 33.51 ± 5.42 years and mean body weight 68.47\n± 6.25 kg. All the subjects in the study were volunteers only. The ethical\nconsiderations set by the Ethical Committee of All India Institute of Medical\nSciences were strictly followed. The subjects were given the freedom to drop\nout at any point of the study, if they felt so.\nPeriods of the Study \nThe study was conducted in six phases as given below:\nPhase I: Basal - During onward voyage on board ship in December 1995, well\nbefore the ship entered Antarctic waters (near equator, L/D 12:12, 24 ± 2 °C).\nSerum Immunoglobulins and Cortisol during Winter Stay  347\nPhase II: Early Winter - In April 1996 in Antarctica in early winter, at the\nbeginning of isolation",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "5]Human Physiology And Psychology",
+    "subcategory": "Serum Immunoglobulins and Cortisol during Winter Stay in Antarctica _ Effects of Naltrexone Administration",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:06.930958Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_21",
+  "document_id": "NCPOR-EDBC95",
+  "source_file": "ARTICLE+21.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/429/3/ARTICLE+21.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+21",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 313-322 \nXIV Indian Antarctic Expedition\nXII  Winter  Report\nNINAD P DESHMUKH\nR&DE (Engineers), DRDO, Pune-411015\nAbstract\nThe report contains brief about the scientific, logistic and support activities during the\nXIV Indian Antarctic Expedition (Dec 94 to Mar 96).\nIntroduction & Installation of E-mail\nAlongwith the various life-support systems  required for survival and\ncarrying out various activities at Antarctica , the communication system also\nforms one of the essential elements. The need for reliable and fast communi-\ncation was felt right from the first Antarctic expedition. The remote, icy\ncontinent of Antarctica apart from having the windiest and cold working\nconditions; also challenges the communication engineers with magnetic\nstorms, static electricity, earthing problems and heavy magnetic fields. Various\ncommunication systems were used/tried to meet th e requirements of the expe-\nditions during past. These are;\ni. High Frequency Morse/Voice communication : This is mainly used for\ncommunication between India and Antarctica, with other stations at\nAntarctica and to maintain communication with the ship during voyage.\nii. Telephone,Telex & Fax through Satellite link.\niii. VHF communication : Used for cam p area, convoys and air traffic\ncontrol.\nEach system has its own advantages and disadvantages with respect to\nreliability, portability and cost. Many scientific activities involve collection and\nprocessing of data and as the Indian Antarctic programme progressed, various\nscientific activities were taken up. The need for the data communication was\nfelt strongly. Also it was required to exchange the data between the parent\norganisation as well as with other stations in Antarctica which were having the\n314\nNinad P Deshmukh \nE-mail system setu p at Maitri, Antarctica\nTerminal\nControl\nUnit\nINMARSAT\n'A' Terminal\nGateway\nNCST\nMumbai\nLand Earth Station\nARVI\nSatellite\nAOR\nXIV Indian Antarctic Expedition \n315\nsimilar scientific  programme. Hence it was proposed by R & DE (Engrs) to\ninstall the Electronic-mail (E- mail) to have the global communication.\nOn the E-mail network apart from meeting the above requirement, various\nactivities like transfer of structural drawings, exchang e of information/letters,\ntransfer of  pictures etc. are also possible. In fact, the E-mail system puts you\non the information highway.\nIn case of postal mail service, the transfer of mail from sender to receiver\nis via area post office similarly in case  of E-mail, the transfer of mail from\ndomain to domain is via host. \nThe E-mail system at Maitri mainly consists of:\nINMARSAT (International Maritime Satellite) Space Segment:\nThe INMARSAT organisation has got four equatorial satellites as mentioned\nbelow : \nAtlantic Ocean Region (AOR) - East\nAtlantic Ocean Region (AOR) - West\nPacific Ocean  Region (POR)\nIndian Oce\"an Region (IOR)\nThese satellites are interlinked to provide the global communication. We\nare using the link with a satellite in the Indian Ocean region with a Land Earth\nStation at ARVI (a place near to  Pune). The INMARSAT A terminal has a \nuplink frequency of 1.6 GHz and downlink of 1.5 GHz. The terminal uses a \ndome which contains a parabolic dis h antenn a of 4 feet dia. Antenna is\ncontrolled for its orientation (elevation and azimuth) by software and has a \nautotracking facility to ensure the reliable link with the satellite. The frequen-\ncies used for uplinking and downlinking are unaffected by the atmospheric\nchanges and hence guarantees a reliable communication at all times.\nINMARSAT terminal: MTI (Mobile Telesystem INC.) make, MCS-9120\nmodel, INMARSAT A terminal is  basically used to provide the necessary\ntelephone line required for E-mail. This terminal can also support Telex and\nFax in addition to telephone facility (provided the system is configured for Dual\nID). This terminal can also transmit the DISTRESS CALL to Rescue Co-ordi-\nnation Centre in case of eventuality. This was another reason to install E-mail\noutside Maitri station.\nMODEM : MODEM forms an essential interface between the digital link\nfrom the PC and the analog telephone line. The MOTOROLA make FasTalk-II\nmodem is used which can automatically adjust the baud rate depending upon\nthe line conditions and  provide error correction to ensure error free and the fast\ndata communication.\n316 Ninad P Deshmukh \nComputer system : Waffle (Ver 1.65) and Pegasus-mail (ver 3.22) were\nused for the E- mail. As mentioned above the flow of electronic mai l is almost\nsimilar to that of posta l mail service, the E-mail node at Maitri uses a host at\nNational Centre for Software T echnology (NCST), Bombay. Mails to Maitri\nnode can be sent on following E-mail address; root@maitri.ernet.in\nThe E-mail was installed at Maitri on ERNET ( Educational & Research\nNET work ) in January 95. After sharing the experiences with earlier winter\nteam an",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "5]Engineering",
+    "subcategory": "XIV Indian Antarctic Expedition (XII winter report)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:17.618059Z"
+  }
+}
