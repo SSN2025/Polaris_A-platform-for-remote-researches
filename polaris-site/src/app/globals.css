@@ -1,0 +1,1348 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500&family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&display=swap");
+
+:root {
+  --dark: #06151f;
+  --dark-deep: #020b12;
+  --ice: #eaf4f8;
+  --ice-blue: #c8dfeb;
+  --white: #f4f8fa;
+  --text-dark: #132e40;
+  --muted-dark: #58717f;
+  --cyan: #a9dcf8;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--dark);
+  color: white;
+  font-family: "DM Sans", sans-serif;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.polaris-site {
+  width: 100%;
+  overflow: hidden;
+}
+
+
+/* =========================================================
+   NAVBAR
+   ========================================================= */
+
+.polaris-navbar {
+  position: absolute;
+  z-index: 50;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  height: 70px;
+
+  padding: 0 6.2%;
+
+  display: flex;
+  align-items: center;
+
+  border-bottom: 1px solid rgba(255, 255, 255, 0.13);
+
+  background: rgba(5, 19, 29, 0.1);
+
+  backdrop-filter: blur(5px);
+}
+
+.polaris-brand {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+
+  border: 0;
+  background: transparent;
+
+  color: white;
+
+  text-align: left;
+}
+
+.brand-symbol {
+  font-size: 25px;
+  line-height: 1;
+}
+
+.brand-name strong {
+  display: block;
+
+  font-size: 18px;
+  font-weight: 400;
+
+  letter-spacing: 0.18em;
+}
+
+.brand-name small {
+  display: block;
+
+  margin-top: 2px;
+
+  font: 5px "DM Mono";
+
+  letter-spacing: 0.15em;
+
+  opacity: 0.55;
+}
+
+.polaris-nav {
+  display: flex;
+  align-items: center;
+
+  gap: 34px;
+
+  margin: auto;
+}
+
+.polaris-nav button {
+  border: 0;
+  background: transparent;
+
+  color: #dce7eb;
+
+  font-size: 11px;
+}
+
+.polaris-nav button:hover {
+  color: white;
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+
+  gap: 18px;
+}
+
+.search-button {
+  border: 0;
+  background: transparent;
+
+  color: white;
+
+  font-size: 21px;
+}
+
+.mission-button {
+  border: 0;
+
+  padding: 11px 15px;
+
+  border-radius: 6px;
+
+  background: #a9dcf8;
+
+  color: #092331;
+
+  font-size: 10px;
+}
+
+.mission-button span {
+  margin-left: 14px;
+}
+
+.mobile-menu-button {
+  display: none;
+
+  border: 0;
+  background: transparent;
+
+  color: white;
+
+  font-size: 24px;
+}
+
+
+/* =========================================================
+   HERO
+   ========================================================= */
+
+.hero-section {
+  position: relative;
+
+  width: 100%;
+  height: 900px;
+
+  min-height: 100vh;
+
+  overflow: hidden;
+
+  background: #071923;
+}
+
+.hero-background {
+  position: absolute;
+  inset: 0;
+
+  background:
+    url("/images/hero-bg.png")
+    center center / cover no-repeat;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(3, 18, 29, 0.9),
+      rgba(5, 24, 36, 0.5) 48%,
+      rgba(3, 15, 24, 0.08)
+    ),
+    linear-gradient(
+      0deg,
+      rgba(2, 12, 18, 0.5),
+      transparent 50%
+    );
+}
+
+.hero-content {
+  position: absolute;
+
+  z-index: 2;
+
+  left: 6.2%;
+  top: 18%;
+}
+
+.hero-eyebrow,
+.section-label {
+  font: 9px "DM Mono";
+
+  letter-spacing: 0.28em;
+
+  color: #c4e0ea;
+}
+
+.hero-eyebrow span {
+  margin: 0 7px;
+}
+
+.hero-content h1 {
+  margin: 15px 0 22px;
+
+  font:
+    500
+    clamp(60px, 7vw, 96px)
+    /
+    0.92
+    "Playfair Display";
+
+  letter-spacing: -0.055em;
+}
+
+.hero-description {
+  margin: 0;
+
+  color: #e0ebef;
+
+  font-size: 14px;
+
+  line-height: 1.55;
+}
+
+.hero-buttons {
+  display: flex;
+
+  gap: 13px;
+
+  margin-top: 25px;
+}
+
+.light-button,
+.outline-button,
+.dark-button {
+  padding: 12px 18px;
+
+  border-radius: 6px;
+
+  font-size: 10px;
+
+  transition:
+    transform 0.2s ease,
+    background 0.2s ease;
+}
+
+.light-button {
+  border: 1px solid rgba(255, 255, 255, 0.3);
+
+  background: var(--cyan);
+
+  color: #092331;
+}
+
+.outline-button {
+  border: 1px solid rgba(255, 255, 255, 0.55);
+
+  background: transparent;
+
+  color: white;
+}
+
+.light-button span,
+.outline-button span,
+.dark-button span {
+  margin-left: 18px;
+}
+
+.light-button:hover,
+.outline-button:hover,
+.dark-button:hover {
+  transform: translateY(-2px);
+}
+
+.weather-data {
+  display: flex;
+
+  gap: 34px;
+
+  margin-top: 48px;
+
+  padding-top: 24px;
+
+  border-top:
+    1px solid
+    rgba(255, 255, 255, 0.16);
+}
+
+.weather-data div + div {
+  padding-left: 28px;
+
+  border-left:
+    1px solid
+    rgba(255, 255, 255, 0.14);
+}
+
+.weather-data strong {
+  display: block;
+
+  font: 20px "Playfair Display";
+}
+
+.weather-data small {
+  display: block;
+
+  margin-top: 4px;
+
+  font: 7px "DM Mono";
+
+  letter-spacing: 0.1em;
+
+  color: #a8bbc2;
+}
+
+.hero-coordinates {
+  position: absolute;
+
+  z-index: 3;
+
+  top: 18%;
+  right: 6.2%;
+
+  font:
+    17px
+    /
+    1.45
+    "Playfair Display";
+}
+
+.hero-coordinates::before {
+  content: "";
+
+  position: absolute;
+
+  right: 118px;
+  top: 0;
+
+  width: 1px;
+  height: 100px;
+
+  background: rgba(255, 255, 255, 0.28);
+}
+
+.hero-coordinates strong {
+  display: block;
+
+  font-weight: 500;
+}
+
+.hero-coordinates small {
+  display: block;
+
+  margin-top: 7px;
+
+  font: 7px/1.5 "DM Mono";
+
+  letter-spacing: 0.14em;
+
+  color: #b3c3c9;
+}
+
+.hero-scroll {
+  position: absolute;
+
+  z-index: 3;
+
+  right: 5.6%;
+  bottom: 32px;
+
+  display: flex;
+  align-items: center;
+
+  border: 0;
+
+  background: transparent;
+
+  color: #d8e4e8;
+
+  font: 7px/1.5 "DM Mono";
+
+  letter-spacing: 0.1em;
+
+  text-align: left;
+}
+
+.hero-scroll > span {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  width: 30px;
+  height: 30px;
+
+  margin-right: 10px;
+
+  border-radius: 50%;
+
+  background: #6d9bb5;
+}
+
+
+/* =========================================================
+   MONITORING
+   ========================================================= */
+
+.monitoring-section {
+  position: relative;
+
+  height: 600px;
+
+  display: grid;
+
+  grid-template-columns:
+    17%
+    48%
+    35%;
+
+  align-items: center;
+
+  padding: 0 6.2%;
+
+  background: var(--dark-deep);
+}
+
+.monitoring-side {
+  font: 9px/1.8 "DM Mono";
+
+  letter-spacing: 0.22em;
+
+  color: #9db0b7;
+}
+
+.monitoring-side i {
+  display: block;
+
+  width: 17px;
+  height: 1px;
+
+  margin-top: 20px;
+
+  background: #9db0b7;
+}
+
+.monitoring-map {
+  position: relative;
+
+  height: 500px;
+}
+
+.monitoring-map img {
+  width: 100%;
+  height: 100%;
+
+  object-fit: contain;
+}
+
+.station-node {
+  position: absolute;
+
+  width: 11px;
+  height: 11px;
+
+  padding: 0;
+
+  border: 0;
+  border-radius: 50%;
+
+  background: #d98650;
+
+  box-shadow:
+    0 0 0 5px rgba(217, 134, 80, 0.15),
+    0 0 18px rgba(117, 213, 240, 0.65);
+
+  transform: translate(-50%, -50%);
+}
+
+.station-node::after {
+  content: "";
+
+  position: absolute;
+
+  inset: -9px;
+
+  border:
+    1px solid
+    rgba(129, 215, 239, 0.35);
+
+  border-radius: 50%;
+
+  animation: nodePulse 2s infinite;
+}
+
+.station-node.active {
+  background: #e89557;
+
+  box-shadow:
+    0 0 0 7px rgba(113, 214, 240, 0.12),
+    0 0 20px rgba(120, 220, 244, 0.9);
+}
+
+@keyframes nodePulse {
+  0% {
+    transform: scale(0.8);
+    opacity: 0.9;
+  }
+
+  50% {
+    transform: scale(1.25);
+    opacity: 0.3;
+  }
+
+  100% {
+    transform: scale(0.8);
+    opacity: 0.9;
+  }
+}
+
+.station-label {
+  position: absolute;
+
+  left: 16px;
+  top: -5px;
+
+  display: block;
+
+  text-align: left;
+
+  white-space: nowrap;
+}
+
+.station-label strong {
+  display: block;
+
+  color: white;
+
+  font-size: 10px;
+
+  font-weight: 400;
+}
+
+.station-label small {
+  display: block;
+
+  margin-top: 3px;
+
+  color: #91a9b2;
+
+  font: 6px "DM Mono";
+}
+
+.monitoring-content {
+  padding-left: 15px;
+}
+
+.monitoring-content h2 {
+  margin: 15px 0;
+
+  font:
+    500
+    48px
+    /
+    0.98
+    "Playfair Display";
+
+  letter-spacing: -0.045em;
+}
+
+.monitoring-content h2 em {
+  color: #c4dce4;
+}
+
+.monitoring-content > p:not(.section-label) {
+  max-width: 360px;
+
+  color: #aebfc5;
+
+  font-size: 13px;
+
+  line-height: 1.55;
+}
+
+.section-line {
+  width: 100%;
+  height: 1px;
+
+  margin: 25px 0;
+
+  background: rgba(255, 255, 255, 0.16);
+}
+
+.monitoring-stats {
+  display: flex;
+
+  gap: 34px;
+}
+
+.monitoring-stats strong {
+  display: block;
+
+  color: #b9deec;
+
+  font: 24px "Playfair Display";
+}
+
+.monitoring-stats span {
+  font-size: 9px;
+}
+
+.network-status {
+  margin-top: 28px;
+
+  color: #82c4d6;
+
+  font: 7px "DM Mono";
+
+  letter-spacing: 0.15em;
+}
+
+.network-status span {
+  display: inline-block;
+
+  width: 5px;
+  height: 5px;
+
+  margin-right: 7px;
+
+  border-radius: 50%;
+
+  background: #84cbdc;
+}
+
+
+/* =========================================================
+   PROCESS
+   ========================================================= */
+
+.process-section {
+  position: relative;
+
+  min-height: 390px;
+
+  display: grid;
+
+  grid-template-columns:
+    35%
+    65%;
+
+  align-items: center;
+
+  padding: 60px 6.2%;
+
+  overflow: hidden;
+
+  color: var(--text-dark);
+
+  background: #e8f3f7;
+}
+
+.process-background {
+  position: absolute;
+
+  inset: 0;
+
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+
+  opacity: 0.48;
+}
+
+.process-overlay {
+  position: absolute;
+
+  inset: 0;
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(235, 245, 249, 0.94),
+      rgba(235, 245, 249, 0.68)
+    );
+}
+
+.process-introduction,
+.process-list {
+  position: relative;
+
+  z-index: 2;
+}
+
+.section-label.dark {
+  color: #58717f;
+}
+
+.process-introduction h2 {
+  margin: 12px 0;
+
+  font:
+    500
+    38px
+    /
+    0.96
+    "Playfair Display";
+
+  letter-spacing: -0.04em;
+}
+
+.process-introduction h2 em {
+  font-style: italic;
+
+  color: #607f91;
+}
+
+.process-introduction > p:not(.section-label) {
+  max-width: 300px;
+
+  font-size: 12px;
+
+  line-height: 1.5;
+}
+
+.dark-button {
+  margin-top: 10px;
+
+  border: 1px solid #55717f;
+
+  background: transparent;
+
+  color: #183443;
+}
+
+.process-list {
+  display: grid;
+
+  grid-template-columns:
+    repeat(5, 1fr);
+}
+
+.process-item {
+  min-height: 190px;
+
+  position: relative;
+
+  padding: 5px 20px;
+
+  border: 0;
+
+  border-left:
+    1px solid
+    rgba(19, 46, 64, 0.15);
+
+  background: transparent;
+
+  color: var(--text-dark);
+
+  text-align: left;
+}
+
+.process-item small {
+  display: block;
+
+  color: #7da5bb;
+
+  font: 14px "DM Mono";
+}
+
+.process-item strong {
+  display: block;
+
+  margin-top: 10px;
+
+  font-size: 12px;
+
+  font-weight: 500;
+}
+
+.process-icon {
+  display: block;
+
+  margin: 25px 0 15px;
+
+  font-size: 27px;
+}
+
+.process-item p {
+  max-width: 105px;
+
+  margin: 0;
+
+  font-size: 9px;
+
+  line-height: 1.5;
+}
+
+
+/* =========================================================
+   INSIGHTS
+   ========================================================= */
+
+.insights-section {
+  position: relative;
+
+  height: 390px;
+
+  overflow: hidden;
+}
+
+.insights-background {
+  position: absolute;
+
+  inset: 0;
+
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+}
+
+.insights-overlay {
+  position: absolute;
+
+  inset: 0;
+
+  background:
+    linear-gradient(
+      90deg,
+      rgba(3, 15, 22, 0.84),
+      rgba(3, 17, 25, 0.88) 52%,
+      rgba(3, 17, 25, 0.64)
+    );
+}
+
+.insights-container {
+  position: relative;
+
+  z-index: 2;
+
+  width: 87.6%;
+  height: 100%;
+
+  margin: auto;
+
+  padding-top: 34px;
+}
+
+.insights-layout {
+  height: 83%;
+
+  display: grid;
+
+  grid-template-columns:
+    1.3fr
+    0.7fr;
+
+  align-items: center;
+}
+
+.insights-main h2 {
+  margin: 0;
+
+  color: white;
+
+  font:
+    500
+    38px
+    /
+    0.98
+    "Playfair Display";
+
+  letter-spacing: -0.04em;
+}
+
+.insights-main h2 em {
+  color: #c1d9df;
+}
+
+.insights-main p {
+  max-width: 430px;
+
+  margin: 17px 0;
+
+  color: #c4d2d6;
+
+  font-size: 12px;
+
+  line-height: 1.55;
+}
+
+.insights-layout blockquote {
+  margin: 0;
+
+  color: #c8e0e5;
+
+  font:
+    italic
+    17px
+    /
+    1.45
+    "Playfair Display";
+}
+
+.insights-layout blockquote small {
+  display: block;
+
+  margin-top: 22px;
+
+  color: #a5b8bf;
+
+  font: 8px/1.5 "DM Mono";
+
+  letter-spacing: 0.08em;
+}
+
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.polar-footer {
+  position: relative;
+
+  height: 250px;
+
+  overflow: hidden;
+
+  color: #183043;
+}
+
+.polar-footer > img {
+  position: absolute;
+
+  inset: 0;
+
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+}
+
+.footer-overlay {
+  position: absolute;
+
+  inset: 0;
+
+  background:
+    linear-gradient(
+      rgba(229, 243, 248, 0.38),
+      rgba(213, 232, 240, 0.16)
+    );
+}
+
+.footer-content {
+  position: absolute;
+
+  z-index: 2;
+
+  inset: 0;
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+  justify-content: flex-end;
+
+  padding-bottom: 42px;
+}
+
+.footer-content p {
+  margin: 0;
+
+  font: 18px "Playfair Display";
+}
+
+.footer-content small {
+  margin-top: 12px;
+
+  color: #607887;
+
+  font: 7px "DM Mono";
+
+  letter-spacing: 0.18em;
+}
+
+
+/* =========================================================
+   MODALS
+   ========================================================= */
+
+.modal-backdrop {
+  position: fixed;
+
+  inset: 0;
+
+  z-index: 100;
+
+  display: grid;
+
+  place-items: center;
+
+  padding: 25px;
+
+  background: rgba(1, 9, 14, 0.84);
+
+  backdrop-filter: blur(10px);
+}
+
+.film-modal,
+.observation-modal {
+  position: relative;
+
+  width: min(700px, 100%);
+
+  padding: 25px;
+
+  background: #edf6f8;
+
+  color: #102b3a;
+}
+
+.modal-close {
+  position: absolute;
+
+  z-index: 3;
+
+  top: 8px;
+  right: 14px;
+
+  border: 0;
+
+  background: transparent;
+
+  color: #183443;
+
+  font-size: 28px;
+}
+
+.film-screen {
+  height: 380px;
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+  justify-content: center;
+
+  background:
+    linear-gradient(
+      135deg,
+      #081923,
+      #315d70
+    );
+
+  color: white;
+}
+
+.film-title {
+  font: 30px "Playfair Display";
+}
+
+.film-subtitle {
+  margin-top: 8px;
+
+  font: 8px "DM Mono";
+
+  letter-spacing: 0.2em;
+}
+
+.film-play {
+  margin-top: 25px;
+
+  font-size: 42px;
+}
+
+.observation-modal {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 12px;
+}
+
+.observation-modal h2 {
+  margin: 0;
+
+  font: 34px "Playfair Display";
+}
+
+.observation-modal input,
+.observation-modal textarea {
+  width: 100%;
+
+  padding: 13px;
+
+  border: 1px solid #b9ccd3;
+
+  outline: none;
+
+  background: white;
+
+  color: #102b3a;
+
+  font-size: 12px;
+}
+
+.observation-modal textarea {
+  min-height: 120px;
+
+  resize: vertical;
+}
+
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 950px) {
+
+  .polaris-nav {
+    gap: 18px;
+  }
+
+  .monitoring-section {
+    height: auto;
+
+    min-height: 800px;
+
+    grid-template-columns: 1fr;
+
+    padding: 70px 7%;
+  }
+
+  .monitoring-side {
+    display: none;
+  }
+
+  .monitoring-content {
+    order: 1;
+
+    padding: 0;
+  }
+
+  .monitoring-map {
+    order: 2;
+
+    margin-top: 30px;
+  }
+
+  .process-section {
+    grid-template-columns: 1fr;
+
+    padding: 70px 7%;
+  }
+
+  .process-list {
+    margin-top: 50px;
+  }
+
+}
+
+
+@media (max-width: 700px) {
+
+  .polaris-navbar {
+    height: 68px;
+
+    padding: 0 5%;
+  }
+
+  .polaris-nav {
+    display: none;
+  }
+
+  .polaris-nav.mobile-open {
+    position: absolute;
+
+    top: 68px;
+    left: 0;
+
+    width: 100%;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    gap: 20px;
+
+    padding: 25px 7%;
+
+    background: rgba(4, 18, 27, 0.97);
+
+    border-top: 1px solid rgba(255,255,255,.1);
+  }
+
+  .search-button {
+    display: none;
+  }
+
+  .mission-button {
+    display: none;
+  }
+
+  .mobile-menu-button {
+    display: block;
+  }
+
+  .hero-section {
+    height: 760px;
+  }
+
+  .hero-content {
+    left: 5%;
+    top: 19%;
+  }
+
+  .hero-content h1 {
+    font-size: 49px;
+  }
+
+  .hero-description {
+    font-size: 12px;
+  }
+
+  .hero-coordinates {
+    top: 14%;
+    right: 5%;
+
+    font-size: 13px;
+  }
+
+  .hero-coordinates::before {
+    display: none;
+  }
+
+  .weather-data {
+    gap: 14px;
+  }
+
+  .weather-data div + div {
+    padding-left: 13px;
+  }
+
+  .weather-data strong {
+    font-size: 16px;
+  }
+
+  .weather-data small {
+    font-size: 6px;
+  }
+
+  .monitoring-map {
+    height: 390px;
+  }
+
+  .monitoring-content h2 {
+    font-size: 36px;
+  }
+
+  .process-list {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .process-item {
+    min-height: 160px;
+  }
+
+  .insights-section {
+    height: 460px;
+  }
+
+  .insights-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .insights-layout blockquote {
+    display: none;
+  }
+
+  .insights-main h2 {
+    font-size: 34px;
+  }
+
+  .polar-footer {
+    height: 210px;
+  }
+
+  .footer-content p {
+    padding: 0 20px;
+
+    text-align: center;
+
+    font-size: 15px;
+  }
+
+}
