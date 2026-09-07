@@ -1,89 +1,64 @@
+const processItems = [
+  {
+    number: "01",
+    title: "OBSERVATION",
+    text: "Field teams collect observations, measurements and environmental signals across polar regions.",
+  },
+  {
+    number: "02",
+    title: "DOCUMENTATION",
+    text: "Research reports, publications, photographs and datasets become part of the knowledge archive.",
+  },
+  {
+    number: "03",
+    title: "EXTRACTION",
+    text: "Scientific information is structured into accessible knowledge while preserving its original evidence.",
+  },
+  {
+    number: "04",
+    title: "VERIFICATION",
+    text: "Extracted information is checked against source documents before entering the public repository.",
+  },
+  {
+    number: "05",
+    title: "OUTREACH",
+    text: "Verified knowledge becomes understandable stories, facts and resources for wider audiences.",
+  },
+];
+
 export default function ProcessSection() {
-  const steps = [
-    {
-      number: "01",
-      title: "Observe",
-      description: "Satellite, sensors and field data",
-      icon: "⌁",
-    },
-    {
-      number: "02",
-      title: "Collect",
-      description: "Real-time & historical data",
-      icon: "◉",
-    },
-    {
-      number: "03",
-      title: "Analyze",
-      description: "AI-driven insights",
-      icon: "⌁",
-    },
-    {
-      number: "04",
-      title: "Forecast",
-      description: "Localised predictions",
-      icon: "☁",
-    },
-    {
-      number: "05",
-      title: "Respond",
-      description: "Early warnings & action",
-      icon: "◇",
-    },
-  ];
-
   return (
-    <section className="process-section" id="process">
-      <div className="process-mountain-layer" />
+    <section id="process" className="process-section">
+      <div
+        className="process-background"
+        style={{ backgroundImage: "url('/images/process-bg.jpg')" }}
+      />
+      <div className="process-overlay" />
 
-      <div className="process-container">
+      <div className="process-introduction">
+        <span className="section-index dark">02 / 04</span>
+        <h2>
+          From Observation
+          <br />
+          <em>to Action.</em>
+        </h2>
+        <p>
+          Polar science does more than describe a changing environment. It
+          gives us the evidence to understand what comes next.
+        </p>
+      </div>
 
-        <div className="process-intro">
-          <div className="process-label">
-            <span>OUR PROCESS</span>
-          </div>
-
-          <h2>
-            From Observation
-            <br />
-            <em>to Action.</em>
-          </h2>
-
-          <p>
-            Turning data into decisions — for people,
-            ecosystems and a better tomorrow.
-          </p>
-
-          <a href="#research" className="process-button">
-            <span>How It Works</span>
-            <span>→</span>
-          </a>
-        </div>
-
-        <div className="process-steps">
-          {steps.map((step, index) => (
-            <div className="process-step" key={step.number}>
-
-              <div className="process-step-number">
-                {step.number}
-              </div>
-
-              <div className="process-icon">
-                {step.icon}
-              </div>
-
-              <h3>{step.title}</h3>
-
-              <p>{step.description}</p>
-
-              {index < steps.length - 1 && (
-                <div className="process-arrow">→</div>
-              )}
-
+      <div className="process-list">
+        {processItems.map((item) => (
+          <article className="process-item" key={item.number}>
+            <span className="process-number">{item.number}</span>
+            <div className="process-copy">
+              <h3>{item.title}</h3>
+              <p>{item.text}</p>
             </div>
-          ))}
-        </div>
-
+            <span className="process-arrow">↗</span>
+          </article>
+        ))}
       </div>
     </section>
   );

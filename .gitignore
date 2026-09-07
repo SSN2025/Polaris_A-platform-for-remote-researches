@@ -1,0 +1,106 @@
+# =========================================================================
+# SYSTEM FILES & CLUTTER (macOS / Windows / Linux)
+# =========================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Icon?
+
+# =========================================================================
+# SECURITY & ENVIRONMENT (Never commit keys or secrets)
+# =========================================================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+*.secret
+
+# =========================================================================
+# EDITORS & IDEs (VS Code, IntelliJ, WebStorm)
+# =========================================================================
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.history/
+*.code-workspace
+
+# JetBrains (IntelliJ, WebStorm, PyCharm, etc.)
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Other Editors
+.project
+.classpath
+.cproject
+.settings/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# =========================================================================
+# NODE.JS / JAVASCRIPT / TYPESCRIPT
+# =========================================================================
+node_modules/
+/jspm_packages/
+.npm
+.eslintcache
+.stylelintcache
+.next/
+.nuxt/
+.docusaurus/
+dist/
+build/
+out/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/install-state.gz
+.pnpm-store/
+
+# =========================================================================
+# PYTHON
+# =========================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+.celerydb
+.spyderproject
+.mypy_cache/
+.pytest_cache/
+.poetry/
+
+# =========================================================================
+# LOGS, DIAGNOSTICS, & TEMPORARY FILES
+# =========================================================================
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pids
+*.pid
+*.seed
+*.pid.lock
+core
+pid

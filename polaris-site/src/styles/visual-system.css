@@ -1,0 +1,252 @@
+/* =========================================
+   POLARIS — VISUAL SYSTEM
+   ========================================= */
+
+.polaris-site {
+  --space-unit: clamp(8px, 0.8vw, 14px);
+}
+
+/* Fine technical frame */
+
+.hero-section::before,
+.monitoring-section::before,
+.process-section::before,
+.insights-section::before,
+.polar-footer::before {
+  content: "";
+
+  position: absolute;
+  z-index: 6;
+  inset: 22px;
+
+  pointer-events: none;
+
+  border: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.process-section::before,
+.polar-footer::before {
+  border-color: rgba(5, 13, 16, 0.08);
+}
+
+/* Section corner coordinates */
+
+.monitoring-section::after {
+  content: "POLAR / 01";
+
+  position: absolute;
+  z-index: 6;
+
+  right: 42px;
+  top: 40px;
+
+  color: rgba(255, 255, 255, 0.28);
+
+  font-family: "DM Mono", monospace;
+  font-size: 7px;
+  letter-spacing: 0.16em;
+}
+
+.process-section::after {
+  content: "KNOWLEDGE / 02";
+
+  position: absolute;
+  z-index: 6;
+
+  right: 42px;
+  top: 40px;
+
+  color: rgba(5, 13, 16, 0.28);
+
+  font-family: "DM Mono", monospace;
+  font-size: 7px;
+  letter-spacing: 0.16em;
+}
+
+.insights-section::after {
+  content: "FIELD / 03";
+
+  position: absolute;
+  z-index: 6;
+
+  right: 42px;
+  top: 40px;
+
+  color: rgba(255, 255, 255, 0.28);
+
+  font-family: "DM Mono", monospace;
+  font-size: 7px;
+  letter-spacing: 0.16em;
+}
+
+/* Editorial heading refinement */
+
+.hero-content h1,
+.monitoring-side h2,
+.process-introduction h2,
+.insights-layout h2,
+.footer-content h2 {
+  text-wrap: balance;
+}
+
+/* Scientific metadata */
+
+.data-block,
+.station-coordinates,
+.hero-coordinates {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Image depth */
+
+.monitoring-map,
+.process-background,
+.insights-background,
+.footer-background {
+  transition: transform 1.2s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+.monitoring-section:hover .monitoring-map {
+  transform: scale(1.015);
+}
+
+.process-section:hover .process-background {
+  transform: scale(1.012);
+}
+
+.insights-section:hover .insights-background {
+  transform: scale(1.015);
+}
+
+.polar-footer:hover .footer-background {
+  transform: scale(1.012);
+}
+
+/* Station interaction */
+
+.station-node {
+  transition:
+    transform 0.3s ease,
+    filter 0.3s ease;
+}
+
+.station-node:hover {
+  transform: translate(-50%, -50%) scale(1.15);
+}
+
+.station-node.active {
+  filter: brightness(1.15);
+}
+
+/* Process interaction */
+
+.process-item {
+  position: relative;
+  overflow: hidden;
+}
+
+.process-item::before {
+  content: "";
+
+  position: absolute;
+  left: 0;
+  bottom: 0;
+
+  width: 0;
+  height: 1px;
+
+  background: rgba(5, 13, 16, 0.5);
+
+  transition: width 0.5s ease;
+}
+
+.process-item:hover::before {
+  width: 100%;
+}
+
+/* Buttons */
+
+.primary-button,
+.secondary-button,
+.outline-button {
+  position: relative;
+  overflow: hidden;
+}
+
+.primary-button::before,
+.secondary-button::before,
+.outline-button::before {
+  content: "";
+
+  position: absolute;
+  left: 0;
+  bottom: 0;
+
+  width: 100%;
+  height: 0;
+
+  transition: height 0.3s ease;
+}
+
+.primary-button::before {
+  background: rgba(150, 190, 195, 0.18);
+}
+
+.secondary-button::before,
+.outline-button::before {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.primary-button:hover::before,
+.secondary-button:hover::before,
+.outline-button:hover::before {
+  height: 100%;
+}
+
+.primary-button > *,
+.secondary-button > *,
+.outline-button > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Navbar becomes part of the composition */
+
+.polaris-navbar {
+  transition:
+    background 0.35s ease,
+    border-color 0.35s ease;
+}
+
+.polaris-navbar:hover {
+  background: rgba(4, 8, 11, 0.42);
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+/* Accessibility */
+
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 1px solid rgba(155, 220, 225, 0.8);
+  outline-offset: 4px;
+}
+
+/* Mobile */
+
+@media (max-width: 800px) {
+  .hero-section::before,
+  .monitoring-section::before,
+  .process-section::before,
+  .insights-section::before,
+  .polar-footer::before {
+    inset: 12px;
+  }
+
+  .monitoring-section::after,
+  .process-section::after,
+  .insights-section::after {
+    right: 25px;
+    top: 25px;
+  }
+}

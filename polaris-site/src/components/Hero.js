@@ -1,116 +1,76 @@
-"use client";
+import FilmModal from "./FilmModal";
 
 export default function Hero() {
   return (
-    <section className="exact-hero" id="observe">
+    <section id="hero" className="hero-section">
+      <div
+        className="hero-background"
+        style={{ backgroundImage: "url('/images/hero-bg.jpg')" }}
+      />
+      <div className="hero-overlay" />
+      <div className="hero-vignette" />
+      <div className="hero-grain" />
 
-      {/* HERO IMAGE */}
-      <div className="exact-hero-bg" />
+      <div className="hero-location">
+        <span>ANTARCTICA</span>
+        <i />
+        <span>INDIAN POLAR RESEARCH PROGRAMME</span>
+      </div>
 
-      {/* IMAGE DARKENING */}
-      <div className="exact-hero-overlay" />
-
-      {/* NAV */}
-
-      {/* HERO CONTENT */}
-      <div className="exact-hero-content">
-
-        <div className="exact-eyebrow">
-          OBSERVE
-          <span>•</span>
-          UNDERSTAND
-          <span>•</span>
-          PROTECT
+      <div className="hero-content">
+        <div className="hero-eyebrow">
+          <span className="eyebrow-line" />
+          INTEGRATED POLAR SCIENCE PORTAL
         </div>
 
         <h1>
-          Listening
+          Listening to a
           <br />
-          to a Colder
-          <br />
-          Tomorrow
+          <em>Colder</em> Tomorrow
         </h1>
 
-        <p>
-          A unified platform for environmental intelligence,
-          combining satellite data, local observations and
-          AI-driven forecasts — for a safer, more resilient planet.
+        <p className="hero-description">
+          Discover the science, stories and observations shaping our
+          understanding of Earth&apos;s polar regions.
         </p>
 
-        <div className="exact-buttons">
-
-          <a href="#monitoring" className="exact-primary">
-            Explore Data
+        <div className="hero-buttons">
+          <a className="primary-button" href="#monitoring">
+            EXPLORE DATA
             <span>↗</span>
           </a>
-
-          <a href="#insights" className="exact-secondary">
-            Watch Film
-            <span>▷</span>
-          </a>
-
+          <FilmModal />
         </div>
-
       </div>
 
-      {/* COORDINATES */}
-      <div className="exact-coordinates">
-
-        <div className="coordinate-rule" />
-
-        <strong>72° 18′ S</strong>
-        <strong>103° 42′ E</strong>
-
-        <small>
-          ANTARCTICA
-          <br />
-          RESEARCH ZONE
-        </small>
-
+      <div className="hero-coordinates">
+        <span>70°45′S</span>
+        <span>11°44′E</span>
       </div>
 
-      {/* WEATHER */}
-      <div className="exact-weather">
-
-        <div className="exact-weather-item">
-          <strong>-28.6°C</strong>
-          <span>CURRENT TEMP</span>
+      <div className="hero-data">
+        <div className="data-block">
+          <span>TEMPERATURE</span>
+          <strong>−18°C</strong>
         </div>
-
-        <div className="exact-weather-divider" />
-
-        <div className="exact-weather-item">
-          <strong>12 km/h</strong>
-          <span>WIND SPEED</span>
+        <div className="data-block">
+          <span>WIND</span>
+          <strong>24 KM/H</strong>
         </div>
-
-        <div className="exact-weather-divider" />
-
-        <div className="exact-weather-item">
-          <strong>8.2 km</strong>
+        <div className="data-block">
           <span>VISIBILITY</span>
+          <strong>18 KM</strong>
         </div>
-
+        <div className="data-block">
+          <span>STATUS</span>
+          <strong>FIELD ACTIVE</strong>
+        </div>
       </div>
 
-      {/* SCROLL */}
-      <a href="#monitoring" className="exact-scroll">
-
-        <div className="exact-scroll-circle">
-          <span>▶</span>
-        </div>
-
-        <div>
-          SCROLL
-          <br />
-          TO EXPLORE
-        </div>
-
-      </a>
-
-      {/* BOTTOM BORDER */}
-      <div className="exact-hero-border" />
-
+      <div className="hero-scroll">
+        <span className="scroll-line" />
+        SCROLL TO EXPLORE
+      </div>
     </section>
   );
 }
