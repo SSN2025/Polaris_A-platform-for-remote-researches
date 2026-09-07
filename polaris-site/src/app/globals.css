@@ -2388,3 +2388,93 @@ button {
     gap: 10px;
   }
 }
+
+/* =========================================================
+   RESEARCH PAGINATION
+   ========================================================= */
+
+.research-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+  padding-top: 30px;
+}
+
+.research-pagination > button {
+  border: 0;
+  background: transparent;
+  padding: 8px 0;
+  font-family: "DM Mono", monospace;
+  font-size: 8px;
+  letter-spacing: 0.11em;
+  color: #737d7f;
+  cursor: pointer;
+}
+
+.research-pagination > button:hover:not(:disabled) {
+  color: var(--black);
+}
+
+.research-pagination > button:disabled {
+  opacity: 0.3;
+  cursor: default;
+}
+
+.research-page-numbers {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.research-page-numbers button {
+  width: 34px;
+  height: 34px;
+  border: 1px solid transparent;
+  background: transparent;
+  font-family: "DM Mono", monospace;
+  font-size: 8px;
+  color: #7c8587;
+  cursor: pointer;
+}
+
+.research-page-numbers button:hover {
+  border-color: rgba(8, 14, 17, 0.18);
+  color: var(--black);
+}
+
+.research-page-numbers button.active {
+  border-color: rgba(8, 14, 17, 0.45);
+  color: var(--black);
+}
+
+.research-page-dots {
+  width: 25px;
+  text-align: center;
+  font-family: "DM Mono", monospace;
+  font-size: 8px;
+  color: #a0a7a8;
+}
+
+@media (max-width: 600px) {
+  .research-pagination {
+    gap: 10px;
+  }
+
+  .research-page-numbers {
+    gap: 0;
+  }
+
+  .research-page-numbers button {
+    width: 30px;
+    height: 30px;
+  }
+
+  .research-pagination > button {
+    font-size: 7px;
+  }
+
+  .research-page-dots {
+    display: none;
+  }
+}
