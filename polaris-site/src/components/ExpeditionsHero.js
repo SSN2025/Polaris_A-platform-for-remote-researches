@@ -8,7 +8,14 @@ export default function ExpeditionsHero() {
       <div className="expeditions-hero-overlay" />
 
       <div className="expeditions-hero-content">
+
+        <a href="/" className="back-home-button">
+          <span>←</span>
+          BACK TO HOME
+        </a>
+        
         <span className="section-index">EXPEDITIONS</span>
+        
         <h1>
           Field Missions.
           <br />

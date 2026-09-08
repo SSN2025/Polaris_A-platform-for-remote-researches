@@ -16,6 +16,7 @@ export default async function ResearchPaperPage({ params }) {
   const content = paper.content || {};
   const taxonomy = paper.taxonomy || {};
   const pipeline = paper.pipeline || {};
+
   const evidence = Array.isArray(paper.evidence)
     ? paper.evidence
     : [];
@@ -51,16 +52,30 @@ export default async function ResearchPaperPage({ params }) {
 
       <div className="paper-topbar">
         <div className="paper-container">
-          <Link
-            href="/research"
-            className="paper-back"
-          >
-            ← BACK TO RESEARCH
-          </Link>
+
+          <div className="paper-topbar-left">
+
+            <Link
+              href="/"
+              className="back-home-button"
+            >
+              <span>←</span>
+              BACK TO HOME
+            </Link>
+
+            <Link
+              href="/research"
+              className="paper-back"
+            >
+              ← BACK TO RESEARCH
+            </Link>
+
+          </div>
 
           <span className="paper-record-id">
             RECORD / {paper.id || "—"}
           </span>
+
         </div>
       </div>
 
@@ -133,11 +148,31 @@ export default async function ResearchPaperPage({ params }) {
 
           {authors.length > 0 && (
             <div className="paper-authors">
+
               <span>AUTHORS</span>
 
               <p>
-                {authors.join(", ")}
+                {authors
+                  .map((author) => {
+                    if (typeof author === "string") {
+                      return author;
+                    }
+
+                    if (
+                      author &&
+                      typeof author === "object"
+                    ) {
+                      return (
+                        author.name ||
+                        "Unknown Author"
+                      );
+                    }
+
+                    return "Unknown Author";
+                  })
+                  .join(", ")}
               </p>
+
             </div>
           )}
 
@@ -157,11 +192,13 @@ export default async function ResearchPaperPage({ params }) {
           </div>
 
           <div className="paper-summary-content">
+
             <p>
               {content.summary ||
                 display.summary ||
                 "No summary available."}
             </p>
+
           </div>
 
         </div>
@@ -219,6 +256,7 @@ export default async function ResearchPaperPage({ params }) {
           </div>
 
           <div className="paper-abstract-content">
+
             {content.abstract ? (
               <p>{content.abstract}</p>
             ) : (
@@ -227,6 +265,7 @@ export default async function ResearchPaperPage({ params }) {
                 extracted record.
               </p>
             )}
+
           </div>
 
         </div>
@@ -277,6 +316,7 @@ export default async function ResearchPaperPage({ params }) {
           </div>
 
           <div className="paper-ai-note">
+
             <span>METHOD</span>
 
             <p>
@@ -285,6 +325,7 @@ export default async function ResearchPaperPage({ params }) {
               Confidence values are displayed only when
               present in the source record.
             </p>
+
           </div>
 
         </div>
@@ -420,6 +461,7 @@ export default async function ResearchPaperPage({ params }) {
           <div className="paper-original-inner">
 
             <div>
+
               <span className="paper-original-label">
                 SOURCE DOCUMENT
               </span>
@@ -432,6 +474,7 @@ export default async function ResearchPaperPage({ params }) {
                 Access the source document associated
                 with this extracted research record.
               </p>
+
             </div>
 
             {paper.pdf_url ? (
@@ -467,8 +510,11 @@ export default async function ResearchPaperPage({ params }) {
 function Meta({ label, value }) {
   return (
     <div className="paper-meta">
+
       <span>{label}</span>
+
       <strong>{value}</strong>
+
     </div>
   );
 }
@@ -519,6 +565,7 @@ function ConfidenceCard({
     <div className="confidence-card">
 
       <div className="confidence-top">
+
         <span>{label}</span>
 
         {numeric !== null && (
@@ -528,6 +575,7 @@ function ConfidenceCard({
               : `${Math.round(numeric)}%`}
           </strong>
         )}
+
       </div>
 
       <div className="confidence-value">
@@ -536,6 +584,7 @@ function ConfidenceCard({
 
       {numeric !== null && (
         <div className="confidence-bar">
+
           <span
             style={{
               width: `${
@@ -545,6 +594,7 @@ function ConfidenceCard({
               }%`,
             }}
           />
+
         </div>
       )}
 
@@ -585,6 +635,7 @@ function EvidenceCard({
       <div className="evidence-content">
 
         <div className="evidence-label">
+
           <span>{field}</span>
 
           {section && (
@@ -593,6 +644,7 @@ function EvidenceCard({
               <span>{section}</span>
             </>
           )}
+
         </div>
 
         <blockquote>

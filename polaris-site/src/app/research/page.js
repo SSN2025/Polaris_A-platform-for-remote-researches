@@ -8,6 +8,10 @@ export default function ResearchPage() {
     <main className="research-page">
       <section className="research-hero">
         <div className="research-hero-inner">
+          <a href="/" className="back-home-button">
+            <span>←</span>
+            BACK TO HOME
+          </a>
           <div className="section-index">02 / 07</div>
 
           <div className="research-eyebrow">
