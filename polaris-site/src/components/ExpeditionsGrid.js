@@ -1,68 +1,84 @@
+import Link from "next/link";
+
 const expeditions = [
   {
     id: "maitri",
     name: "Maitri Station",
-    location: "Schirmacher Oasis, East Antarctica",
+    location: "Schirmacher Oasis · East Antarctica",
     founded: "1989",
     status: "ACTIVE",
     image: "/images/expedition-maitri.jpg",
-    summary:
-      "India's primary year-round research station, supporting glaciology, atmospheric science and biology programmes.",
+    description:
+      "India's second permanent Antarctic research station and a major base for multidisciplinary polar science.",
   },
   {
     id: "bharati",
     name: "Bharati Station",
-    location: "Larsemann Hills, East Antarctica",
+    location: "Larsemann Hills · East Antarctica",
     founded: "2012",
     status: "ACTIVE",
     image: "/images/expedition-bharati.jpg",
-    summary:
-      "India's newest station, built on modular stilted architecture, focused on geosciences and remote sensing.",
+    description:
+      "India's third Antarctic station supporting research across ocean, atmospheric, biological, and earth sciences.",
   },
   {
-    id: "gangotri",
+    id: "dakshin-gangotri",
     name: "Dakshin Gangotri",
-    location: "Queen Maud Land, East Antarctica",
+    location: "Queen Maud Land · East Antarctica",
     founded: "1983",
     status: "ARCHIVED",
     image: "/images/expedition-gangotri.jpg",
-    summary:
-      "India's first Antarctic station, now buried under ice, marking the start of the national polar programme.",
+    description:
+      "India's first Antarctic research station and the beginning of the country's sustained scientific presence in Antarctica.",
   },
 ];
 
 export default function ExpeditionsGrid() {
   return (
-    <section id="expeditions-grid" className="expeditions-grid-section">
-      <div className="expeditions-grid">
-        {expeditions.map((exp) => (
-          <article className="expedition-card" key={exp.id}>
-            <div
-              className="expedition-card-image"
-              style={{ backgroundImage: `url('${exp.image}')` }}
-            />
-            <div className="expedition-card-body">
-              <div className="expedition-card-top">
-                <span
-                  className={`status ${
-                    exp.status === "ARCHIVED" ? "archived" : ""
-                  }`}
+    <section className="expeditions-grid-section">
+      <div className="expeditions-container">
+        <div className="expeditions-grid">
+          {expeditions.map((expedition) => (
+            <article
+              className="expedition-card"
+              key={expedition.id}
+            >
+              <div
+                className="expedition-card-image"
+                style={{
+                  backgroundImage: `url('${expedition.image}')`,
+                }}
+              />
+
+              <div className="expedition-card-overlay" />
+
+              <div className="expedition-card-content">
+                <div className="expedition-card-top">
+                  <span>{expedition.status}</span>
+                  <span>{expedition.founded}</span>
+                </div>
+
+                <div className="expedition-card-main">
+                  <span className="expedition-location">
+                    {expedition.location}
+                  </span>
+
+                  <h2>{expedition.name}</h2>
+
+                  <p>{expedition.description}</p>
+                </div>
+
+                <Link
+                  href={`/expeditions/${expedition.id}`}
+                  className="expedition-card-link"
                 >
-                  <i />
-                  {exp.status}
-                </span>
-                <span className="expedition-founded">Est. {exp.founded}</span>
+                  VIEW EXPEDITION
+                  <span>↗</span>
+                </Link>
               </div>
-              <h3>{exp.name}</h3>
-              <p className="expedition-location">{exp.location}</p>
-              <p className="expedition-summary">{exp.summary}</p>
-              <a href="#" className="outline-button small">
-                VIEW STATION
-                <span>↗</span>
-              </a>
-            </div>
-          </article>
-        ))}
+            </article>
+          ))}
+        </div>
       </div>
     </section>
   );

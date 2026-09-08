@@ -11,7 +11,6 @@ export default function Navbar() {
 
   return (
     <header className="polaris-navbar">
-
       {/* BRAND */}
       <a
         className="polaris-brand"
@@ -50,7 +49,7 @@ export default function Navbar() {
         </a>
 
         <a
-          href="/#insights"
+          href="/discover"
           onClick={closeMenu}
         >
           DISCOVER
@@ -73,7 +72,6 @@ export default function Navbar() {
 
       {/* RIGHT SIDE */}
       <div className="navbar-right">
-
         <button
           className="search-button"
           type="button"
@@ -94,9 +92,7 @@ export default function Navbar() {
         <button
           className="menu-button"
           type="button"
-          onClick={() =>
-            setMenuOpen(!menuOpen)
-          }
+          onClick={() => setMenuOpen(!menuOpen)}
           aria-label={
             menuOpen
               ? "Close navigation menu"
@@ -107,9 +103,7 @@ export default function Navbar() {
           <span />
           <span />
         </button>
-
       </div>
-
     </header>
   );
 }

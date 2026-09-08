@@ -1,3 +1,4 @@
+import Navbar from "@/components/Navbar";
 import { getAllResearch } from "@/lib/research";
 import ResearchInterface from "./ResearchInterface";
 
@@ -6,12 +7,15 @@ export default function ResearchPage() {
 
   return (
     <main className="research-page">
+      <Navbar />
+
       <section className="research-hero">
         <div className="research-hero-inner">
           <a href="/" className="back-home-button">
             <span>←</span>
             BACK TO HOME
           </a>
+
           <div className="section-index">02 / 07</div>
 
           <div className="research-eyebrow">
