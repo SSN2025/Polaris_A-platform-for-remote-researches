@@ -40,6 +40,7 @@ export default function PolarResearchMapPage() {
 
       <section className="polar-map-hero">
         <div className="polar-map-atmosphere" />
+        <div className="polar-map-image" />
         <div className="polar-map-lines" />
 
         <div className="polar-map-hero-inner">
@@ -65,7 +66,7 @@ export default function PolarResearchMapPage() {
           </h1>
 
           <p>
-            Explore the locations connected to India's polar research
+            Explore the locations connected to India&apos;s polar research
             and see how scientific activity extends across the Antarctic
             landscape.
           </p>
@@ -85,7 +86,7 @@ export default function PolarResearchMapPage() {
             </div>
 
             <p>
-              Research sites are extracted from the repository's
+              Research sites are extracted from the repository&apos;s
               structured records. Select a location to explore the
               research associated with that place.
             </p>

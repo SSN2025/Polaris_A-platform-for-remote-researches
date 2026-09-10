@@ -1,76 +1,90 @@
 "use client";
 
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useState } from "react";
 
+const navItems = [
+  {
+    label: "EXPEDITIONS",
+    href: "/expeditions",
+  },
+  {
+    label: "RESEARCH",
+    href: "/research",
+  },
+  {
+    label: "ARCHIVE",
+    href: "/archive",
+  },
+  {
+    label: "DISCOVER",
+    href: "/discover",
+  },
+  {
+    label: "FOR CREATORS",
+    href: "/creators",
+  },
+  {
+    label: "ABOUT",
+    href: "/about",
+  },
+];
+
 export default function Navbar() {
+  const pathname = usePathname();
   const [menuOpen, setMenuOpen] = useState(false);
 
   const closeMenu = () => {
     setMenuOpen(false);
   };
 
+  const isActive = (href) => {
+    if (href === "/") {
+      return pathname === "/";
+    }
+
+    return (
+      pathname === href ||
+      pathname.startsWith(`${href}/`)
+    );
+  };
+
   return (
     <header className="polaris-navbar">
-      {/* BRAND */}
-      <a
-        className="polaris-brand"
+      <Link
         href="/"
+        className="polaris-brand"
         onClick={closeMenu}
+        aria-label="POLARIS home"
       >
         <span className="brand-mark">P</span>
         <span>POLARIS</span>
-      </a>
+      </Link>
 
-      {/* NAVIGATION */}
       <nav
+        id="polaris-primary-navigation"
         className={`polaris-nav ${
           menuOpen ? "open" : ""
         }`}
+        aria-label="Primary navigation"
       >
-        <a
-          href="/expeditions"
-          onClick={closeMenu}
-        >
-          EXPEDITIONS
-        </a>
-
-        <a
-          href="/research"
-          onClick={closeMenu}
-        >
-          RESEARCH
-        </a>
-
-        <a
-          href="/archive"
-          onClick={closeMenu}
-        >
-          ARCHIVE
-        </a>
-
-        <a
-          href="/discover"
-          onClick={closeMenu}
-        >
-          DISCOVER
-        </a>
-
-        <a
-          href="/creators"
-          onClick={closeMenu}
-        >
-          FOR CREATORS
-        </a>
-
-        <a
-          href="/about"
-          onClick={closeMenu}
-        >
-          ABOUT
-        </a>
+        {navItems.map((item) => (
+          <Link
+            key={item.href}
+            href={item.href}
+            onClick={closeMenu}
+            className={
+              isActive(item.href)
+                ? "active"
+                : ""
+            }
+          >
+            {item.label}
+          </Link>
+        ))}
       </nav>
 
-      {/* RIGHT SIDE */}
       <div className="navbar-right">
         <button
           className="search-button"
@@ -80,25 +94,28 @@ export default function Navbar() {
           ⌕
         </button>
 
-        <a
-          className="mission-button"
+        <Link
           href="/research"
+          className="mission-button"
           onClick={closeMenu}
         >
           ENTER PORTAL
           <span>↗</span>
-        </a>
+        </Link>
 
         <button
           className="menu-button"
           type="button"
-          onClick={() => setMenuOpen(!menuOpen)}
+          onClick={() =>
+            setMenuOpen((current) => !current)
+          }
           aria-label={
             menuOpen
               ? "Close navigation menu"
               : "Open navigation menu"
           }
           aria-expanded={menuOpen}
+          aria-controls="polaris-primary-navigation"
         >
           <span />
           <span />

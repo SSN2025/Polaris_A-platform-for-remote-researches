@@ -71,7 +71,7 @@ export default function TimelinePage() {
           </h1>
 
           <p>
-            Trace the development of India's polar research journey
+            Trace the development of India&apos;s polar research journey
             through stations, expeditions, and the growing body of
             scientific knowledge.
           </p>
@@ -92,7 +92,7 @@ export default function TimelinePage() {
             </h2>
 
             <p>
-              India's polar research story spans decades of field
+              India&apos;s polar research story spans decades of field
               missions, scientific observations, stations, and
               publications. This timeline provides a contextual view
               of that journey.

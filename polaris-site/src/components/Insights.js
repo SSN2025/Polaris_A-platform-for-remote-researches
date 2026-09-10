@@ -5,7 +5,7 @@ export default function Insights() {
     <section id="insights" className="insights-section">
       <div
         className="insights-background"
-        style={{ backgroundImage: "url('/images/insights-bg.jpg')" }}
+        style={{ backgroundImage: "url('/images/insight-bg.jpg')" }}
       />
       <div className="insights-overlay" />
 

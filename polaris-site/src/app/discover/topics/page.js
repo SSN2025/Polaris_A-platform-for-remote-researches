@@ -94,7 +94,7 @@ export default function TopicsPage() {
           </h1>
 
           <p>
-            Navigate India's polar research through the scientific
+            Navigate India&apos;s polar research through the scientific
             disciplines and themes represented across the knowledge
             repository.
           </p>

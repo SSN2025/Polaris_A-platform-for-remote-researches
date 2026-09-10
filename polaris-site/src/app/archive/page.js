@@ -3,6 +3,7 @@
 import React from "react";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 const archiveTypes = [
   {
@@ -89,10 +90,10 @@ export default function ArchivePage() {
         <div className="archive-hero-overlay" />
 
         <div className="archive-container archive-hero-inner">
-          <a href="/" className="back-home-button">
+          <Link href="/" className="back-home-button">
             <span>←</span>
             BACK TO HOME
-          </a>
+          </Link>
 
           <div className="archive-section-index">
             03 / 07
@@ -303,6 +304,8 @@ export default function ArchivePage() {
           </div>
         </div>
       </section>
+
+      <Footer />
     </main>
   );
 }

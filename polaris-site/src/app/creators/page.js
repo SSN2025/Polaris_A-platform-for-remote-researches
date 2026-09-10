@@ -49,6 +49,7 @@ export default function CreatorsPage() {
 
       <section className="creators-hero">
         <div className="creators-hero-grid" />
+        <div className="creators-hero-image" />
 
         <div className="creators-hero-inner">
           <div className="creators-navigation">

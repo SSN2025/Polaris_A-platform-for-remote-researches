@@ -67,7 +67,7 @@ export default function AboutPage() {
 
           <p>
             POLARIS is an integrated knowledge and outreach layer for
-            India's polar research — connecting scientific records with
+            India&apos;s polar research — connecting scientific records with
             the people who need to discover, understand, and communicate
             them.
           </p>

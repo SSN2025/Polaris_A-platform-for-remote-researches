@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function ExpeditionsHero() {
   return (
     <section id="expeditions-hero" className="expeditions-hero">
@@ -9,10 +11,10 @@ export default function ExpeditionsHero() {
 
       <div className="expeditions-hero-content">
 
-        <a href="/" className="back-home-button">
+        <Link href="/" className="back-home-button">
           <span>←</span>
           BACK TO HOME
-        </a>
+        </Link>
         
         <span className="section-index">EXPEDITIONS</span>
         
