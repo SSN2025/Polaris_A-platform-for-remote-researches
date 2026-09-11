@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
+import GlobalSearch from "./GlobalSearch";
 
 const navItems = [
   {
@@ -34,6 +35,8 @@ const navItems = [
 export default function Navbar() {
   const pathname = usePathname();
   const [menuOpen, setMenuOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
+
 
   const closeMenu = () => {
     setMenuOpen(false);
@@ -51,6 +54,7 @@ export default function Navbar() {
   };
 
   return (
+    
     <header className="polaris-navbar">
       <Link
         href="/"
@@ -64,9 +68,8 @@ export default function Navbar() {
 
       <nav
         id="polaris-primary-navigation"
-        className={`polaris-nav ${
-          menuOpen ? "open" : ""
-        }`}
+        className={`polaris-nav ${menuOpen ? "open" : ""
+          }`}
         aria-label="Primary navigation"
       >
         {navItems.map((item) => (
@@ -120,7 +123,19 @@ export default function Navbar() {
           <span />
           <span />
         </button>
+        <button
+          className="search-button"
+          type="button"
+          aria-label="Search Polaris"
+          onClick={() => setSearchOpen(true)}
+        >
+          ⌕
+        </button>
       </div>
+            <GlobalSearch
+        open={searchOpen}
+        onClose={() => setSearchOpen(false)}
+      />
     </header>
   );
 }

@@ -268,6 +268,49 @@ export function getAllResearch() {
     .filter(Boolean);
 }
 
+/*
+ * Simple substring search across the fields that matter most
+ * for discovery: title, summary, category, tags, keywords,
+ * and research sites. Powers the global search overlay.
+ */
+export function searchResearch(query, limit = 5) {
+  const normalized = query.trim().toLowerCase();
+
+  if (!normalized) {
+    return { total: 0, results: [] };
+  }
+
+  const allResearch = getAllResearch();
+
+  const matches = allResearch.filter((paper) => {
+    const haystack = [
+      paper?.bibliographic?.title,
+      paper?.content?.summary,
+      paper?.taxonomy?.category,
+      paper?.taxonomy?.subcategory,
+      ...(Array.isArray(paper?.taxonomy?.tags)
+        ? paper.taxonomy.tags
+        : []),
+      ...(Array.isArray(paper?.content?.keywords)
+        ? paper.content.keywords
+        : []),
+      ...(Array.isArray(paper?.content?.research_sites)
+        ? paper.content.research_sites
+        : []),
+    ]
+      .filter(Boolean)
+      .join(" ")
+      .toLowerCase();
+
+    return haystack.includes(normalized);
+  });
+
+  return {
+    total: matches.length,
+    results: matches.slice(0, limit),
+  };
+}
+
 export function getResearchById(
   id
 ) {

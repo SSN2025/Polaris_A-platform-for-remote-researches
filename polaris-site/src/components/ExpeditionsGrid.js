@@ -1,37 +1,6 @@
 import Link from "next/link";
+import { expeditions } from "@/lib/expeditions";
 
-const expeditions = [
-  {
-    id: "maitri",
-    name: "Maitri Station",
-    location: "Schirmacher Oasis · East Antarctica",
-    founded: "1989",
-    status: "ACTIVE",
-    image: "/images/expedition-maitri.jpg",
-    description:
-      "India's second permanent Antarctic research station and a major base for multidisciplinary polar science.",
-  },
-  {
-    id: "bharati",
-    name: "Bharati Station",
-    location: "Larsemann Hills · East Antarctica",
-    founded: "2012",
-    status: "ACTIVE",
-    image: "/images/expedition-bharati.jpg",
-    description:
-      "India's third Antarctic station supporting research across ocean, atmospheric, biological, and earth sciences.",
-  },
-  {
-    id: "dakshin-gangotri",
-    name: "Dakshin Gangotri",
-    location: "Queen Maud Land · East Antarctica",
-    founded: "1983",
-    status: "ARCHIVED",
-    image: "/images/expedition-gangotri.jpg",
-    description:
-      "India's first Antarctic research station and the beginning of the country's sustained scientific presence in Antarctica.",
-  },
-];
 
 export default function ExpeditionsGrid() {
   return (
