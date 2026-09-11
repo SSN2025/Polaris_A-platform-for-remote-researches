@@ -282,3 +282,87 @@ export function getResearchById(
     ) || null
   );
 }
+
+/*
+ * Related Content Engine (structure doc §8.2).
+ *
+ * Scores every other paper against the given one using
+ * fields that already exist in the locked schema — no new
+ * stored data, this is pure query/aggregation logic:
+ *
+ *   +3  same expedition
+ *   +2  same category
+ *   +2  per shared research site
+ *   +1  per shared tag
+ *   +1  per shared keyword
+ *
+ * Returns the top-scoring papers, highest first, excluding
+ * the paper itself and anything that scores 0.
+ */
+
+export function getRelatedResearch(paper, limit = 4) {
+  if (!paper) {
+    return [];
+  }
+
+  const allResearch = getAllResearch();
+
+  const expedition = paper?.bibliographic?.expedition || null;
+  const category = paper?.taxonomy?.category || null;
+
+  const sites = new Set(
+    Array.isArray(paper?.content?.research_sites)
+      ? paper.content.research_sites
+      : []
+  );
+
+  const tags = new Set(
+    Array.isArray(paper?.taxonomy?.tags) ? paper.taxonomy.tags : []
+  );
+
+  const keywords = new Set(
+    Array.isArray(paper?.content?.keywords) ? paper.content.keywords : []
+  );
+
+  const scored = allResearch
+    .filter((candidate) => String(candidate.id) !== String(paper.id))
+    .map((candidate) => {
+      let score = 0;
+
+      if (expedition && candidate?.bibliographic?.expedition === expedition) {
+        score += 3;
+      }
+
+      if (category && candidate?.taxonomy?.category === category) {
+        score += 2;
+      }
+
+      const candidateSites = Array.isArray(candidate?.content?.research_sites)
+        ? candidate.content.research_sites
+        : [];
+
+      score += 2 * candidateSites.filter((site) => sites.has(site)).length;
+
+      const candidateTags = Array.isArray(candidate?.taxonomy?.tags)
+        ? candidate.taxonomy.tags
+        : [];
+
+      score += candidateTags.filter((tag) => tags.has(tag)).length;
+
+      const candidateKeywords = Array.isArray(candidate?.content?.keywords)
+        ? candidate.content.keywords
+        : [];
+
+      score += candidateKeywords.filter((keyword) =>
+        keywords.has(keyword)
+      ).length;
+
+      return { candidate, score };
+    })
+    .filter(({ score }) => score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, limit)
+    .map(({ candidate }) => candidate);
+
+  return scored;
+}

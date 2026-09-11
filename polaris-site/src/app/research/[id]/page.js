@@ -1,6 +1,9 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getResearchById } from "@/lib/research";
+import {
+  getResearchById,
+  getRelatedResearch,
+} from "@/lib/research";
 
 export default async function ResearchPaperPage({ params }) {
   const { id } = await params;
@@ -42,6 +45,8 @@ export default async function ResearchPaperPage({ params }) {
     typeof pipeline.confidence === "object"
       ? pipeline.confidence
       : {};
+
+  const related = getRelatedResearch(paper, 4);
 
   return (
     <main className="paper-page">
@@ -447,6 +452,59 @@ export default async function ResearchPaperPage({ params }) {
             />
 
           </div>
+
+        </div>
+      </section>
+
+            {/* =====================================================
+          RELATED CONTENT
+      ===================================================== */}
+
+      <section className="paper-related">
+        <div className="paper-container">
+
+          <div className="paper-section-heading">
+            <span>07</span>
+            RELATED CONTENT
+          </div>
+
+          {related.length > 0 ? (
+            <div className="related-grid">
+
+              {related.map((item) => (
+                <Link
+                  key={item.id}
+                  href={`/research/${item.id}`}
+                  className="related-card"
+                >
+
+                  <span className="related-card-category">
+                    {item.taxonomy?.category || "Unclassified"}
+                  </span>
+
+                  <h3>
+                    {item.display?.title ||
+                      item.bibliographic?.title ||
+                      "Untitled Research"}
+                  </h3>
+
+                  <span className="related-card-meta">
+                    {item.bibliographic?.expedition ||
+                      "Unknown Expedition"}
+                    {item.bibliographic?.year
+                      ? ` · ${item.bibliographic.year}`
+                      : ""}
+                  </span>
+
+                </Link>
+              ))}
+
+            </div>
+          ) : (
+            <div className="paper-no-data">
+              No related records found for this paper yet.
+            </div>
+          )}
 
         </div>
       </section>

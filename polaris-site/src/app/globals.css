@@ -3093,12 +3093,6 @@ button {
   font-size: 12px;
 }
 
-.paper-topbar-left {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-}
-
 /* =========================================================
    DISCOVER PAGE
    ========================================================= */
@@ -6426,22 +6420,6 @@ button:focus-visible {
   }
 }
 
-.research-filters {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-}
-
-@media (max-width: 900px) {
-  .research-filters {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-}
-
-@media (max-width: 600px) {
-  .research-filters {
-    grid-template-columns: 1fr;
-  }
-}
-
 /* =========================================================
    POLARIS V3 — EDITORIAL POLAR ARCHIVE OVERRIDES
    Existing photography remains the primary visual language.
@@ -7100,4 +7078,608 @@ footer {
   }
 }
 
+/* =========================================================
+   POLARIS — RESEARCH PAPER DETAIL PAGE (/research/[id])
+   ---------------------------------------------------------
+   Styles the paper detail template: header, summary,
+   context, abstract, AI classification, evidence,
+   provenance, related content, original document CTA.
+   ========================================================= */
 
+.paper-page {
+  background: var(--polaris-paper);
+  color: var(--polaris-ink);
+  min-height: 100vh;
+}
+
+.paper-container {
+  width: min(1100px, calc(100% - 48px));
+  margin: 0 auto;
+}
+
+/* Topbar */
+
+.paper-topbar {
+  border-bottom: 1px solid var(--polaris-line);
+  padding: 22px 0;
+}
+
+.paper-topbar .paper-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.paper-topbar-left {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+}
+
+.paper-back {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  color: var(--polaris-muted);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.paper-back:hover {
+  color: var(--polaris-ink);
+}
+
+.paper-record-id {
+  color: var(--polaris-muted);
+  font-size: 10px;
+  letter-spacing: 0.14em;
+}
+
+/* Header */
+
+.paper-header {
+  padding: 60px 0 44px;
+  border-bottom: 1px solid var(--polaris-line);
+}
+
+.paper-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 22px;
+  color: var(--polaris-muted);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.paper-breadcrumb i {
+  font-style: normal;
+  opacity: 0.5;
+}
+
+.paper-header h1 {
+  margin: 0 0 32px;
+  font-size: clamp(32px, 4.4vw, 54px);
+  line-height: 1.08;
+  max-width: 900px;
+}
+
+.paper-meta-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 24px;
+  padding-top: 28px;
+  border-top: 1px solid var(--polaris-line);
+}
+
+.paper-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.paper-meta span {
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  color: var(--polaris-muted);
+}
+
+.paper-meta strong {
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--polaris-ink);
+}
+
+.paper-authors {
+  margin-top: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.paper-authors span {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  color: var(--polaris-muted);
+}
+
+.paper-authors p {
+  margin: 0;
+  font-size: 16px;
+}
+
+/* Shared two-column layout: label sidebar + content */
+
+.paper-two-column {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 48px;
+  align-items: start;
+}
+
+.paper-section-label {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  color: var(--polaris-muted);
+  position: sticky;
+  top: 100px;
+}
+
+.paper-section-label span {
+  color: var(--polaris-orange);
+}
+
+.paper-section-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 32px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--polaris-line);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  color: var(--polaris-muted);
+}
+
+.paper-section-heading span {
+  color: var(--polaris-orange);
+}
+
+/* Summary */
+
+.paper-summary {
+  padding: 56px 0;
+}
+
+.paper-summary-content p {
+  margin: 0;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: clamp(20px, 2.4vw, 26px);
+  line-height: 1.6;
+  color: var(--polaris-ink);
+  max-width: 680px;
+}
+
+/* Context */
+
+.paper-context {
+  padding: 56px 0;
+  background: var(--polaris-paper-soft);
+}
+
+.paper-context-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+
+.paper-context-block {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 22px;
+  background: var(--polaris-paper);
+  border: 1px solid var(--polaris-line);
+}
+
+.paper-context-block > span {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  color: var(--polaris-muted);
+}
+
+.paper-context-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.paper-context-items span {
+  padding: 6px 12px;
+  border: 1px solid var(--polaris-cyan);
+  color: var(--polaris-ink);
+  font-size: 12px;
+  letter-spacing: 0.02em;
+}
+
+.paper-muted {
+  margin: 0;
+  color: var(--polaris-muted);
+  font-style: italic;
+  font-size: 13px;
+}
+
+/* Abstract */
+
+.paper-abstract {
+  padding: 56px 0;
+}
+
+.paper-abstract-content p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.85;
+  color: var(--polaris-ink);
+  max-width: 720px;
+}
+
+/* AI Classification */
+
+.paper-ai {
+  padding: 56px 0;
+  background: var(--polaris-paper-soft);
+}
+
+.paper-ai-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+  margin-bottom: 28px;
+}
+
+.confidence-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 20px;
+  background: var(--polaris-paper);
+  border: 1px solid var(--polaris-line);
+}
+
+.confidence-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  color: var(--polaris-muted);
+}
+
+.confidence-top strong {
+  font-size: 15px;
+  color: var(--polaris-orange);
+}
+
+.confidence-value {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.confidence-bar {
+  height: 4px;
+  background: var(--polaris-line);
+  overflow: hidden;
+}
+
+.confidence-bar span {
+  display: block;
+  height: 100%;
+  background: var(--polaris-cyan);
+}
+
+.paper-ai-note {
+  display: flex;
+  gap: 14px;
+  padding: 18px 20px;
+  border-left: 2px solid var(--polaris-orange);
+  background: var(--polaris-paper);
+}
+
+.paper-ai-note span {
+  flex-shrink: 0;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  color: var(--polaris-muted);
+}
+
+.paper-ai-note p {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--polaris-muted);
+}
+
+/* Evidence */
+
+.paper-evidence {
+  padding: 56px 0;
+  background:
+    linear-gradient(rgba(239, 238, 232, 0.95), rgba(239, 238, 232, 0.97)),
+    url("/images/research-document-table.jpg") center / cover no-repeat;
+}
+
+.paper-evidence-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.evidence-card {
+  display: flex;
+  gap: 20px;
+  padding: 24px;
+  background: var(--polaris-paper);
+  border: 1px solid var(--polaris-line);
+}
+
+.evidence-number {
+  flex-shrink: 0;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 22px;
+  color: var(--polaris-orange);
+}
+
+.evidence-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.evidence-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  color: var(--polaris-muted);
+  text-transform: uppercase;
+}
+
+.evidence-label i {
+  font-style: normal;
+  opacity: 0.5;
+}
+
+.evidence-content blockquote {
+  margin: 0;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-style: italic;
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--polaris-ink);
+  border-left: 2px solid var(--polaris-cyan);
+  padding-left: 16px;
+}
+
+.evidence-source {
+  display: flex;
+  gap: 14px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  color: var(--polaris-muted);
+}
+
+.paper-no-data {
+  padding: 28px;
+  background: var(--polaris-paper);
+  border: 1px dashed var(--polaris-line);
+  color: var(--polaris-muted);
+  font-size: 13px;
+  font-style: italic;
+}
+
+/* Provenance */
+
+.paper-provenance {
+  padding: 56px 0;
+}
+
+.provenance-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.provenance-item {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 18px;
+  border: 1px solid var(--polaris-line);
+}
+
+.provenance-item span {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.12em;
+  color: var(--polaris-muted);
+}
+
+.provenance-item strong {
+  font-size: 14px;
+  font-weight: 500;
+  word-break: break-word;
+}
+
+/* Related Content */
+
+.paper-related {
+  padding: 56px 0;
+  background: var(--polaris-paper-soft);
+}
+
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.related-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 22px;
+  background: var(--polaris-paper);
+  border: 1px solid var(--polaris-line);
+  color: var(--polaris-ink);
+  text-decoration: none;
+  transition: border-color 0.2s ease;
+}
+
+.related-card:hover {
+  border-color: var(--polaris-orange);
+}
+
+.related-card-category {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.12em;
+  color: var(--polaris-orange);
+  text-transform: uppercase;
+}
+
+.related-card h3 {
+  margin: 0;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 19px;
+  line-height: 1.35;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+.related-card-meta {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: var(--polaris-muted);
+}
+
+/* Original document CTA */
+
+.paper-original {
+  background: #071013;
+  color: #f4f6f3;
+  padding: 70px 0;
+}
+
+.paper-original-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.paper-original-label {
+  display: block;
+  margin-bottom: 12px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  color: rgba(245, 246, 243, 0.5);
+}
+
+.paper-original-inner h2 {
+  margin: 0 0 10px;
+  color: #f4f6f3;
+  font-size: clamp(24px, 3vw, 34px);
+}
+
+.paper-original-inner p {
+  margin: 0;
+  max-width: 460px;
+  color: rgba(245, 246, 243, 0.6);
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.paper-pdf-button {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px 26px;
+  border: 1px solid rgba(245, 246, 243, 0.3);
+  color: #f4f6f3;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.paper-pdf-button:hover {
+  background: #f4f6f3;
+  color: #071013;
+}
+
+.paper-pdf-disabled {
+  flex-shrink: 0;
+  padding: 16px 26px;
+  border: 1px solid rgba(245, 246, 243, 0.15);
+  color: rgba(245, 246, 243, 0.4);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+}
+
+@media (max-width: 900px) {
+  .paper-meta-grid,
+  .paper-context-grid,
+  .paper-ai-grid,
+  .provenance-grid,
+  .related-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .paper-two-column {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .paper-section-label {
+    position: static;
+  }
+
+  .paper-original-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (max-width: 560px) {
+  .paper-meta-grid,
+  .paper-context-grid,
+  .paper-ai-grid,
+  .provenance-grid,
+  .related-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .evidence-card {
+    flex-direction: column;
+  }
+}
