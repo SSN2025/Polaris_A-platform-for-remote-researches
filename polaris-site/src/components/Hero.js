@@ -1,6 +1,28 @@
 import FilmModal from "./FilmModal";
+import { getAllResearch } from "@/lib/research";
+import { expeditions } from "@/lib/expeditions";
+
+function getArchiveStats() {
+  const allResearch = getAllResearch();
+
+  const uniqueSites = new Set();
+  allResearch.forEach((paper) => {
+    if (Array.isArray(paper?.content?.research_sites)) {
+      paper.content.research_sites.forEach((site) =>
+        uniqueSites.add(site)
+      );
+    }
+  });
+
+  return {
+    researchCount: allResearch.length,
+    expeditionCount: expeditions.length,
+    siteCount: uniqueSites.size,
+  };
+}
 
 export default function Hero() {
+  const stats = getArchiveStats();
   return (
     <section id="hero" className="hero-section">
       <div
@@ -48,22 +70,22 @@ export default function Hero() {
         <span>11°44′E</span>
       </div>
 
-      <div className="hero-data">
+            <div className="hero-data">
         <div className="data-block">
-          <span>TEMPERATURE</span>
-          <strong>−18°C</strong>
+          <span>RESEARCH RECORDS</span>
+          <strong>{stats.researchCount}</strong>
         </div>
         <div className="data-block">
-          <span>WIND</span>
-          <strong>24 KM/H</strong>
+          <span>EXPEDITIONS</span>
+          <strong>{stats.expeditionCount}</strong>
         </div>
         <div className="data-block">
-          <span>VISIBILITY</span>
-          <strong>18 KM</strong>
+          <span>RESEARCH SITES</span>
+          <strong>{stats.siteCount}</strong>
         </div>
         <div className="data-block">
           <span>STATUS</span>
-          <strong>FIELD ACTIVE</strong>
+          <strong>ARCHIVE LIVE</strong>
         </div>
       </div>
 

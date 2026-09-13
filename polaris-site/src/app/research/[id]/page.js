@@ -4,6 +4,8 @@ import {
   getResearchById,
   getRelatedResearch,
 } from "@/lib/research";
+import ExplainToggle from "@/components/ExplainToggle";
+import GlossaryText from "@/components/GlossaryText";
 
 export default async function ResearchPaperPage({ params }) {
   const { id } = await params;
@@ -42,7 +44,7 @@ export default async function ResearchPaperPage({ params }) {
 
   const confidence =
     pipeline.confidence &&
-    typeof pipeline.confidence === "object"
+      typeof pipeline.confidence === "object"
       ? pipeline.confidence
       : {};
 
@@ -181,6 +183,13 @@ export default async function ResearchPaperPage({ params }) {
             </div>
           )}
 
+          <ExplainToggle
+            summary={
+              content.summary || display.summary || null
+            }
+            abstract={content.abstract || null}
+          />
+
         </div>
       </section>
 
@@ -199,9 +208,13 @@ export default async function ResearchPaperPage({ params }) {
           <div className="paper-summary-content">
 
             <p>
-              {content.summary ||
-                display.summary ||
-                "No summary available."}
+              <GlossaryText
+                text={
+                  content.summary ||
+                  display.summary ||
+                  "No summary available."
+                }
+              />
             </p>
 
           </div>
@@ -264,7 +277,7 @@ export default async function ResearchPaperPage({ params }) {
           <div className="paper-abstract-content">
 
             {content.abstract ? (
-              <p>{content.abstract}</p>
+              <p><GlossaryText text={content.abstract} /></p>
             ) : (
               <p className="paper-muted">
                 No abstract available in the
@@ -457,7 +470,7 @@ export default async function ResearchPaperPage({ params }) {
         </div>
       </section>
 
-            {/* =====================================================
+      {/* =====================================================
           RELATED CONTENT
       ===================================================== */}
 
@@ -536,7 +549,7 @@ export default async function ResearchPaperPage({ params }) {
 
             </div>
 
-                        <div className="paper-original-actions">
+            <div className="paper-original-actions">
               {paper.pdf_url ? (
                 <a
                   href={paper.pdf_url}
@@ -667,11 +680,10 @@ function ConfidenceCard({
 
           <span
             style={{
-              width: `${
-                numeric <= 1
+              width: `${numeric <= 1
                   ? numeric * 100
                   : numeric
-              }%`,
+                }%`,
             }}
           />
 

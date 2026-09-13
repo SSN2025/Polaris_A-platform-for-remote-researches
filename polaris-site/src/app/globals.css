@@ -7956,3 +7956,112 @@ footer {
     font-size: 32px;
   }
 }
+
+/* =========================================================
+   POLARIS — EXPLAIN IT SIMPLY TOGGLE (§16 Smart Education)
+   ---------------------------------------------------------
+   Quick-glance switch between the plain-language summary and
+   scientific abstract, shown near the top of the paper page.
+   The full Summary and Abstract sections further down the
+   page are untouched — this is a fast preview, not a
+   replacement for them.
+   ========================================================= */
+
+.explain-toggle {
+  margin-top: 32px;
+  padding: 22px;
+  background: var(--polaris-paper-soft, #e5e5de);
+  border: 1px solid var(--polaris-line, rgba(17, 23, 25, 0.14));
+}
+
+.explain-toggle-switch {
+  display: inline-flex;
+  border: 1px solid var(--polaris-line, rgba(17, 23, 25, 0.14));
+  margin-bottom: 16px;
+}
+
+.explain-toggle-button {
+  padding: 8px 16px;
+  border: 0;
+  background: transparent;
+  color: var(--polaris-muted, #687273);
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.explain-toggle-button + .explain-toggle-button {
+  border-left: 1px solid var(--polaris-line, rgba(17, 23, 25, 0.14));
+}
+
+.explain-toggle-button.active {
+  background: var(--polaris-ink, #111719);
+  color: var(--polaris-paper, #efeee8);
+}
+
+.explain-toggle-button:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+.explain-toggle-text {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--polaris-ink, #111719);
+}
+
+/* =========================================================
+   POLARIS — GLOSSARY TOOLTIP LAYER (§16 Smart Education)
+   ---------------------------------------------------------
+   Recognized technical terms in summaries/abstracts render
+   as tap/click-to-reveal definitions rather than plain text.
+   Tap-based (not hover-only) so it works on mobile too.
+   ========================================================= */
+
+.glossary-term-wrapper {
+  position: relative;
+  display: inline;
+}
+
+.glossary-term {
+  display: inline;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  cursor: help;
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+  text-decoration-color: var(--polaris-orange, #a96b4f);
+}
+
+.glossary-tooltip {
+  position: absolute;
+  z-index: 20;
+  bottom: calc(100% + 8px);
+  left: 0;
+
+  width: max-content;
+  max-width: 260px;
+
+  padding: 12px 14px;
+
+  background: var(--polaris-ink, #111719);
+  color: var(--polaris-paper, #efeee8);
+
+  font-family: "Instrument Sans", sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+
+  box-shadow: 0 10px 30px rgba(4, 8, 11, 0.25);
+}
+
+@media (max-width: 480px) {
+  .glossary-tooltip {
+    max-width: 200px;
+  }
+}
