@@ -2,8 +2,8 @@ import FilmModal from "./FilmModal";
 import { getAllResearch } from "@/lib/research";
 import { expeditions } from "@/lib/expeditions";
 
-function getArchiveStats() {
-  const allResearch = getAllResearch();
+async function getArchiveStats() {
+  const allResearch = await getAllResearch();
 
   const uniqueSites = new Set();
   allResearch.forEach((paper) => {
@@ -21,8 +21,8 @@ function getArchiveStats() {
   };
 }
 
-export default function Hero() {
-  const stats = getArchiveStats();
+export default async function Hero() {
+  const stats = await getArchiveStats();
   return (
     <section id="hero" className="hero-section">
       <div

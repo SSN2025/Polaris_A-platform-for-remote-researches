@@ -1064,9 +1064,15 @@ export default function ResearchInterface({
                 paper?.display ||
                 {};
 
+              // document_id, not id — `id` collides across 257
+              // of 637 records in the source data (e.g. many
+              // different papers are all "article_6"), so using
+              // it as the link target sent ~40% of "VIEW PAPER"
+              // clicks to the wrong paper. document_id is the
+              // pipeline's actual unique identifier.
               const paperId =
-                paper?.id ||
-                paper?.document_id;
+                paper?.document_id ||
+                paper?.id;
 
               const resultNumber =
                 (safeCurrentPage -

@@ -2804,6 +2804,54 @@ button {
   color: inherit;
 }
 
+.archive-card-bottom a.archive-card-link {
+  display: inline-flex;
+  align-items: center;
+
+  border: 1px solid var(--polaris-orange, #a96b4f);
+  background: transparent;
+
+  padding: 10px 12px;
+
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 8px;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+
+  color: var(--polaris-orange, #a96b4f);
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.archive-card-bottom a.archive-card-link:hover {
+  background: var(--polaris-orange, #a96b4f);
+  color: #fff;
+}
+
+.archive-card-bottom a.archive-card-link span {
+  margin-left: 8px;
+  color: inherit;
+}
+
+.archive-card-pending {
+  opacity: 0.72;
+}
+
+.archive-card-pending .archive-card-count {
+  color: #b46a3f;
+}
+
+.archive-card-notice {
+  margin: 16px 0 0;
+  padding-top: 16px;
+
+  border-top: 1px dashed rgba(8, 14, 17, 0.18);
+
+  font-size: 12.5px;
+  line-height: 1.6;
+  color: #6b7273;
+}
+
 /* RESEARCH CONNECTION */
 
 .archive-research {

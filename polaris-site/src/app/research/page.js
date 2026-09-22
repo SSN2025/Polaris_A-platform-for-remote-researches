@@ -5,8 +5,8 @@ import Footer from "@/components/Footer";
 import { getAllResearch } from "@/lib/research";
 import ResearchInterface from "./ResearchInterface";
 
-export default function ResearchPage() {
-  const research = getAllResearch();
+export default async function ResearchPage() {
+  const research = await getAllResearch();
 
   return (
     <main className="polaris-site research-page">

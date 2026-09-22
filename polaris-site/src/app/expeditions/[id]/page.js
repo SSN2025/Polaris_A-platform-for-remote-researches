@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import { getAllResearch } from "@/lib/research";
+import { findResearchByTerms } from "@/lib/research";
 
 const expeditions = {
   maitri: {
@@ -55,33 +55,6 @@ const expeditions = {
   },
 };
 
-/*
- * Build searchable text from the actual
- * structured research record.
- */
-function getResearchText(paper) {
-  try {
-    return JSON.stringify(paper).toLowerCase();
-  } catch {
-    return "";
-  }
-}
-
-/*
- * Determine whether a record is connected
- * to this station.
- */
-function matchesStation(paper, expedition) {
-  const text = getResearchText(paper);
-
-  return expedition.stationTerms.some(
-    (term) =>
-      text.includes(
-        term.toLowerCase()
-      )
-  );
-}
-
 export default async function ExpeditionDetailPage({
   params,
 }) {
@@ -93,15 +66,7 @@ export default async function ExpeditionDetailPage({
     notFound();
   }
 
-  const research = getAllResearch();
-
-  const expeditionResearch =
-    research.filter((paper) =>
-      matchesStation(
-        paper,
-        expedition
-      )
-    );
+  const expeditionResearch = await findResearchByTerms(expedition.stationTerms);
 
   return (
     <main className="polaris-site expedition-detail-page">

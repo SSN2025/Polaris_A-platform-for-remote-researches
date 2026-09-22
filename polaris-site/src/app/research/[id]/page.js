@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import {
   getResearchById,
   getRelatedResearch,
+  cleanCategoryLabel,
 } from "@/lib/research";
 import ExplainToggle from "@/components/ExplainToggle";
 import GlossaryText from "@/components/GlossaryText";
@@ -10,7 +11,7 @@ import GlossaryText from "@/components/GlossaryText";
 export default async function ResearchPaperPage({ params }) {
   const { id } = await params;
 
-  const paper = getResearchById(id);
+  const paper = await getResearchById(id);
 
   if (!paper) {
     notFound();
@@ -48,7 +49,7 @@ export default async function ResearchPaperPage({ params }) {
       ? pipeline.confidence
       : {};
 
-  const related = getRelatedResearch(paper, 4);
+  const related = await getRelatedResearch(paper, 4);
 
   return (
     <main className="paper-page">
@@ -251,7 +252,7 @@ export default async function ResearchPaperPage({ params }) {
             <ContextBlock
               title="TAXONOMY"
               items={[
-                taxonomy.category,
+                cleanCategoryLabel(taxonomy.category),
                 taxonomy.subcategory,
                 ...tags,
               ].filter(Boolean)}
@@ -306,7 +307,7 @@ export default async function ResearchPaperPage({ params }) {
 
             <ConfidenceCard
               label="CATEGORY"
-              value={taxonomy.category}
+              value={cleanCategoryLabel(taxonomy.category)}
               confidence={
                 confidence.category
               }
@@ -487,8 +488,8 @@ export default async function ResearchPaperPage({ params }) {
 
               {related.map((item) => (
                 <Link
-                  key={item.id}
-                  href={`/research/${item.id}`}
+                  key={item.document_id}
+                  href={`/research/${item.document_id}`}
                   className="related-card"
                 >
 
@@ -567,7 +568,7 @@ export default async function ResearchPaperPage({ params }) {
               )}
 
               <Link
-                href={`/creators/kit/${paper.id}`}
+                href={`/creators/kit/${paper.document_id}`}
                 className="paper-kit-button"
               >
                 GENERATE OUTREACH KIT

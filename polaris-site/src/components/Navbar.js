@@ -89,14 +89,6 @@ export default function Navbar() {
       </nav>
 
       <div className="navbar-right">
-        <button
-          className="search-button"
-          type="button"
-          aria-label="Search Polaris"
-        >
-          ⌕
-        </button>
-
         <Link
           href="/research"
           className="mission-button"

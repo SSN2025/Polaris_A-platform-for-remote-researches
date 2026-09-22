@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { searchResearch } from "@/lib/research";
+import { searchResearch, cleanCategoryLabel } from "@/lib/research";
 import { searchExpeditions } from "@/lib/expeditions";
 
 /*
@@ -23,7 +23,7 @@ export async function GET(request) {
   }
 
   const { total: researchTotal, results: researchResults } =
-    searchResearch(query, 5);
+    await searchResearch(query, 5);
 
   const expeditionResults = searchExpeditions(query, 5);
 
@@ -34,16 +34,19 @@ export async function GET(request) {
       total: researchTotal,
       href: `/research?q=${encodeURIComponent(query)}`,
       results: researchResults.map((paper) => ({
-        id: paper.id,
+        // document_id, not id — id collides across ~40% of the
+        // dataset; document_id is the pipeline's actual unique
+        // identifier and is what the result link uses.
+        id: paper.document_id,
         title:
           paper?.bibliographic?.title || "Untitled Research",
         meta: [
-          paper?.taxonomy?.category,
+          cleanCategoryLabel(paper?.taxonomy?.category),
           paper?.bibliographic?.year,
         ]
           .filter(Boolean)
           .join(" · "),
-        href: `/research/${paper.id}`,
+        href: `/research/${paper.document_id}`,
       })),
     },
     {

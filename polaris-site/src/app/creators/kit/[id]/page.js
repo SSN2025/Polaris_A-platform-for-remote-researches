@@ -8,7 +8,7 @@ import Footer from "@/components/Footer";
 export default async function OutreachKitPage({ params }) {
   const { id } = await params;
 
-  const paper = getResearchById(id);
+  const paper = await getResearchById(id);
 
   if (!paper) {
     notFound();
@@ -24,7 +24,7 @@ export default async function OutreachKitPage({ params }) {
         <div className="paper-container">
           <div className="paper-topbar-left">
             <Link
-              href={`/research/${paper.id}`}
+              href={`/research/${paper.document_id}`}
               className="paper-back"
             >
               ← BACK TO RECORD
