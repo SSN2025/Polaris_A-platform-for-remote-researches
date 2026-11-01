@@ -1,0 +1,81 @@
+{
+  "id": "environmental-risk-assessment-and-environment-ncpor-da54e4",
+  "document_id": "NCPOR-DA54E4",
+  "source_file": "ARTICLE+8.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/651/3/ARTICLE+8.pdf",
+  "title": "Environmental Risk Assessment and Environmental Code of Conduct for Antarctic Protected Areas",
+  "year": 1983,
+  "expedition": "2nd Indian Antarctic Expedition",
+  "category": "Glaciology",
+  "subcategory": "Environmental Risk Assessment and Environmental Code of Conduct for Antarctic Protected Areas",
+  "bibliographic": {
+    "title": "Environmental Risk Assessment and Environmental Code of Conduct for Antarctic Protected Areas",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "2nd Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1983,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 2nd Indian Antarctic Expedition examines key glaciology phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Glaciology",
+    "subcategory": "Environmental Risk Assessment and Environmental Code of Conduct for Antarctic Protected Areas",
+    "tags": [
+      "glaciology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Glaciology discoveries from 2nd Indian Antarctic Expedition: \"Environmental Risk Assessment and Environmental Code of Conduct for Antarctic Protected Areas\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Glaciology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:33:31.454938Z"
+  }
+}

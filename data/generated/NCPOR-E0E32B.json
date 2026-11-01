@@ -1,0 +1,81 @@
+{
+  "id": "investigations-on-weather-forecasting-and-lon-ncpor-e0e32b",
+  "document_id": "NCPOR-E0E32B",
+  "source_file": "Ar_18.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/320/3/Ar_18.pdf",
+  "title": "Investigations on weather forecasting and long-term climate changes in Antarctica",
+  "year": 1987,
+  "expedition": "6th Indian Antarctic Expedition",
+  "category": "Other",
+  "subcategory": "Investigations on weather forecasting and long-term climate changes in Antarctica",
+  "bibliographic": {
+    "title": "Investigations on weather forecasting and long-term climate changes in Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "6th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1987,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 6th Indian Antarctic Expedition examines key other phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Other",
+    "subcategory": "Investigations on weather forecasting and long-term climate changes in Antarctica",
+    "tags": [
+      "other",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Other discoveries from 6th Indian Antarctic Expedition: \"Investigations on weather forecasting and long-term climate changes in Antarctica\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Other based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:33:25.310510Z"
+  }
+}

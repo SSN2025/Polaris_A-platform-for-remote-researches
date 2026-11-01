@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_239_261",
+  "document_id": "NCPOR-B214A8",
+  "source_file": "Technical+Publication+No.+19%2C+pp+239-261.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/885/1/Technical+Publication+No.+19%2C+pp+239-261.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+239-261",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 239-261 \nDetailed Sedimentological Studies of the Glacigenic \nSediments of Schirmacher Oasis, Antarctica \nAshok K. Srivastava \nReader, P. G. Department of Geology, S G B Amravati University, \nAmravati, Maharashtra-444602 \nAbstract \nThe present work emphasizes on the study of on going sedimentological processes \nin Schirmacher area as well as the detailed study of product of the same i.e., glacial debris \nand sediments. Physiographically, the Schirmacher area is divisible into continental ice, \nmain Schirmacher land and shelf area. A clear distinction of the dominating physical \nagencies and their work in above mentioned three areas can easily be noticed. However, \nin a limited period of time, the present emphasis is given on various statistical analysis \nof the sediment samples collected from various sub-environments of the glacial \nenvironment. The common parameters like graphic mean, graphic skewness, graphic \nkurtosis, graphic standard deviation etc. have been calculated and interpreted for \nenvironmental reconstruction. In addition, a preliminary report of heavy minerals \nidentified is also presented. \nKeywords: Antarctica, Schirmacher range, Grain size analysis, Heavy minerals \nIntroduction \nThe report is an outcome of the author's visit to Antarctica as a \nsummer team member in 21st expedition, 2002. The visit was aimed for \nthe detailed sedimentological studies of the glacial sediments exposed in \nand around the Schirmacher range. The Schirmacher Range, a rock oasis \nis represented by undulating topography consisting of low elevations hills \nof 50-200mts. altitudes and depressions formed due to glacial valleys and \nlakes. It covers an area of 35 sq. kms. between Latitudes 77° 44' 30\" -\n77° 46' 30\" S and 11° 22' 40\" - 11° 54' 00\"E Longitudes. While \ncollecting the data during the fieldwork, it has been observed that there \nis an ample scope for the sedimentological studies. However, in the \npreliminary phase, an emphasis has been given on granulometric analysis \nof the sediments from different areas. Lai (1986) has already made a \npreliminary effort for heavy mineral analysis while Asthana and \n240 Ashok K. Srivastava \nChaturvedi (1998) carried out their studies on the textural characteristics \nof the sediments and quarts grain morphology including SEM studies. \nKhun et al., (1993) have made a detailed study of the glaciomarine \nsediments of Weddell and Lazarev seas including Schirmacher oasis and \ninterpreted about the glacial transport mechanism as well as the \ndepositional process. \nIn the present study, an emphasis has been given on detailed \ngranulometric analysis of the extensive sediment samples collected from \ndifferent locations of Polar ice-sheet, Schirmacher main land including \nlakes and shelf area. Various statistical parameters have been calculated \nand interpreted for their significance in reconstruction of depositional \nenvironment. The heavy minerals from the same samples have also been \nseparated and are under study, therefore, a preliminary report is being \nmade. \nField Studies and Sampling \nA total of thirty-seven sediment samples (A1-A28, A30 and A32-\nA39) have been collected from entire area. Basically, three major \ngeomorphological units are clearly distinguishable in the field i.e., Polar \nice-sheet, Schirmacher mainland including lakes and shelf area (Fig. 1). \nThe first unit i.e., Polar ice-sheet covering a large area in the south is \nimpregnated with abundant sand and silt size sediments. The sampling has \nbeen made on the surface, margins as well as at the base where sediments \nfall down with melt water and form debris. In some of the cases, small \nice-chunks have been taken and grains were separated through melting \nfollowed by sieving. Eight samples (A2-A6 and A32-A34) have been \ncollected from this area covering along the scarp face of ice-sheet exposed \nin south of Maitri, SASE point, Shivling and NOVA side. \nAdjacent to the Polar ice sheet, the second geomorphological unit is \nSchirmacher mainland is represented by Precambrian metamorphosed \nterrain consisting dominantly of high grade gneisses, crystalline schists, \ngranite, charnokite etc. The terrain shows various geomorphological units \nas a result of glacial environments like - melt water channels, sub-glacial \nlakes, moraines, glacial tills etc. This range provides sufficient scope for \nthe study of ongoing glacial process along with the glacial sediments from \ndifferent sub-environments. However, the sampling in this area have been \nmade with only two criteria in consideration i.e., lakes and adjoining area \nand second, rocky ground where influence of wind is a significant factor \nfor sediment accumulation. Nine lake samples are collected from \nPriyadarshini lake; three other lakes located in south and west of Maitri, \nDetailed Sedimentological Studies of the Glacigenic Sediments ...",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 23
+  },
+  "taxonomy": {
+    "category": "4] Earth Sciences",
+    "subcategory": "Detailed Sedimentological Studies of the Glacigenic Sediments of Schirmacher Oasis, Antarctica.",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:55.708471Z"
+  }
+}

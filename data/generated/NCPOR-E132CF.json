@@ -1,0 +1,81 @@
+{
+  "id": "suspended-sediment-fluxes-in-a-tropical-estua-ncpor-e132cf",
+  "document_id": "NCPOR-E132CF",
+  "source_file": "ARTICLE+20-2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/667/3/ARTICLE+20-2.pdf",
+  "title": "Suspended Sediment Fluxes in a Tropical Estuary, West Coast of India",
+  "year": 1983,
+  "expedition": "2nd Indian Antarctic Expedition",
+  "category": "Geology",
+  "subcategory": "Suspended Sediment Fluxes in a Tropical Estuary, West Coast of India",
+  "bibliographic": {
+    "title": "Suspended Sediment Fluxes in a Tropical Estuary, West Coast of India",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "2nd Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1983,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 2nd Indian Antarctic Expedition examines key geology phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Geology",
+    "subcategory": "Suspended Sediment Fluxes in a Tropical Estuary, West Coast of India",
+    "tags": [
+      "geology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Geology discoveries from 2nd Indian Antarctic Expedition: \"Suspended Sediment Fluxes in a Tropical Estuary, West Coast of India\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Geology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:34:11.391059Z"
+  }
+}

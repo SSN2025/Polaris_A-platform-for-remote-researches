@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_20a",
+  "document_id": "NCPOR-61380F",
+  "source_file": "RRChapter-20A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/962/1/RRChapter-20A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-20A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "293Bacteria Population in the Schirmacher Oasis\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 293-297\nBacteria Population in the Schirmacher Oasis\nClemente Michael Wong Vui Ling, Yong Hui Yee and Tam Heng Kiat\nBiotechnology Research Institute, Universiti Malaysia Sabah,\nLocked Bag 2073, 88999 Kota Kinabalu Sabah, Malaysia\nABSTRACT\nBacteria were isolated from the soil and water samples collected within the\nSchirmacher Oasis during the austral summer of 2005. Purified bacteria were\nanalyzed by Gram-staining, light microscopy and molecular techniques. The 16S\nrDNA of the isolates were sequenced and analyzed using the basic local alignment\nsearch tool (BLAST) to resolve the identities of the bacterial isolates. Bacteria\nencountered were Arthrobacter spp. A. oxydans , Bacillus spp., B. cereus , B.\npolyfermenticus, B. pumilus, Pseudomonas fluoresceus, P . putida, P . syringae,\nNocardioides, Frigoribacterium, Rubrobacter, Rhodococcus, Flavobacterium sp.,\nBurkholderia sp.  and several unidentified strains. One isolate, Burkholderia sp.\nwas found to produce anti-microbial compounds against tropical pathogens,\nSalmonella typhii and Escherichia coli O157.\nINTRODUCTION\nAntarctica harbors a diverse population of unique microorganisms\nand is home to many unique species which are not found elsewhere. The\ndiversities of bacteria of various parts of Antarctica are well-documented,\nbut only a few reports are available from the Schirmacher Oasis.\nSchirmacher Oasis is an area of relatively ice-free, low lying-hills, in the\nEastern Dronning Maud land, (70º46’04\"-70º44’21\"S; 11º49’54\"-\n11º26’03\"E) East Antarctica, about 70 km away from Prince Astrid coast.\nThe Schirmacher Oasis has many fresh water lakes that harbor a wide variety\nof microbes (Velecar et al., 2002). Hence, the objective of this project was\nto analyze the bacterial population in the permanent lake of the Schirmacher\nOasis. This project was carried out in collaboration with the National Centre\nfor Antarctica and Ocean Research, India. Samples were collected from\nthe permanent Antarctic lake water and soils within the Schirmacher Oasis\nfor bacterial isolation and characterization. Isolated bacteria were screened\nfor their abilities to produce anti-microbial compounds.\n294 Clemente Michael Wong Vui Ling et al.\nMATERIALS AND METHODS\nSampling Locations\nThe locations from where the samples were collected were generally\ndivided into (i) west of Maitri, (ii) around Maitri and (iii) east of Maitri\n(circled in Fig. 1). The sampling locations were recorded using the Global\nPositioning System (GPS) detector (Garmin). Soil and water samples were\ncollected using sterilized bottles and stored at -20ºC. About two hundred\ngrams of soil were collected in triplicates from each site.\nFig. 1 : The Schirmacher Oasis\nGrowth Media\nBacteria were grown in two different media, viz. Luria-Bertani (LB)\nand Nutrient media. The Luria Bertani medium (10 g/l tryptone, 5 g/l yeast\nextract and 5 g/l sodium chloride), and Nutrient medium (Peptone from\nmeat 3.45 g/l, sodium chloride 5.1 g/l and peptone from casein 3.45 g/l)\nwere diluted to 1/10 of its original concentration, and sterilized by\nautoclaving at 121ºC at 15lb for 15 mins.\nIsolation of Bacteria\nBacteria from liquid culture were diluted and plated onto Luria-Bertani\nand Nutrient Media containing 1.5% Bacto-Agar (Difco). Single colony\nwas picked and streaked onto fresh medium and the process was repeated\nuntil a pure culture was obtained.\nAfter Ravinder et al. 2001\n295Bacteria Population in the Schirmacher Oasis\nExtraction of Genomic DNA\nTwo ml of bacteria in the liquid culture were used for the extraction\nof genomic DNA. DNA extraction was carried out using the DNAeasy Kit\n(Qiagen) according to the instructions from the manufacturer.\nSequencing of the 16S rDNA\nUniversal primers 25f, 518r, 530f, 907r, 926f, 1114f, 1392r and 1525r\nwere used in various combinations to amplify the 16S rDNA of bacteria.\nAmplified 16S rDNA genes were sequenced and analyzed using the basic\nlocal alignment search tool (BLAST), a web-based software at http://\nwww.ncbi.nlm.nih.gov/BLAST/.\nDetection of Antimicrobial Production\nAntimicrobial production was determined using the modified deferred\nantagonism procedure of Kekessy and Piguet (1970).  Replica plates were\nprepared using the same agar as that used for isolating the organisms on\nthe master plates.  The replica plates were overlaid with soft Nutrient agar\ncontaining one of the indicator organisms.  Zones of clearance surrounding\nthe producer colony following incubation at 20°C indicated the presence\nof an antagonistic agent (O’Brien et al., 2004).  Assay bacteria, Escherichia\ncoli 0157:H7, and Salmonella typhii were maintained on Luria-Bertani broth\nand LBA or nutrient broth and agar (NB/NA).\nRESULTS AND DISCUSSIONS\nLB and nutrient agar media supported the growth of a substantial\nnumber of bacteria from the soil and water samples. Bacterial isol",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "4] Biology & Environmental Sciences",
+    "subcategory": "Bacteria Population in the Schirmacher Oasis",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:51.975369Z"
+  }
+}

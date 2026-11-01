@@ -1,0 +1,72 @@
+{
+  "id": "article_32",
+  "document_id": "NCPOR-6BF2C7",
+  "source_file": "ARTICLE+32.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/477/3/ARTICLE+32.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+32",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 389-399 \nTELE CONDITION MONITORING OF GENSETS AT\nMAITRI STATION\nR.N. Sarwade and P.Y. Dabeer\nResearch & Development Establishment (Engineers)\nAbstract\nLifeline to I ndian research station Maitri in Antarctica, are the 10 diesel generating\n(DG) sets, that provide not only basic amenities such as heating, lighting, water; but also\ncommunication and power for the scientific instrumentation at the station. Spare parts for\nthe DG sets can only be brought in once during the summer, when the new expedition team\narrives with supplies from India. Expert advice may not be available all the time at the station.\nDue to this fact and the critical nature of the power supply, condition-based telemoni-\ntoring programme for the station has been envisaged. Planned beginning has been made with\noff-line data collection and computer based analysis with remote monitoring capabilities.\nThe type 2526 Data Collector of B&K is used to regularly log measurements at predefined\npoints on the DG sets. The data is then transmitted via SATCOM/e-mail to R&DEE office\nin India, where it is stored and analysed in the Compass database. Consultative advice on\nany incipient faults detected, recommended maintenance action, spare parts optimisation\netc. is then directed back to the Data Collector operator in Antarctica, again via SATCOM/e-\nmail (Fig.9).\nIntroduction\nDue to severe cold, strong blizzards, prolonged darkness and most of all\nits inaccessibility even from the nearest landmass for the major part of the year\nbecause of the frozen sea, it is of utmost importance to have highly reliable\nenergy system supplying power to the station.\nPrinciple\nVibration signatures of any machine can be analysed to find out the health\nof the running machine, ther eby early recognition of developing fault and\neffecting protection of the machine. When fault begins to develop, the dynamic\nprocess in the machine changes and some of the forces acting on machine parts\nalso change; thereby influencing the vibration level and shape of the vibration\nspectrum. Regular vibration measurements and analysis indicate machine\n390 R.N. Sarwade el al. \nTele Condition Monitoring of Gensets  391\nhealth trends and the need for maintenance. On condition maintenance neces-\nsitates servicing of the machine, only when vibration analysis shows it to be\nnecessary. This is also in agreement with most engineers' instinct that it is\nunwise to interfere with a smoothly running machine.\nBy means of regular vibration measurements, the onset of fault condition\ncan be detected and their development followed. Measurements can be extrapo-\nlated in order to predict when an unacceptable vibration level will be reached\nand when the machine will be ser viced. This is called Trend-Monitoring\n(Figs.7,8) and it allows the engineer to plan for repairs well in advance.\nTo provide optimum cost effective monitoring and assure total machine\nprotection and early recognition  of the faults, off-line machine monitoring\nsystem consisting of software COMPASS & K (Denmark), Pentium work\nstation and intelligent data collector 2526 had been chosen. Fig.l  shows\ncomplete set-up.\nMaitri power plant set-up has been shown in Fig.2. Measurement set-up\nfor each point, auto-spectrum, envelop-spectrum and 6% CPB (Constant Per-\nFig.2: Plant structure set-up \nFig. 3 \n392 R.N. Sarwade et al, \ncentagc Bandwidth) has been created. Sample spectrums are shown in\nFigs.3,4,5 respectively. These spectrums have been acquired through data\ncollector, by first loading Route  (Fig.6)  to data collector from CVM (Central\nVibration Monitor), then by taking the  measurements from the defined meas-\nuring points on the machine and then unloading data from the data collector to\nCVM.\nObservation and Analysis\nIt was observed that whenever vibration levels hav e crossed alert level,\ngreasing of rolling element bearing was carried out. Measurements taken soon\nafter often indicated vibration levels falling back below alert levels.\nIn June 96, vibration measurements in  Bhaskara block of genset 5 on fan\nend of alternator showed vibration levels crossing danger level in 5 frequency\ncomponents, while flywheel end of engine measurements showed increase in\nvibration levels crossing alarm level limits  in 6 frequency components. It was\ndiagnosed as shift in alignment of coupling. It was decided to take preventive\naction next morning, but by morning  the coupling had already given way and\nthe standby genset was given over the load.\nTele Condition Monitoring of Gensets  393\nTable 1: Potential Failure Modes (PFM) with possible remedies\nPotential Failure Modes\n(PFMs)\nCracked shaft\nWhite metal bearing failure\nGenerator rotor earth fault\nShaft bend\nLoss of rotating part\nAlignment shift\nFoundation or pedestal crack\nGenerator end ring replacement\nDescription\nCrack develops in shaft due\nto fatigue or corrosion\ndamage.\nRubbing betwe",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "6]Engineering And Logistics",
+    "subcategory": "Tele Condition Monitoring of Gensets at Maitri Station",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:14.730312Z"
+  }
+}

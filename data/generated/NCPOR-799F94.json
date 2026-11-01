@@ -1,0 +1,81 @@
+{
+  "id": "preliminary-assessment-of-biological-diversit-ncpor-799f94",
+  "document_id": "NCPOR-799F94",
+  "source_file": "Pages129-142.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1240/1/Pages129-142.pdf",
+  "title": "Preliminary assessment of biological diversity at Larsemann Hills, east Antarctica",
+  "year": 2011,
+  "expedition": "30th Indian Antarctic Expedition",
+  "category": "Biology / Microbiology",
+  "subcategory": "Preliminary assessment of biological diversity at Larsemann Hills, east Antarctica",
+  "bibliographic": {
+    "title": "Preliminary assessment of biological diversity at Larsemann Hills, east Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "30th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2011,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 30th Indian Antarctic Expedition examines key biology / microbiology phenomena in polar terrain around Larsemann Hills. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Larsemann Hills"
+    ],
+    "research_sites": [
+      "Larsemann Hills"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Biology / Microbiology",
+    "subcategory": "Preliminary assessment of biological diversity at Larsemann Hills, east Antarctica",
+    "tags": [
+      "biology-microbiology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Biology / Microbiology discoveries from 30th Indian Antarctic Expedition: \"Preliminary assessment of biological diversity at Larsemann Hills, east Antarctica\". Learn how Indian scientists studied Larsemann Hills on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Biology / Microbiology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:31:21.343227Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_6",
+  "document_id": "NCPOR-7E1238",
+  "source_file": "ARTICLE+6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/236/3/ARTICLE+6.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+6",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "93\nRadioactivity Measurements on Some Rock and Water Samples from\nDakshin Gangotri, Antarctica\nS.K. Verma, G.S. Mital, G.V. Rao, R. Rangarajan, K.N.S. Reddy and\nM. Venkatarayuda\nNational Geophysical Research Institute, Hyderbad-500007\nABSTRACT\nThe field measurements and laboratory analyses were carried out on some rock and water samples\nfrom the Dakshin Gangotri region. It was found that no significant deposits of radioactive minerals exist\nin the vicinity of the Priyadarshini lake. The water samples collected from the water channels in the ice-\nshelf and from the Priyadarshini lake were found to be free of any hazardous radioactive contaminations.\nINTRODUCTION\nThe gamma ray spectrometric surveys are useful in locating gamma radiation fields caused by\nvarying concentrations of radio isotopes at different localities. The spectrometric surveys thus pro-\nvide an effective tool to locate important radioactive minerals like uranium, thorium etc. in a given\nregion. So far very few radioactive surveys have been carried out in Antarctica (Dreschoff et al., 1983)\nand no significant deposits in radioactive minerals have been reported in the Dronning Maud Land.\nAs there is very little or no pollution in Antarctica, normally the ice and water samples collect-\ned from Antarctica show the purest form of these substances. However, at places, such samples have\nbeen found to be contaminated  by the fallouts resulting from the nuclear tests being carried out in\nvarious parts of the world. To determine the level of radioactive contamination, water samples were\ncollected from the ice-shelf and from the Schirmacher Oasis region.\nDATA COLLECTION AND LOCATION OF THE SAMPLES\nSpectrometric survey\nTo determine the radioactive behaviour of various rock types and to locate any possible occur-\nrence of radioactive minerals in the vicinity of Indian station, Maitree in the Schirmacher Oasis\nregion, the radiometric survey was don e along the profile shown in Fig. 1.\nThe survey was done using a GAD-6 portable spectrometer which is a digital, four channel,\nspectral-stabilized gamma-ray analyser manufactured by the Scintrex Co., USA. This spectrometer\nautomatically displays the Compton-stripped values when the stripping factors are dialed in digi-\ntally. The stripped or unstripped outputs can be s elected with the help of a switch provided in the\nfront panel of the instrument. For a given radioactive source, the output displayed for the uranium\nchannel is proportional to the equivalent uranium value if the Compton-stripping of the output is\ndone. The displayed values for various channels can be automatically normalized to counts per\nsecond by selecting the proper switch. In the present survey, the values of thorium, uranium, potas-\nsium and total counts were recorded at each station. These measurements recorded along the profile\nare shown in Fig. 2.\nA number of rock samples were collected from different geological units along the profile for\nsubsequent study in the laboratory.\nRadioactivity Measurements on Rock & Water Samples \nMts.\n 1000 500 1 Km.\nGARNET BIOTITE GNEISS\nBANDED GNEISS\nMAITREE CAMP\nPYROXENE GRANULITE\nSHEARED ROCK\nPROFILE\nFig. 1. Map showing the region of Schirmacher Oasis where radiometric survey was done.\nCollection of water samples\nThe samples of water were collected from the water channels occurring on the ice-shelf about\n35 km south from the coast and from the Priyadarshini lake, shown in Fig. 1. The samples were\ncollected in sterilized bottles and were sealed subsequently.\nDATA ANALYSIS AND INTERPRETATION\nSpectrometric analysis\nThree major sources causing gamma radiations in rocks are potassium (K), uranium (U) and\nthorium (Th). The three characteristic gamma-ray energies associated with these elements for the\npurpose of spectrometric surveys or assaying are 1.461 MeV for potassium, 1.764 MeV for uranium\nand 2.615 MeV for thorium. The response recorded in the channels for K, U and Th are normally\ncompared against an ambient radiation level caused mainly due to sources like cosmic rays, radioac-\ntive nuclides produced in nuclear explosions, natural radioactive nuclei in the earth's atmosphere\nand some trace amounts of radioactive elements in most rocks and soils. A precise determination of\nthe background radiation level is a must for targets with low concentrations of radioactive elements.\nHowever, for ore-deposits rich in radioactive elements, the measurement of the background level is\n94\n0\n______________________________________________________________________________________________________________________________\n70°\n45'\n11°45'\nVerma, Mital, Rao, Rangarajan, Reddy & Venkatarayudu \nnot so important. As the objective of the survey was to locate the presence of radioactive minerals, if\nany, in the Schirmacher Oasis region, background levels were recorded near the Indian Station on\nthe ice-shelf. The background count rates found to be 7(K), 1.75 (U), 1.5(Th) and 400 (Tc) where Tc is\nthe total count rate.\nAn examination of ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "2]Geology and Geophysics",
+    "subcategory": "Radioactivity measurements on some rock and water samples from Dakshin Gangotri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:22.640974Z"
+  }
+}

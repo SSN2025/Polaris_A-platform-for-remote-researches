@@ -1,0 +1,72 @@
+{
+  "id": "article_14",
+  "document_id": "NCPOR-2EDE22",
+  "source_file": "ARTICLE+14.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/618/3/ARTICLE+14.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+14",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nDeveloping long term monitoring programme for birds and\nmammals in the  Indian ocean and Antarctica\nS.A. HUSSAIN AND AJAI SAXENA\nWildlife Institute of India, P.O.B. 18. Dehradun - 248 001\nAbstract\nProtocol on Environmental Protection of the Antarctica Treaty made it man-\ndatory for all countries maintaining a permanent research station at Antarctica to\nmonitor key environmental indicators, for assessing and verifying the impact of\nany activity in and around the area of their operations. The wildlife Institute of\nIndia was given the responsibility of developing a long term monitoring protocol\nfor major wildlife found around the Indian research stations at Dakhshin Gangotri,\nMaitri and Princess Astrid coast.\nUnder this programme during January and February 1997, wildlife census\nalong the shelf between 10° E to 13° E longitude was carried out using AS 350\nBA Squirrel helicopter flying at 112 km/hour (60 knots) at an altitude of 61 m \n(200 ft) above sea level. The width of the transacts was 300m from the ice shelf\ntowards sea. All sorties were made between 1100 and 1600 hours coinciding\nwith peak hauling out time for seals. During  the census whenever  animals were\nseen, their location was recorded on a Magellan Trial Blazer XL hand held GPS\nreceiver unit. Simultaneously, number of  animals seen, ice types, floe size and\nenvironment conditions were recorded on a note sheet that was later transferred\nto computerized date  sheets, A total of 12 hours of flying time was used and 5 \nsorties were made for the census. Additional two sorties of two and four hours\nrespectively were used as trial to get familiar with the area and the species, and to\ndevelop a map of the coast line along the shelf.\nDuring the census two species of seals viz Weddell and Crabeater, and five\nspecies of birds viz Emperor and Adelie penguins, Antarctic and Snow petrels,\nand South polar skuas were seen. The overall density of Weddell and Crabeater\nseals was 6.57, ± 1.27 and 0.48 ± 0.1, whereas for Emperor and Adelie penguins\nit was 29.5, ± 7.30 and 12.28, ± 4.97 respectively.\nIn the case of  Weddell seal and Emperor penguin the abundance was\nsignificantly higher during the sorties carried out in January, where as in the case\nof Crabeater seal and  Adelie penguin it was higher in  February. The wildlife\nsightings to the west of the Indian discharge point were significantly higher than\nthe eastern side. Three zones with large congregation of seals and penguins have\nbeen identified, viz. Zone I 1 10.25-10.65°E, Zone I I - 10.90-11.5° and Zone III\n11.25-12°E.\nOf the total sightings, 77% of Weddell seal, 36% Crabeater seal, 74% of Em-\n188\nS. A. Hussain & Ajai Saxena \nperor penguin and 17% of Adelie penguins were observed on fast ice. The abun-\ndance of Weddell seals was positively associated with the extent of fast ice but\nwas negative in the case of Crabeater seals, which showed positive associations\nwith pack ice. Similar pattern was observed for Emperor and Adelie penguins,\nrespectively. Our estimates of mean encounter rate derived during this study is\ncomparatively higher for all species except that of Crabeater seals. Comparative\ndata for 1995, 1996 and 1997 shows a consistently increasing trend for all spe-\ncies, except Crabeater seals. In case of crabcater seal, which is essentially a pack\nice seal, the reason of sighting of lesser number of these seals is justified. The\nOther reasons could be observer bias in identifying seals and lesser logistic sup-\nport during earlier studies.\nDuring the voyage period 64 species of birds were recorded of which 62\nspecies were pelagic sea birds. Of the 62 pelagic species, identity of 53 species\nwas confirmed. Petrels and shearwaters were the most dominant taxa (19) fol-\nlowed by terns and noddies (9), albatrosses (6), and strom-petrels (5). Fourteen\nspecies of marine mammals were recorded, of which eleven species were ceta-\nceans and three pinniped. Of the 11 identified species of cetaceans, 5 were dol-\nphins, 1 porpoise and 5 whales. Three pinniped were, Crabeater seals, Weddell\nand Ross seals.\nIntroduction\nThe advent of people in the Antarctic realm has initiated a process of hu-\nman-induced environmental change (BATTAGLIAet al., 1997). Even the heroic\nage of the pioneering explorers has left its mark on the Antraclic landscape, in\nthe from of abandoned huts and supplies, though many of these are now justifi-\nably preserved as relics of considerable historic merit. Such early traces of hu-\nman presence in Antarctica were but a forerunner of much greater impacts ac-\ncompanying the onset of later scientific expeditions, involving the construction\nof stations, importation of large quantities of materials, equipment and\nsupplies - and the consequent production of waste (SAGE, 1985; IUCN, 1990).\nThe impacts, while localized, have been considerable, and they result fr",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 22
+  },
+  "taxonomy": {
+    "category": "3]Biological Sciences",
+    "subcategory": "Developing a long term monitoring programme for birds and mammals in the Indian ocean and Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:28.700559Z"
+  }
+}

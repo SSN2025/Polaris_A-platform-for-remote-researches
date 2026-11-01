@@ -1,0 +1,72 @@
+{
+  "id": "chapter_3",
+  "document_id": "NCPOR-370CA2",
+  "source_file": "Chapter+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1089/1/Chapter+3.pdf",
+  "bibliographic": {
+    "title": "Chapter+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Aerosol Characteristics over parts of East Antarctica\nJai Prakash Chaubey, S. Suresh Babu and K. Krishna Moorthy\nSpace Physics Laboratory, Trivandrum, India\nABSTRACT\nThe properties of marine and Antarctic aerosols, their dependence on meteorological,\ngeographical and human influences are examined using measured spectral aerosol optical\ndepth (AOD), total mass concentration (M T) and mass concentrations of black carbon\naerosol (M B), in the marine atmospheric boundary layer (MABL) from coastal India and\nAntarctica and over two distinct coastal locations of Antarctica; Maitri (70.77°S, 11.73°E,\n123 m m.s.l.) and Bharati (69.40°S, 76.20°E, 48 m m.s.l.), during southern hemispheric(SH)\nsummer (December to March) of 2007-2008, as a part of the 27 th Indian Antarctic\nExpedition, during International Polar Year (IPY). Over the oceans, large latitudinal\ngradients are seen; with AOD decreasing from coastal India (AOD~0.45) to coastal\nAntarctica (AOD~0.04) during the Northern Hemisphere (NH) winter leg (Dec 2007 to\nJan 2008), with a strong seasonality of AOD over all regions, with a decrease of the values\nand gradient in NH spring (Mar-Apr 2008). MB also decreases exponentially from 3800\nng m-3 (over10 °N) to 624 ng m -3 near equator and much lower values (~100 ng m -3) over\nsouthern oceanic region. Satellite retrieved AOD showed good correlation with the ship\nborne measurements; while GOCART retrieved AOD underestimates but gives a measure\nof the spatial variations. In contrast, our investigations showed comparable values for the\nmean columnar AOD at 500 nm over Maitri (0.034 ± 0.005) and Bharati (0.032 ± 0.006)\nindicating good spatial homogeneity in the columnar aerosol properties over the coastal\nAntarctica. Estimation of Angstrom exponent ( ) showed accumulation mode dominance\nat Maitri (~1.2 ± 0.3) and coarse mode dominance at Bharati (0.7±0.2). On the other hand,\nmass concentration (M T) of ambient aerosols showed relatively high values (~8.25 ± 2.87\nµgm-3) at Maitri in comparison to Bharati (6.03 ± 1.33 µgm -3).\nKeywords: Marine Aerosol, Antarctic Aerosol, Indian Antarctic Expedition.\n1.0  INTRODUCTION\nOver the past few decades, the global scale of the impact of\natmospheric aerosols on climate and clouds is at the focus of investigation\nof the climate science community [IPCC, 2007]. Despite these efforts,\nclimate forcing of aerosols remains largely uncertain primarily due to their\nlarge spatio-temporal heterogeneity and inadequate representation in\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 145-179\n146                                    Jai Prakash Chaubey, et al.\nclimate models (Satheesh and Moorthy, 2005; Bates et al., 2006; Remer\net al., 2008; Smirnov et al., 2011). One of the important reasons for this\nuncertainty is the lack of information on the regional distribution of\naerosols from distinct environments, including pristine marine\nenvironments and Polar Regions and there still is a need for extensive\nobservational data. As ~70% of the Earth's surface area is covered by\nOceans, which are also major sources of natural aerosols (e.g., Woodcock,\n1953; Monahan, 1968; Prospero, 1979; Moorthy et al., 1997; Satheesh\nand Moorthy, 2005; Smirnov et al., 2011), it is more important to\ncharacterize aerosol properties over Oceans. In addition to the local\nproduction of aerosols over oceans (sea spray, oxidation of DMS etc),\naerosols from populated continents (mainly anthropogenic aerosols) get\ntransported to long distances over the oceans, thereby changing the optical\nand radiative properties of oceanic aerosols. This further makes\ninvestigations of aer osols over the oceans more important for better\ncharacterization of anthropogenic and continental impact. To understand\nthe aerosol characteristics over the oceanic regions there are many\ncampaign based ship cruises and continuous Island based measurements\n(Holben et al., 1998; Smirnov et al., 2002, Moorthy and Satheesh, 2000;\nMoorthy et al., 2003) apart from the satellite measurements. The data\nstrength acquired from different campaigns over Atlantic Ocean and\nPacific Ocean is comparatively larger than that over Indian Oceanic\nregions.  Most of the campaigns in the Oceanic regions in the Indian\nlongitude sector are mainly constrained to Arabia n Sea, Bay of Bengal\nand tropical Indian Ocean and had limited temporal coverage. Such\ninformation is important in determining the possible transport of the\naerosols from the Asian and African continent over the remote oceans of\nsouthern hemisphere and the consequent effects.\nOn the other hand, Antarctica is a unique continent at the extreme\nsouth, separated from the other populated continental masses by oceanic\nregions, making it one of the most pristine places on the Earth (Wall, 2005).\nDue to the pristine characteristics, it provides an excellent environment to\nexamine the natural and background aerosols in the atmosphere over snow\nand ice. Not only that",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 35
+  },
+  "taxonomy": {
+    "category": "3] Atmospheric Sciences",
+    "subcategory": "Aerosol Characteristics over parts of East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:14:05.070564Z"
+  }
+}

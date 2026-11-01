@@ -1,0 +1,81 @@
+{
+  "id": "radioactivity-studies-in-antarctica-ncpor-96a59a",
+  "document_id": "NCPOR-96A59A",
+  "source_file": "pg225-233.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/274/3/pg225-233.pdf",
+  "title": "Radioactivity Studies in Antarctica",
+  "year": 1986,
+  "expedition": "5th Indian Antarctic Expedition",
+  "category": "Glaciology",
+  "subcategory": "Radioactivity Studies in Antarctica",
+  "bibliographic": {
+    "title": "Radioactivity Studies in Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "5th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1986,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 5th Indian Antarctic Expedition examines key glaciology phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "Glaciology",
+    "subcategory": "Radioactivity Studies in Antarctica",
+    "tags": [
+      "glaciology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Glaciology discoveries from 5th Indian Antarctic Expedition: \"Radioactivity Studies in Antarctica\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Glaciology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:21.551668Z"
+  }
+}

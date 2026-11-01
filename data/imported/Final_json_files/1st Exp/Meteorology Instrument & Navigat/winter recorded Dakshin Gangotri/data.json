@@ -1,0 +1,72 @@
+{
+  "id": "article_3",
+  "document_id": "NCPOR-1B5025",
+  "source_file": "ARTICLE+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/132/3/ARTICLE+3.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "The Antarctic Winter—as Recorded at\nDakshin Gangotri\nE. Desa1, M. R. Nayak1,  R.  G.  Prabhu  Desai1 and A. P. Selvam 1 \nABSTRACT\nThe data tape of the Automatic Weather Recording Station set up by the first expedition was recovered by the second\nexpedition. The station performed well and the entire tape shows valuable and consistent recorded data. The temperature records\nshow progressive cooling with the advance of the Antarctic winter with a minimum  recorded temperature of -29° deg C. The wind\ndata is consistent with published results of long term  experiments showing winds generally from the South and South East sectors.\nThe  maximum  wind speed recorded in the 6 months of recording was 85 mph from  a  southerly direction. Some  qualitative\nexplanations are put forward for the observations and the paper concludes with a set of recommendations for future experiments.\nINTRODUCTION\nOn the 15th February 1983 a small team from the Second Indian Expedition Contingent landed at\nDakshin Gangotri and surveyed the condition of the Automatic Weather Recording Station left behind by\nthe first expedition.\nThe team reported that one of the four guy wires holding the mast had worked loose, causing the mast\nto tilt considerably to one side. The bins containing the electronics, tape unit and the sealed batteries were\nundamaged, however, as also the underwater connectors, interconnecting cables and \"O\" ring seals. The\nmast was reinstalled vertically by the team.\nThree of the five external sensors were in good condition. These were the air and surface thermo-\nmeters and the humidity sensor. The cup anemometer however was missing and the wind vane was\npartially broken.\nThe other remaining external units were the heavy duty batteries, which showed no external damage\nand had a terminal voltage of 12 volts instead of the nominal 24 volts. The secondary external batteries\nwere replaced by new 120 AH, 24 volts batteries.\nThe bin containing the sealed batteries was opened and checked. These were found in good condition\nand showed a terminal voltage of 12 volts instead of the nominal 20 volts. They were not replaced. The\noriginal cassette tape was replaced and the electronics was checked for proper functioning before resealing\nthe bin.\nA photograph taken of the weather station after 13 months at Dakshin Gangotri is shown in Plate I.\nRESULTS AND DISCUSSIONS\nThe format of the recorded data has been discussed in detail elsewhere (Ref. 1) in this report. After a \nvisual scan of the raw replayed data, modifications to the linear equations described in Ref. 1 were made in\nthe processing of the temperature data.\nRaw data\nThe recorded tape was played through a Memodyne tape reader and the data arranged tabularly. A \nhard copy was obtained on a printer.\nA visual check of the data showed that more than 99 % of the recorded data was in a format consistent\nwith the different checks built into the recording system. The remaining 1% of the data showed missed\n___________________________________________________________________________________________________________________________________________\n1 National Institute of Oceanography, Dona Paula, Goa-403 004, India.\n30\n...E. Desa, M. R. Nayak, R. G. P. Desai and A. P. Selvam\ncharacters which can be directly attributed to misprinting or misreading. A typical printout showing an\nerror is given in Table I. The value of the missing character-can be ascertained from the number of\ncharacters as well as the trend of the values.\nO n e point of interest was a clock skip which occurred on 28 April 1982. The record numbers had for the\nprevious 103 days showed a monotonic increase. On 28 April however the Random Access Memory chips\n(RAMs)  holding the record number skipped from a record entry of 5168 to 8169. Taking this into account,\nthe total number of interrogations was 1578. At the set interrogation interval of 2 hours 16 minutes 32\nseconds, the total working period correspond to 149.6 days. The tape had been loaded on 16 January 1982\nand t h e end of the tape was reached on the \"Afternoon\" of 13 June 1982. This is  consistent with\ncalculations from the number of bytes per interrogation and the capacity of the magnetic tape.\nHealth monitors\nT h e health of 2 reference voltages was monitored. The 2 reference voltages had nominal values of\n1870 and 360 millivolts (mV) and a third check was also made of the ground reference. The ground\nreference allowed a simple estimation of the drift of the Analog to Digital Converter (ADC) to be made.\nThe record showed that at no stage did the ADC have a drift higher than 1 mV. The checks on the\nreference voltages allowed the sensor outputs to be corrected.\nT h e minimum, average and maximum values recorded for the high reference of 1870 mV were 1867\nmV, 1870 mV and 1873 mV respectively. This was equivalent to ±0.15% drift of full scale.\nWinds\nThe wind sensors were units obtained from M/s. R. M. Young & Co, U. S. A. The cup anemometer\ngave an output of 4.8 volts for a wi",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2]Meteorology, Instrument & Navigation",
+    "subcategory": "The Antarctic winter — as recorded at Dakshin Gangotri",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:31.208636Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_19",
+  "document_id": "NCPOR-CA90D1",
+  "source_file": "ARTICLE+19.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/221/3/ARTICLE+19.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+19",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian Expedition to Antarctica, Scientific Report 1986 \nDepartment of Ocean Development Technical Publication No 3 pp 251-254 \nStudy of the Ionised and Non-Ionised Atmosphere\nA. K. Hanjura 1\nABSTRACT\nDuring the Third Indian Scientif ic Expedition to Antarctica, a permanent station with all facili-\nties for conducting laboratory experiments was established, and D-region ionis ation and the ground\nlevel pressure variations were studied. These studies were made in continuation of experiments con-\nducted during the earlier expeditions. The re sults are discussed in this paper.\nINTRODUCTION\nThe experiments conducted by NPL during the Third Antarctic Expedition were in the nature\nof continuation of those conducted during earlier two expeditions. Mainly tw o experiments were\nperformed during this  expedition successfully. (I) Study of the D region ionisation behaviour using\nriometer observations (II) Study of ground level pressure variations using microbarographs. These\ntwo experiments have been described in the following sections. One of the main achievements of\nthe present expedition was the building of a permanent manned station with all facilities fo r conducting\nlaboratory experiments. The air conditioned laboratory in the permanent station has uninterrupted\nelectric supply. Towards the latter part of our stay the two above mentioned experiments were shifted\nto the laboratory from the tents and have been left behind in running condition for continuing the obser-\nvations during the Antarctic winter.\nRIOMETER EXPERIMENTS\nThe study of ionised atmosphere ie ionosphere has been undertaken right from the first Indian\nexpedition to Antarctica. This study is of a continuing nature, and data over a long period of time is\nrequired to make these studies useful. The state of ionosphere keeps on changing at different times\nof the day and from season to season. From HF communication point of view, it is necessary to\npredict the state of ionosphere with time. Since the HF communication is being tried between Antar-\nctica and India the present studies will be quite useful. A riometer tuned to 20 MHz was used for\nthis study. The data were collected for the summer months at the station site. The locally fabricated\nantenna for the reception of 20 MHz noise comprised of two open dipoles 21 ft apart, element length\nbeing 11 ft. The antenna output were matched through baluns made out of triaxial cable and were\ncombined in the same phase. Reflectors were also used and their height above ground was adjusted\nto give maximum signal strength. The height of antenna above ground was 90. The dipoles were\naligned along geographical N-S. The riometer was fed from the baluns through a 50 ohm co-axial\ncable and gave a d c output proportional to th e signal strength input. The output was recorded on a \nstrip chart recorder. In a place like Antarctica where there was no man  made-noise the  noise signal\nrecorded was the one received from sources outside the ionosphere like the radiostars. The signal\ntraversed the ionosphere and in doing so got partially absorbed depending upon the state of ionosphere.\n1National Physical Laboratory, New Delhi.\n251\nSTUDY OF THE IONISED AND NON-IONISED A TMOSPHERE\nSince the noise source was steady the variations in recorded signal strength gave an idea of the state\nof ionisation. In order to record data over a long period of time the set up was shifted to the permanent\nstation. Antenn a was erected about 100 m away from the building so as to be away from any man made\nnoise. Since a long coaxial cable from antenna to the laboratory would seriously deteriorate the signal\nstrength the riometer was placed in a weather proof box sealed completely and guyed properly to\nresist strong winds. The box was placed a little distance away from the antenna and the riometer\noutput taken to the recorder in the laboratory. A weathe r proof 3 core cable was used for this purpose\nas well as for giving power to the riometer. Hourly time markers were provided by the riometer itself.\nA typical record of 20 MH z riometer observations is shown in Fig 1. This record shows a \ngeomagnetic quiet time behaviour with the  received noise remaining relatively steady. The riometer\ndata are being compared with the previous year' s observations. These will be analysed in a similar\nway and the results reported in a subsequent publication.\nMICROBAROGRAPH EXPERIMENT\nApart from ionospheric studies an experiment to study the surface wind pressure fluctuations\nwas conducted using a microbarograph. The sensor of the instrument was having three symmetrical\ninlets and one of them was kept facing the prevailing wind direction which for the station site was east\nof south east (~100°). The microbarograph was kep t in the open far away from any structures or\nobstacles. The experiment was carried out at the station site and simultaneously at  Dakshin Gangotri\nhills. The prevailing wind directions at both the places was roughly the same. The output of the\nm",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "6]Radiophysics",
+    "subcategory": "Study of the Ionised and Non-ionised atmosphere durinq the Third Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:02.903290Z"
+  }
+}

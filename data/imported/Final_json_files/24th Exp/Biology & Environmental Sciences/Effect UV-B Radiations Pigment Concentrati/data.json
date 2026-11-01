@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_18a",
+  "document_id": "NCPOR-5F4129",
+  "source_file": "RRChapter-18A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/960/1/RRChapter-18A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-18A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "BIOLOGY AND\nENVIRONMENTAL\nSCIENCES\n274 Jaswant Singh et al.\n275Effect of UV-B Radiations on the Pigment Concentrations of.....\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 275-283\nEffect of UV-B Radiations on the Pigment\nConcentrations of Three Antarctic Plant Species\nJaswant Singh1, D.K. Upretti**, Devendraa Siingh* and\nSunil M. Sonbawne*\nDeptt of Environmental Sciences,\n1Dr. R.M.L. Avadh University, Faizabad-224001, U.P ., India\n* Indian Institute of Tropical Meteorology, Pune-411008, India\n** National Botanical Research Institute, Lucknow-226001, U.P., India\nABSTRACT\nThe decrease in total column ozone shall lead to enhanced levels of UV-B\ndoses, capable of limiting the life forms over Antarctica. Organisms which are not\naccustomed to high level of UV-B radiation will get suppressed and\nphotoautotrophic production will decline. If the primary producers are threatened\nit will be difficult for the survival of organisms at higher trophic level. Algae,\nmosses and lichens are the common floral elements of Antarctica and are\ncharacterized by adaptations essential for survival on harsh environmental\nconditions. Three different plants, i.e., Spirogyra sp., Bryum argentinum  and\nXanthuria elegans, which are naturally growing, around Indian research station\n“Maitri”, East Antarctica, were analyzed for the presence of UV-B absorbing\ncompounds.\nConcentrations of UV-B absorbing compounds and phenolics were higher\nin B. argentinum and X. elegans as compared to Spirogyra sp. Terrestrial plants\nare getting UV exposure directly as compared to aquatic algae Spirogyra sp and\ntherefore, induction of UV-B absorbing pigments is higher in land plants than that\nin the aquatic plant.\nKey Words: Bryum argentinum, Xanthuria elegans, Spirogyra sp. UV-B radiations,\nUV absorbing pigments, East Antarctca\n.\nINTRODUCTION\nSpringtime depletion of the ozone layer above the Antarctica was\nfirst observed by ground based measurements from Halley Bay station from\n1979-1984 (Forman et. al., 1985). Ever since, there has been great concern\nabout ozone depletion and consequences for the biosphere, because lower\n276 Jaswant Singh et al.\nozone concentrations lead to increased exposure to harmful solar ultraviolet\nradiations especially UV-B. Today’s ozone depletion and increased UV-B\nlevels are mainly caused by man-made chemicals, especially\nchlorofluorocarbons (CFCs), (Frederik et al., 1994, Xiong et al., 2001).\nIncreased levels of UV-B radiations reaching the earth’s surface has\nheightened interest in the effects of UV-B on plants. To survive in Antarctica,\nplants need to be able to withstand severe physiological stresses, such as\nrepeated freezing and thawing, desiccation, changes to the cellular chemical\nenvironment and enhanced UV-B radiation. The flora of Antarctica consists\nprimarily of lichens, bryophytes (mosses and liverworts), algae and fungi.\nTwo flowering plants (a grass and a small cushion- forming plant) are found\non the northern and western part of the Antarctic Peninsula, (Seppelt and\nConell, 2004). Among the major floral elements of Antarctica such as\nlichens, mosses, algae and fungi, lichens have a number of adaptations that\nenable them to survive in this extreme continent. Many lichens contain\nsecondary compounds, often termed as lichen products, which mostly are\nphenolics with major absorption bands in the UV-B waveband.  Like the\nlichens, the bryophytes can be found in almost all areas capable of supporting\nplant life in the Antarctic, though they are not as widespread. Many of the\nmosses have tightly packed stems and shoots to minimize water loss. Some\nmosses have orange carotenoid pigments which help in preventing\nphotosystem damage during growing season. Algae have successfully\nadapted to their harsh environment through the development of a number\nof adaptive features which include pigments, sugars and lipids, mucilage\nsheath, motile stages and spore formation. Pigments protect the cells from\nhigh light and UV damage during the summer months. The cells of some\nspecies also secrete copious amounts of mucilage which enable them to\nadhere to one another and to snow crystals and prevent the cells from being\nwashed away by melt water. The mucilage also forms a protective coat and\ndelays desiccation. It may have an additional function as an UV shield.\nDuring the 24\nth Indian Scientific Expedition to Antarctica studies on\nthe UV-B radiations and induction of UV absorbing pigments were carried\nout with the aquatic algae, moss and lichens growing around Indian research\nstation Maitri, Schirmacher Oasis, East Antarctica.\nMATERIALS AND METHODS\nStudy Area\nNaturally UV exposed plants of aquatic algae (Spirogyra sp.), Bryum\nargentium (Fig.1a) and lichen Xanthuria elegans (Link) Th. Fr, (Fig.1b),\n277Effect of UV-B Radiations on the Pigment Concentrations of.....\nwere collected from the nearby area of Indian second research station\n“Maitri,” situated at Schirmacher Oasis, Eas",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "4] Biology & Environmental Sciences",
+    "subcategory": "Effect of UV-B Radiations on the Pigment Concentrations of Three Antarctic Plant Species",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:56.997153Z"
+  }
+}

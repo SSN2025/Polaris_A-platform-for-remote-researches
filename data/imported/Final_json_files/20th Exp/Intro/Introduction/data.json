@@ -1,0 +1,72 @@
+{
+  "id": "cover",
+  "document_id": "NCPOR-5183F5",
+  "source_file": "cover.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/806/1/cover.pdf",
+  "bibliographic": {
+    "title": "cover",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SCIENTIFIC REPORT OF \nTWENTIETH \nINDIAN ANTARCTIC EXPEDITION \nSCIENTIFIC REPORT OF \nTWENTIETH \nINDIAN ANTARCTIC EXPEDITION \nTECHNICAL PUBLICATION No. 18 \nNATIONAL CENTRE FOR ANTARCTIC & OCEAN RESEARCH \n(MINISTRY OF EARTH SCIENCES) \nHEADLAND SADA, VASCO, GOA-403804 \nINDIA \n2006 \nReport Prepared by : Mervin D' Souza \nUnder the Supervision of : Shri S. Mukerji, Director \nAntarctica Division \nGeological Survey of India \nNH-5 P-N.I.T., Faridabad-121 001 \nand \nShri Rasik Ravindra, Centre Director \nNational Center for Antarctic & \nOcean Research \nHeadland Sada, Vasco, Goa-403 804 \nPrinted at: National Institute of Science Communication And \n*; Information Resource's, C.S.I.R. \nDr K.S: Krishnan Marg, New Delhi-110 012 \nFOREWORD \nAntarctica, the isolated landmass covered with ice is attracting scientists as \nit has been realized that this icy wilderness could offer clues to understand the \npresent day climatic perturbations. This region is considered to be a storehouse of \ninformation on past climatic changes that can be stretched several million years \nback. Besides this, Antarctica was in the thick of a major orogeny as early as 500 \nmillion years back which formed a super continent Gondwanaland and hence \nshared a continental evolutionary history with India. \nIndian Antarctic Research has now matured, as its scientific research is \nincreasingly being targeted towards globally relevant topics discussed above. \nDuring the 20th Expedition, a large component of scientific research in Antarctica \nwas aimed at understanding the earth system as a whole, that involved \natmospheric and earth science studies. During this expedition, two scientists from \nT U Dresden, Germany joined the Indian Expedition to study the geodynamic \nphenomena. A variety of geodetic observations were made in central Dronning \nMaud land. Indian base, Maitri, is also recognized as a base GPS station in a \nglobal network established to understand the geodynamic processes. Besides this, \nthe Seismological Observatory set up at Maitri has attained prominence as an \nAntarctic Station in the global seismological network. It is really heartening to see \nthat the multi-disciplinary Indian Antarctic Research Program functions in perfect \ncoordination each year to make a very important scientific contribution. \nThe Technical Report edited by Shri Mervin D'Souza, Leader of the 20th \nIndian Antarctic Expedition is yet another example of India's continued quest and \ninterest in the Continent dedicated for science. I am sure the content of this \nVolume will augment the polar database which is proving to be very important to \nunderstand earth sustaining system of past, present, and perhaps future too! \nNational Centre for Antarctic & Ocean Research \nMinistry of Earth Sciences, Govt, of India \nHeadland Sada, Coa - 403 804 \nPreface \nThe present report is a collection of scientific papers that have originated out of Scientific \nResearch carried out during the XX Indian Antarctic Expedition. The volume has sixteen papers \nand two communications on the logistics. The volume highlights the multidisciplinary character of \nIndian Antarctic Endeavor. \nThe research papers have been classified into Atmospheric Science, Earth Science, \nEnvironmental Science and Medical Science sections. Atmospheric and Earth Science were the \nmajor fields, covered during the expedition. Physical Research Laboratory, Ahmedabad, has \nreflected interesting observations on Aerosol Characteristics over Indian Base Maitri. The Indian \nInstitute of Geomagnetism could successfully conduct Three Station Triangulation Experiment to \nunderstand Magnetic Pulsations over Antarctica, results of which are presented in this volume. \nGeological Survey of India pursuing its geological mapping programme, could successfully map \nan area between 6°30' to 7°E longitude. This area exposing Granites associated with Pan-African \ntectonic event, has helped the scientists to elaborate on the process of magma generation \nassociated with major continent - continent collision events. This event achieves significance, \nas it was responsible for amalgamation and formation of mega-continents in geological past. The \npresent volume also includes a paper by NGRI on their effort in establishing seismic station at \nMaitri and contribution of Maitri as a Base in International geodetic networks (established to \nunderstand movements of plates). The two papers listed under the Medical science are an effort \nat studying human adaptability to extreme stresses of Antarctic originating out of climate, and \nextended isolation. \nThis volume exemplifies the maturity, Indian Antarctic programme has attained over the years. It \nis an effort to exploit the serene and pristine environment of Antarctica for betterment of \nhumankind. Indian research is committed to excellence in polar research without distributing the \nfragile Antarctic environment. \nI compliment the Leader, Mervin J D'souza and the members of expedition for the excellent work",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Introduction",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:50.177828Z"
+  }
+}

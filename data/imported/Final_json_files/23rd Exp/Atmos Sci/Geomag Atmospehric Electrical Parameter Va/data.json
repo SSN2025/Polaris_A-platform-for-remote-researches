@@ -1,0 +1,72 @@
+{
+  "id": "pages_105_112",
+  "document_id": "NCPOR-8AF7E3",
+  "source_file": "Pages+105-112.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/914/1/Pages+105-112.pdf",
+  "bibliographic": {
+    "title": "Pages+105-112",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic Expedition 2003 -2005\nMinistry of Earth Sciences, Technical Publication No. 21, pp 105-112\nGeomagnetic and Atmospheric Electrical \nParameter Variations observed at Maitri, Antarctica\nC. Panneerselvam, P. Elango, C. P. Anil Kumar, K. U. Nair, K. Jeeva,\nC. Selvaraj, S. Gurubaran, Ajay Dhar and B. M. Pathan\nIndian Institute of Geomagnetism \nPlot 5, Sector 18, New Panvel (W), Navi Mumbai\nABSTRACT\nSurface m easurem ents of the atm ospheric electrical param eters, viz. \nionosphere to ground currents, electric field and geomagnetic field were carried \nout at the Indian station, Maitri (Geog. 70.75° S, 11.75°E, 117 m above mean sea \nlevel), Antarctica. The averaged pattern of diurnal variations in the electric field \nand Maxwell current density averaged over selected fair weather days nearly follows \nthe Carnegie curve, with a minimum around 0300 UT and a maximum around 1900 \nUT. However during magnetically disturbed days, there is a departure from universal \ndiurnal variation in both the electric field and vertical conduction current, which is \nattributed to the influence of solar wind-magnetosphere-ionosphere coupling. \nExamining the cause in detail will require further investigation. The correlation \ncoefficient between the current and electric field had a high value (more than 0.75) \nfor all these days. The measured atmospheric electric field and geomagnetic field \nvariations were compared. The experimental data used for the analysis were of 2004 \nand 2005. The mean daily variation of atmospheric electric field and the horizontal \nmagnetic components showed a coincidence for the selected fair weather days \nduring magnetic quiet days. Some examples are presented in this paper. Further \nmeasurements and studies involving statistical analysis are needed. This study \nwill help us to examine the impact of upper atmospheric contribution to the geo­\nelectrical parameters during different geomagnetic conditions.\nINTRODUCTION\nWilson (1925) suggested that, the worldwide thunderstorm activity \nmaintains the global electric potential between the ionosphere and the Earth’s \nsurface. Tropical thunder- storms are considered as a main source of electric \nfield in the lower atmosphere, drawing current upward to the ionosphere. In \nthis way, the global thunderstorm activity is able to maintain a time varying \nelectric potential difference of -300 kV, directed downward between the\n\n106 C . Panneerselvam et al.\nequipotent surfaces of the ionosphere and the ground in fair-weather regions \n(Adlerman et al., 1996). The atmospheric vertical electric field, conductivity \nand total current density are the three closely related parameters of the \natmospheric electricity that are required to be observed for obtaining an adequate \ndescription of the fair-weather atmospheric electric circuit (Israel, 1973).\nThe Global Electric Circuit (GEC) links the lower atmosphere with \nthe ionosphere and the magnetosphere. Measurement of atmospheric electrical \nparameters is handy for investigating the linkage between these regions. \nLong-term measurements would be considered useful for addressing some \nof the problems associated with global change. The measuring site needs to \nbe free of atmospheric aerosols and convective activity, because they obscure \nthe weak signatures representing the global thunderstorm activity (Israel, \n1973). Measurements from Antarctica will allow us to investigate global \nand local components of global electric circuit. The local components, viz. \nblizzard, wind turbulence, snowfall and clouds, generate a significant effect \non electrical processes and enable us to understand the electrical climate of \nthe Antarctic plateau (Byrne et al., 1993).\nThere is almost no thunderstorm activity at high latitude. Therefore \natmospheric currents in these regions can be regarded as a closure segment \nof the global electric circuit. The global circuit involves lower atmosphere \ngenerators and upper atmosphere generators, the latter being significant in \nthe polar cap region. The atmospheric electrical measurements made in \nAntarctica are useful in investigating large scale electrical processes unique \nto high altitude (Byrne et al., 1991). The down ward air-earth current being \ndelivered to the surface of the Antarctica plateau is larger than the global \naverage owing to its high latitude. Because of its orography, Antarctica is \nstrongly coupled to the GEC. Secondly, Antarctic plateau supports a desert \nlike climate with clear skies and very low atmospheric aerosol content. In \nsummer, the prevailing winds are light and flowing in a nearly constant \ndirection and the atmosphere is relatively free of turbulent and convective \nmotions (Byrne et al., 1993). Thus the wind induced conductivity fluctuations \nthat contribute to meteorological noise in the measured atmospheric electric \nparameters are minimized when experiments are conducted in Antarctic. In \nthis paper we report observations of the atmospheric el",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Geomagnetic and Atmospehric Electrical Parameter Variations observed at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:31:48.882967Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "pages_161_169",
+  "document_id": "NCPOR-C9FC3F",
+  "source_file": "pages+161-169.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/928/1/pages+161-169.pdf",
+  "bibliographic": {
+    "title": "pages+161-169",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "%\n\nTwenty Third Indian Antarctic Expedition\nMinistry o f Earth Sciences, Technical Publication No. 21, pp 161-169\nReport on the Glaciological Studies Carried out  \nduring XXIII Indian Antarctic Expedition\nAmit D harw adkar1 , R. Ravindra2 , D. Jayapaul1 , S. Jayaram 3 , P.R. Golani4  \nand V. Ravikant5\n'■  Antarctica Division, Geological Survey of India, Faridabad \n2 -  National Centre for Antarctic and Ocean Research, Goa \n3  Geological Survey of India, Bangalore \n4 -  AMSE Wing, Geological Survey of India, Jaipur \n5  Geochronology Lab., CHQ, Geological Survey of India, Kolkata\n9 DECEMBER 2003\nAntarctic Glaciers Speed Up: Scientists at NSIDC have found that \nglaciers around the area of the Larsen B Ice Shelf accelerated immediately \nafter it collapsed early in 2002. (NSIDC)\n1  DECEMBER 2003\nIce Shelf Feels the Heat: “Warming waters may doom the Antarctic \nPeninsula’s Larsen Ice Shelf, and other Antarctic ice shelves could be more \nendangered than had been thought, according to a paper published in the 31 \nOctober issue of Science.” NSIDC researcher Ted Scambos is quoted in \nthe paper. (Science Magazine)\n6 OCTOBER 2003\nHuge Antarctic iceberg makes a big splash on sea life (EurekAlert)\n22-24 SEPTEMBER 2003\nGiant Arctic ice shelf splits: Largest Arctic ice shelf breaks up, freeing \nall water from the freshwater lake it dammed. (ABC Science Online, BBC \nNews, Belfast Telegraph, CBC North, CBS News, CNN, CTV, Discovery \nChannel, Edmonton Journal, Edmonton\n\n162 Amit Dharwadkar et al.\nAbove headlines illustrate that the possibility of global climate change \nand its effects have caught the attention of both the scientific community \nand the public. Several GCMs[Global Climate Model] in vogue predict that \nthe global warming has effected a higher degree of melting of glaciers \n(particularly in the polar regions). This contributes to a rise in sea level \nchanges which can have drastic effects in low lying coastal areas around \nthe world. The polar ice-sheet is a critical component of the GCM and our \nunderstanding of the growth and movement of Antarctic ice is vital for \ntesting the GCMs as well as predictions for the future.\nThis paper presents an account of glaciological studies carried out \nduring the austral summer of 2003-04 in continuation of the work done by \nGSI since the 2n d  Indian Antarctic Expedition. The glaciological studies \ncarried out during the 23r d  IAE can be categorized as follows:\n1. Iceberg monitoring.\n2. Fluctuations in the Polar Ice front.\n3. Accumulation/ablation studies on ice-shelf.\nICEBERG MONITORING\nIcebergs have their origin in the cliffs of Antarctica’s coast line and \nform some of the most spectacular sights in the world. These icebergs float \nover the sea surface and move along with the prevalent ocean currents in \nthe southern seas. These can measure up to several hundred meters in \nlength and present a significant hazard to navigation.\nIceberg monitoring was taken up on board the ship MV Emerald Sea \nduring the onward and return journey to/from Antarctica. The icebergs \nencountered were systematically recorded using the standard format of \niceberg monitoring devised by the Norwegian Polar Institute. During the \nonward journey, the first iceberg was sighted at Lat 44°97'S and long 12°51E. \nIt is generally observed that the first iceberg sighting has shifted northwards \nwith time [Fig-1]. This may be related to the higher instance of iceberg \nformation in recent times. A total o f207 icebergs of various sizes and shapes \nwere recorded between Lat 44°47'S and 69°29'S during the onward journey.\nDuring return voyage a total of 128 icebergs were sighted between \n69°36'S and 55°07'S. Fig. 2(a) shows the distribution of the icebergs with \nrespect to latitude and size during onward journey while Fig. 2(b) shows \ncorresponding distribution during return journey. It can be seen that during \nthe onward journey, maximum concentration of icebergs occurs in a zone\n\nReport on the Glaciological Studies Carried out during 23rd IAE  153\n\n164 Amit Dharwadkar et al.\nbetween 52°S and 59°S latitudes. During the return journey (late March \n2004), the icebergs are concentrated in two distinct zones ie: 67°-66°S and \n62°-55°S; with iceberg free zone in between. The size distribution of the ice \nbergs points toward a skewed distribution where most of the icebergs sighted \nfall in the range of 500-100m. It is also generally observed that away from \nthe continent, the icebergs are mostly of irregular shape and often tilted a \nfeature resulting due to sculpturing by wind and waves. Nearer to the coast \nline, the icebergs are usually larger and tabular in shape.\nFLUCTUATIONS IN THE POLAR ICE FRONT\nThe snout of a glacial tongue (“Dakshin Gangotri ” Glacier) overflowing \nthe Schirmacher Oasis is being monitored by GSI since more than two \ndecades. It has been observed that the snout is retreating at an average \nannual rate of 0.7m. This amounts to a 14m retreat during two decades. \nSince 1996, the snout is being",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology & Global Change",
+    "subcategory": "Report on the Glaciological Studies Carried out during XXIII Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:34:06.260391Z"
+  }
+}

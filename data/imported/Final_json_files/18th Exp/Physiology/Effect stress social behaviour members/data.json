@@ -1,0 +1,72 @@
+{
+  "id": "article_15",
+  "document_id": "NCPOR-1C1A00",
+  "source_file": "ARTICLE+15.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/555/3/ARTICLE+15.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+15",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eighteenth Indian Expedition to Antarctica, Scientific Report. 2002 \nDepartment of Ocean Development. Technical Publication No. 16. pp 299-303 \n299\nEffect of stress on social behaviour of expedition members of ISEA\nManju Mehta,\nAIIMS, New Delhi\nAntarctica is symbolized with physical harshness, extreme cold, winds and un-\npredictable weather. The social environment rather than physical environment is known\nto have increased stress in Antarctica.(Lantis,1968). All over the world it is agreed that\nbesides the physical hardships, social adjustments by the expedition members are\nequally important for the success of any expedition. The social environment is charac-\nterised by prolonged isolation, limited space, difficulty in communicating with family\nmembers and close associates, limited activities, expression of emotional and sexual\nneeds, boredom with lack of environmental stimulation. These environmental condi-\ntions produce marked stress in the expedition members. Stress can produce different\nkinds of psychological reactions. In Antarctica expeditions the study of such psycho-\nlogical reactions is merited as it effects the overall functioning of the expeditioner.\nSome understanding about the social problems in Antarctica was gained while\ninterviewing members of previous expeditions soon after their return. For comprehen-\nsive understanding it was necessary to obtain the first hand information of the stressful\nevents and their impact on social behaviour of the expedition members. This would go\na long way in psychological preparation of the future expedition members with this aim\nthe present study was undertaken.\nObjectives:\nThe present study was proposed to find significant stress factors (stressors)\nexperienced by Indian expedition members during voyage and stay in Antarctic conti-\nnent and to determine the impact of stressors on social behaviour.\nMethodology:\nSample:\n46 expedition members participated in this study. All the members of the 15\nth\nWinter over expedition and volunteers of summer team of the 18\nth\n expedition were\n1. Sea sickness\n2. Rolling and Pitching after 40° latitude\n300\nManju Mehta. \nsubjects of this study. The members were both from the scientific and army team. There\nwere 25 male members of the 15\nth\n winter over expedition in the age range of 25-55 years\nof age. In the summer team of 18\nth\n expedition one female and 20 males in age range 24-\n57 years comprised the sample.\nProcedure:\nTo assess stressors and their impact on the social behaviour of the expedition\nmembers, following tools were used.\nAssessment Tools:\nStress\nPersonality\nChecklist-behavioural observations\nMulti-Dimensional Personality assessment,\nStructured observation\nSocial behaviour\nInterpersonal Problems\nStructured observation\nThematic Apperception Test, Interviews and\nobservation\nSelfReport\nDaily Task, Extra-curricular activities\nVerbal recall\nDreams\nPerformance\nCoping\nResults and Discussion:\nStressful Events:\nThe stressful events experienced during the expedition were as following : \nTable-1 - Stressful events during expedition\nEffect of Stress on social behaviour. \n301\n3. Stop at Mauritius.\n4 Injuries, i ll heath and death news of Pawans Hans Engineer (Late Mr. R. N.\nVerrna)\n5 Halt of ship for repairs\n6. Bad weather\n7. Helicopter accident\n8. Delay in carrying nut work\n9. Lack of communication - from their families and other expedition members.\nbetween ship and Maitri.\n10. Non availability of important items e.g. winter protection materials\n11 Living in constrained space and toilet arrangement in summer camp\n12. Lack of organization and appropriate planning of activities\n13. Differences in scientist and logistics team, lack of cooperation\n14. Attitudes towards summer team members\nEffect of stress on social behaviour:\nDifferent individual responses were observed during stressful situations. The\nmost common negative behaviours were criticising each other, nagging, passing nega-\ntive comments, taunting, blaming, crying, withdrawing and in few situations violent\nbehaviour after drinking were observed. However, majority of the expedition members\nmanifested positive behaviours e.g. cooperation, helping others, providing social sup-\nport, organizing group activities to channelize anxiety\nStress and Personality\nThe fourteen stressful conditions listed above were perceived differently by\nvarious members. The personality of an individual determines how he/she reacts under\nstress thus personality assessments was done to see which type of personality charac-\nteristics were more desirable for such expeditions. Assessment of personality profile in\nthis expedition are presented in the following table-2.\nTable -2: Personality Profile\nDimensions Low Average High\nAdaptability\nAchievement motivation\nBoldness\nCompetition\nEnthusiasm\n(General ability\n100%\n40%\n80%\n70%\n40%\n80%\n100%\n20%\n20%\n10%\n10%\n10%\n80%\n40%\n20%\n50%\n10%\n302\nManuj Mehta. \nGuilt Proneness\nImagination\nInnovation\nLeadership\nMaturity\nMental Health\nMorality\nSelf control\nSensitivity\n",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "5]Human Physiology",
+    "subcategory": "Effect of stress on social behaviour of expedition members of ISEA",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:46.668069Z"
+  }
+}

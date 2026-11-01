@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_319_321",
+  "document_id": "NCPOR-567D05",
+  "source_file": "Technical+Publication+No.+19%2C+pp+319-321.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/891/1/Technical+Publication+No.+19%2C+pp+319-321.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+319-321",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 319-321 \nDetection of Man Made Structures in the \nSchirmacher Oasis Region of Antarctica from \nRADARSAT Satellite Images \nAbhai Mishra \nDEAL, Min. of Defense Raipur Road \nDehradun, India \nAbstract \nImages gathered from the active sensor of a remote sensing satellite, are rich in \ntextural information. The wavelength of the sensor of active satellite is large in comparison \nto optical one. In the case of RADARSAT satellite the sensors wavelength is 5.6 cm. In \nthis paper we have presented a scheme to detect anthropogenic features from the remotely \nsensed images of Schirmacher oasis, Antarctica, taken by RADARSAT satellite. This is \nachieved with the help of Weibull density distribution. We have tried to classify the SAR \nimage in man-made and non man-made regions. Results are also shown and discussed \nat the end. \nIntroduction \nMapping of Antarctica region with the help of remote sensing \nsatellites had always been a difficult proposition. The main reason for this \nis its geographical location and long polar nights. Passive satellites find \nit difficult to map it due to the absence of sunlight. Active satellites can \nvery well map such areas. Their sensors are able to acquire images in night \nalso. At present all the available active satellites are right looking. That \nis why they are unable to map the South Pole regionf When RADARSAT-\n1 was launched into orbit, it was operated in left looking mode during its \ninitial phase. Its SAR (Synthetic Aperture Radar) sensor was able to map \nthe Antarctica region successfully. This is very well known as Antarctic \nMapping Mission (AMM). Later its sensor was changed to right looking \nmode. The clutter statistics of Synthetic Aperture Radar indicates the \nmaterial present on the ground. Our method detects the man made features \nusing the probability density of the clutter. We model the clutter statistics \nwith the help of a family of probability density functions and select that \ndensity which best describes the local statistics. \n320 Abhai Mishra \nMethod \nThe family of Weibull density distribution is represented by the \nfollowing equation. \nHere a is the weibull parameter which is related to the skewness of \nthe distribution while xm is the distribution mean. By the changing the \nvalue of weibull parameter we obtain different distributions. For oc=2 we \nget Rayleigh distribution and for a=l we get exponential distribution. In \nbetween it approximates log-normal distribution. With the help of weibull \ndistribution we can model the clutter statistics using a single parameter \nmodel. For different values of a we can demarcate clutter into man made \nand natural features. \nThe SAR image is first divided into non overlapping regions \nX={x(i,j)}. The histogram of each region represents its local density. \nFor median of each region we generate a family of weibull distributions \nfor different a with the help of equation (1). We compare these \ndistributions with the previously calculated distribution of that region. \nThe a of that distribution, which best matches the local histogram is \nallocated to that particular region. Like wise we calculate a values for \nall regions. With the help of a we segment the image in man-made \nand natural features. \nResults and Discussion \nWe have evaluated our methodology over the RADARSAT image \nof Schirmacher oasis region of Antarctica having resolution of 8 meters \nand area of 8 km x 8 km. For natural features the value of a was found to \nbe high. For man-made features the value of a was found to be less than \n2.7. Figure 1 (a) shows the RADARSAT image of the Schirmacher region \nof Antarctica. In Figure 1 (b) white patches depicts the man-made features. \nThe Indian Antarctic station \"Maitri\" and Russian station \"Novo\" are \nencircled in the image. It has been verified by the ground truth collected \nby the author during the XXI Indian Scientific expedition to Antarctica. \nDetection of Man Made Structures in the Schirmacher Oasis .... 321 \nFig. 1: (a) RADARSAT image of \nSchirmacher region, Antarctica \nFig. 1: (b) Detected man-made \nobjects \nReferences \n1. M.I. Skolnik, Introduction to Radar System, Mc'Graw Hill, 1980. \n2. M.H.D Grut, Probability and Statistics, Edison Wesley, 1975. \n3. V Cluth, H Haning et al, \"Detecting man made object in low resolution SAR \nusing texture discriminator\", IGARSS, May 1992.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "5] Engineering & Logistics",
+    "subcategory": "Detection of Man Made Structures in the Schirmacher Oasis region of Antarctica from RADARSAT satellite images",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:02.406391Z"
+  }
+}

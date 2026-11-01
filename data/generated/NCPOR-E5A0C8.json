@@ -1,0 +1,95 @@
+{
+  "id": "influence-of-uv-b-radiations-on-micro-flora-i-ncpor-e5a0c8",
+  "document_id": "NCPOR-E5A0C8",
+  "source_file": "RChapter-29A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/971/1/RChapter-29A.pdf",
+  "title": "Influence of UV-B Radiations on Micro-Flora in Larsemann Hills, Ingrid Chirstensen Coast, East Antarctica",
+  "year": 2003,
+  "expedition": "24th Indian Antarctic Expedition",
+  "category": "Logistics / Expedition Operations",
+  "subcategory": "Influence of UV-B Radiations on Micro-Flora in Larsemann Hills, Ingrid Chirstensen Coast, East Antarctica",
+  "bibliographic": {
+    "title": "Influence of UV-B Radiations on Micro-Flora in Larsemann Hills, Ingrid Chirstensen Coast, East Antarctica",
+    "authors": [
+      {
+        "name": "Ministry of Earth Sciences",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      },
+      {
+        "name": "Technical Publication No.",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      },
+      {
+        "name": "pp -",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      }
+    ],
+    "expedition": "24th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2003,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "371Influence of UV-B Radiations on Micro-Flora in Larsemann Hills,.........\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 371-372\nInfluence of UV-B Radiations on Micro-Flora in\nLarsemann Hills, Ingrid Chirstensen Coast,\nEast Antarctica\nJaswant Singh\nDepartment of Environmental Sciences, Dr. R. M. L. Avadh University,\nFaizabad\nField survey for identification and collection of Lichen, moss and\naquatic algae were carried out between 17\nth\n and 20\nth\n of February 2005, at\nLarsemann Hills. Samples of Lichens, Mosses and aquatic Algae were\ncollected for the study of pigment concentration, induction of ultraviolet\nabsorbing compounds and their survival mechanism under the influence of\nUV-B radiations in the southern lower latitudes. Lichens were the major\ncomponent of this area, growing luxuriantly on rocks and decaying cushions\nof moss tufts in ice free areas. It seems that Lichens of this area are\ncharacterized by a high degree of adaptations as the harsh environmental\nconditions were not congenial enough for the survival of the floral\ncomponents. Most of the moss cushions had already decayed, the lakes\nwere frozen and hence collection of mosses and aquatic algal species were\nextremely difficult. Therefore, the most resistant surviving species, one\nOccurrence of Micro-floral assemblages on the\nrocky out crop and around the vicinity of lakes\n\n372 Jaswant Singh\neach of moss and algae could only be collected. Measurements of UV-B\nradiation also could not be carried out for want of power supply for the\ninstrument at Melon hut (Igloo Satellite Cabin).",
+    "summary": "During the 24th Indian Antarctic Expedition, scientists conducted logistics / expedition operations investigations focused on \"Influence of UV-B Radiations on Micro-Flora in Larsemann Hills, Ingrid Chirstensen Coast, East Antarctica\". 371Influence of UV-B Radiations on Micro-Flora in Larsemann Hills,. These findings from Larsemann Hills provide vital baseline evidence for understanding polar environmental dynamics.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Larsemann Hills"
+    ],
+    "research_sites": [
+      "Larsemann Hills"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "Logistics / Expedition Operations",
+    "subcategory": "Influence of UV-B Radiations on Micro-Flora in Larsemann Hills, Ingrid Chirstensen Coast, East Antarctica",
+    "tags": [
+      "logistics-expedition-operations",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Logistics / Expedition Operations discoveries from 24th Indian Antarctic Expedition: \"Influence of UV-B Radiations on Micro-Flora in Larsemann Hills, Ingrid Chirstensen Coast, East Antarctica\". Learn how Indian scientists studied Larsemann Hills on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "371Influence of UV-B Radiations on Micro-Flora in Larsemann Hills,.",
+      "page_number": 1,
+      "section": "Abstract / Introduction"
+    },
+    {
+      "field": "research_sites",
+      "source_text": "371Influence of UV-B Radiations on Micro-Flora in Larsemann Hills,.",
+      "page_number": 1,
+      "section": "Study Area / Observations"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:55:05.574320Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "chapter_1",
+  "document_id": "NCPOR-3EA85D",
+  "source_file": "Chapter+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1005/1/Chapter+1.pdf",
+  "bibliographic": {
+    "title": "Chapter+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "PHYSIOLOGICAL\nSCIENCES\n\nTwenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 237-257\nCognitive and Psychomotor Performance in Extreme \nand Unusual Environment\nK. Ramachandran, F. U. John Paul, and Manas K. Mandal\nDefence Institute of Psychological Research, DRDO, Delhi \nABSTRACT\nThe purpose of the study is to examine the effect of long-term residence on \ncognitive function and to determine the impact of winter on psychomotor \nperformance of personnel who stayed for long duration in extreme and unusual \nenvironment of Antarctica. Twenty-four volunteers from winter-over team of Indian \nAntarctic Expedition served as participants. For comparison of winter-over and \nsummer personnel on perceptual function, twenty-one subjects from summer team \nvolunteered. The results revealed a positive effect in tasks of recognition memory, \nvigilance and learning, and neutral effect in short-term memory for digit recall \nover prolonged duration of residence. Spatial discrimination and Miiller-Lyer \nillusion showed no substantial difference over winter in Antarctica. However, the \naccuracy of spatial discrimination was low for winter-over personnel when \ncompared to summer personnel who stayed for a short period during summer in \nAntarctica. On psychomotor performance, the hand steadiness and two-hand \ncoordination showed significant increase in performance while, performance in \nfinger dexterity was stable over winter. Overall, this study highlights a positive \neffect on cognitive and psychomotor performance during long-term residence in \nAntarctica. i». -\nKeywords: Cognitive Function, Perceptual Function, Psychomotor, Antarctica, \nExtreme Environment, Duration, Long-term Residence.\nINTRODUCTION\nExtreme environments are characterized as those situations which \nplace a high demand on the physiological, affective, cognitive, and/or social \nprocessing resources of the individual. With the development of technology, \nhuman capabilities have expanded and made it possible for human beings \nto reside in extreme and unusual places that we could neither reach nor \nhave survived in the past. Consequently, an increased number of people \nare travelling or residing for scientific or recreational purposes in isolated\n\n238 K. Ramachandran, et al.\nand extreme environments such as space, planets, circumpolar regions, \nnuclear submarines, undersea research laboratories, super-tankers, etc. The \nbest analog is the scientific research station operating year-round in \nAntarctica.\nAntarctica is a place of great beauty, but it is also a place of great \nextremes. As the coldest, largest, driest, and windiest of the Earth’s \ncontinents, it is no wonder that there are no permanent inhabitants (Palinkas, \n1992). The major stressors in the unusual Antarctic environment appear to \nbe isolation, the sameness of the environment, and the lack of customary \nsources of satisfaction (Mullin, 1960; Strange and Youngman, 1971).\nSeveral researchers have suggested that prolonged exposure to extreme \nand unusual conditions might cause some loss of cognitive ability (e.g., \nMullin, 1960; Angus, Pearce, Buguet, and Olsen, 1979; Palinkas, 1992). It \nhas been stated that cold exposure, prolonged isolation, and unusual \nconditions may adversely affect vigilance, concentration, memory \n(recognition and recall), and reasoning ability (see Palinkas, 2001; Hoffman, \n2001). Using a series of “mental paper folding” tasks of increasing \ndifficulty, White, Taylor, and McCormick (1983) found deterioration in \nperformance after wintering as well, a comparison with a control group \nconfirmed this performance deterioration for the wintering-over group. \nHowever, some studies recorded no reduction or substantial decrements in \ncognitive performance (Le Scanff, Larue, and Rosnet, 1997; Marrao, \nTikuisis, Keefe, Gil, and Giesbrecht, 2005) and few investigators observed \neven improved cognitive performance in extreme environment (Palinkas \net al., 2005; Makinen et al., 2006). For instance, Defayolle, Boutelier, \nBachelard, Rivolier, and Taylor (1985) observed improvement in Antarctic \nexpeditioners when tested for immediate memory, visual discrimination \ntasks, and reaction time.\nCognitive performance seems to show change in reduced stimulus \ncondition, which is natural in polar environment. A few investigators \nreported improvement in memory and other cognitive functions under \nsensory deprived conditions (for example, Vernon and Hoffman, 1956; \nGrissom, Suedfeld, and Vernon, 1962; Suedfeld, 1969; Defayolle et al., \n1985; Suedfeld, Ramirez', Remick, and Fleming, 1987). Some studies on \nisolated and confined group experiments as well as on reduced stimulation \nenvironment demonstrated no deterioration in cognitive performance over \na period (Rasmussen, 1973; Brady and Emurian, 1978; Suedfeld, 1980; \nManzey, Lorenz, and Poljakov, 1998). A few researchers suggested that\n\nCognitive and Psychomotor Performance ....239\nperformance ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 22
+  },
+  "taxonomy": {
+    "category": "5] Physiological Sciences",
+    "subcategory": "Cognitive and Psychomotor Performance in Extreme and Unusual Environment",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:59:34.230648Z"
+  }
+}

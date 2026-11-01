@@ -1,0 +1,72 @@
+{
+  "id": "article_19",
+  "document_id": "NCPOR-56088F",
+  "source_file": "ARTICLE+19.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/427/3/ARTICLE+19.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+19",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 245-280 \nMaitri-Environmental Perspective\nSUSHMA R NAIR\nNEERI,  Nagpur-20\nAim\nTo carry out tasks designated by NEERI in its protocol \"Proposed studies\nduring  XIVth  IAE\"\nIntroduction\nIn view of the protocol on environmental protection to the Antarctic treaty\nin  1991,  it  was  obligatory to carry outproper Environmental Impact  Assessment\n(EIA)  studies and generate baseline parameters of Maitri station.\nThe objectives of the study undertaken by NEERI was the collection and\ncollation  of  data on various  components of environment viz. air, noise, water,\nbiological  and  land, and to assess the likely impacts on environment.\nPlan of Work\nFollowing tasks during the study attempted\n● Monitoring of exhaust gases from generator, vehicle, burning of sanitary\nwastes and also of ambient air\n● Estimation of SPM in air due to movement of helicopters and road vehi-\ncles\n● Monitoring program of Zub lake water as well as those of surface waters\nfeeding Zub lake\n● Evaluation of treatment efficiencies of two biodiscs in operation\n● Monitoring of waste water discharges and seeped surface water at lower\nelevation\n● Laboratory studies on impact of seeped surface water on lake plankton\n● Collection and characterisation of soil contaminated by  spillage/leakage\nof fuel and other sources\n246 Sushma R Nair \n• Collection of data on solid and hazardous wastes\n• Monitoring of levels of noise at various locations in and around Maitri\nstation\nEnvironmental Audit\nAir\n- Monitoring of smokes from generator, vehicle, burning of wastes gen-\nerated from toilet, helicopter and also from control area\n- Estimation of SPM in air due to movement of helicopters and road\nvehicles\nWater\n- Monitoring of Zub lake water and surface waters fed to Zub lake\nWaste water\n- Monitoring of waste waters discharged in ponds\n- To find out sources of surface water at lower elevation of above ponds\nSoil\n- To measure the area contaminated by spillage/leakage of fuel\n- To collect and characterize soils from different depths at  contaminated\nand exposed sites\nSoild waste\n- To avail data towards quantification of different types of solid and\nhazardous wastes\nEIA Studies\n- In order to get total volume of water of Zub lake, scientific approach\nmay be adopted through Survey of India (SOI) for measuring depths of\nwater at different grids of the lake\n- The bottom of the Zub lake is rocky. SOI can find out the area of\nsediment exposed to water, if any, for sampling and characterization\n- Impact of drainage water from surface water channel on lake water can\nbe studied in glass jars at different dilutions\nMaitri - Environmental Perspective \n247\nTo collect soil samples around the  proposed site of garage for charac-\nterisation\nA questionnaire prepared by NEERI to facilitate collection of information\non activities at Maitri during expedition information on activities from Maitri.\nQuestionnaire\n* Number of generators run\n* Fuel consumption by generator (monthly)\n* Hours helicopters run\n* Fuel consumption by helicopters\n* Hours of run of each type of vehicle\n* Consumption of fuel of vehicles (monthly)\n* Number of hours pump run for water intake from lake (monthly)\n* Volume of water pumped per hour\n* Number of boilers run\n* Fuel consumption by boilers (monthly)\n* Chemicals and quantity used in boilers\n* Dates of pumpin g out of waste water from two ponds\n* Quantity of waste water pumped out on each day (based on time and\nefficiency of pump used)\n* Stock of different fuels and their containers\n* Informations towards spillage/leakage of fuel\n* Number of empty drums and their locations\n* Quantity of paper waste burned open\n* Quantity and type of food burned\n* Numberof sealeddrumsforeachcategory of solid wastes. (Food scraps,\nplastics, metal, glass, ash, wood etc.)\n* Quantityofliquidwastes(photographicchemicals,unserviceablelubri-\ncants, oil etc.) ear-marked for  removal outside treaty area\n* Any other information related to environment\nAssessment of Quality of Air\n(a) Monitoring of the fugitive emission and/or exhaust gases emerging out\nof Bhaskara generator room, Boiler room, Toilet incinerator, Helicopter \nand Ambient air quality. \n248 Sushma R Nair \n(b) Measurement of levels of SPM due to helicopter movement. These\nexperiments were carried out using high volume sampler keeping it\natleast 5 meters away from the source both in upwind and downwind\ndirections and at on height of 1 meter from the ground.\nThe generator, boiler and incinerator exhaust outlets are atleast 4-6 mtrs\nabove ground levels. It was found that with the present instrumentation set up\nfor air pollution monitoring could not be conducted effectively as due to high\ntemperature gradient the flue gases go vertically up and hence at 1 meter height\nat which th e sampling was done the results  were as of ambient. Therefore the\nalternative adopted was to monitor the smoke inside the gen",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 36
+  },
+  "taxonomy": {
+    "category": "4]Bio - Sciences",
+    "subcategory": "Maitri-Environmental Perspective (Studies carried out during XIV IAE)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:08.149574Z"
+  }
+}

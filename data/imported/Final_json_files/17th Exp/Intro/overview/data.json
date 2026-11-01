@@ -1,0 +1,72 @@
+{
+  "id": "article_1",
+  "document_id": "NCPOR-0F4327",
+  "source_file": "ARTICLE+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/676/1/ARTICLE+1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "iii\nEXPEDITION - AN OVERVIEW\nKR Sivan, Leader, XVII Indian Expedition to Antarctica \nIn the Golden Jubilee Year of Indian Independence, India launched\nthe XVII Indian Scientific Expedition to Antarctica in continuation for the\nquest of science. The expedition vessel MV Polar Bird with 49 members ! \non board sailed off from Murmugao Port, Goa on Monday, the 08th\nDecember 1997 at 1900 hours. The composition of the team consists of\nScientists from 17 Organisations/Academic Institution, 13 members Logistic\nTeam from Indian Army, DOD Observer and cooks from ITBP. Later the\nstrength became 53 when the Medical Officer of the expedition and three\nGerman Scientists joined at Mauritius.\nIt was the first time that the launching ceremony was held at the\nnewly constructed Antarctic Study Centre (now NCAOR), Goa and ASC/\nDOD made it a grand occasion. Hon. Dy. Chief Minister of Goa,\nDr. Wilfred D'Souza and dignitaries, families and friends gathered in large\nnumbers and bid Bon-Voyage with blessings and good wishes.\nIndian Scientific Expedition to Antarctica is a challenging,\nadventurous and a national commitment for the quest of science. Unknown\nare many but to face it and overcome, proper planning and dedicated team\nspirit to tackle the situation is very much essential. During the cruise itself,\nthe members had shown their high team spirit. They had to face severe\nproblem on board ship, from the day one of the sailing, when some of the\nsystem failed and had to face lot of inconvenience. Added to this, there was\nno Medical Officer accompanied the team from Goa. But the members never\ngot panicky but always behaved like true expeditioners.\nWe had halted at Mauritius from 16 to 19th Dec 97. It was a great\nrelief for the members that after a weeklong journey on  board ship, they\ncould see some mankind and also the beauty of Mauritius. Added to this\nwas the witnessing of shooting of one of Hindi films in the beaches of\nMauritius casting Indian favorite stars Govinda and Karishma Kapoor.\nThe Medical Officer for the expedition, thre e Scientists from\nInstitute of Planetary Geodesy Germany and two Jayrow helicopters with the\ncrewmembers were joined at Mauritius.\niv\nIndian High Commissioner Mr. Mani Tripati, Ms. R uchira Patni,\nFirst Secretary and staff accorded us warm reception and all the help required\nwere provided during onward journey and return journey. We are thankful\nfor them for all the help and for fabulous luncheon given to the members.\nWe were also honored and felt happy when Hon.Dy. Prime Minister, Mr,\nKailash Purryag and Minister for Telecommunication & Information, Mr.\nSarat Dutt Lallah of Mauritius accompanied by Indian High Commissioner\npaid visits to our expedition vessel and they had shown keen interest in the\nAntarctic Scientific Programme..\nThe period of stay at Mauritius was also utilised by the ship to rectify\nthe defects and put the system in order. On completion of the repairs, further\nvoyage started on 20th Dec 97. The voyage time was fully utilized by\norganising project presentation by the participants, various games and\ntournaments etc and all the members enthusiastically participated in all the\nactivities. This helped to avoid the long monotonous ship journey and\nseasickness. These also helped in understanding the expedition programme\nand priority wise plan the summer tasks\nFor the success of any expedition, logistic support is the backbone\nand the backup from the parent organisation of the participants. I am happy\nto record here that the Logistic Team from the Indian Army lead by Major\nG Narayan and ably supported by Capt KS Panesar may be the best so far\ncame to Antarctica in all respects. Their untiring efforts, motivation and high\nteam spirit shown that nothing is impossible in the harsh place like Antarctica.\nThe assistance and the rescue operation carried out by the team during the\npolar night period when the 43rd Russian Expedition Team met with the\nunfortunate MI8 helicopter crash on ice shelf and the rescue of four convoy\nteam members stranded on blue ice are note worthy and an example for\nothers.\nOur summer programme started with a jolt when the s cientific\nequipment and instruments while carrying by underslung crash-landed on\npack ice on 06th and 08th January 98 due to technical snag of the helicopter.\nBut the state of mind of all the members given me the required courage to\nface the situation and they lend their invaluable support to carry on with\nthe activities. I am happy to say that all the Scientific and Logistic program\nassigned for the summer period had been successfully completed inspite of\nthe initial set back. We owe our gratitude to the heads of organisations who\nhad given us all the support and guidance not only during the crisis but also\nthrough out the period of expedition.\nV\nTo carry out any task in a systematic way with a strong body and\nhealthy mind in a remote place like this, always the morale shall be very\nhigh. We were that way very lucky and fortunate to receive numero",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 32
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "An overview",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:57.908648Z"
+  }
+}

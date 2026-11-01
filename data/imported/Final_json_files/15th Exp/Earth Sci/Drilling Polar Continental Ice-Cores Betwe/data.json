@@ -1,0 +1,72 @@
+{
+  "id": "article_21",
+  "document_id": "NCPOR-7E31D1",
+  "source_file": "ARTICLE+21.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/465/3/ARTICLE+21.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+21",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 281-301 \nDRILLING FOR POLAR CONTINENTAL ICE-CORES\nBETWEEN NUNATAKS VETEHEIA AND\nTALLAKSENVARDEN IN EAST ANTARCTICA\nArun Chaturvedi, Amar Singh and M J . Beg\nGeological Survey of India\nAbstract\nThe palaeoclimatic record of past several thousand years is preserved in the Antarctic\nice sheet as atmospheric air, gases, pollen, dust, volcanic emissions, pollutants. The\n 18\n0\ncontent of ice shows a general linear relationship with prevalent surface air temperature,\nthus it is possible to establish a palaeotemperature vs isotope curve. It is necessary to recover\ncontinuous ice cores from deeper levels to unravel this palaeoclimatic information..Ice core\ndrilling was done in the 15\nth\n Indian Antarctic Expedition in 1996. The effort was successful\nin touching the bedrock of the glacier at 76 m depth, drilling through its entire thickness.\nBrittle core was encountered near the bedrock. In the same polar season, a second borehole\nwas drilled at a higher elevation in the continental interior, which generated continuous ice\ncores upto a depth of 84 m. Core from both the boreholes has been logged for physical\nparameters. The average density of the core from the first borehole is 0.89 gm/em\n3\n, while\nthe overall density of the column from the second borehole is 0.89 gm/cm\n3\n.\nIntroduction\nAbout 98% of the continent of  Antarctica is covered  by ice. Within the ice,\nin the form of air bubbles, inclusions and isotopes is preserved the palaeocli-\nmatic record of  past several thousand years as atmospheric  air, gases, pollen,\ndust, volcanic emissions, pollutants etc. The\n 18\n0 content of snow shows a \ngeneral linear relationship with surface air temperature, making it possible to\nestablish a temperature-isotope equation. Again, since the temperatures in polar\nregions reflect th e pronounced changes in seasonal patterns, it is  possible to\nfind out if  the snow fell in summer or winter. Thus, by counting the thermal\nlayers, it becomes possible to date the ice from depths. To unravel  all this\npalaeoclimatic information, it is necessary to raise ice  core samples from deeper\nlevels of the glaciers or ice sheet. A small capacity , cable suspended, dry-elec-\ntromechanical, Japanese drilling machine was used during the 15\nth\n expedition\nin 1996. Two boreholes were drilled in polar continental ice.\n282 A run Chaturvedi et al. \nEquipment and Methodology\nMany ice coring systems have been developed in the past 30 years. These\nsystems produce core by cutting, shaving, or melting ice. Various factors have\nto be weighed for deciding the choice of the drill to be used. These include\nweight, cost, required depth capability, core-size needed, power requirement,\npattern of fuel consumption and expected associated logistic requirements.\nMainly, there are two classes of drills, thermal and mechanical. Thermal ones\ncan be subdivided into electrical and hot water types. Thermal drilling is very\nfast but it is a non-coring method. Mechanical drills are classified into conven-\ntional rock drill systems having metallic barrels and the cable suspended drills.\nCable suspended drills can be further divided into electrical or hydraulic. Again,\nat depths greater than 200 m ice becomes brittle due to high internal pressure\nof air bubbles and requires to be balanced by some drilling fluid. Thus,\ndry-electromechanical drilling is limited to a depth of 200 m and beyond that\nfluid-filled electromechanical drilling is undertaken. The drilling machine used\nin the 15\nth\n expedition was such a cable-suspended, dry-electromechanical,\nrotary drill; having a maximum capacity of around 200 m.\nThe machine had a 3.7 m high drilling mast with a 0.3 m diameter pulley\non top. A winch operated insulated electrical cable passed through this pulley.\nIts breaking strength was 2050 kg. A 700 W motor was attached to the winch\nfor powering the upward and downward movement. The main drilling unit\ncomprised a two metre long barrel connected at the end of the winch wire. It\nhad an outer jacket of aluminium, which housed the drilling motor and the\ntorque-mechanism. The inner barrel was made of indurated polyethylene and\nit harboured core-cutters and core-catchers at its mouth. Helical spirals were\nbuilt on the inner barrel to facilitate the removal of waste ice chips. A control\npanel was attached to the system to monitor the movement of winch wire and\nalso the rotation-speed of the drill-head. Since the drill required a 110 V power\nsupply, a step-down transformer along with a portable generator completed the\nsystem.\nAfter each run of about 60 cm, the barrels were taken out, cleaned,\nice-scrapings removed, cutters and catchers were checked for sharpness. Fi-\nnally, a new coating of antifreeze was applied to the inner barrel and the next\nrun started. The generated core was physically logged in the field itself and cut\ninto 20 cm long segments. These ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 21
+  },
+  "taxonomy": {
+    "category": "4]Earth Sciences",
+    "subcategory": "Drilling for Polar Continental Ice-Cores Between Nunataks Veteheia and Tallaksenvarden in East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:58.956629Z"
+  }
+}

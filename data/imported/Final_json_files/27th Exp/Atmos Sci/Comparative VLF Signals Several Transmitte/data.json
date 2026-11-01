@@ -1,0 +1,72 @@
+{
+  "id": "chapter_4",
+  "document_id": "NCPOR-48B3CD",
+  "source_file": "Chapter+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1090/1/Chapter+4.pdf",
+  "bibliographic": {
+    "title": "Chapter+4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "A Comparative Study of VLF Signals\nfrom Several Transmitters around the World\nas Observed from Maitri Station, Antarctica\nSudipta Sasmal1, Sandip K. Chakrabarti1,2 and Sujay Pal2\n1Indian Centre for Space Physics, Kolkata\n2 S. N. Bose National Centre for Basic Sciences, Kolkata\nABSTRACT\nTo examine the behavior of the sunrise and sunset terminators, characteristics of the\nsolar activities in the polar region and the possible seismic correlation with ionospheric\nanomalies a Stanford AWESOME VLF receiving system was installed at the Indian\npermanent Antarctic station Maitri during the 27th Indian scientific expedition to Antarctica.\nAlmost five weeks of data was recorded successfully from several transmitters around the\nglobe. The narrow-band signals show variation of the solar radiation and the signature of\nthe prolonged day and night. W e compare the signal of frequency 18.2 kHz with the same\nsignal received at Kolkata and we present simultaneous observation of the variation of the\nsunrise and sunset terminators. W e compare the diurnal signal amplitude variation with\nthe LWPC model. W e also present the broadband signal, contains the signature of sferics.\nThe signals do not have a strong signature of whistlers because at the conjugate points, the\nlightning effects are minimum.\nKeywords: VLF Signals, Comparison, Maitri Antarctica, Kolkata India.\n1.0  INTRODUCTION\nElectromagnetic wave of radio frequency range 3 to 30 kHz is known\nas Very Low Frequency or VLF. The ionosphere of upper atmosphere of\nearth is a good reflector of VLF wave and that is why VLF signal propa-\ngates nicely through earth-ionosphere waveguide. Electron and ion den-\nsity profile, structural and chemical properties of the stratified layers of\nthe ionosphere change with diurnal and seasonal variations of the solar\nradiations and other earth related natural activities. During the propaga-\ntion, VLF signal modifies itself accordingly and carries ionospheric infor-\nmations corresponding to these changes. This is why VLF radio electro-\nmagnetic wave analysis is very significant method for understanding the\nbehavior and the physical and chemical configuration of the ionospheric\nlayer structures.\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 181-190\n182                                          Sudipta Sasmal, et al.\nIndian Centre for Space Physics, Kolkata (ICSP) participated in the\n27th Indian Antarctica expedition, 2007-2008 during the summer period\nto observe the long distance propagation characteristics of the Very Low\nFrequency (VLF) signal. The data was recorded at the Indian permanent\nstation Maitri (Lat. 70°45¢57¢¢, Long. 11°44¢09¢¢ E) from 5th January to 15th\nFebruary 2008. Our main observing transmitter was the Indian Navy's VLF\ntransmitter VTX which is located at Vijayanarayanam (Lat. 08°26 ¢,\nLon. 77°44¢). In Antarctica, the major objective was to study of the signal\nvariation over very long path which is totally over the ocean. During this\nobservation, we have chosen the summer period of the southern\nhemisphere in such a way that we got the \"full day and no night\" (no true\nsunset) condition as well as the true sunset condition. Figure 1 shows the\ns i t u a t i o n f o r ' n o t ru e s u n se t ' w h e re t h e a n t a r c t i c r e g i o n i s a l w a y s i n\n'sunlight'. We have calibrated the solar flux variation thorough the year for\na normal circumstances in which there are true sunrise and sunset\n(like Kolkata). We wanted to observe this variation also for Antarctica and\nto compare. It has been reported that there is a possible seismo-ionospheric\ncorrelation exists where the sunrise/sunset terminators (the first and last\nminima in the VLF signal amplitude just after the sunrise and just before\nthe sunset respectively) and the properties of D-layer during sunrise and\nsunset behaves anomalously (Hayakawa et al., 1996; Chakrabarti et al.,\n2005, Chakrabarti et al., 2007, Sasmal et al., 2009, Chakrabarti et al., 2010,\nRay et al., 2011, Clilverd et al., 1999).\nFig. 1: The Antarctica continent is always in daylight and there was no true sunset during\nthe period. The left panel is for 00:00:00 UT which is so called 'midnight' and the right\npanel is for 12:00:00 UT which is so called 'midday'. For both the cases the position of our\nobservation is in 'full day and no night' situation (courtesy: http://www.visibleearth.nasa.gov)\nTo understand the signal characteristics for a very long path and the\nchanges of the sunrise/sunset terminators under an anomalous solar flux\n          183A Comparative Study of VLF Signals....\nvariation, Antarctica is absolutely a perfect place for these observations.\nThis continent is interesting, since the length of the day or the night can be\nvery long. The prolonged day or night gives a test bed for verifying\ntheoretical models of how an ionization and de-ionization take place. It is\na totally un-chartered territory. The sunrise and sunset termi",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "3] Atmospheric Sciences",
+    "subcategory": "A Comparative Study of VLF Signals from Several Transmitters around the World as Observed from Maitri Station, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:13:28.964734Z"
+  }
+}

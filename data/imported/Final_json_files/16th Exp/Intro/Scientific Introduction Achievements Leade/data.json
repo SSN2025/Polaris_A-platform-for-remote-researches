@@ -1,0 +1,72 @@
+{
+  "id": "article_1_1",
+  "document_id": "NCPOR-CCC772",
+  "source_file": "ARTICLE+1_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/511/3/ARTICLE+1_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+1_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "i^-\nSixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment - of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nThe Sixteenth Indian Scientific Expedition to Antarctica : \nAn Introduction to the Expedition and Achievements\nDR. A.L. KOPPAR\nLeader\nThe XVI Indian Scientific Expediton to Antarctica sailed off from\nMarmugao port on 12th Dec 1996 in a chartered Norwegian vessel-POLAR\nBIRD.\nThe expedition team comprised of 61 members. Out of these 26 were for\nwinter and 35 were for summer period.\nTwenty scientific organisations viz. IMD, IIG, NPL, IITM GSI, JU, SASE,\nSOI, ITTK, NGRI, BSI, WII, AIIMS, DIPAS, NAL, DIFR, NHO, DARL, DEAL,\nR & DE and the Indian Army and AFMS participated in the expedition.Five\norganisations viz. IITM, IITK, BSI, NAL and DIFR participated for the first\ntime and SASE commenced their wintering programme.\nAfter two and a half days halt at Mauritius, the expedition reached Antarctica\n(fast ice) on 4th Jan 1997. Berthing of ship at the shelf was belated. After\nremaining stuck at the fast ice for 28 days ship reached the shelf in India Bay on\n31st January.\nDischarging of cargo commenced on 5th February and most of it was\ncompleted by  20th.\nHelicopter reece for assessing the freezing of water channels on shelf ice\nwas done on 20th February. Next day the first convoy with two new PB 330s\nand one old PB 270 vehicles started for Maitri.\nThe first priority of the expedition on reaching Antarctica was to set up\nsummer camp at  Maitri and field camps in other places so that scientists were\nable to take fullest advantage of the limited number of good weather days.\nMaitri summer camp and J.U. field camp in Schirmacher oasis were established\non 8th January. Combined GSI and IIG camp was established in Filchneifjella\n(orvin-IV) mountains on 9th and DG camp was started from the 12th. These\ncamps were operated for 50, 35, 20 & 27 days respectively.\nRepublic day was celebrated on 26th January. The function was significant\nfor two reasons. First, a bust statue of Mahatma Gandhi was installed in Maitri\nstation to mark the golden jubilee year of country's independence. Second, the\nprestigious project of Digital Picture Transmission between India and Maitri\nconceived by DEAL, Dehradun was successfully achieved. In a specially arranged\nfunction in the  prime minister's residence the then prime minister Mr.\nH.D. Devegowda, addressed the expedition members and on his signalling the\n2\nDr. A.L. Koppar \nstatue of Mahatma Gandhi was unveiled by the expedition leader. Video frames\nof this event were transmitted to New Delhi in real-time and were shown onTV.\nThe XIV winter over team (WOT) took over the charge of Maitri station\non 1 1 th February.\nOut of the 20 scientific organisations as many as 15 had their work in\nMaitri and its neighbourhood (JU BSI IITM NPL IMD IITK NGRI AIMS\nDIPAS DIFS SOI NAL DARL DEAL and R & DE (E). GSI work was in both\norvin IV mountains and in DG while SASE's work was at shelf. Two\norganisations namely NHO and WII had their work along the coast line and in\nIndia Bay area. For the greater part of the summer expedition, 47 members\nwere in Maitri, 5 in the mountain camp one at DG and 8 in the ship.\nSCIENTIFIC AND LOGISTICS OBJECTIVES OF THE EXPEDITION \nI SCIENTIFIC OBJECTIVES \nA ATMOSPHERIC SCIENCES \n1. Vertical Profile of ozone and dynamics of ozone hole : \nThis is a study by NPL\n(a) to operationalise the Laser Heterodyne System (LHS) designed by them on\na year round basis,\n(b) to obtain the vertical profiles of ozone and other minor gases in the\natmosphere upto a height of 60 km.\n(c) to operationalise the liquid nitrogen plant.\n(d) to generate the liquid nitrogen required for LHS experiment\n2. Electrical Conductivity and Aerosol Particle Distribution Studies: \nThis is a new experiment intiated by the IITM Pune. In the experiment it is\nproposeed to measure the atmopheric electric field alongwith size distribution\nof aerosol particles over Antarctica and during the sea  voyage. The main\nobjectives of these measurements are as follows : \n(a) Study the diurnal variation of the electric field and air-earth current at Maitri\nvis-a-vas global electric circuit and solar terrestrial effects.\n(b) Study the inverse relation between electrical conductivity and aerosol\nconcentration with change in the size spectra of atmospheric aerosols.\n(c) To study the change in electric conductivity with latitude and examine the\nvalidity of ion-aerosol balance equation.\nIntroduction 3 \n3. Meteorological studies and study of ozone hole phenomenon: \nThis is the ongoing programme of IMD for generating ciimatological data\nbase, and\n(a) to take weekly/biweekly ozonesonde and radiometer sonde balloon ascents\nrespectively, to study the ozone hole phenomenon and longwave radiation\nbudget over Antarctica.\n(b) to provide weather forecast/information to helicopter flying\n4. Fluxgate Magnetometer Studies:  This is the ongoing study by IIG to\nunderstand the dynamics of the mobile current syste",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 40
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "The Sixteenth Indian Scientific Expedition to Antarctica An Introduction to the Expedition and Achievements(Leader's Report)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:19.929963Z"
+  }
+}

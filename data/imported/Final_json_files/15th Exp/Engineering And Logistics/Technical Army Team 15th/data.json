@@ -1,0 +1,72 @@
+{
+  "id": "article_36",
+  "document_id": "NCPOR-551CED",
+  "source_file": "ARTICLE+36.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/482/3/ARTICLE+36.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+36",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 417-437 \nTECHNICAL REPORT OF THE ARMY TEAM IN\n15\nth\n INDIAN ANTARCTIC EXPEDITION\nMaj. V.D. Abraham, SM\nIndian Army\nIntroduction\nThe logistics  team from Indian Army in the 15\nth\n expedition encapsulates\nthe tasks undertaken  during the expedition and places them on record for ready\nreference. The army contingent comprised one officer each from EME and\nEngrs, seven other ranks from EME and three other ranks from Engrs. There\nwas no summer component of the Army team. One NCO from EME and one\nfrom Engrs returned with the summer team on medical grounds and one NCO\njoined the team from EME, as a replacement.\nTasks\nFollowing logistic tasks were identified as per the guidelines given by DOD\nfor the 15\nth\n expedition : \n(a) Completion of remaining work for balloon launching shelter re-\nquired for IMD experiments.\n(b) Completion of remaining work on garage cum workshop for vehicle\nmaintenance.\n(c) Erection of ice core drilling shelter on sledge.\n(d) Installation an d commissioning of garbage and toilet incinerators.\n(e) Commissioning of four German Gensets.\n(f) Upkeep of electrical and structural aspects of the station and also\nthe fire fighting equipments.\n(g) Proper earthing of Maitri complex.\n(h) Overhauling of cold room and reach-in type deep freezers.\n(i) Preparation of  inventory of spares to facilitate logistic work.\n418 V.D. Abraham \nFollowing maintenance tasks were also identified : \n(a) Maintenance of Maitri station structure.\n(b) Maintenance of  life support systems.\n(c) Maintenance and repair of vehicles.\n(d) Transportation of fuel and stores for winter use.\nThe tasks of earthing and overhauling of cold room were undertaken by\nthe R&D (E) and are included in their report.\nTraining\nA cold region training was carried out at Indo-Tibetan Border Police\nEstablishment at Auli. The training was objective oriented and was a good\nground for interaction between the members of the winter team.\nTraining was also arranged at R&D(E) pertaining to the various construc-\ntion activities to be carried out. However the training was more of a theoretical\nnature relying on photographs and slides rather than being practical oriented.\nThe team received no practical training on construction of any structures which\nwere assigned as summer and winter tasks. The training at Thermax India Ltd.\nand on Ruston engines were educative and practical.\nThe EME team also underwent training at 512 Army Base workshop on\nthe maintenance, repairs and operation of snow vehicles. Though this was a \nbasic orientation course, it did give an insight into the mechanics and working\nof these vehicles.\nInspections of containerised accommodation, toilet incinerators and gar-\nbage incinerator at the private firm \"HiAl tech\" were more of a formality, than\nbeing of any training value since none of the installations was anywhere near\ncompletion stage during inspections.\nEmbarkation and Voyage\nA team comprising 1 JCO and 2 ORs was also left behind at New Delhi\nfor inspection of loading  and packaging of stores at  Super Bazaar. At Goa,\nloading was organised by the Army with the help of  other members of the\nexpedition. The availability of detailed lists facilitated in loading the containers\nin a methodical manner and the subsequent stacking in the ship was also done\nas per priority of use. The effort involved paid rich dividends later providing\nTechnical Report of the Army Team  419\neasy access to all th e stores in the containers in the hold and there was no\nproblem faced in handling of clothing and other essential items during voyage.\nThe team followed a rigorous schedule of orientation and training during\nthe voyage. Lecture and demonstrations were carried out on various equipments\non board the vessel and in Antarctica. Orientation to the newly inducted\nequipments and vehicles such as Mantis crane, PB-330, containerised accom-\nmodation, garbage and toilet incinerators, snow scooters and German gensets\nwere also carried out. The army team was kept in a state of physical fitness by\norganising PT/yoga on the deck daily. The logistic tasks undertaken during the\nvoyage included : \n(a) Sorting out all medical stores; emergency medical stores were\nidentified and shifted from the hold.\n(b) Summer team rations and summer and winter clothing were distrib-\nuted.\n(c) Detailed planning regarding the priority of induction of scientists\nand their equipments, establishment of summer camp and com-\nmencement of summer research activities was also carried out.\n(d) The day to day sorties required and the probable day to day\ninduction schedule were also worked out in great detail. Hence the\nsummer camp was established with two days, all 27 persons with\ntheir departmental stores were sent to the summer camp in 15\nsorties.\nSummer Tasks\n1. Induction and execution of initial tasks\nSince the priority of induction was already identified, the induction",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 21
+  },
+  "taxonomy": {
+    "category": "6]Engineering And Logistics",
+    "subcategory": "Technical Report of the Army Team in 15th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:08.487527Z"
+  }
+}

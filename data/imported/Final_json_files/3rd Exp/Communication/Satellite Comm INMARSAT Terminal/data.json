@@ -1,0 +1,72 @@
+{
+  "id": "article_20_1",
+  "document_id": "NCPOR-A20BFE",
+  "source_file": "ARTICLE+20_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/222/3/ARTICLE+20_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+20_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian Expendition to Antarctica Scientific Report 1986 \nDepartment of Ocean Development Technical Publication No 3 pp 257-264 \nSatellite Communication - INMARSAT Terminal\nM R Nayak 1\nThe age of satellite communication for ships at sea officially began on 1st Feb 1982, when the\nInternational Maritime Satellite Organisation (INMARSAT) began its work (Main Office 40, Melton\nStreet, London). INMARSAT operates a global marine communication service by means of 3 satellites\nused today (1984) having a total capacity of approximately 339 channels (25 KHz channel separation).\nThe ship earth station is used in the Indian Antarctic Research Station (Land-based).\nThe INMARSAT system consists of groundstation-linked satellites in geostationary orbit 22,300\nmiles (35,700 km) above the equator over the Atlantic Pacific and Indian oceans at longitudes of\nW 026, E 179 and E 063 respectively.\n1 National Institute of Oceanography, Goa\n257\nThe system operates on the following frequency bands\nTransmit 1636 5 to 1645 0 MHz\nReceive 1535 0 to 1543 5 MHz\nThe communication modes are\nI\nII\nTeletype\nVoice\n50 baud, full duplex per CCITT requirement\nFull duplex conforms to CCITT requirement for telephone service\nThe full technical specifications are given in table 1 \nThe satellite communication terminal DEBEG 3211 consists of only four items - a telephone,\nteleprinter electronics unit and antenna.\nThe PABX interface is inserted as an additional module in the electronics unit to enable Slow\nScan TV transmission/reception. The SS TV system consists of a slow scan TV converter (DSC-2000),\nTV- Camera (CC-111) and TV Monitor (CTM-2000). The detailed specifications are given in table 2.\nThe first SATCOM terminal HIND (1640105) was installed at the base camp in a BSA tent on\n13-1-1984, and its commissioning tests successfully completed on 19-1-1984 (at 18 12 GMT) for\ntelex and telephone. On 20-1-1984 a slow scan TV picture was transmitted to SATCOM 1640102\nMVTT at Goa (for storage in an audio casette).\nThe variation in satellite ELEVATION (ELN) and AZIMUTH (AZM) values obtained in this\nlocation are\nELN\nAZM\nGYR\nLVL\n0 4  to  0 6  d e g\n313 deg\n010 deg (GYRO reading from FORE of Antenna)\n155 to 161 (Signal level strength)\nThe unit was futhe r shifted to its present location (Portacabin) on 27-1-1984. The system\nwas extensively used for official and private traffic for Expedition members.\nSATELLITE COMMUNICATION INMARSAT TERMINAL\n_______________________________________________________________________________________________________________________________\nThe second SATCOM 1640106 INDI X was installed in the radio (Communication) room in\nthe Indian Antarctic Research Station on 14-2-1984, and commissioned on 15-2-84 at 15 14\nGMT through Goonhilly (Code 02) Coast Earth Station.\nThe Antenna (ANT) variation values during the period 15-2-1984 to 28-2-1984 are\nELN\nLVL\nAZM\nGYR\n05 to 07\n171 to 173\n280\n280\nThe extension of the system for Telefax Transmission was tried unsuccessfully due to the lack\nof technical information regarding the interfacing of NEFAX 4500 to DEBEG 3211. Hence the system\nis further modified to incorporate Slow Scan TV transmission as an additional option.\nThe following precautions were taken into consideration\n1\n2\n3\n4\n5\n6\nPower supply fluctuations (in voltage and frequency).\nPower supply voltage transient suppression.\nExposure of CC TV Camera to strong light (to prevent permanent damage to the vidicon tube).\nThe supply voltage for SS TV(Camera Converter and Monitor) is 220 Vac and for the SATCOM\nequipments 110 Vac, obtained using a power line conditioner.\nAntenna Flywheel Circuit Breaker. NEVER  to Switch—ON.\nNot to use the service lock pin in the Antenna (NEVER).\nObservations\n1\n2\n3\n4\n5\nThe telex machine ink-flow was not smooth due to out-side low temperature. To  overcome\nthis, it was necessary either to keep the printer ON for some time, or use in-house tests like SELF-\nTEST, ANT AIM, POS, TME etc, to enable free flow of ink.\nWhen it was not possible to go through UK (Code 02) Coast Earth Station, use of US (Code 01)\nwas made (where STORE AND FORWARD facility for telex exist).\nThe present lat 70°S and long 12°E is ideally suited for using Atlantic Ocean (WO 26) as well\nas Indian Ocean (EO 63) satellites.\nWe could hence make use of the following C E S \nAtlantic. UK (02) USA (01), France (11) and Kuwait (06)\nIndian. Japan (03) and Norway (04).\nERROR 103 SHIPS GYRO ERR should be ignored as the ship terminal is used as Land-based\nterminal in Antarctica.\nRecommendations\n1\n2\n3\nStabilized power supply source should be used.\nTelexes should be stored in memory before transmitting (to save time, cost and human errors).\nMinimum three sets of spares should be available at the Base Camp (to keep both units functional),\nin view of\n258\nM.R. NAYAK\n_____________________________________________________________________________________________________________________________\nI\nII\nBoards being not field-repairable.\nBeing a remote location no repl",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "7]Communication",
+    "subcategory": "Satellite Communication - INMARSAT Terminal",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:05.254291Z"
+  }
+}

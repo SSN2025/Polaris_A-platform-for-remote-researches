@@ -1,0 +1,72 @@
+{
+  "id": "article_6",
+  "document_id": "NCPOR-3A570F",
+  "source_file": "ARTICLE+6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/135/3/ARTICLE+6.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+6",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "53\nSome  Physical  Characteristics  of  th e  Antarctic  and\nWestern  Indian  Oceans\nD. V. Rama Raju 1 and Y. K. Somayajulu 1\nABSTRACT\nExpendable  bathythermograph  (XBT)  and  hydrographic  observations  made  along  the  transects  through  Antarctic  and\nwestern Indian  Oceans  on  board  M.  V.  Polar  Circle  during  the  First  Indian  Antarctic  Expedition  have  been  analysed  and presented\nin this paper. A wide  north-south  variation in the physical  oceanographic  parameters  has  been  noticed  along  the  transects.  Maximum\nsea surface temperatures  have  been observed  between  latitudes  6-10OS  and  a  sharp  fall  of  temperature  has been  found  near  the\nconvergence zones particularly  between latitudes  40-50°S.  The  surface  temperatures  ranged  between  28.7OC and -1.7OC.  The\ndepths of the isothermal  (mixed) layer in the Antarctic  waters  to  the  south  of  latitude  68°S  extend  to  as  deep  as  200-400  m  while  at\nother regions, they  are  found  to  be within  100  m.  The  data  clearly  shows  that  a  convergence  process  is  taking  place  around  60OS  with\nthe Antarctic surface  water  slipping below  and  mixing  with  the  subantarctic  surface  water.  T-S  analysis  shows  characteristic  changes\nin T-S relations of Antarctic intermediate water  as  the  distance  from  the  Antarctic  convergence  increases.\nINTRODUCTION\nThe exploration of the Antarctic Ocean (Southern Ocean) receives much attention by oceanogra-\nphers of various disciplines, because the ocean supports all the animal life and has a tremendous influence\non meteorology and geophysical problems. During the First Indian Antarctic Expedition (Dec. 1981 -\nFeb. 1982), a preliminary study of various aspects of Antarctic Ocean waters have been undertaken. On\nboard M.V. Polar Circle, expendable bathythermograph (XBT) and hydrographic observations have\nbeen made in the area of interest (Fig. 1). The cruise track covered a very long stretch from Mormugao\nport on India's west coast to the continent of Antarctica-. The expendable bathythermograph records in\nthe depth range (0-760 m) have been obtained at 154 stations along the cruise track using the system\ndeveloped by Sippican, USA. Seventeen hydrographic stations have been covered between latitudes\n70-30°S and the water samples collected from standard depths have been analysed for salinities on board\nthe ship using the Autosal, laboratory salinometer. In the present paper some of the hydrographic features\nof the region covered during these cruises are studied in relation to physical oceanographic conditions.\nGENERAL OCEANOGRAPHY OF THE ANTARCTIC AND WESTERN INDIAN OCEANS\nWaters within the zone from the coast of Antarctica northward to the Antarctic convergence (an\narbitrary limit at approximately 52°S latitude) have been termed as Antarctic waters. The waters within\nthe zone between this convergence and the subtropical convergence have been termed as subantarctic\nwaters.\nThe basic structure of Antarctic and subantarctic waters have been extensively studied during\nDiscovery Expedition (Deacon 1937,1963 and 1964). The main flow is zonal, westward south of Antarctic\ndivergence and eastward north of the divergence. The surface and bottom watermasses here are Antarctic\nin origin in that their characteristics are acquired south of the Antarctic convergence. The northward and\ndownward component of motion is compensated by a southward and upward flowing of deep watermas-\nses. This results in a meridional exchange of oceanographic properties and as a consequence heat and\nnutrients are supplied to the surface of Antarctic waters from lower latitudes (Gordon, 1971).\nThe Antarctic convergence (Oceanic polar front zone) is the region separating Antarctic and\nsubantarctic watermasses. It has characteristics that suggest alternate convergence, divergence or a \ncombination of both. Some of the Antarctic surface water sinking in this region forms the low salinity\nAntarctic intermediate water (AAIW). The rest mixes into the subantarctic surface water.\nOceanographically, the southern boundary of the Indian Ocean has been placed in the region of\nsubtropical convergence, approximatly extending to 40°S. In the region of subtropical convergence,\n___________________________________________________________________________________________________________________________________________\n1 National Institute of Oceanography, Dona  Paula,  Goa-403  004,  India.\nSome Physical Characteristics of...\nFig.  1  :  Location  of  stations  XBT(.),  Nansen  cast  (O)\nINDIA\nKerouelion  I s .\nNansen  cast\nXBT\nOCEAN\nINDIAN\n0° 2 0 ° 40° 60° 80° 100° 120°\no\n20\nE\nN\no\n0\no\n20\no\n40\no\n60\no\n70\nS\n120100° E80°60°40°20°0°\no\n70\nS\nO\n60\no\n40\no\n20\nO\nO\nO\n20\nN\n150\n5\n10\n145\n15\n20\n25\n140\n30\n135\n35\n40\nMauritius\n45\n130.\n50\n55\n17\n125\n60120\n16\n15\n115\n65\n14\n13\n105\n12\n70\n75\n1\n80\n85\n95\nG3\n90\nG6\nG2\nG4\nG 5 \nG 7 100\n68\nG 9 \nG 1 0\nG 11 \nG\nPnrrct  Edworrf  Is\nBOuvet  Is\nHtard  I s .\nCrozet  Is\n110G\nG\nG\nG\nG\nGOA\nDAKSHIN  GANG",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "3]Radiophysics & Physical Oceanography",
+    "subcategory": "Some physical characteristics of the Antarctic and western Indian Ocean",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:37.420736Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_5",
+  "document_id": "NCPOR-5ED20A",
+  "source_file": "ARTICLE+5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/235/3/ARTICLE+5.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "83\nSeismic Investigations on the Ice-shelf Near Dakshin Gangotri,\nAntarctica\nS.K. Verma, G.S. Mital, M.M. Dixit, K.N.S. Reddy,\nM. Venkatarayudu and K.P. Pantulu\nNational Geophysical Research Institute, Hyderabad-500007 \nABSTRACT\nThe results of the seismic investigations around the Indian base station in Antarctica have estab-\nlished the efficacy of the seismic ref lection methods in delineating sub-shelf structures. The results of\nthe seismic interpretation, in conjunction with those obtained from magnetic studies, have led to the\nproposition of a structural model describing the thicknesses of ice-shelf and underlying water and glacial\nsediment layers above the basement. This model explains a number of geomorphological features in the\nregion.\nThe experience gained in this first-ever seismic studies under the Indian Scientific Research Pro-\ngramme in Antarctica also provides valuable information on the type of explosives and the recording\nmedia that should be suitable under Antarctic environs.\nINTRODUCTION\nDuring the Fourth Indian Antarctic Expedition f irst-ever seismic investigations were carried\nout near the Dakshin Gangotri permanent station on the ice-shelf. The prime objective of this survey\nwas to examine the efficacy of a shallow reflection (SIE, 12 channel) seismic unit in the delineation of\nsub-shelf s tructure including the thickness of the ice-shelf. As we had taken gelatine-based (SGL—\n80) explosives, commonly employed in seismic surveys in India, it was also necessary for us to test,\nfirst of all, the performance of this explosive in Antarctic environs.\nPrior to the seismic survey, a long magnetic traverse extending from coast to about 35 km south\nwas taken to identify the geophysically interesting regions where seismic investigations would yield\nfurther complementary information.\nThe seismic records were interpreted in conjunction with the results obtained from the magne-\ntic survey and based on this interpretation a s tructural model of the ice-shelf around the Indian\nPermanent Station has been proposed.\nLOCATION OF THE SURVEYED AREA AND DATA COLLECTION\nBased on the long magnetic traverse on the ice-shelf taken during the fourth expedition (Verma\net a1., 1987) and those taken during the second expedition an  area extending from 1 km north of the\nsecond expedition Runway Hut (Lat. 70° 02'.32 S, Long. 12°00'.08 E) to about 3 km south of the\nIndian Permanent Station was selected for the seismic work. This area lies in the vicinity of a valley-\nlike depression in th e basement close to the edge of the shelf.\nThe selection of the site was also constrained by the availability of the proper logistic support\nsuch as—availability of Pisten bullys, generator, a shooter from the Indian army etc.\nSome of the salient features important from the view-point of effective collection of seismic data\nare described below:\nSeismic Investigations on Ice-shelf \nDrill-holes\nThe most time-consuming aspect of the seismic survey was the drilling of shot point holes in the\nice-shelf. The hand augers did not work satisfactorily for drilling holes ranging in depth from 5 m to\n10 m. A working alternative to the hand drilling was provided by electrically operating thermal drills.\nHowever, it was found to be very slow and to drill a shot-hole of depth 10 m it took about 3 hours. The\nthermal drilling also required a power-generator on site capable of running continuously for about 10\nto 15 hours to drill atleast 3 to 5 points for each location. As the proper logistic support for the seismic\nsurveys was made available only after the second week of February when the weather starts getting\nrough, at times after drilling all the shot-holes and making the preliminary preparations for the sur-\nvey, our attempts of shooting the charge and taking the records were frustrated due to changed\nsevere conditions of the weather.\nExplosives and detonators\nWe had carried with us the gelatine-based SGL-80 explosive which is commonly used in seism-\nic surveys in India. The explosive-experts of the Indian army, however, informed us that these explo-\nsives were not suitable under Antarctic weather conditions. The reason being that the handling of\nthese explosives at sub-zero temperature conditions becomes risky. Also, at sub-zero conditions no\nmoisture is available in the atmosphere due to which the explosives were found to become very\nbrittle increasing the risk factor. It was suggested by the experts from the Indian army that for future\nseismic surveys in Antarctica, the Plastic Explosives from Kirki (PEK) or the Low Temperature Plas-\ntic Explosives developed by ERDL (DRDO) Pune should be used.\nThe excessive presence of the static electricity was found to be another hazardous-factor in\nAntarctic environs. Proper precaution must be taken to remove the static charges before connect-\ning the seismic quality (zero-time) electrical detonators to the explosives.\nRecording equipment\nWe had taken RM-495 unit alongwith Ru-49R9 digital recorder unit of S",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "2]Geology and Geophysics",
+    "subcategory": "Seismic investigations on the ice - shelf near Dakshin Gangotri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:24.117511Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_8_1",
+  "document_id": "NCPOR-A09D88",
+  "source_file": "ARTICLE+8_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/381/3/ARTICLE+8_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 137-144 \nInstrumental Neutron Activation Analysis of Rock Samples\nfrom Schirmacher Range, Central Dronning Maud Land,\nEast Antarctica\nY. SRINIVAS\nAtomic Minerals Division, Department of Atomic Energy, Hyderabad-16\nAbstract\nNon-destructive Instrumental Neutron Activation Analysis (INAA) of rare earth elements, some\ntrace and major-elements of the representative rock samples from Schirmacher Range, Dronning Maud\nLand, East Antarctica comprising five gneiss samples (quartz-biotite gneiss, garnet-biotite gneiss,\nsheared banded gneiss, leucocratic gneiss, banded gneiss) have been carried out. The samples were\nirradiated for 8 hours along with standard reference rock samples of suitable weights in a thermal\nneutron flux of -1013 ncm-2 sec-1 . \nThe elemental concentrations are estimated by studying the induced activity produced in samples\nusing high resolution gamma ray spectrometry. The results of elemental characterisation of five\ndifferent rock types are compared with normal magmatic rock and discussed,\nIntroduction\nInstrumental Neutron Activation Analysis is an established, high sensitive and\nnon-destructive nuclear technique used to find quantitative elemental concentra-\ntions of rare earth elements and other trace elements ranging from percentage to the\ntrace level with very good precision (Gibson and Jagam,1980 and Gurna et\nal, 1988). The quantitative determination of several trace elements in the different\ninternational standard reference materials (SRM) are often analysed by this tech-\nnique (Gurna et al, 1988 and Potts and Rogers, 1991). Since the abundances of REE\nin rocks are being used for petrogenetic studies for their geochemical significance,\nthe accurate data is essential before doing any quantitative modelling. Petrological\nand mineralogical studies of these rocks have been done extensively. Geochemical\nstudies including.major and trace elements have been carried out and attempts to\nexplain the genesis of the gneisses were made (Chakraborty et al.,1985; Kaul et al., \n1985 and 1988). These rocks were compared with well known shield areas of South\nIndia, Africa and Australia ( Craddock, 1982; Fedorov et al., 1982; Murali et al, \n1983; Pichamuthu, 1966 and Ravich, 1982). However, REE data of the gneisses and\nother rock types have not been used to explain their petrogenesis.\n138 Y. Srinivas \nThis work is an attempt to present the analytical results of some of the major,\ntrace and REE elements of the gneisses from Schirmacher Range,Dronning Maud\nLand, East Antarctica.\nSchirmacher range of Dronning Maud Land, East Antarctica, is about 16km long\nand lies between latitudes 70°44'30\"S and 70°46'30\"S and longitudes 11°22'40\"E\nto 11°54'00\"E. It is an E-W to WNW-ESE trending low lying range with a \nmaximum width of 2.7kms in the central part.\nThe stable craton of East Antarctica comprises Precambrian high-grade gneisses\nand crystalline schists with granite intrusives (Singh, 1986).\nThe gneisses consist of microcline(and/or) orthoclase, plagioclase,quartz,biotite,\nhornblende and opaque ore as the essential mineral constituents (Chakraborty et al., \n1985).\nExperimental Technique\nThe rock samples weighing about one kilogram were washed and crushed to\n-200 mesh. The crushed powder of each sample was homogenized and sampling\nwas done by coning and quartering. Powdered rock samples weighing ~ 180mg each\nwith comparators/standards such as SY-3,Inhouse standard ARD-22 and synthetic\nof suitable concentrations were taken alongwith silicate rock samples weighing\n100-150mg. About 40 nos. of samples were wrapped in high purity aluminium foil\nand they were properly interposed by comparator stacked in one or two rows in a \nbig aluminium foil forming a target of size 1.6cm in diamater and 3.7cm in\nheight.This target was irradiated in a thermal neutron flux ~ 1013 ncm-2 s-1 from\nCIRUS reactor at BARC, Bombay.\nThe gamma emissions of induced activities were measured after allowing cool-\ning time of 4 to 5 days from the end of irradiation. The determination of all possible\nREEs namely La, Ce, Nd, Sm, Eu, Tb, Tm, Yb, Lu, trace elements Sc, Cr, Co, Rb,\nHf, Ta and major elements Na, Ca and Fe were made under varying conditions of\ncooling and counting intervals. The different factors, viz. cooling.and counting\nintervals, possible interferences, details of radioisotopes and their gamma emission\nenergies, accuracy and sensitivity have been described by Brunfelt and Steinnes,\n1966; Gordon et al., 1968; and Murali et al. ,1979. Over the past nine years, parame-\nters required for the above elements have been standardised (Gurna et al., 1988 and\n1990).\nThe measurements of desired gamma emissions were carried out by gamma ray\nspectrometry using ORTEC HPGe coaxial detector (relative efficiency 10%)-Type\n10175, which has 2kev resolution at 1332kev of 60Co and ORTEC HPGe planar\ndetector-Type GLP 36385 with 0.8kev ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Instrumental Neutron Activation Analysis of Rock Samples from Schirmacher Range, Central Dronning Maud Land, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:01.059633Z"
+  }
+}

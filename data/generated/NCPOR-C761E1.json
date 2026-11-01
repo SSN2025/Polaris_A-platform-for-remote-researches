@@ -1,0 +1,81 @@
+{
+  "id": "document-control-data-sheet-ncpor-c761e1",
+  "document_id": "NCPOR-C761E1",
+  "source_file": "T.+P.+No+17.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/795/1/T.+P.+No+17.pdf",
+  "title": "Document Control Data Sheet",
+  "year": 2005,
+  "expedition": "19th Indian Antarctic Expedition",
+  "category": "Other",
+  "subcategory": "Control Data",
+  "bibliographic": {
+    "title": "Document Control Data Sheet",
+    "authors": [
+      {
+        "name": "NCPOR Research Team",
+        "affiliation": "National Centre for Polar and Ocean Research"
+      }
+    ],
+    "expedition": "19th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2005,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "Document Control Data Sheet \nRR No. 17 \nSl. No   \n1 Name of the institute \n \nNational Centre for Antarctic & Ocean \nResearch \n2 Document number  \n \nNCAOR RR. No.-17 \n3 Date of publication \n \n2005 \n4 Title of the document\n  \n \nScientific Report of Nineteenth Indian \nExpedition to Antarctica \n5 Type of Document* \n \nRR \n6 No. of pages & \nfigures \n \nxxvii, 279pgs \n7 Number of \nReferences \n \n- \n8 Author (s) \n \nMembers of Expedition No. 19th, RR No. 17 \nEdited by- Arun Chaturvedi, Rasik Ravindra , \nGSI- Faridabad & Dr. P.C. Pandey, NCAOR- \nGoa. \n9 Originating Unit \n \nNCAOR, Project (Antarctic Science) \n10 Abstract (100 words) \n \nThis Scientific Publication consists of various \nArticles from different disciplines of Polar \nScience. The data used for the report was \ncollected during the Nineteenth Indian \nScientific Expedition to Antarctica. \n11 Key words  \n \nEarth Sciences, Atmospheric Sciences, Bio- \nSciences, Environmental Sciences, \nPhysiological Sciences, Engineering & \nLogistics. \n12 Security \nclassification \n \nOpen \n13 Distribution  \n \nUnrestricted",
+    "summary": "This investigation conducted during the 19th Indian Antarctic Expedition examines key other phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "Other",
+    "subcategory": "Control Data",
+    "tags": [
+      "other",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Other discoveries from 19th Indian Antarctic Expedition: \"Document Control Data Sheet\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Other based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:43.951527Z"
+  }
+}

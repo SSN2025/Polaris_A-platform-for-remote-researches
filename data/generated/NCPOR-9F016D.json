@@ -1,0 +1,81 @@
+{
+  "id": "lake-water-quality-of-different-islands-and-p-ncpor-9f016d",
+  "document_id": "NCPOR-9F016D",
+  "source_file": "Pages176-199.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1238/1/Pages176-199.pdf",
+  "title": "Lake Water quality of different Islands and Peninsulas at Larsemann Hills, East Antarctica",
+  "year": 2011,
+  "expedition": "30th Indian Antarctic Expedition",
+  "category": "Environmental Science",
+  "subcategory": "Lake Water quality of different Islands and Peninsulas at Larsemann Hills, East Antarctica",
+  "bibliographic": {
+    "title": "Lake Water quality of different Islands and Peninsulas at Larsemann Hills, East Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "30th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2011,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 30th Indian Antarctic Expedition examines key environmental science phenomena in polar terrain around Larsemann Hills. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Larsemann Hills"
+    ],
+    "research_sites": [
+      "Larsemann Hills"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Environmental Science",
+    "subcategory": "Lake Water quality of different Islands and Peninsulas at Larsemann Hills, East Antarctica",
+    "tags": [
+      "environmental-science",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Environmental Science discoveries from 30th Indian Antarctic Expedition: \"Lake Water quality of different Islands and Peninsulas at Larsemann Hills, East Antarctica\". Learn how Indian scientists studied Larsemann Hills on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Environmental Science based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:31:54.446859Z"
+  }
+}

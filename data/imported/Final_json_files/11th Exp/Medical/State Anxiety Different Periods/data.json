@@ -1,0 +1,72 @@
+{
+  "id": "pdf",
+  "document_id": "NCPOR-22BE46",
+  "source_file": "pdf.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/747/1/pdf.pdf",
+  "bibliographic": {
+    "title": "pdf",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "11] Scientific Report Eleventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Abstract \nState anxiety scores of 15 expeditioners in three different periods (journey from India \nto Antarctica, living in Antarctica, and journey from Antarctica to India) were examined \nthrough analysis of variance with repeated measure. Expeditioners on their way to Antarctica \nfrom India, reported more anxiety than in other two periods. Through analysis of covariance, \nitems measuring security feeling and rested state were identified as most discriminating items \nin three different periods. These two items predicted total scale score significantly. Results \nhave some implication on training design for expeditioners. \nIntroductio n \nState anxiety refers to transitory emotional state or condition of the human \norganism that is characterized by subjective, conciously perceived feeling s of \ntension and apprehension and autonomic nervous system activity (Spielberger \net al., 1970) . State anxiety varies i n intensity and fluctuates ove r time. Thi s \nfluctuation depends upon the extent to which a specific situation is perceived \nby individual a s dangerous and threatening and this i s greatly influenced by \nindividual's pas t experience . Environmen t o f Antarctica i s threatening fo r \nhuman existence. Ninetyeight percent of landmass of Antarcticais covered with \nsnow and ice and the remaining area is rocky. Antarctica is devoid of vegetation \nand is relatively isolated from human activities. The temperature prevailing in \nthe continent are on an average ranging between -30° and -50°C in winter and \naround 0° to -10°C in summer. Johnson (1985) found that the average tempera-\nture i s -50 ° o n th e pola r plateau an d -15° C i n th e coasta l areas . Ther e i s \nexcessiv e ultraviolet radiation which affects the human body adversely. Several \nstudies (Mullin,1960, Palami,1963 and Bell &Garthwaite, 1987) reported cases \nof psychological disturbance in Antarctica. Focus of the present research is to \ndetermine differences i n state anxiety patterns o f Antarctic expeditioners i n \nthree different phases viz.during journey from India to Antarctica, at Antarctica \nIndian Statistical Institute \n203,B.T.Road,Calcutta - 700 035 \nEleventh Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 9, pp. 329-335 \nA Study of State Anxiety During Different Periods of \nEleventh Antarctic Expedition \nDEBDULAL DUTTA ROY and NARAYAN CHANDRA DEB \n330 Debdulal Dutta Roy and Narayan Chandra Deb \nand during return journey from Antarctica to India. To assess the state anxiety \nlevel, Spielberger's state anxiety scale is assumed to be appropriate. Aim of \nthis study is to determine usefulness of state anxiety scale in Antarctica. The \nscale includes 20 items. Another purpose of the present study is to determine \nsignificant differences in scores of 20 items in three different stages of the \nexpedition. \nMethods \nSample: Data were collected from 15 expeditioners (mean age = 35.03, SD \n= 9.70) who left for Antarctica on 27 November 1991 and safely returned to \nIndia on 4 March 1992. Purpose of their visit was to conduct research work in \nAntarctica. They were given initial training so that they could adjust with the \nenvironmental uncertainty in Antarctica. \nTools: Data were collected through state anxiety scale (Spielberger et \nal., 1970). Twenty items of the scale measure the degree to what extent respon-\ndent feels tension, nervousness, worry and apprehension at a particular moment \nin time. Test- retest reliability of the scale is low as state anxiety varies from \ntime to time. Concurrent and construct validity of the scale are very high \n(Spielberger et al.,1970). In this study alpha chronbach was used to assess \ninternal consistency among the scores of items in three different periods. It was \nfound that alpha value ranged from 0.75 to 0.85 (Table I). Higher score indicates \ncomparatively higher state anxiety levels and vice versa. \nResults \nDifferences in state anxiety \nThe technique of analysis of variance with repeated measures was applied \nto determine significant difference in state anxiety score of three different \nperiods. Table I shows mean and standard deviation (SD) of the items of state \nanxiety scale in three different periods. State anxiety mean during journey from \nIndia to Antarctica (mean = 36.40, SD = 4.80) was significantly higher (F = \n11.65, df = 2,42, p<.0001) than those in other two periods. In contrast, state \nanxiety mean during journey from Antarctica to India (mean = 28.37, SD = \n4.86) was significantly lower than those in other two periods (Table I). \nOut of 20 items of the state anxiety scale, only nine items were significantly \ndifferent in three different periods of the Antarctic expedition. These items were \nfeeling of calmness (F(2,42)=9.01, p<.0006), security (F(2,42)=13.20, \np<.0000), rested (F(2,42)=8.42, p<.001), comfortability (F(2,42)=8.40, \np<.0009), confidence (F(2,42)= 12.02, p<.0001), relax (F(2,42)=3.95, p<.03), \nTable I:",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "5]Medical Sciences",
+    "subcategory": "A Study of State Anxiety During Different Periods of Eleventh Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:18:51.042667Z"
+  }
+}

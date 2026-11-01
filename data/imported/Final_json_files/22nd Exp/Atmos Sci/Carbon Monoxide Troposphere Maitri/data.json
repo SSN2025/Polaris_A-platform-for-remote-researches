@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_20_2c_pp_95_102",
+  "document_id": "NCPOR-379BDD",
+  "source_file": "Technical+Publication+No.+20%2C+pp+95-102.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/875/1/Technical+Publication+No.+20%2C+pp+95-102.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+20%2C+pp+95-102",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "22] Scientific Report of Twenty Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "95 \nTwenty Second Indian Expedition to Antarctica, Scientific Report 2008 \nMinistry of Earth Sciences, Technical Publication No. 20, pp 95-102 \nObservations of Carbon Monoxide in Antarctic \nTroposphere at Maitri, Antarctica \nS.L. Jain, B.C. Arya, Ashok Kumar, Sachin D. Ghude and V.B. Gupta* \nRadio and Atmospheric Sciences Division \nNational Physical Laboratory, New Delhi-110012 \n*School of Future Studies and Planning, Devi Ahilya University, \nIndore-452017 (India) \nABSTRACT \nObservations of carbon monoxide have been made using IR CO analyzer at Maitri \n(70°.44'S, 11°.45'E), Antarctica during 22nd Indian Scientific Expedition. A diurnal cycle \nwas systematically observed during clear sky condition. The CO concentration was observed \nhigher in daytime sunlight period however; during cloudy day diurnal variation was absent. \nIt has been observed that the CO concentration increases with increase of solar elevation and \ndecline of CO concentration correlated with the drop of the solar radiation. In present \ncommunication experimental setup and results obtained are discussed in detail. \nKey Words: Infra red (IR) CO Analyzer, CO, Antarctica \nINTRODUCTION \nCarbon monoxide is the important trace gas in the atmosphere. It does \nnot absorb terrestrial infrared radiation strongly enough to be counted as a \ndirect greenhouse gas. However, it has an influence on oxidation in the \natmosphere through interaction with hydroxyl radicals (OH), which react \nwith methane and non-methane hydrocarbon and eventually brings out \nchanges in concentrations of important greenhouse gases. CO plays an \nimportant role in determining tropospheric OH and indirectly affects the \natmospheric burden of CH4 .Fossil fuel combustion, biomass burning, methane \noxidation and oxidation of non-methane hydrocarbon are main sources of \nCO in the atmosphere. More than half of atmospheric CO emissions today \nare caused by human activities, and as a result, the Northern Hemisphere \ncontains about twice as much as the Southern Hemisphere1. Large amount \nof biomass burning can increase the concentration of CO above background \nlevels over large areas2. Carbon monoxide also is the primary sink for \n96 S.L Jain et al. \nhydroxyl radical. Its short lifetime, about 2 months3, together with its varied \nsources implies that CO concentration varies regionally. CO plays role in \ndetermining tropospheric OH and indirectly affects the atmospheric burden \nof CH4 and can lead to the formation of 03 (Ref. 4). There are no such \nsources of carbon monoxide at Antarctica. Whatever concentration we \nobserved is due to transport and dynamics mechanism. However, recent \nmeasurements of snow and gas phase formaldehyde in the Arctic suggest \nphotochemical Formaldehyde (HCHO) production at the air-snow interface, \nresulting in a substantial flux out of the snowpack5. Hutterli et al (1999) \nreported the de-gassing process for HCHO from buried winter fern layers. \nIn any case this would be a significant source of HCHO in Polar Regions \nbecause large areas are covered with ice and snow. Formaldehyde is an \nimportant constituent in the photochemical oxidation of atmospheric \nhydrocarbons. Photolysis is an important sink for HCHO, which, depending \non the wavelength, yields H atoms and HCO radicals or hydrogen and carbon \nmonoxide. Production of free radicals and carbon monoxide (CO) from \nphotolysis of HCHO from this newly discovered source is potentially important \nto the oxidative capacity of the polar troposphere. \nIn view of the above, continuous measurement of atmospheric CO \nusing gas filter correlation non-dispersive IR absorption (NDIR) CO analyzer \nof Advanced Pollution Instrument Inc (API) started in the 22nd Indian \nAntarctic expedition. The studies at Maitri station were aimed towards the \nestimation of a complete diurnal variation for CO in the near-surface air in \nAntarctica. In the present communication salient features of the instrument, \nexperimental technique and result obtained are discussed in detail. \nEXPERIMENTAL TECHNIQUE \nObservations were carried out at the Indian Antarctic Research Station \nMaitri during summer season from February to March 2003. The station is \nlocated on Schirmacher hill on an ice-free area, Queen Maud Land of \nAntarctica, 120 m above sea level. The instruments were installed in an \nEnvironmental Laboratory, which is located 300 m north of the main station. \nThus, no serious contamination problem due to the main station existed. \nData were taken using gas filter correlation non-dispersive IR absorption \n(NDIR) CO analyzer of Advanced Pollution Instrument Inc (API), which \nhas a capability of detecting very low CO concentration in pristine environment \nlike Antarctica. The block diagram of the instrumentations system is shown \nin Fig. 1. The detection and measurement of carbon monoxide is based on \n•. \nObservations of Carbon Monoxide in Antarctic Troposphere 97 \nthe absorption of Infra Red (IR) radiation by CO molecules at wavelengths \nnea",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Science",
+    "subcategory": "Observations of Carbon Monoxide in Antarctic Troposphere at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:22.545379Z"
+  }
+}

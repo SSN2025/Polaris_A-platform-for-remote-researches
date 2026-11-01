@@ -1,0 +1,72 @@
+{
+  "id": "article_11",
+  "document_id": "NCPOR-F5C43B",
+  "source_file": "ARTICLE+11.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/213/3/ARTICLE+11.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+11",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian Expedition to Antarctica Scientific Report 1986 \nDepartment of Ocean Development Technical Publication No 3 pp 161 174 \nLatitudinal Distribution of Zooplankton in the Southern Ocean\nwith Special Reference to Euphausiids\nK. J Mathew 1 and D Vincent 1\nABSTRACT\nThe oceans are subjected to great variations in space and time with regard to their physico-\nchemical and biological feat ures. These changes are more pronounced latitudinally than longitudinally.\nIn order to understand how these changes were reflected in the occurrence and abundance of zooplank\nton as a whole and the various groups in particular a series of zooplankton samples were collected\nduring the Third Indian Expedition to Antarctica from the edge of the pack ice upto 20°S along an obli-\nque course between 22°56 E and 56°53 E.  The area included the Antarctic Sub Antarctic and Sub\ntropical zones where the surface water temperature range d from 1 5°C to 27 5°C with striking\nvariations at the Antarctic and Sub tropical convergences. The zooplankton obtained was subjected\nto volumetric and numerical analyses. For euphausiids besides the above gravimetric analys s was also\ndone. The zooplankton was found especially more in the Antarctic waters where an average value of\n105 64 cc per 1000 m 3 of water was obtained. The plankton at the various stations fluctuated between\n29 41 cc and 329 34 cc per 1000 m 3 of water. When considered numerically the highest density of\n199 zooplankton organisms per m3 of water were present at the station at the Antarctic Circle.\nThe euphausiids constituted 13 67%  of zooplankton by volume. A gr avimetric estitmation\nrevealed that the euphausiids were relatively more in the Antarctic and Sub Antarctic waters which to\ngether claimed for 89 30% of the total euphausiids obtained. When c onsidered numerically the maxi-\nmum abundance of euphausiids (4 347/1000 m 3 of water) was at 53°21 S 48°04 E.\nAltogether 20 groups of zooplankters were present with the maximum numerical abundance of\ncopepods. The zooplankton groups showed differential distribution in each latitudinal zones. Seven\ngroups namely euphausiids copepods ch aetognaths appendicularians ostracods siphonophores and\nforaminiferans occurred at all the stations s ampled.\nINTRODUCTION\nThe zooplankton is an important tool in the study of biological oceano graphy. It changes its\npattern of distribution and abundance in ac cordance with the changes in the environmental factors and\nconsequent variations in th e availability of food mat erials. These changes how ever, are more pro-\nnounced latitudinally than lo ngitudinally. A north south course traverses through the main surface\nboundaries of the ocean and follow the principal temperature gradients. In view of these facts a lati-\ntudinal study of the occurrence and abundance of zooplankton with particular reference to euphausiids\nwas taken up during the Third Indian Expediti on to Antarctica in which the senior author was a parti-\ncipant.\nBased on the  'Discovery'  collections Baker (1965) made a study on the latitudinal distribution\nof species of the genus Euphausia (Crustacea) from the very edge of the pack-ice in the Antarctic Ocean\nupto the equator along the 90° E meridian in the Indian Ocean sector. Another study made on the lati-\ntudinal abundance of zooplankton was that of Goswami (1983) based on collections made during the\nFirst Indian Expedition to Antarctica between 67°13 S and 39°25'S in a di agonal manner.\n161\n1Central Marine Fisheries Research Institute Cochin\nF g 1 Sampl ng stations fo t e stud y of latitud nal d str but on of zooplankton\n162\nIn the laboratory the volume of the plankton was estimated by displacement method after which\nthe various groups of zooplankton were sorted out from an aliquot sample of minimum 5 cc and esti\nmated for 1000 m 3 of water based on the method followed by Gopalaknshnan and Bnnton (1969)and\nBnnton and Gopalakrishnan (1973) The details for the sampling stations are presented in table 1 \nLATITUDINAL DISTRIBUTION OF ZOOPTL ANKTON WITH SPECIAL REFERENCE TO EUPHAUSIIDS\nMATERIAL AN D METHODS\n26 stations were occupied for the collection of zooplankton between 61°31 S and 21°34 S in a \ndiagonal manner extending from 22°56 E to 56°53 E covering the Antarctic, Sub Antarctic and Sub\ntropical zones (Fig 1). A Bongo net of 60 cm mouth diameter and 4 mm mesh size was used for the\ncollection of the plankton at 0730 hrs and 1800 hrs on every day from 5-3-84  to  17-3-84. How-\never the last collection on 18-3- 84 was m a d e at 0430 h r s . The zooplankton samples were collected\nfrom a depth of 150 m to the surface as open vertical hauls while the ship was moving in one knot speed\nA T S K flow meter was attached in a manner to keep itself in the centre of one of the collars of the net.\nThe samples were preserved in 3% formalin. The atmospheric as well as surface water temperature\nwere noted during each sampling.\n_______________________________________________________________________",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "3]Oceanography and Biology",
+    "subcategory": "Latitudinal Distribution of Zooplankton in the Southern Ocean with special Reference to Euphausiids",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:47.928156Z"
+  }
+}

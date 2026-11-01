@@ -1,0 +1,72 @@
+{
+  "id": "article_24",
+  "document_id": "NCPOR-80F0D0",
+  "source_file": "ARTICLE+24.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/535/3/ARTICLE+24.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+24",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. 15, PP 261-268 \nWIND ENERGY UTILIZATION AT MAITRI\nAND ENVIRONS AT ANTARCTICA\nDURING XVII ISAE\nM.P.Ramesh &  I Rajashekar\nNational Aerospace Laboratories, Bangalore\nIntroduction\nWind Energy Group of National Aerospace Laboratories had\ninitiated the Wind Energy  Activities during XVI Indian Antarctica\nExpedition. The main objective of the programme was to determine\nthe wind energy potential in Antarctica and to formulate an overall\nWind Energy Utilization plan for Indian Antarctic Scientific\nProgramme. During XVI expedition the wind monitoring station\nwas installed and commissioned. Wind data has been collected in\nthree levels. Further a study of terrain features, energy loading\npatterns and infrastructure available at Maitri was carried out.\nBased on the above studies a two pronged strategy to\neffectively implement a Wind Energy Program for Indian Station at\nAntarctica was initiated. In the  continuation of this programme Shri\nI.Rajashekar from National Aerospace Laboratories was d eputed to\nAntarctica during XVII expedition to carry out the following\nactivities:\n1. Installation of Wind Powered Battery Chargers\n2. Trial pile foundation test for large windmills to be\ninstalled in future\n3. Recommissioning of wind monitoring station at\nMaitri\n262 M.P.Ramesh & 1 Rajashekar \nInstallation of Wind Powered Battery Chargers\nTwo small wind powered battery chargers were to be tested\nin this expedition to gain operational experience and study the\napplicability of wind power in areas such as communication and\nlogistics as well as to pr ovide standby power to scientific equipment.\nIn Antarctica communication between Maitri, Ship and\nHelicopter is carried out by VHF communication. A VHF repeater\nstation located at Vittiah Peak requires 12V Battery power supply.\nDue to low temperatures and active use of the repeater, the\nbatteries have excessive self discharge. During blizzards and other\ncritical periods when communication is very important, a discharged\nbattery powering the repeater station can cause considerable\ndifficulties.\nTo over come this, discharged batteries were replaced very\noften resulting in loss of many hours of work and effort as this had\nto be carried out nearly every day.\nTherefore a 12V,72 W rated wind battery charger was\ninstalled at the Vittiah peak. Subsequent to that, the need to bring\ndischarged batteries to Maitri was reduced to bare minimum.\nPhotograph in Figure 1 shows the installation at Vittiah peak.\nThe Automotive Workshop is at considerable dis tance from\nthe Maitri generators. Therefore, ther e is a separate 30 KVA\nalternator installed at the workshop. The workshop  generator is kept\nworking for shorter intervals of time and is used to charge batteries\nof snow vehicles apart from other loads. Due to low temperatures and\nintermittent use, the batteries used to start the generator itself needs\nto be charge d frequently. A portable generator had to  be kept in\nreadiness for this work. It was then decided that one wind powered\nbattery charger should be installed at the automotive workshop and\nthe output be used for charging diesel generator starter battery. The\nmachine would also charge the batteries of snow vehicles as and when\nrequired. This res ults in a great saving of fuel as even for this\npurpose the generator had to be kept working.\nThe installation was accordingly carried out. The need to\nWinde Energy Utilization at Maitri  263\ncharge the batteries for diesel engine starter was no longer an\nadditional burden. Further there was no need to keep the 30 kW\ngenerator working when only electrical power requirement for\ncharging batteries of snow vehicles. Fig. 2 shows the installation\nnext to the automotive workshop.\nBoth installations have proved beyond doubt the usefulness of\nthe machines. The machine at Vittiah peak was dismantled at the end\nof summer season. The machine at Automotive workshop was kept\nfunctional.\nTrial Foundation\nNAL is presently discussing with the Dept. of Ocean\nDevelopment the possibilities of installing a 10 to 20 kW wind\nelectric generator at Maitri. Wind turbines require a very sound\nfoundation. Towards this end, a number of alternatives were\nconsidered. The soil conditions in the Shirmacher hill range is such\nthat casting of normal foundations can be an expensive and difficult\nexercise. In order to keep this under control a version of pile\nfoundation was to be tested.\nThe idea is to drill a series of holes in an array on a fairly\nbig sized rock close by to the station. In these holes a snugly fitting\nrod would be inserted and fixed. The rods are to be integrated by\nchannels or other structural members. This would then be used for\nsupporting the wind mill tower.\nTwo methods for fixing foundation bolts were proposed.\nFirst one was to drill 34 mm diameter hole to a depth of 2 m. Into\nthe hole steel rod is inserted after filling the hole with a l",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "5]Engineering And Communication",
+    "subcategory": "Wind energy utilization at Maitri and environs at Antarctica during XVII ISAE",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:30.695336Z"
+  }
+}

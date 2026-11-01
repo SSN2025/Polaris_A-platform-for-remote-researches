@@ -1,0 +1,72 @@
+{
+  "id": "chapter_3",
+  "document_id": "NCPOR-D1B878",
+  "source_file": "Chapter+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1016/1/Chapter+3.pdf",
+  "bibliographic": {
+    "title": "Chapter+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 299-319\nLogistic Report\nLt. Col. Janardhan Rao\nIndian Army (EME)\nLogistics is an important constituent of any expedition. It is not \npossible to survive long in the most hostile environment of Antarctic without \nany support which is needed for survival. Indian Army team made the core \nof the logistics of the Indian research base in Antarctica. The logistics \nteam in the present Expedition comprised of total 13 members from the \nIndian Anny consisting of one officer each from Electrical and Mechanical \nEngineers (EME) and Engineers (Engrs.) with seven other ranks from EME \nand three from Engrs. One Mason from Engrs was also part of summer \ncomponent. The Officer in-charge of the Army team was overall responsible \nfor the Logistics and was declared the Deputy leader of the Expedition at \nMaitri.\nDuring the voyage, the complete expedition cargo was inspected and \nreorganized to suit the logistic plan. The induction of the team into Maitri \nwas planned in phased manner over a period of 5 days. Soon, the summer \nactivities commenced.\nImmediately after reaching Antarctic shelf the schedule of shifting \nthe expedition team members to Maitri station by Helicopters was carried \nout. In the initial sorties, scientists and their equipments were shifted for \nstarting the short summer expedition to carry out various scientific activities.\nSince fuel and construction stores were required on priority, the team \nconcentrated on the tasks of making the newly inducted Canadian trailers, \nPisten Bulley (PB) - 300 vehicles and Mantis Crane operational. Pumping \nof fuel from ship into storage tankers at the shelf and necessary stores were \nstacked into containers. At the shelf itself an Automatic Weather Station \n(AWS) of SASE was established.\nAt Maitri, handing and taking over of all stores, equipment and vehicles \nwas carried out. The team got acquainted with life support systems including \ncentral heating system, water supply and power generation. Training on all\n\n300 Lt. Col. Janardhan Rao\nvehicles/equipment and introductory convoy exercises was given by \nXXIV-ISEA members.\nThe main tasks which the logistics team was assigned immediately \nafter reaching Antarctica were as under: -\n(1) Cargo handling operations involved loading/unloading operations from \nthe ship involving unloading of 25 Container loads, 02 Half bins, one \nnew vehicle-Pisten Bully 300 MB, one Mantis crane and pumping of \n300 K1 fuel from the ship and back loading into the ship 12 containers \nplaced at the shelf by the previous expedition. Overnight unloading/ \nloading of cargo from the ship to the shelf and vice-versa under very \nunfavorable conditions with winds at 40 knots, to meet the deadline in \nprevailing conditions.\n(2) Shifting of stores and fuel from the ship to the station: All the stores \nwere properly stacked in to the container and the fuel into the 20 K1 \nfuel tankers. The stores and fuel are transported on trailers/sledges \ntowed by Pisten Bully vehicles from the Continental ice shelf to the \nstation over a distance of 130 kms through one of the roughest and \nundulating icy terrain under extreme conditions of flesh freezing \ntemperatures, gusting winds and blizzard weather conditions. Planning \nand execution of convoys which was a herculean task involving lot of \ncourage. Total 13 convoys were made during the expedition out of \nwhich llwere mainly for transportation of fuel and essential stores, \nback loading of scrap and waste between Shelf and Maitri. Two \nconvoys were made purely for scientific programs such as establishment \nand operation of ice core drilling camps far away from the station on \nthe icy white desert. As convoys form an important part of the \nexpedition and provide a totally different aspect of the expedition full \nof adventure, they have been separately described under the heading \n‘CONVOYS’.\n(3) Maintenance of the station involved operation of various life support \nsystems, waste management system and environmental cleanliness. \nSome of the tasks are:-\n(i) Operation and Maintenance of station power generation \ncomplex. The station is equipped with a total of 12 generating \nsets of which 2 x 125 KVA generators and remaining are 08 x \n62.5 KVA generators for the station and 02x30 KVA generators\n\nLogisics Report 301\nfor convoys and field camps, all with a 3 phase 415 V, 50 Hz \nsupply. At any point of time two generators are in operation to \nprovide the required power supply. Any generator is put through \na 100 hour continuous running cycle. A regular Maintenance of \nthe machines is carried out after each cycle. A regular \nmaintenance of the machines is carried out after each cycle. A \ndedicated member from the army team is deputed to maintain \nthe generators round the clock.\n(ii) Operation and Maintenance of Central Heating System: The \ntemperatures in Antarctic range from as low as -40°C during \nwinters and as hig",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 21
+  },
+  "taxonomy": {
+    "category": "6] Engineering And Logistics",
+    "subcategory": "Logistic Report",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:59:45.767467Z"
+  }
+}

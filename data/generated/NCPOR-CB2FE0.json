@@ -1,0 +1,83 @@
+{
+  "id": "environmental-monitoring-studies-at-bharati-i-ncpor-cb2fe0",
+  "document_id": "NCPOR-CB2FE0",
+  "source_file": "157-170.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1213/1/157-170.pdf",
+  "title": "Environmental Monitoring Studies at Bharati Island, Larsemann Hills over East Antarctica during XXIX ISEA",
+  "year": 2010,
+  "expedition": "29th Indian Antarctic Expedition",
+  "category": "Environmental Science",
+  "subcategory": "Environmental Monitoring Studies at Bharati Island, Larsemann Hills over East Antarctica during XXIX ISEA",
+  "bibliographic": {
+    "title": "Environmental Monitoring Studies at Bharati Island, Larsemann Hills over East Antarctica during XXIX ISEA",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "29th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2010,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 29th Indian Antarctic Expedition examines key environmental science phenomena in polar terrain around Bharati and Larsemann Hills. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Bharati",
+      "Larsemann Hills"
+    ],
+    "research_sites": [
+      "Bharati",
+      "Larsemann Hills"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "Environmental Science",
+    "subcategory": "Environmental Monitoring Studies at Bharati Island, Larsemann Hills over East Antarctica during XXIX ISEA",
+    "tags": [
+      "environmental-science",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Environmental Science discoveries from 29th Indian Antarctic Expedition: \"Environmental Monitoring Studies at Bharati Island, Larsemann Hills over East Antarctica during XXIX ISEA\". Learn how Indian scientists studied Bharati on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Environmental Science based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:09:46.753493Z"
+  }
+}

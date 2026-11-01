@@ -1,0 +1,72 @@
+{
+  "id": "article_3",
+  "document_id": "NCPOR-04451C",
+  "source_file": "ARTICLE+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/447/3/ARTICLE+3.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. I3, pp 39-62 \nMETEOROLOGICAL STUDIES CARRIED OUT\nDURING THE 15th INDIAN SCIENTIFIC\nEXPEDITION TO ANTARCTICA, 1996\nA.S. Rasal and D.R. Mahor\nIndia Meteorological Department\nAbstract\nAntarctica, the World's largest, coldest and driest continent ringed by ocean with\nunpredictable extreme weather conditions makes this region a challenging area of meteor-\nologists to study and predict the weather of this region. With this aim the meteorological\nprogramme of the 15th Antarctic expedition was planned and carried out by the I.M.D.-team.\nMeteorological data of different meteorological parameters such as temperature, pressure,\nwind speed and direction, total global solar radiation and surface ozone was continuously\nrecorded throughout the year with the help of autographic recorders. Three hourly synoptic\nobservations were recorded and real-time transmission of main synoptic messages were\nmade on GTS (4 times a day) for use of the forecasters all over the world. Data collected\nduring 1996 of different meteorological parameters gives these extreme values : lowest\nminimum temperature -30.1 °C (in May), highest maximum temperature 12.2°C (in January),\nhighest pressure 1014.0 hpa, lowest pressure 951.5 hpa, wind speed 68 kts, gasting to 112\nkts, no. of blizzards 45. In addition to synoptic observations, 51 ozonesonde ascents were\ntaken during the year to study the vertical distribution of atmospheric ozone and depletion\nof stratospheric ozone during winter period. Large scale depletion in the stratospheric ozone\namount during September and October have been noticed. For earth radiation budget study,\ndirect radiation observations were recorded, which were supplemented by 17 Radiometer\nsonde ascents, indicating December as the month of intense radiation than other summer\nmonths. Turbidity observations were taken during Sunshine period for aerosol study. Daily\nreception of cloud imageries was done through polar orbiting satellite and weather charts\nfrom Pretoria (South Africa) were received through Radio-Facsimile which were utilised\nfor giving daily weather forecasts for the station. Aurora activity was prominent during the\nmonth of March. Work of balloon filling shed was nearly completed during this expedition\nperiod.\nIntroduction\nAntarctica, the \"Frozen Continent\", has 98% of its total area covered  with\nice. The ice sheet contains about 90% of the world's ice and 68% of world's\n40 A.S. Rasal & D R. Mahor\nfresh water. The average thickness of the ice is 2.45 km and the maximum\nthickness is approximately 4.8 km at some places. Apart from these, it is world's\nwindiest and extremely cold continent and is also known as \"Home of Bliz-\nzards\". The continent and surrounding seas provide vast natural laboratories\nwith pollution free atmosphere for observing and measuring various natural\nweather phenomena. Considering these aspects, as well as its special physical\ncharacteristics and geographical position, this region is uniquely placed for a \nwide range of scientific research. It is one of the most important climate-regimes\nwith a potential to influence long term global climatic patterns.\nMeteorological Programme\nWith a view to study the effects of Antarctic climate especially over the\nIndian monsoon, India Meteorological Department is continuously participat-\ning in the Indian scientific expeditions to Antarctica. Daily synoptic observa-\ntions recorded at Indian Antarctic Station, Maitri, enter into the global data\nnetwork which contributes to the international effects for weather forecasting.\nTime series analysis of multi-year weather records from Antarctic stations gives\nus valuable clues for long range forecasts of monsoon. But to arrive at a general\nconclusion at least 10 years' data of the region is essential and to get a deeper\nknowledge of the climate pattern of the area at least 30 years' data of the region\nis needed. So a substantial database is required to arrive at definite conclusion.\nAntarctica's land surface characteristics.and insulation features critically influ-\nence the energy budget of the globe which in turn controls the climate. This\nfact necessitated radiation observations, both at the surface and in the upper\natmosphere, to be included regularly in meteorological programme. These\nobservations will form the basic inputs for the studies related to interaction of\nsolar radiation with clouds, snow and ice surfaces. Stratospheric ozone meas-\nurements have been included since 1986 in IMD's programme to provide up to\ndate information on \"ozone-hole phenomena\". Measurement of vertical ozone\ndistribution by IMD has confirmed that the ozone-hole at south pole has been\nintensifying in time and space since 1987. The ozone density between 100 hpa\nto 30 hpa has shown pronounced decrease with ozone values between 80 to 50\nhpa becoming nearly zero. This is the region of highest ozone concentration",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 24
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Meteorological Studies Carried Out during the 15th Indian Scientific Expedition to Antarctica, 1996",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:36.915063Z"
+  }
+}

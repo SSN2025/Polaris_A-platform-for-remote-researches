@@ -1,0 +1,72 @@
+{
+  "id": "article_7",
+  "document_id": "NCPOR-C920B2",
+  "source_file": "ARTICLE+7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/413/3/ARTICLE+7.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+7",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antartica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 71-91 \nReport  on  the  Scientific Activities under  the  'Optical\nAeronomy'  Programme  carried  out  during  the\nXIV Scientific Expedition  (summer  component)\nR. SRIDHARAN, D. PALLAM RAJU, N.K. MODI and R. NARAYANAN\nPhysical Research Laboratory\nAhmedabad 380 009, India\nObjective of the Programme\nTo conduct an exploratory study of—(1) monitoring th e auroral emissions\nduring sunlit conditions from Maitri, which is classified as a subauroral station;\n(2) studying the spatial  variations of the different auroral emissions excited by\nhigh energy and low energy electrons and protons by scanning the region of\nemission; and (3 ) establishing the relative contributions under varying geo-\nphysical conditions, with a view to  eventually study the fundamental auroral\nprocesses during daytime conditions from the solar terrestrial physics point of\nview.\nIntroduction\nThe above exploratory study is the first of its kind in the world and has\nbeen successfully carried out using a unique, indigenously built multiwav-\nelength daytime photometer. The development of an instrument of this type\nitself is a technological breakthrough and the details were provided during the\nXIII expedition report.\nInteresting results indicating significant particle precipitation activities in\na narrow latitudinal region over and around M aitri were discovered an d it was\nconjuetured that as the field lines passing through Maitri, when get mapped to\nthe equatorial plane cut across the plasma pause region, these measurements\nindirectly give us clues to the complex processes that occur in the boundary\nbetween the plasmasphere  and magnetosphere.\nThe strategies for the XIV expedition were worked out based on the initial\nresults and it was decided to include northward looking scans to separate out\nthe regions of enhanced activity. Only five full days of clear  sky conditions\n72 R. Sridharan et al. \nprevailed during the total period of 2 months and even then only on one day\nnorthward scans were possible.\nVery interesting results revealed that the actual region of auroral activity\nlies around 57-59° invariant latitude which is ~ 3°- 5° north of Maitri. The\nactivities noticed during the XIII expedition were corresponding to only one\nwing of the precipitation pattern. The region of deposition extended to >4° in\nlatitude. Incidentally the field lines get mapped exactly to the plasmapause\nregion at the times of enhanced activity. There must be certain acceleration\nmechanism which manifests itself as enhanced particle precipitation and the\neventual auroral emissions, A brief account of the results from the XIV\nexpedition with due comparison with the XIII expedition is provided as under:\nMode of Operation\nThe results obtained for the months of January-February 1994 and 1995\nare presented here. The emissions at which observations were made are OI\n557.7 nm, N\n+\n2\nlNG  band emission at 391.4,427.8 and 470,9 nm and Hβ 486.1\nnm. OI 557.7 nm emissions (O(\n1\ns) state) requires 4.17 eV of energy if excited\nfrom O(\n3\nP) state or 9.29 eV if excited from O\n2\n(X\n3\n-\ng) (dissociation energy\nfor O\n2\n being 5.12 eV) while on the other hand, N\n+\n2\nlNG state (B\n2\n +\ng\n) requires\n18.7 eV if excited from N\n2\n(X\n1\n +\ng). The excitation in auroral region is mostly\nby the incident energetic particles, in this case the solar  wind electrons and\nprotons. Hence, we treat the O(\n 1\nS) emission as low-energy electron induced\nand N\n+\n2\nlNG emissions as  (relatively) high-energy electron induced ones.\nMaitri (70°45'S; 11° 38'E) is generally considered to be a sub-auroral station.\nHowever the region is sunlit for most part of the day with Sun reaching a \nmaximum angle of elevation of ~ 45° during the months of December and\nJanuary.\nObservations were carried out in meridional scanning mode covering a \nregion towards south of Maitri (62.8° I- geomag. lat.) during the XIII expedi-\ntion. The mirror elevation angle was changed in a programmed manner, starting\nfrom sky elevation angle of 10 to 50 degrees in steps of 10 degrees and  later\nthe photometer was pointed towards zenith. Data were collected from all the\nthree filters at a given elevation angle within a duration of half a minute. With\na knowledge of the altitude of  these emissions and also the coordinates of the\nstation, these elevation angles were translated into magnetic latitudes. Round-\nthe-clock observations have been made for more than eleven clear cloudless\ndays in 1994 and live days in 1995 during a onc-and-a-half month campaign\neach. The result s are presented below:\nScientific Activities under Optical Aeronomy Programme 73\nLow-energy Electron Induced Emission\nO(\n1\n S) 557.7 urn e mission is known to be one of the strongest features of\nthe nighttime aurora (Chamberlain, 1961). In  the high-latitude region dissocia-\ntive recombination of O\n+\n2\n with electrons is treated to be the mechanism of\n",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 21
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Report on the Scientific Activities under Optical Aeronomy Programme Carried out during the XIV Scientific Expedition (summer component)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:54.091204Z"
+  }
+}

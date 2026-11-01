@@ -1,0 +1,72 @@
+{
+  "id": "article_12",
+  "document_id": "NCPOR-429817",
+  "source_file": "ARTICLE+12.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/176/3/ARTICLE+12.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+12",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Icebergs are one of the most  important physical forms of ice ar ound the Antarctic continent. Dur\ning the present expedition the appearance of  solid icebergs was noticed at 59'S latitude. Onwards from\nthis spot continuous occurrence of icebergs was logge d and several distinctive physical forms of bergs\nwere identified.\nFor detailed examin ation of the iceberg the authors landed on an iceberg on 10 1 1983 which was\nadrift at a location fixed as 59 053'l2\" S latitude and 11 046'18 ' E longitude A sh allow borehole was\ndrilled by a portable power driven machine and a c omplete core was obtained upto a depth of 4 62 m \nPhysical appearance location and nature of stratification indicate that this iceberg has been generated\nby calving of the main shelf of the Princess Astrid Coast.\nINTRODUCTION\nIcebergs are one of the most important physical forms of ice around the Antarctic continent\nBefore encountering the bergs, small floes of ice drifting in waters around 55 to 58 0S latitude are\nnoticed. These floes are remnants of the icebergs that have disintegrated and diminished in size\nwhile floating northwards. First appearance of a solid iceberg was noticed at 59 0S latitude South of\nthis spot, continuous occurrence of icebergs is witnessed. Before entrance to polynya, near the\nshores of Antarctica, scattered icebergs are present, while within the polynya there are clusters of\nicebergs. Nearing the coastline of Antarctica icebergs stranded within the pack ice were noticed\nWhen aligned, the latter give fro m a distance a deceptive appearance of coastline.\nPHYSICAL CHARACTERS\nThe icebergs that were encountered during the cruise to the base camp were of different shapes\nand morphological characters, showing evidences of wasting by weathering and destructive wave\nactions. Antarctic bergs of various dimensions measurable from 30 to 50 km in length have been\nreported. The ones which the authors observed did not exceed 4 km in length about 100 m in height.\nDifferent icebergs showed evidence of different origin, some derived from shelf ice and others from\nglacier tongues. Several distinctive physical forms of icebergs that were encountered are described\nbelow.\nTabular icebergs  These are the most dominant type and are  characterised by flat top and\nvertical faces Rectangular in shape, they give a fascinating reflection whe n resting in polynya\nwithout wave disturbance (Fig 1) . Two types of these bergs were noticed in the antarctic waters. One\ntype lacked stron g stratification, appearing as a homogenous white 'island' within the water. It\nshowed a strong white lustre under sunlight. The other type showed discernible stratification with\nalternating bands of blue or green and white colour, occasionally showing white coloured dirty\nlayers. The former type appears to have originated from an ice-shelf and the latter type from the\nglacier-tongues reaching the sea.\n87\nM.K. Kaul, S.K. Chakraborty and V.K. Raina\nGeological Survey of India \nABSTRACT\nIceberg  Studies  in  Antarctic  Waters\nIceberg Studies\nTilted iceberg Wave action and wind may  result in calving and wasting away of a portion of the\niceberg. This disturbs the equilibnum of the iceberg and results in its tilting (Fig 2) and sometimes\neven overturning. Such bergs bearing a tilted and hummocky surface and bearing furrows and ribs\non the sides were noticed at many places. Obviously the ice strata of these bergs dip one or the other\nway. The water line is characterised by caves and spurs.\nWeathered icebergs  These bergs are in an advanced state of desiccation and are deeply\nfurrowed by crevasses or water channels formed in course of drifting towards the lower latitudes.\nThey generally occur in isolation and keep on drifting.\nFig. 2. Photograph showing tilted iceberg \nFig.1. Photograph showing tabular iceberg. \n88\nKaul, Chakraborty & Rama\nStranded icebergs Within the pack-ice an iceberg may get more or less immobilised because of\nrestricted movement. Various icebergs were observed to  be held in position within the dense pack\nice.\nDRILLING OF ICEBERG\nOn 10th January, 1983, the authors landed on an iceberg in Antarctic waters, the position of\nwhich at that time was 59 053'12\"S and 11046'8\"E (Fig 3), about 12 km north-west of the Base camp on\nthe shelf. The iceberg measured 4 km by 3 km and 80 m above the water level, as computed from\nsextant observation from the ship which was anchored in the Vicinity.\nThe vertical faces of the iceberg showed a dull stratigraphic banding. Wave action had cut\nchannels and caves. The dripping water formed long icicles. The upper most part of its northwesterly\nface showed a cornice-type projection, probably as a result of the prevailing wind.\nThe iceberg showed a nearly horizontal surface, disturbed to some extent by small humps or\nlong but shallow cracks. The entire surface was replete with  small cusps giving it a pitted appearance\nOn the surface, the ice was soft and crunchy and the  leg would sink knee deep.\nThe wind, which blew easterly, ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "4]Glaciology",
+    "subcategory": "Iceberg studies in Antarctic Waters",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:22.592604Z"
+  }
+}

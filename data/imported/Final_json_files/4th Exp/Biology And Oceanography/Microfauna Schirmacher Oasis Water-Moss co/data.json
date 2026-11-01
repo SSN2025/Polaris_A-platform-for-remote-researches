@@ -1,0 +1,72 @@
+{
+  "id": "article_9",
+  "document_id": "NCPOR-F0E638",
+  "source_file": "ARTICLE+9.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/239/3/ARTICLE+9.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+9",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Microfauna of Schirmacher Oasis, Antarctica:\nI. Water-Moss Communities\nB.S. Ingole and A.H. Parulekar\nNational Institute of Oceanography, Dona Paula, Goa 403 004 \nABSTRACT\nTen limnetic lakes at Schirmacher Oasis, Antarctica were surveyed during the austral summer (Jan-\nFeb. 1985). Distribution and abundance of microfauna with the associated algal and moss communities\nwere studied. Population density and biomass were greater in the sediment covered with moss turf. The\nfauna was mainly comprised of seven taxonomic groups, dominated by nematodes (22.13%), followed by\nprotozoans (19.77%), turbellarians (15.47%) and tardigrades (09.23%). Other faunal components were\noligochaetes (01.38%), rotifers (00.94%) and acarides (00.71%). Numerous invertebrate cysts were also\nrecorded (27.27%) in all the samples. The maximum faunal density of 304 numbers/10 cm2 and mini-\nmum of 45 numbers/10 cm 2 (x = 95.4) were recorded in the moss turf and moss carpet respectively.\nAlgal communities associated with microfauna were belonging to the genus Oscillatoria, Synechocystis,\nDesmidium and Choococcus of the blue-green algae. Estimated faunal standing crop seem to be related to\nthe sediment characteristics.\nINTRODUCTION\nThe freshwater lakes of Antarctica represent a biological integration of particularly attractive\necological units for basic study (Priddle and Heywood, 1980). Being mostly isolated, unaltered,\nunpolluted and despite of the hazardous climatic conditions, such polar ecosystems have been inves-\ntigated by many workers. Available information indicates that major emphasis has so far been placed\non their territorial environments (Strong, 1967; Smith, 1978; Jenning, 1979; Maslen, 1980 and Block,\n1984). Consequently, information about the faunistic aspects on the limnetic and glacial biotopes is\nrather insufficient to permit any general interpretation.\nAlthough the Schirmacher Oasis was discovered in 1938-39 by an earlier German Expedition,\n(Die Deutsche Anterctische expedition, 1942) the published records of ecological aspect are very\nfew. The earliest account is by Bardin and Leflat (1965) on the chemical characteristics, followed by\nKomarker and Ruzickal (1966) on the algal production in an ice covered lake. The present investiga-\ntions were carried out during the austral summer of 1984-85 and the microfaunal components of the\nfreshwater habitat in relation to the environmental oscillations have been reported here. Faunal dis-\ntribution, relative abundance and standing crop were studied and an attempt has been made to com-\npare and discuss the data with the pubhshed information from comparable ecosystems of the other\nregions.\nMATERIAL AND METHODS\nStudy area: The Schirmacher Oasis, forming a part of Dronning Maud Land, is about 70 km\nsouth of the Princess Astrid coast of Antarctica (Lat. 70°43' to 70°77'S; Long. 11°22' to 11°55'E). It\ncovers an area of about 72 km2 (Fig. 1) of which about 3% is always free from snow cover. The remain-\ning area, normally covered with some snow, in the winter largely melts off in the summer. This melt-\ned water, along with the melted glacier water get accumulated in the depression between the hills\nforming small pools. About 30 such fresh water ponds or pools exist in the Schirmacher Oasis. These\nsmall lakes were visited twice (on 21 Jan. and 23 Feb. 1985) during the 4th Indian Scientific Expedi-\ntion to Antarctica (1984-85) and the material for present study was collected from 10 different lakes\nof the Schirmacher Oasis.\n139\nMicrofauna of Schirmacher Oasis \nFig.1. Study area showing the observation points (L-1 to L-10 in Table I) in Schirmacher Oasis, Antarctica.\nMicrofauna samples were collected from the periphery of all the ten lakes using a hand plastic\ncorer (10 cm length; 4.5 cm  inner diameter). Duplicate samples, upto 6 cm sediment depth, were\nfixed in 4% formaldehyde solution to which 1% rose-bengal solution was added. Samples were also\ncollected separately from each site for the determination of organic content and particle size analysis.\nDissolved oxygen in the overlying water was measured following the method of Strickland and Par-\nsons (1968). A systronic digital pH meter (Model, 333) was used to measure the hydrogen ion con-\ncentration. Temperatures (air, water and sediment) and sediment types were recorded during the\nsampling time.\nFaunal samples were washed through 500 mm and 0.063 mm sieves in filtered freshwater on\nboard M.V. Finnpolaris and the contents of the 0.063 mm sieve were then preserved in 4% buffered\nfbrmaldehyde solution. All animals were sorted, counted and identified to the possible taxon under a \nProjectina microscope. Biomass (dry weight) of nematodes, turbellarians, tardigrades, oligochaetes\nand acarides was determined according to the method given by Dye and Furstenberg (1977) and dry\nmass of protozoans (ciliates), rotifers and cysts (resting eggs) was calculated following the method of\nSarojini and Nagbhushanam (1967). Particle size analysis of the sedime",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "4]Biology And Oceanography",
+    "subcategory": "Microfauna of Schirmacher Oasis, Antarctica—I_ Water-Moss communities",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:37.161039Z"
+  }
+}

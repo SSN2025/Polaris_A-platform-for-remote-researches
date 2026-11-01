@@ -1,0 +1,81 @@
+{
+  "id": "document-control-data-sheet-ncpor-ed3fac",
+  "document_id": "NCPOR-ED3FAC",
+  "source_file": "T.+P.+No.+20+.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/931/1/T.+P.+No.+20+.pdf",
+  "title": "Document Control Data Sheet",
+  "year": 2008,
+  "expedition": "22nd Indian Antarctic Expedition",
+  "category": "Other",
+  "subcategory": "Control Data",
+  "bibliographic": {
+    "title": "Document Control Data Sheet",
+    "authors": [
+      {
+        "name": "NCPOR Research Team",
+        "affiliation": "National Centre for Polar and Ocean Research"
+      }
+    ],
+    "expedition": "22nd Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2008,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "Document Control Data Sheet\nRR No. 20\nSl. No\n1 \nName of the institute \nNational Centre for Antarctic &  Ocean\nResearch\n2 \nDocument number \nNCAOR RR. No.-20\n3 \nDate of publication \n2008\n4 \nTitle of the document \nScientific Report of Twenty Second Indian\nExpedition to Antarctica\n5 \nType of Document* \nRR\n6 \nNo. of pages & \nfigures\nxix, 260pgs\n7 \nNumber of\nReferences\n-\n8 \nAuthor (s) \nMembers of Expedition No. 22nd, RR No. 20\nEdited by-Arun Hanchinal, Maitri- Antarctica\n9 \nOriginating Unit \nNCAOR, Project (A\nntarctic Science)\n10 \nAbstract (100 words) \nThis Scientific Publication consists of various\nArticles from different disciplines of Polar\nScience. The data used for the report was\ncollected during the Twenty \nSecond\n Indian\nScientific Expedition to Antarctica\n.\n11 \nKey words \nAtmospheric Science, Earth Sciences,\nGlaciology &  Global Change, Biology & \nEnvironmental Conservation.\n12 \nSecurity\nclassification\nOpen\n13 \nDistribution \nUnrestricted",
+    "summary": "This investigation conducted during the 22nd Indian Antarctic Expedition examines key other phenomena in polar terrain around Maitri. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 1
+  },
+  "taxonomy": {
+    "category": "Other",
+    "subcategory": "Control Data",
+    "tags": [
+      "other",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Other discoveries from 22nd Indian Antarctic Expedition: \"Document Control Data Sheet\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Other based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:36.000809Z"
+  }
+}

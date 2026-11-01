@@ -1,0 +1,72 @@
+{
+  "id": "article_15",
+  "document_id": "NCPOR-D2F0A1",
+  "source_file": "ARTICLE+15.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/179/3/ARTICLE+15.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+15",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Stratigraphic  Studies  of  Antarctic  Ice\nM.K.  Kaul, S.K. Chakraborty and V.K. Raina\nGeological Survey of India \nABSTRACT\nFor the stratigraphic studies of Antarctic ice which has an accumulation record of thousands of \nyears various methods were attempted viz (i) direct measurement through a network of stakes (i) dif \nferentiation of accumulated layers through difference in stratigraphic character (m) establishment of \nreference horizon through radioactivefall out and (iv) the O\n 8/O6 and D/H values of thee deposited snow \nand ice. \nOn the basis of stratigraphic and physical characters Antarctica ice core study revealed two cate\ngones ( i) ice or depth hoar which shows  compaction larger crystal grains greater hardness and dull grey\nto green colour and ( ii) firn which is less compact with smaller grain size and white to off white colour\nIn addition to these major stratigraphic layers 1.5 cm thic sandy layer about 36 cm below the ice surface\nwas also accorded in one bore hole.\nINTRODUCTION\nI our methods were applied to calculate the rate of accumulation and age of the ice in various\nsector of Antarctica ( i) direct measurement through a network of stakes ( ii) differentiation of\naccumulated layers through difference in stratigraphic character, ( iii) establishment of a reference\nhorizon through radioactive fallout (artificial activity measurement) (In case of Antarctica 1954 or\nearly 1955) and ( iv). The O  8/O ratio of the deposited snow, giving the temperature at which snow has\nformed and  thus delineating summer and winter layers.\nIt was possible  to probe only a few meters of the surface of this ice cover\nSAMPLING\nIce samples were collected with the help of CRREL machine which had the capacity of drilling\nup to a depth of 7 m Five  bore holes were made-four on the ice shelf and one on the inland polar ice\n(Fig 1) and ice core examined Ice core collected from drill site was carried to India in a frozen state\nand delivered to the Physical Research Laboratory, Ahmedabad for radioactive fallout measurement\nand determination of O  18 /O6.\nIce core melt samples of each bore hole were also brought to India for O 8/O6 studies .These\nsamples were collected in such a way as to represent various  sections depthwise, along each bore\nhole.\nSTRATIGRAPHIC PROFILE\nThe Antarctic ice shows distinct stratigraphic characters each layer being characterized by\ndifferent physical characters such as coarseness hardness compaction etc. The layers showing\ngreater compaction, larger crystal grains, greater hardness and dull grey to green colour constitute\n99\nStratigraphic Studies of Antarctic Ice\nFig 1 Location of ice drilling and sa mpling sites\nTABLE I \nThe data pertaining to cores from drill sites \n(Also shown in the Figs 2 to 6) \nDrill\nSite\n1\n2\n3\n4\n5\nThickness of\ncore\n5 20 m \n5 62 m \n5 65 m \n3 00 m \n160 m \nNo of layers\n10\n13\n5\n21\n6\nThickness of ice\nlayers\n5 20 cm\n2 30 cm\n2 5 cm\n2 25 cm\n0 5 21 cm\nThickness of firn\nlayers\n3 12 5 cm\n2 120 cm\n45 285 cm\n1 18 cm\n-\nLocation\non shelf ice\non shelf ice\non shelf ice\non shelf ice to i nland\npolar ice\ninland polar ice\n100\nKaul, Chakraborty & Raina\nthe ice or depth hoar and the ones showing lesser compaction, smaller grains and white to off-\nwhite colour form the firn. In each core length various zones of either of these two types have been\ndepicted, as shown in Figs 2 to 6. The number of layers encountered in each bore hole and their\nthickness have been tabulated in Table I.\nA very interesting feature in the stratigraphic profile of core from drill site 5 was the occurrence\nof a 1.5 cm thick sandy layer about 36 cm below the ice surface. The intervening firn layers which are\nclosely foliated range in thickness from 1 to 30 cm.\nThe variation in  the density values of the ice core in all the five bore holes has been depicted in\nTable II.\n101\nFig. 2 Stratigraphic and density\nprofile of Antarctic ice at Drill\nsite 1 \nFig 3  Stratigraphic and density\nprofile of Antarctic ice at \nDrill site 2 \nFig 4 Stratigraphic and density\nprofile of A ntarctic, ice at Drill\nSite 3 \nCONCLUSIONS\nThe stratigraphy and density profiling shows a marked change in physical properties of the ice\nfrom the shelf onwards to inland polar ice The higher values of density and distinct physical\ncharacters of the ice at bore hole site 4 indicate that this location is the transition /one between the\ninland polar ice and the shelf ice where these two types merge\n102\nStratigraphic Studies of Antirctic Ice\nTABLE II\nIce density determined at various depths in for dull sitt s \nFg 5  Strat graphic and density\nprofle of Antarct c ce\natDr11Ste4\n1g 6  Strat grar phic nd  density profile of Antartt c \nce at Dr 11 Site 5",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "4]Glaciology",
+    "subcategory": "Stratigraphic studies of Antarctic ice",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:19.128870Z"
+  }
+}

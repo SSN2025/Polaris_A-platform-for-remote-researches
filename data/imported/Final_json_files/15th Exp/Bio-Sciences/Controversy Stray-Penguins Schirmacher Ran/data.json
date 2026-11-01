@@ -1,0 +1,72 @@
+{
+  "id": "article_15",
+  "document_id": "NCPOR-730D72",
+  "source_file": "ARTICLE+15.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/459/3/ARTICLE+15.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+15",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 187-191 \nSOME OBSERVATIONS ON THE CONTROVERSY \nOF \"STRAY-PENGUINS\" IN SCHIRMACHER RANGE \nAREA \nArun Chaturvedi1 and Dr A.C.P. Tripathi2 \n1Geological Survey of India, 2Indo-Tibetan Border Police \nBackground \nStarting from October every year, and especially in November- December, \nmany Adelie penguins are seen in Schirmacher range. Most of the expedition \nmembers consider them as \"stray penguins\", who have lost their bearings and \nare doomed to starve in the barren range. Well-intentioned attempts have been \nreported in some of the previous teams, to \"rescue\" these stray birds and send \nthem back to their natural environment, i.e. near the coastal areas, by helicop­\nters. Though some experts from Wildlife Institute of India did express the \nopinion that these birds may not be the lost ones, but could be seeking breeding \ngrounds in Schirmacher range; yet in the absence of any physical evidence, \neven they had doubts if these penguins could actually nest about 80 km away \nfrom the coast or not. Thus, the controversy remained and most of the expedi-\ntion members tried their best to \"help\" these poor birds. \nObservations \nWith these controversial questions in mind, a watch was kept for penguins \nduring the course of glaciological traverses. Since the end of the polar winter, \nthe authors were alert to record some concrete evidence. In the last week of \nOctober 1996, the first Adelie penguin was sighted near Maitri. After that, in \nthe first week of November 96, groups of 6 to 9 penguins were also observed. \nThese birds were quite fearless and roamed at will around Maitri station (Fig.1). \nAt the time of strong winds, some even took the liberty to enter the generator \nblock, not being bothered about the loud humming of running generators \n(Fig.2). \nOn 17th November 96, two nesting sights of Adelie penguins were ob-\nserved, just about 150 metres west of the station (Fig.3). Within a couple of \nArun Chaturvedi & Dr A.C.P. Tripathi 188 \nFig. 2: Adelie penguin resting inside the generator block, \nsheltered from strong winds \nFig. 1; Adelie penguin in front of the \nmain entrance to Maitri station, seems to \nbe enjoying the \"red carpet welcome\" \nSome Observations on the Controversy of \"Stray-Penguins\" 189 \nFig. 3: Nesting site very close to Maitri station \nFig. 4;A large group of Adelie penguins nesting on Nunatak Veteheia \nFig. 6: An Adelie that persisted too long, provided food for the skuas \nFig.5.By the second week of December, most of the eggs are abandoned \n190 Arun Chaturvedi & Dr A.C.P. Tripathi \nSome Observations on the Controversy of \"Stray-Penguins\" 191 \ndays, five more nests were discovered on Nunatak Veteheia (Fig.4); which is \nabout 90 km away from the coastal zone (latitude 70°47' 06\" S and longitude \n11°38' 57\" E). In some of the nests, there were two eggs. A regular watch was \nkept on these nesting activities. By 12 December 96, most of these nests were \nabandoned (Fig.5), with none of the nesting partners seen around. Most of the \npenguins were seen to have gone towards the shelf, not to come back again. \nHowever, a couple of Adelies persisted in Schirmacher, vainly diving for food \nin the lakes of the Oasis. These ultimately became too weak and were devoured \nby the skuas (Fig.6). \nConclusions \nThe above observations have firmly established that these Adelie penguins \nare neither stray nor lost. These are healthy pairs, who are attracted to the pebbly \ngrounds of Schirmacher range and surrounding Nunataks, seeking the nesting \nsites. However, due to the enormous distance (80 to 90 km) between their \nnesting grounds and feeding sites, none of these attempts are successful. \nUltimately, most of the birds abandon their eggs and some who persist, become \nfood for the skuas. Thus, it is a natural cycle of inter-dependent breeding and \nfeeding of birds, that is going on in Schirmacher range, and humans would be \nwell advised not to interfere in it.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "3]Bio-Sciences",
+    "subcategory": "Some Observations on the Controversy of _Stray-Penguins_ in Schirmacher Range Area",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:44.381240Z"
+  }
+}

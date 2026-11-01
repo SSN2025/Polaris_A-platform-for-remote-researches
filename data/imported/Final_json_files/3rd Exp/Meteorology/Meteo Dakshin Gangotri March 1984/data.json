@@ -1,0 +1,72 @@
+{
+  "id": "article_3",
+  "document_id": "NCPOR-EDD669",
+  "source_file": "ARTICLE+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/204/3/ARTICLE+3.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "49\nMeteorological Studies at Dakshin Gangotri (Antarctica)\nMarch 1984 to February 1985\nThird Indian Expedition to Antarctica, Scientific Report. 1986 \nDepartment of Ocean Development, Technical Publication No 3, pp 49-73 \nS. R. H. Rizvi 1\nABSTRACT\nThe Third Indian Scientific Expedition to Antarctica established a permanent meteorological\nstation at Dakshin Gangotri  to monitor both surface and upper air pa rameters. This report contains\nresults of these observations continuously taken at this station for one year. The variations in\ntemperature wind velocity and atmospheric pressure and their influence on different weather\nsystems are discussed. The low pressure systems moving over and arou nd Antarctica carry warm\nand moist air whereas ridges draw in cold air. Significant fluctuations in temperature pressure\nand wind speed have been noticed in moving weather systems.\nINTRODUCTION\nThe weather of Antarctica influences the global weather to a great extent. The study of meteo-\nrological parameters over Antarctica and their correlation with Indian weather will help in understand-\ning important weather systems. The unique nature of the Antarctic atmosphere, the uniformity of\nphysical structure of snow surface and frequent weather changes are important for the study of meteo-\nrological theories.\nDuring the Third Indian Scientific Expedition which started from Goa on December 3, 1983,\nextensive meteorological measurements were made on board ship, at base camp and also at the perma-\nnent meteorological station which was established at Dakshin Gangotri  on February 24, 1984 as one\nof the objectives of the expedition.\nThe meteorological observatory at Dakshin Gangotri  was installed on an ice-shelf about 20\nkm. from the coast. The thickness of  ice-shelf was estimated between 150 and 200 m. The height\nof the station above mean sea level was about 27 m.\nThe other objectives of the expedition were to take up studies on the following aspects : \n1. Antarctic weather and its effect on lower latitudes of the southern hemisphere\n2. The possible effect of Antarctic weather on weather systems affecting Indian sub-continent like\nthe monsoon system\n3. Radiation balance in Antarctica\n4. Radiation flux in upper atmosphere and heat transfer in various layers over Antarctica\n5. Temperature inversion in lower levels of Antarctica\n6. Thermal structure of Antarctic atmosphere\n7. Atmospheric ozone\n8. Meteorological requirements for aircraft operations in Antarctica\n1India Meteorological Department, Lodi Road, New Delhi.\nMETEOROLOGICAL STUDIES AT DAKSHIN GANGOTRI (ANTARCTICA) MARCH 1984 TO FEBRUARY 1985\nEQUIPMENT USED\nThe following instruments were used at the permanent meteorological station\n1 401-MHz audiomodulated radiosonde ground equipment\n2 Complete wind mast assembly with temperature and humidity sensors anemometer and wind\nvane attached with continuous recording and dial display facility\n3 Barograph and aneroid barometers for measurement of atmospheric pressure\n4 Potential gradient unit for measuring atmospheric electricity\n5 Automatic Picture Transmission (APT) receiver unit to receive cloud pictures from NOAA  and\nMETEOR weather satellites at periodic intervals\n6 Weather facsimile recorder to receive weather charts from various meteorological centres namely\nMolodyozhnaya (USSR station in Antarctica) and Pretoria (South Africa)\n7 Different portable instruments for taking visual observations in the event of power failure\nMEASUREMENTS\n1 Continuous monitoring of all basic surface meteorological parameters (temperature pressure\nwind and humidity)\n2 Three hourly surface observations at synoptic hours\n3 Continuous recording of incoming global solar radiation\n4 Continuous recording of surface ozone (for 2 months)\n5 Upper air radiosonde and radiometersonde observations\n6 Facsimile reception of surface and upper air analysis from Molodyozhnaya and Pretoria\n7 Continuous recording of atmospheric potential gradient during the summer of 1985\n8 Reception of clouds and ice-pictures on  APT unit from  METEOR  and  NOAA  weather satellites\nduring summer of 1985\nRESULTS AND DISCUSSION\nSeasons\nBased on the annual temperature observations, only two seasons can be made out in Antarctica,\nnamely summer and winter. However, due to transition periods between these two main seasons,\none can interpose four seasons each corresponding to the following months\nSummer\nAutumn\nWinter\nSpring\nDecember, January, February\nMarch, April, May\nJune, July, August\nSeptember, October, November\n50\nJanuary, April, July and October can be taken as representative months for the four corres-\nponding seasons.\n_______________________________________________________________________\nS R.H. RIZVI\nTEMPERATURE (°C)\n-10\n-20\n-30\n15\nFig.1\n-10\nTEMPERATURE (°C)\n-20\n-30\n-40\n-50\n1 5\nFig.  2  \nTEMPERATURE (°C )\n-10\n-20\n-30\n15\nFig.  3  \nTEMPERATURE (°C)\n0\n-10\n-20\n1 5\nF i g . 4 \n10 15 2 0 25\n10 15 20 25\nMAXIMUM\nAVERAGE\nMINIMUM\n10 15 20\nMAXIMUM\nAVERAGE\nMINIMUM\n10 15 2 0\nMAXIMUM\nAVERAGE\nMINIMUM\n",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 25
+  },
+  "taxonomy": {
+    "category": "2]Meteorology",
+    "subcategory": "Meteorological Studies at Dakshin Gangotri (Antarctica) March 1984 to February 1985",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:42.485836Z"
+  }
+}

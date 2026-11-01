@@ -1,0 +1,72 @@
+{
+  "id": "cover_pages",
+  "document_id": "NCPOR-E9D04D",
+  "source_file": "cover-pages.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/859/1/cover-pages.pdf",
+  "bibliographic": {
+    "title": "cover-pages",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "22] Scientific Report of Twenty Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SCIENTIFIC REPORT OF \nTWENTY SECOND \nINDIAN ANTARCTIC EXPEDITION \nTECHNICAL PUBLICATION No. 20 \nNATIONAL CENTRE FOR ANTARCTIC & OCEAN RESEARCH \n(MINISTRY OF EARTH SCIENCES) \nHEADLAND SADA, VASCO-DA-GAMA, GOA-403804 \n2008 \n11 \nISBN : 978-81-906526-2-9 \nCompiled & Edited by : Arun Hanchinal \nLeader & Station Commander \nMaitri, Antarctica \nPrinted at : National Institute of Science Communication and \nInformation Resources, C.S.I.R. \nDr. K.S. Krishnan Marg, New Delhi-110 012 \nYours sincerely \n(MUKLIMANOHAR JOSHI) \nDr. Arun Hanchinal \nStation Commander and \nall the members of XX wintering \nteam \"Maitri\" \nVll \nMESSAGE \nMy dear friends, \nYou all are warmly remembered on the Mid Winter Day for your \nextraordinary conec of purpose and fortitude. Your courage and \ndetermination to explore in the most hostile conditions and keep the national \nflag flying is a matter of pride. We send you all our most affectionate greetings \nand good wishes on behalf of numerous well wishers, families, friends and \nevery one in the Department. We look forward to your safe return after \naccomplishing the mission on which you have gone. \nYours sincerely \nDr. Arun Hanchinal \nStation Commander and \nall the members of XX wintering \nteairTMaitri\" \nFOREWORD \nAntarctica is the coldest place on earth. Il holds secrets of many scientific puzzles \nand therefore its significance has been perceived internationally. India has been an active \npartner in the Antarctic research since 1981 and has been launching annual launching of \nscientific expeditions to this icy continent. The National Centre for Antarctic and Ocean \nResearch (NCAOR), coordinates this activity. \nEach expedition is a challenge in itself as it involves handling multi-disciplinary \nand multi-institutional science programmes that call for massive infrastructure support. \nThe present report highlights the achievements of 22nd scientific Expedition to the \nAntarctica led by Dr. Arun I lanchina! a physicist by profession at the Indian Institute of \nGeomagnetism, Mumbai. \nAmong the most notable achievements of 22\"d expeditions are, the successful \nunearthing of the concealed hanger accommodation at the Dakshin Gangotri for \nretrieving the ice core stored there, the installation of digital fiuxgate magnetometer for \nthe first time and the demonstration of the use of ground penetrating radar in unraveling \nthe sub-surface features below the ice cover. \nOn November 23. 2003 about 120 people from different part of the world \nwitnessed the very rare event Total Solar Eclipse (TSE) near Maitri. India deputed a team \nof five specialists to set up eclipse observation equipments and conduct variety of \nexperiments. \nThe successful surgery performed on winter member with limited medical back \nup to save precious life has been another achievement worth mentioning. The doctors \nand the entire team deserve appreciation for such a wonderful achievement. \nI compliment Dr. Hanchinal for successfully accomplishing the objectives set for \nhis expedition and bringing out a detailed technical report on his expedition, which I am \nsure will be useful reference for Polar Science community at large. \nPREFACE \nThe forty eight member expedition, which sailed to icy continent under the \nleadership of Shri Arun Hanchinal of Indian Institute of Geomagnetism, spent \nnearly fourteen months at Maitri accomplishing all the assigned scientific and \nlogistic tasks. \nAmong the noted scientific achievements were the installation of a digital \nfluxgate magnetometer of 0.1 nT sensitivity, operation of Ground Penetrating \nRadar for subsurface studies, geological mapping of the interior ranges of \nMuhlig-Hoffmann mountains of central Dronning Maud land and collection of \nlichen specimens from Schirmacher and its adjoining areas apart from other \nongoing projects. \nDuring the expedition, the ice cap south of Maitri witnessed congregation of \nmore than a hundred people from across the world, assembled to witness a \nrare spectrum of total solar eclipse in November. India too sent a team of \nastronomers and space scientists to study the eclipse. The Team at Maitri lent \na helping hand to make this event a success. \nThe collective work put in by one and all in the expedition resulted in \nproducing some exciting science, a glimpse of which can be had from the \npapers included in the present report compiled by Shri Hanchinal. \nI am sure the report will serve the link between the previous studies \nundertaken and the future work planned in this part of Antarctica. \nCONTENTS \nPsige No. \nMESSAGES \nPrime Minister iii \nDr.Murali Manohar Joshi v \nSecretary vii \nForeward ix \nPreface xi \nTHE TEAM xvii \nDiary of Important events of Twenty Second xix \nIndian Antarctic Expedition \nImportant events of The Twenty Second Indian Antarctic 1-13 \nExpedition \nArun Hanchinal \nScientific and Logistic Objectives and Achivements of 15-36 \n22nd Indian Antarctic Expedition \nArun Hanchinal \nATMOSPHERIC SCIENCE \nGeomagnetic and RIOmeter observations at Maitri du",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "Introduction",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:13.959366Z"
+  }
+}

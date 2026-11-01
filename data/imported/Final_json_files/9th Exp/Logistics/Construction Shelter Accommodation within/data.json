@@ -1,0 +1,72 @@
+{
+  "id": "article_22_2",
+  "document_id": "NCPOR-DA10DB",
+  "source_file": "ARTICLE+22_2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/364/3/ARTICLE+22_2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+22_2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 283-286 \nOn the Construction of Shelter Accommodation within\nC & N Hangar, Dakshin Gangotri, Antarctica\nAJITS.RAKA\nIndian Army\nIntroduction\nDakshin Gangotri (DG), the first Indian Antarctic Station was decommissioned and\nconverted into a supply base during February 1990. Since regular wintering convoys would\nvisit the s tation for ferrying the fuel and other cargo, it was envisaged to construct a 'Transit\nAccommodation' for eight personnel, within the existing C&N Hangar at DG. This hangar,\nconstructed during the Fourth Indian Expedition in 1984, to serve as a vehicle shelter and\ncompletely buried in the snow at pres ent, is a well designed unit equipped with all\ncommunication facilities.\nPlan\nThe original plan (Fig. 1) was to construct living accommodation inside the hangar and\nservice complex outside the hangar. There were two containerised generators which were to\nbe connected to the service complex. The service complex itself consisted of bath and toilet\nmodule, fuel storage module and generator passage unit. A link block between hangar and\nservice complex was also planned. Due to sit e conditions and availability of only one\ngenerator, the original layout was slightly modified. In revised layout (Fig. 2) the link block\nwas directly connected to the entrance. The generator was detached to avoid snow accumu-\nlation. The crawl duct w a s made straight so as to leave the effluent at about 20' away from\nthe existing structure.\nTransportation and Stacking of Stores\nThe transportation of stores from the ship was not much of a problem as quantum of load\nwas only about 45 tonnes. Though the foundation material was kept on deck, the superstruc-\nture packed in crates, was all in hold.\nThe first sortie to DG went on 29.12.1989 with foundation material. By 19.01.1990, all\nthe stores were shifted to DG. The stores consisted of bulky items along with some heavy\nitems. For optimum utilisation of the aircraft capacity, the bulky items were combined with\nheavy items. The s tores were unloaded as close to the site of construction as possible.\nThe stores had to be stacked on ramps to avoid the snow accumulation on it. The stores\nfor living complex had to be shifted inside the hangar through the ramp of C&N Hangar.\n284\nAjit S. Raka \nFig. 1., Sketch showing planned layout of shelter accommodation in C&N Hangar, D.G. \nThe foundation stores were manually carried through the door inside, since the ramp was\nnot opened then.\nConstruction\nRough levelling of site was done with the help of snow vehicles and final levelling was\ndone manually. Raft foundation was left for one day for any settlement of loose snow on\ntop.\nThe supporting steel frame was placed on the raft foundation and the construction of\nsuperstructure for link block module, bath and toilet module and fuel storage module started.\nBy 23.01.1990 complete superstructure was erected. The work on instalation of snow\nmelt tank was also completed simultaneously. The fibre glass roof and the inside structure\ni.e. living complex were completed by 28.01.1990.\nThe most important job of water supply and sanitation was then taken up. Electrical work\nwas going on simultaneously. The shelter accommodation complex (Fig.3) with all its\namenities was completed by 16 Feb. 1990.\nConstruction of Shelter Accommodation within ... \n285\nDifficulties Faced\nThe problems faced were as under:\n1. Due to filling of snow in foundation, there was differential settlement. The packing\nhad to be provided frequently.\nFig, 2. Sketch showing revised layout \n286\nAjitS. Raka \nFig. 3. Service module at C&N Hangar site, D.G. \n2. Due to position of the living complex and bath of toilet module, the plumbing was\ndifficult. There were lot of bends which made trace-heating difficult.\n3. Gaps develop in panels if the foundation is  not levelled. To avoid this, perfect\nfoundation levelling had to be done.\n4. To stop the ingress of snow, lot of sealing was required since every module was an\nindependent unit.\n5. The electrical work should have been done with Teflon cable, though expensive,\nto avoid short circuiting during winters.\nConclusion\nIn conclusion it may be added that with some more information about site conditions the\nplanning would have become more easy and better facilities could have been provided. After\nobserving the conditions on the s helf it was felt  that the accommodation built on sledge\nwould have been more effective and economical as it can be retrieved and relocated as and\nwhen felt necessary.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "8]Logistics",
+    "subcategory": "On the Construction of Shelter Accommodation within C & N Hangar, Dakshin Gangotri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:37.074699Z"
+  }
+}

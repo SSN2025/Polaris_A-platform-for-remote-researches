@@ -1,0 +1,72 @@
+{
+  "id": "349_360",
+  "document_id": "NCPOR-B318BE",
+  "source_file": "349-360.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/758/1/349-360.pdf",
+  "bibliographic": {
+    "title": "349-360",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "13] Scientific Report Of Thirteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Abstract \nIntroduction \nThirteenth Indian Expedition to Antartica,Scientific Report, 1997 \nDepartment of Ocean Development, Technical Publication No. 11, pp. 349-360 \nReport on the Indian Antarctic Scientific Station \n\"Maitri\" - A Study of the Station and Its \nLife Support Systems \nTATHAGAT VARMA \nR&DE(Engrs), Pune \nR&DE(Engrs), Pune, a part of the Defence Research and Development Organisation \n(DRDO) has been participating in Indian Scientific Expeditions to Antarctica since the Third \nExpedition, when an officer of the establishment, then Lt Col SS Sharma, was entrusted the \ntask of erection of first permanent station of India in Antarctica, the Dakshin Gangotri station, \nand also head the first ever Indian wintering team. Since then R&DE(E) has been an active \nparticipant in various expeditions, providing living shelters, life support systems, like water \nsupply systems, power generation systems, waste disposal systems, etc. R&DE(E) has been \nnominated by the Department of Ocean Development (DOD) to act as the Nodal Body for \nadvising them in all matters relating to the \n- Design \n- Development \n- Procurement \n- Installation \n- Working \nof structural, mechanical (except vehicles), waste disposal, and associated systems \nrequired for their Antarctic Programme. \nThis report contains the details of study of the station and its life support systems. \nMaitri - the second permanent Indian Scientific Station was designed and \ndeveloped by R&DE(Engrs), Pune and is operational from 1989 onwards. Since \nthen, it has been providing accommodation and other life support systems to \nthe team of 25 members who winter every year. The basic infrastructural \nmaterial support is from R&DE(Engrs), and the Army Team, comprising the \nEngineers and the EME do the running, repairs, maintenance, upgradition and \nnew installations for all kinds of life support systems at Maitri. They are \nties. \n350 Tathagat Varma \nspecifically trained at Pune prior to the sailing off the expedition for getting \nacquainted with the various systems at Maitri. \nIn continuation of the study programme undertaken by this establishment, \nthis year a comprehensive study of the station was undertaken, considering that \nthe station has now completed almost 7 years of service. A study of the \nperformance of central heating system, and state of various parts of it, alongwith \nwater supply system, foundation and structure of the station building, etc. was \nearlier undertaken by another officer, Mr. SS Gaikwad, Scientist 'E', during \nthe summer of XIII Expedition. Supplementing that study, a year long study of \nvarious life support systems installed initially and presently being supported by \nR&DE(Engrs) was also undertaken, mostly from the point of view of assessing \nthe performance of existing design and enhancement in future for such facili-\nThe following systems were studied : \n(a) Maitri Station building, and its various parts \n(b) Generator Sets and Accommodations \n(c) Data Acquisition System for Gensets \n(d) Boiler System, Central Heating, and Water Supply \n(e) Waste Disposal System \n(f) Green House \n(g) Deep Freezers \n(h) Summer Camp Accommodation and Facilities \nThese systems are described in detail in the following sections. \nMaitri Station Building, and Its Various Parts \nMaitri is housed in a single building, with all living amenities inside the \nstation, and only the new generator complexes being outside the building. Over \na long span of time, a lot of advantages and disadvantages of such a concept of \nliving accommodation have been realised. The staying of people together does \nbring in a certain amount of harmony, and the ease of work is always there. \nHowever, on the other hand, in case of a serious fire accident, there will be no \nother place remaining with any facility. It was felt that in a place like Antarctica, \nthe resources should be physically kept apart at a safe distance, which also \nincludes human beings. \nOver the last 7 years, Maitri has been of outstanding service to the team of \nscientists and service personnel staying there every year. However, some of the \nimprovements, if they can be made in the existing design or incorporated in \n 351  \nfuture designs, will make the stay in Antarctica much more conductive to work, \nand consequently more adaptive to human beings. \nThe following points are suggested: \n(a) Living Cabins: The living rooms are of inadequate size. Most of the \nscientists have to carry out analysis/computation of data in their cabins in the \nabsence of a central place for such a thing. The ideal size would be about double \nthe existing rooms, with bigger windows. In addition, whatever little space is \nthere, most of it is used by the bulky radiators, almirahs etc. There should also \nbe a small attic sort of thing so that suitcases etc can be stored without \nhampering the movement inside rooms. \n(b) Ventilation: There in no ventilation in the living rooms. In winter, most \nof the members seal windows as small air g",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "6]Engineering Studies",
+    "subcategory": "Report on the Indian Antarctic Scientific Station _Maitri_ - A Study of the Station and Its Life Support Systems",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:35.043829Z"
+  }
+}

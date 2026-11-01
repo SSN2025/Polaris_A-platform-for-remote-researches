@@ -1,0 +1,72 @@
+{
+  "id": "article_13",
+  "document_id": "NCPOR-8BA1AB",
+  "source_file": "ARTICLE+13.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/243/3/ARTICLE+13.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+13",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Schirmacher Oasis: Environment, History and the Indian Station\n\"Maitree\"\nB.B. Bhattacharya\nDepartment of Applied Geophysics, Indian School of Mines \nDhanbad-826004\nABSTRACT\nAt a distance of less than 100 km from the Indian permanent station \"Dakshin Gangotri\", a small\nAntarctic oasis exists that was located as late as 1938 by the German expedition team headed by Schir-\nmacher. The area appears to be a good site for a permanent Antarctic station. An account of the history of\nthe Antarctica oases and their origin have been discussed with a special emphasis on Schumacher Oasis.\nA brief description of the environment and geology of the Schirmacher Oasis has been presented, The\nimportance of geochronological studies in the Oasis for the study of Gondwanaland break-up has been\nemphasized. The environmental factors of the \"Maitree\" station have also been discussed. The \"Mai-\ntree\" station is expected to play an important role as a base also for any large scale aerial survey (includ-\ning the aerial geophysical surveys) of the adjoining areas covering as big an area as 1,50,000 to 3,50,000\nsq. km.\nINTRODUCTION\n\"Delightful now was the green sight of Teyma, the haven of our desert; we approached the tall\nisland of palms.....We entered between grey orchard walls overlaid with blossoming boughts of palm\ntrees; of how much amorous contentment to our parched eyes\".\nThis was the feeling of the renowned English explorer and poet CM. Doughty after crossing\nthe northern Arabian desert and entering the oasis of Teyma in late 1870's (Doughty, 1937). To any\ntravellers of the deserts, \"an oasis is a haven of life in a wasteland of death. A green mote in infinity of\nsand where there is water there is life in the desert, whether it be a burning sand sheet in Arabia or a \nfrigid ice sheet in Antarctica\"(Pickard, 1986).\nOf all the continents, Antarctica is the fairest, white and unspoiled, spacious and austere,\nfashioned in the clean, antiseptic quarries of an ice age. Thus it is unique among the continents. More\nthan 98% of its surface is composed of a single mineral—ice. It is the coldest, windiest and driest con-\ntinent but it contains more than 70% of the world's fresh water. In spite of it, the combination of ice,\ncold and aridity is a lethal mix for most forms of life. Few organisms can survive in a freezing desert.\nHowever, there are little patches in this desert of ice where temperatures rise above freezing and\nwhere water flows over the rocks and soil. These are oases in a vast icy desert (Fig. 1).\nOases in Antarctica had been known since the early explorations of the continent in the begin-\nning of this century. Rocky areas served as stable camp sites and navigational beacons. The enor-\nmous dry valleys of Victoria Land, when first discovered on 18 December, 1903 by Robert F. Scott,\nwas considered as deserts rather than oases. It was later termed as Taylor Valley. Scott wrote\n\"..... from our elevated position we could now get an excellent view of this extraordinary valley, and a \nwilder or in some respects more beautiful scene it would be difficult to imagine. Below lay the\nsandy stretches and confused boulder heaps of the valley floor, with here and there the gleaming\nwhite surface of a frozen lake and elsewhere the silver threads of the running water; far above us\ntowered the weather-worn, snow splashed mountain peaks, between which in places fell on graceful\n171\nSchirmacher Oasis: Environment, History & Indian Station \nFig. 1. Map of Antarctica showing location of major oases (dotted areas).\ncurves the folds of some hanging glacier these steep slopes had a general tune of sober grey. This\ncolour was therefore predominent, but everywhere at a height of 3,000 ft above the valley it ended in\na hard line illustrating in the most beautiful manner the maximum extent to which the ice had once\nspread. I cannot but think that this valley is a very wonderful place. We have seen today all the indi-\ncations of colossal ice action and considerable water action, and yet neither of these agents is now at\nwork. It is worthy of record, too, that we have seen no living thing..... It is certainly a valley of the\ndead: even the great glacier which once pushed through it has withered away\" (Scott, 1905).\nIn October, 1936, A. Stephenson, a member of the British Graham Land Expedition (1934-\n1937) camped on the eastern side of Alexander I Island at a site he called Ablation Camp. He wrote,\n\"It seemed we had suddenly come into an oasis, for instead of the usual mass of snow with occasional\npatches of rock there were large valleys of exposed rocks, with scarcely any snow to be seen\" (Ste-\nphenson, 1938). This was the first reference to oases in Antarctica.\nThe term oasis was adopted in the popular press of the west during the United States Navy Ope-\nration High Jump on February 11,1947. It may be worth quoting a few lines from Byrd (1947): \"Early\nin February the crew of the flying boat commanded by Lt. Cmdr. David E. Bunger of Colorado, Cali-\nfo",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "5]General",
+    "subcategory": "Schirmacher Oasis_ Environment, History and the Indian Station 'Maitree'",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:45.058148Z"
+  }
+}

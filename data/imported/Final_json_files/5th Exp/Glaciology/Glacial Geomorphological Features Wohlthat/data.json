@@ -1,0 +1,72 @@
+{
+  "id": "article13",
+  "document_id": "NCPOR-A78C90",
+  "source_file": "article13.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/272/3/article13.pdf",
+  "bibliographic": {
+    "title": "article13",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical. Publication No. 5, pp. 211-218 \nSome Observations on the Glacial Geomorphological Features of\nWohlthat Mountains, Central Queen Maud Land, Antarctica\nD. SRIVASTAVA, M.K. K.AUL, R.K. SINGH, S. MUKERJI AND S. JAYARAM\nGeological Survey of India\nFaridabad-121001\nAbstract\nThe part of central Queen Maud Land between the Indian station Dakshin Gangotri\nat shelf and about 200 km inside, towards south, encompasses four distinct geomorphological\nunits: namely the shelf area, piedmont zone, the mountain barrier and polar ice plateau.\nGlacial geomorphological features of the mountain barrier, formed by the Wohlthat\nmountain chain, were studied during the Fifth Indian Expedition to Antarctica and are\nbriefly described in this paper. The prominent features comprise the  differential relief,\nvarious types of  moraines, wind scoops and desert weathering (honeycomb features).\nLevel of glaciation has been inferred and several features associated with deglaciation have\nalso been described.\nIntroduction\nThe Wohlthat mountain range in the central Queen Maud Land is a distinct\nphysiographic unit girdling this part of Antarctica. The mountain chain exposed\nbetween about 200 to 350 km from the shelf (Princess Astrid Coast) trends in\na NE - SW direction. The area from the coast to south of  Wohlthat range,\nfrom where the polar plateau starts, has a gradual rise in slope from sea level\nto beyond 3000 m.a.s.I. The section between the coast and the polar plateau has\nbeen divided into four disinct morphological units: (1) the ice shelf, (ii) the\npiedmont zone of polar ice sheet, (iii) the mountain barrier, dissected by outlet\nglaciers and (iv) the polar plateau. All these divisions have their own characteristics.\nThe aim of this paper is to bring out the major glacial geomorphological features\nin and around  the mountain barrier (Wohlthat mountains), which were observed\nduring the Fifth Indian Expedition to Antarctica.\nGlacial Relief\nAn interesting feature of the Wohlthat mountains is the conspicuous difference\nin relief between the southern and  northern faces of the mountain chain. In the\nsouthern face the exposed parts of th e mountain in Gruber and Petermann areas\nare generally upto 600 metres from the present ice  surface. These show  a young\n212 D. Srivastava et  a/.\nrelief and  restricted periglacial effects. The northern  face,  on the contrary,  exposes\na mature  alpine relief. Here some of the peaks are as high  as  2800 m.a.s.l. The\nabsolute height of the Gruber massif in the eastern sector ranges from 600\nm.a.s.l. to 2790 m.a.s.l. Westwards, the absolute height of the ranges go upto\n3000 m.a.s.l. However, further west the peaks are generally 300 to 600 m higher\nthan the present ice-level, whereas in the east they are 500 m to more than\n1700 m higher than the present ice-level. The upper 500 to 700 m of the\nmountain, especially in the Gruber and Petermann ranges, present alpine charac-\nteristics in the form of  horns and serrated ridges.\nLevel of Glaciation\nNo firm identification of the level  of glaciation i.e. the height above the\nsea level up to which the glaciers occupied the mountain relief, can be attempted\nwithout more evidence in the higher sections of  these mountain ranges. But\nconsidering the preliminary data collected during the expedition, th e location\nand distribution of glacial benches and vertical extension of  moraines, indicate\nthe level of glaciation of Gruber and Petermann ranges to be about 2000 m.a.s.l.\nThis may lead to the conclusion that the highest peaks of Gruber an d Petermann\nwere never under the blanket of continental ice and emerged as  nunataks during\nthe period of high glaciation. But it can conversely be argued that the glaciers\ndid occupy higher levels, which were later vacated and de-glaciated, a possibility\nsupported by the periglacial effects so pronounced on the higher peaks. Further\ndata is, therefore, essential for establishing the level of glaciation in this area.\nDeglaciation\nThe de-glaciation of the ice from eastern part of the Wohlthat mountains\nmust have taken place in at least three phases. This is indicated by the recessional\nmoraines bordering the outcrops (Fig. 1). Deglaciation has led to the formation\nFig. 1. Recessional  moraine's  in Wohlthat mountains. \nSome Observations on the Glacial Geomorphological Features... 213\nof now \"dry glacial valleys\" in Gruber and Petermann ranges which are generally\noriented in north-south or  northwest-southeast directions. Few of these trend\nin a northeast-southwest direction. (Fig. 2) Polished surface and striations have\nbeen observed at around 2000 m.a.s.i. In Gruber the direction of these striations\nis southeast-northwest implying  a northwesterly flow. Striation with same orien-\ntation were observed at  several other locations in the mountain range.\n_/•'*£.  2 .   Geomorphological map of part of Wohlthat mountains, East Antarcti",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "3]Glaciology",
+    "subcategory": "Some Observations on the Glacial Geomorphological Features of Wohlthat Mountains, Central Queen Maud Land, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:24.487040Z"
+  }
+}

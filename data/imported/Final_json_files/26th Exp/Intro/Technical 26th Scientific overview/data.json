@@ -1,0 +1,72 @@
+{
+  "id": "overview",
+  "document_id": "NCPOR-11E348",
+  "source_file": "Overview.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1035/1/Overview.pdf",
+  "bibliographic": {
+    "title": "Overview",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "xxix\nTechnical Report of 26 th Indian Scientific Expedition\nto Antarctica – An overview\nJayapaul D.\nExpedition Leader and Station Commander\nThe National Center for Antarctic and Ocean Research which is India‘s\nPremier Research Institute for Polar Science has progressed in leaps and bounds\nin the formulation and implementation of the Scientific programmes of the\nvarious organisations. There has been a complete reorientation of the scientific\nprogrammes which is in tune with the requirements of the latest developments\nin the field of Polar Science. I have been associated with the Indian Antarctic\nProgramme since the 16\nth ISEA and have seen that a great deal of reorganization\nhas taken place in the past few years in the objectives of the scientific\nprogrammes, developing state-of-art laboratory facilities and strategic new\nlogistic programmes to meet new requirements and challenges.\nThe National Center for Antarctic and Ocean Research has created awareness\namong young Scientists and Research Scholars and has given an opportunity to\nevery participant scientist for advancing the frontiers of Antarctic Science by\nproviding all facilities and logistics of international standards. Climate change\nand key related issues of Biodiversity and sustainability are the major issues\nwhich mankind is facing today. There is an unprecedented surge in the awareness\nthe world over about climate change, biodiversity, degradation of natural\nresources and energy. The National Center for Antarctic and Ocean Research\nhas clearly focused on these issues while formulating the Scientific Programmes.\nThe Technical Report of the XXVI Indian Scientific Expedition to Antarctica\npertains to the Scientific programmes and Logistic work carried out during the\nExpedition by the participating organisations. The scientific papers have been\ngrouped under (a) Earth Sciences, Glaciology and Climate Change; (b)\nMeteorology and Atmospheric Sciences; (c) Biology and Environmental Sciences;\n(d) Engineering and Communication; (e) Medicine; and (f) Logistic Support.\nACHIEVEMENTS AND HIGHLIGHTS\nScientific (Summer)\nGeological Survey of India team carried out ice core drilling in collaboration\nwith NCAOR. A total of 130 metres ice core was raised from the shelf.\nGeological studies were carried out in Gruber and Zweissel mountains.\nGlaciological studies included monitoring of Dakshin Gangotri Glacier snout\nand western polar front of Schirmacher Oasis; Snow accumulation and ablation\nstudies on shelf; geological mapping in Larsemann Hills area and surrounding\nislands.\nxxx\nNational Geophysical Research Institute team carried out installation of a\nnew ASHTECH GPS; Regular downloading of the Broad band seismic data and\npreliminary analysis of the data to identify earthquakes and regular downloading\nof Turbo Rogue and ASHTECH GPS systems and Magnetotelluric studies to\ndelineate the deep crustal conductivity structure in Antarctica.\nIndian Institute of Geomagnetism team carried out monitoring of geomagnetic\nfield intensity using Proton Precision Magnetometer; Ionospheric current system\nusing Fluxgate Magnetometer; Operation of GPS for studies on Glaciology and\nCrustal Structure deformation Studies; Atmospheric vertical current and vertical\nelectrical field by long Wire antenna and Field Mill; and measurement of\nAtmospheric Electrical Conductivity with Gerdien Condenser.\nIndian Meteorological Department team carried out Brewer\nSpectrophotometer observations for total Ozone; Three hourly weather\nobservations of atmospheric pressure, surface temperature, cloud cover surface\nwind direction and surface wind speed; Hourly Microtop Atmospheric Turbidity\nAerosol Optical thickness observations; Continuous recording of AWS data and\nBalloon ascents for Ozone Sonde observations.\nBarkatullah University, Bhopal, Department of Limnology  Scientist carried\nout studies on the Impact of Anthropogenic activities on flora and fauna of\nAntarctic and high altitude Himalayan lakes of Ladakh.\nBarkatullah University, Bhopal, Department of Physics Scientist carried out\nstudies on the space weather effect on navigation and communication.\nNational Center for Antarctic and Ocean Research team carried out study\nof Polar microbes – linking diversity to ecosystem functioning and Geophysical\nand Limnological studies of Antarctic lakes and their palaeoclimatic implications.\nSnow and Avalanche Study Establishment team carried out Surface Energy\nBalance study of the Antarctic ice sheet using AWS data.\nShriram Institute for Industrial Research team carried out long term\nenvironment assessment of waste materials emanating over East Antarctica.\nBirbal Sahni Institute of Palaeobotany team carried out studies on the\nPalaeoclimatic conditions in late Quaternary lakes of east Antarctica: A\nmultidisciplinary study using sedimentological, palynological, geochemical,\nmineral, magnetic and chronological parameters.\nIndia Institute of Tropical Meteorology team carried out studies on direct\nradiative forcing due to",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "Technical Report of 26th Indian Scientific Expedition to Antarctica – An overview",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:00:05.034115Z"
+  }
+}

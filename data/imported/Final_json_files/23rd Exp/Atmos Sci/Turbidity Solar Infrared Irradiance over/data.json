@@ -1,0 +1,72 @@
+{
+  "id": "pages_49_58",
+  "document_id": "NCPOR-03755F",
+  "source_file": "pages+49-58.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/910/1/pages+49-58.pdf",
+  "bibliographic": {
+    "title": "pages+49-58",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic ExpeditionMinistry of Earth Sciences, Technical Publication No. 21, pp 49-58\nHirbidity and Solar Infrared Irradiance over Maitri,Antarctica\nPa van S. Kulkarni*n, S.L. Jain1 , B.C. Aryaf, Sachin D Ghude+ , Ashok Kumar, \nNazeer Ahammed1  and Shahnawaz*\ntRadio and Atmospheric Sciences Division, National Physical Laboratory,\nNew D e lh i-110012\ntDept. of Physics and Astrophysics, University of Delhi,\nDelhi - 110007 \n*Email: pavannpl@yahoo.co.in\nABSTRACT\nAerosol optical depth and solar infrared irradiance at 1020 nm using narrow \nband filter has been measured using a microprocessor based sun photometer during \n1997,2002,2003 and 2004. The observations were taken on hourly basis on all clear \ndays at Maitri, an Indian Antarctic Station (70° 46’  S, 11° 45’  fi), during seventeenth, \ntwenty first, twenty second and twenty third Indian Scientific Antarctic expedition. \nVery low AOD values and comparatively high solar infrared irradiance at 1020 nm \nhave been observed during the entire period of observation at this clean and \npristine environment of the continent. But found a clear variation in month-to- \nmonth values of AOD, which can be attributed to the local meteorological conditions.\nKeywords: Aerosol optical depth, Solar infrared irradiance, Sun photometer.\nINTRODUCTION\nAtmospheric aerosol exerts both direct and indirect radiative forcing \non climate. The attenuation of solar irradiance is mostly due to aerosols and \nRayleigh scattering. Like other atmospheric constituents aerosols directly \naffects the radiation budget of the atmosphere by the scattering, absorption \nof radiation and shielding the earth against incoming solar radiation. \nIncreasing concentrations of aerosols in the atmosphere enhance this effect \nand thereby produce a negative as well as positive radiative forcing. The \naerosol life time varies from few days to about a week and their concentration \nis highly variable in space and time (Gonzalez et al., 2000). This variable \naerosol concentration is strongly depend on localized source. It also has a\n\n50 Pavan S. Kulkarni et al.\nradiative effect of absorbing and re-emitting long wave infrared radiation. \nThe sources of aerosols are both natural and anthropogenic. The most \neffective light-scattering aerosols of natural origin are sulphates formed \nfrom biogenic gaseous sulphur compounds and organic carbon formed from \nthe partial atmospheric oxygen of gaseous biogenic organic compounds. \nOther natural sources include gaseous and particulate emissions from \nvolcanoes, wildfire, and desert dust storms. The main anthropogenic source \nof aerosols is gaseous sulphur dioxide, oxides of nitrogen, and carbon \ncontaining gases. Major light absorbing aerosols are dominated those \ncontaining black carbon formed from the incomplete combustion of \ncarbonaceous fuel. A subset of aerosols (size less than 0.1 im) acts as \ncloud condensation nuclei and thereby affects the cloud formation (Radke \net al., 1989; Wigley, 1989; Charlson et al., 1992; Coakley et al., 1987). \nIncreasing the concentration of these aerosols, indirectly, has the potential \nto change the microphysical, optical, and radiative properties of clouds, which, \nin turn, can change their reflective and absorbance properties and \npersistence. Aerosols play an important role in the heterogeneous chemistry \nand thereby in the tropical stratospheric ozone (Hofmann and Solomon, \n1989) through providing surfaces for condensation and heterogeneous \nchemistry.\nThe vast ice sheet of Antarctica, is located in the southern hemisphere \nwith no or very little human activity and has only about 2% bare land area \nexposed to the atmosphere (Deshpande and Kamra, 2000). The air is \ngenerally pristine and is only influenced by the long range transport of sub- \nmicro-size particles and gaseous pollutants (Gadhavi and Jayaraman, 2004). \nThus Antarctic region is an unique location for the background measurement \nof AOD due to the absence of any major local aerosol source and it’s clean \nenvironment. Aerosol studies over the sites such as Antarctica will help in \nestimating the background level aerosol forcing over a pristine site. Factors \nlike high surface albedo and unique solar insolation cycle over Antarctica \nalso makes the study an interesting one.\nAerosol optical depth describes aerosol effects on radiative transfer. \nIt is a column integrated measurement of the relative extinction of direct \nsunlight due to aerosol scattering and is defined by means of the Bouguer- \nLambert law. The spectral aerosol optical depth is also known as turbidity. \nThe monitoring of aerosol optical thickness or turbidity is an important \nparameter for studying global climatic change. Sun photometers have widely \nbeen used to measure aerosol optical thickness and other properties of the \natmosphere (Volz, 1974; Flowers, 1969; Shaw, 1983; King and Byrne,\n\nTurbidity and Solar Infrared Irradiance over Maitri, Antarctica 51\n1976).In view of the above importan",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Turbidity and Solar Infrared Irradiance over Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:33:49.658858Z"
+  }
+}

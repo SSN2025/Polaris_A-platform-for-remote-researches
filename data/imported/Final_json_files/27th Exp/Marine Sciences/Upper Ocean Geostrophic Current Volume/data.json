@@ -1,0 +1,72 @@
+{
+  "id": "chapter_1",
+  "document_id": "NCPOR-88F3D2",
+  "source_file": "Chapter+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1097/1/Chapter+1.pdf",
+  "bibliographic": {
+    "title": "Chapter+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "MARINE SCIENCES\nUpper Ocean Geostrophic Current and\nVolume Transport\n Across Meridional Transects in the Indian\nSector of Southern Ocean\nS.M. Pednekar\nNational Centre for Antarctic and Ocean Research, Goa\nABSTRACT\nThe investigation carried out to understand the upper ocean circulation along two\nmeridional transects (Track-1 and Track-2) using XCTD profiles. Noise factor removed\nfrom the each profile manually and further interpolation carried out to get final product. In\ngeneral, sea surface temperature and sea surface salinity at 1 m depth decreasing southward\nwith salinity fluctuation seen south of 46°S. Along Track-1 thermal structure of temperature\nand salinity showing sinking and rising of isotherms and isohalines, respectively making\nwave like pattern between 35°S -39°S, where ocean current are opposite. South of 39°S,\nisotherms are more inclined and water is mixing with different physical properties. Cold\n( 0°C) water penetrates northward in subsurface region (100 m) north of 55°S. Along\nTrack-2 north of 39°S wave pattern repeated and south of it isolines are running vertical\nuntil 42.5°S. Isotherms and isohalines are parallel to each other in top 250 m from 43°S to\n55°S. Intrusion of cold (  0°C) water tough identified at 150-350 m south of 53°S. From\nthe wave like pattern observed along Track-1 and Track-2 in 500 m from 35°S to 39°S, it\nis understood that the Agulhas Current (AC) in December, 2007 crossing the Track-1 in\nbetween 35°S to 39°S and turns back as Agulhas Return Current (ARC) current due\nformation of anti-cyclonic warm core mesoscale eddy having positive vorticity. Since Track-\n2 was occupied in March, 2008 the southern core of the ARC shift more south (40°S).\nIntrusion of cold (  0°C) water found in top 100 m along Track-1 is deepens to 250-350 m\nalong Track-2. The geostrophic integrated net volume transport in the upper 500 m varying\nbetween 0.3 to 4.5 Sv and 0.2 to 7.5 Sv along Track-1 and Track-2, respectively where the\nflow of the current is eastwards (+ve) and westward (-ve). North of 40°S°S net transports\nare found more as compare to south of it. Further improvement in technique of data\nacquisition as well processing methodology is required to improved errors in data collection\nand profiles editing so that we understand  processes of the southern ocean.\nKeywords: Hydrographic Parameters, Geostrophic Current, V olume Transport.\n1.0  INTRODUCTION\nThe Indian sectors of Southern Ocean (SO) region play a major role\nin Global Circulation belt. The formation and mixing of the water masses\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 251-263\n252                                               S.M. Pednekar\nin the polar region cause changes in the northward flow of the meridional\noverturning circulation and as a consequence, in the Earth Climate system.\nSO is a unique in its characteristic and circumpolar region embedded with\nfronts within the Antarctic Circumpolar Current (ACC), having the key\nrole in modulating the present hydrographic condition. The ACC is largely\ninfluenced by the surrounding oceanographic regimes to its northern and\nsouthern boundaries. The horizontal spatial gradients in current speed\n(Sparrow et al., 1996), temperature, salinity and density (Belkin and\nGordon, 1996; Park et al., 2001; Orsi et al., 1995), as well as enhanced\nvertical circulation associated with bathymetric features (Orsi et al., 1995;\nAnilkumar et al., 2007). Major fronts of the ACC comprise of Sub\nAntarctic Front (SAF) and Polar Front (PF), which form the northern and\nsouthern boundaries of the Polar Frontal Zone, respectively (Whitworth\nand Nowlin, 1987). Model studies and historical data suggest that the SO\nsector between Africa and Antarctica has particular variety in the position\nand strength of frontal currents (Sparrow et al., 1996; Belkin and Gordon,\n1996). The study of SO is important because of a number of reasons\nrelated to atmospheric and oceanographic features. Wind-driven\nanticyclonic gyre of the South Indian Ocean (SIO) where most of the\nw a t e r r e - c i r c u l a t e s i n t h e w e s t e r n a n d c e n t r a l p a r t s o f t h e S I O b a s i n\n(Stramma and Lutjeharms, 1997), which is a distinct feature of the SIO.\nMost of the investigations carried out in the SO are concentrated on\nthe central and eastern Indian Ocean sector (Rintoul et al., 1997; Rintoul\net al., 2002; Rintoul and Bullister, 1999; Rintoul and Sokolov, 2001;\nSokolov and Rintoul, 2002; Yuan et al., 2004). The SO is lacking in\nhydrodynamics study and to overcome this problem we have operated\nexpendable-conductivity-temperature-depth (XCTD) during the austral\nsummer (December, 2007 to March, 2008) namely, Cape Town to India\nBay, Antarctica i.e. southwest Indian Ocean Sector (Track-1) and from\nPrydz Bay, Antarctica to Cape Town i.e. southeast Indian Ocean Sector\n(Track-2) during Indian Scientific Expedition to Antarctica (ISEA-27). The\ninvestigation ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "5] Marine Sciences",
+    "subcategory": "Upper Ocean Geostrophic Current and Volume Transport Across Meridional Transects in the Indian Sector of Southern Ocean",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:15:56.051157Z"
+  }
+}

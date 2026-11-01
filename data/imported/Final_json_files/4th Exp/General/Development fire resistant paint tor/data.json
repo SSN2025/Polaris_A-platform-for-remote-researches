@@ -1,0 +1,72 @@
+{
+  "id": "article_14_1",
+  "document_id": "NCPOR-A321DA",
+  "source_file": "ARTICLE+14_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/244/3/ARTICLE+14_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+14_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "187\nDevelopment of Fire Resistant Paint for Antarctica\nD.A. Dabholkar, U.K. Aggarwal and R.C. Sood\nShriram Institute for Industrial Research, 19 University Road, Delhi-110007. \nABSTRACT\nAntarctica with large desolate areas, snow and ice cover, few land marks and hostile weather\nrepresents extreme conditions of low temperature and high wind velocity. A fire proof paint which has\nfire retardant properties and simultaneously can withstand the Antarctic conditions was developed,\nevaluated and successfully applied to the wooden structure used in the  permanent Indian Station at\nAntarctica.\nINTRODUCTION\nAntarctica with large desolate areas, snow and ice cover, few land marks and hostile weather\nrepresents extreme conditions of low temperature -65 to -70°C. A permanent Indian station at\nAntarctica has a wooden structure. Shri Ram Institute for Industrial Research, Delhi was assigned\nthe job of making the wooden structure fire proof. With this in view, a study to synthesise and evalu-\nate a suitable paint which has inherent properties of resisting the flames as well as fire retardancy\nand, at the same time, can withstand extreme low temperature was undertaken.\nThe temperature has a decisive effect on the matter and its properties, some materials which\nhave very useful properties may be rendered useless in extreme cold or hot conditions. Hence, for\nthe Antarctic conditions the choice of material is very critical. As there is a scarcity of water in this\nsubcontinent, it becomes a most important feature that the material should make wooden structure\nfire proof and simultaneously, it can withstand the extreme low temperature conditions.\nThe major causes for the loss of life in wooden fire accidents are (Baker, 1981):\n(i)\n(ii)\n(iii)\n(iv)\nFlame and its heat\nSuffocation due to toxic gas concentration\nSuffocation due to smoke\nSuffocation due to oxygen shortage.\nThe major causes of the loss of life in afire involving wood appears to be the generation of car-\nbon monoxide through thermal break-down of cellulose and partial oxidation of carbon (Dev. 1982,\nStalker, 1971). The rate of thermal degradation of wood depends upon the heat transfer through the\nwood, type of char formed and the rates of diffusion of the gaseous decomposition products and\ndegradation of products during their passage through the char. If the rate of heating of wood is very\nhigh, th e cellulose material nearly completely vapourises during the pyrolysis process, leaving\nbehind a comparatively small quantity of char material. The gases evolved on pyrolysis are highly\ninflammable hydrocarbon-rich mixtures.\nTo avoid the loss of life and money from a fire burning the wood, several flame retardent chemi-\ncals are mentioned (Pearson, 1984; Lee, 1980; Bhatnagar, 1982; Farcnik, 1977). These fire retardant\nchemicals can be divided into following four classes:\nClass 1: Tetrakis (hydroxymethyl) phosphonium chloride, boric acid, calcium chloride, sodium\ntetraborate, ammonium pentaborate, magnesium silicate, antimony trioxide, a mmo-\nnium polyphosphate, sodium silicate, potassium silicate, dicyanadiamide.\nDevelopment of Fire Resistant Paint \nColour\nDensity\nFreezing point\nApplication\nCoating\nWhite (Transparent or coloured material can also be made).\n1.35 kg/litre\n-10 to -20°C\nBy brush or spray coating\nTwo coatings are required\n188\n________________________________________________________________________________________________________________________________\nProperties of paint\nClass 2:\nClass 3:\nClass 4:\nAmmonium sulphate, ammonium chloride, ammonium bromide, ammonium iodide,\nzinc chloride, aluminium chloride and diammonium phosphate.\nAmmonium formate, ammonium fluoride, sodium sulphate, sodium chloride, potassium\nchloride, potassium bromide and potassium nitrate.\nPotassium carbonate, sodium formate, trisodium phosphate and potassium fluoride.\nThe samples of paint supplied by the Department of Ocean Development were decoded and a \nsuitable paint which has inherent properties of fire retardancy and suitable for Antarctic conditions\nwas successfully developed and evaluated at SRI. About two tonnes of this paint were synthesised\nand taken to Antarctica and successfully applied on the wooden structure. As reported by the Station\nCommander of the Indian Permanent Antarctic Station, this paint has given the desired results. This\npaper presents the details of synthesis and the evaluation work carried out on the fire proof paint at\nthe Shri Ram Institute for Industrial Research.\nMATERIALS AND METHODS\nThe paint supplied by the Department of Ocean Development was decoded by first separating\n(i) the organic compounds in the solvents like ether and methanol, (ii) polymer in solvents acetone\nand dichloromethane and (iii) the remaining portion was analysed for inorganic compounds.\nOrganic compounds were identified by using infra red spectro-photometer, nuclear magnetic\nresonance and melting point determination.\nPolymer was identified by the infra red spectroscopy, differential scanni",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "5]General",
+    "subcategory": "Development of fire resistant paint tor Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:41.624347Z"
+  }
+}

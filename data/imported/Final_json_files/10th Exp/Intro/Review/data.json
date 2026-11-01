@@ -1,0 +1,72 @@
+{
+  "id": "article_1",
+  "document_id": "NCPOR-817D2F",
+  "source_file": "ARTICLE+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/347/3/ARTICLE+1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 1-16 \nTenth Indian Antarctic Expedition — A Review\nA. K. HANJURA\nExpedition Leader\nThe tenth Antarctic Expedition sailed off the Indian coast on 27th November\n1990. The 100-member team had representatives from 13 research organisations\nand three defence services. Survey of India, All India Institute of Medical Sciences,\nDefence Institute of Fire Research and Indo-Tibetan Border Police participated in\nthe Antarctic Program for the first time. Scientists from National Physical Labora-\ntory and Defence Agricultural Research Laboratory and a doctor from Indo- Tibetan\nBorder Police wintered in the icy continent for the first time.\nThe members successfully completed all the assigned scientific and logistic\ntasks. The highlights of the summer period were the establishment of an advanced\nsummer camp in the southernmost part of Humboldt mountains as well as in\nPetermann I range, erection of generator  accommodation and installation and\noperation of Acoustic sounder. During winter, the going was not very smooth as far\nas the vehicles were concerned because the team was handicapped due to their\nunprecedented break-down. Inspite of that, the entire fuel and all the Hydrogen\ncylinders lying at Dakshin Gangotri were transported to Maitri.\nThe scientific objectives for the tenth expedition are listed below:\n1. Atmospheric Sciences: This program included recording of usual meteorologi-\ncal parameters at ground level during the voyage as well as at Antarctica, launching\nof Radiosonde and Ozonesonde Ascents, installation and operation of SODAR at\nMaitri, measurement of ground level UV-B for columnar ozone calculations,\nturbidity measurements and aerosol and air sampling for analysis of trace gases.\n2. Earth Sciences: This program included mapping of southern Humboldt moun-\ntains of Wohlthat range, rock sample collections in Petermann I,II,III, Gruber and\nSchirmacher for petrochemical and geochronological studies, gravity measure-\nments at select locations, soil and rock sample collection for measurement of natural\nradioactivity. Position fixing of several points in and around Schirmacher was done\nusing GPS.\nA.K. Hanjura 2\n3. Biological Sciences: The bio-sciences program for the expedition included\ngrowth and collection of cyanobacteria for physiological, biochemical and genetical\nstudies, optimising Antarctic greenhouse environment and growing plants in hydro-\nponics, phytoplankton count in Antarctic waters and trace element and organic\ncarbon distribution in Antarctic lake waters.\n4. Physiological Studies:  The tasks were mainly the studies on behavioural\nadaptation to Antarctic conditions. The winter part of the program was to collect\nmedical data and blood/urine samples of all members every month for analysis back\nhome.\n5. Logistic Tasks: The tasks included identification and loading of cargo at Goa\nand their packing as per pre-drawn plan, communication links between ship and\nIndia, ship and Maitri, Maitri and India and communication support to various field\ncamps and convoys, erection of emergency shelters in field camps, erection of\ngenerator accommodation at Maitri, transportation of men and material by helicop-\nters in summer and by convoys in winter, maintenance and operation of gensets,\nwater supply and other life support systems at Maitri and the station maintenance\nbesides providing a medical cover to the members.\nThe Voyage\nOn 27th November, 1990, the hundred-member team of the Tenth Indian Scien-\ntific Expedition to Antarctica sailed off Marmagao harbour. The members were\nbriefed about the life on the ship and the tasks assigned to them. Members were\ncurious about the unknown - this being a maiden voyage for most of them and that\ntoo to a place like Antarctica. They felt elated for being on such a purposeful and\nchallenging trip. Various committees were formed for smooth execution of the\ntasks. We crossed the equator on 1 st December and entered the roaring 40°S (which \nin our case was relatively calm) on 11 th December. Meetings were held with the\nscientists and logistic personnel discussing the finer details regarding the execution\nof tasks at Antarctica. Icebergs were sighted from 61° S onwards and without\nencountering much of the pack ice, the ship reached India Bay in Antarctica on 20th\nDecember, the earliest that any Indian Expedition had ever reached.\nAt Antarctica\nThe summer camp was established at Maitri the very next day of.our touching\nAntarctica and most of the scientists inducted to start their program. As is desired,\neach moment of fair weather was fruitfully utilized. Sixth January 1991 saw the\nestablishment of the GSI field camp in the southern most part of Wohlthat moun-\ntains. On 7th January, the summer camp at DG was established and fuel\ntransportation from ship to DG started. In the meanwhile, the panels and other\nTenth Indian Antarctic Expedition —  A Review 3\ncon",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Tenth Indian Antarctic Expedition - A Review",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:42.797321Z"
+  }
+}

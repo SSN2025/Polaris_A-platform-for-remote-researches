@@ -1,0 +1,81 @@
+{
+  "id": "comparative-account-of-benthic-community-at-t-ncpor-85e516",
+  "document_id": "NCPOR-85E516",
+  "source_file": "pg+195-206.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1171/1/pg+195-206.pdf",
+  "title": "Comparative Account of Benthic Community at Two Different Locations in the Continental Antarctica",
+  "year": 1993,
+  "expedition": "12th Indian Antarctic Expedition",
+  "category": "Biology / Microbiology",
+  "subcategory": "Comparative Account of Benthic Community at Two Different Locations in the Continental Antarctica",
+  "bibliographic": {
+    "title": "Comparative Account of Benthic Community at Two Different Locations in the Continental Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "12th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1993,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 12th Indian Antarctic Expedition examines key biology / microbiology phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Biology / Microbiology",
+    "subcategory": "Comparative Account of Benthic Community at Two Different Locations in the Continental Antarctica",
+    "tags": [
+      "biology-microbiology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Biology / Microbiology discoveries from 12th Indian Antarctic Expedition: \"Comparative Account of Benthic Community at Two Different Locations in the Continental Antarctica\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Biology / Microbiology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:20:46.776990Z"
+  }
+}

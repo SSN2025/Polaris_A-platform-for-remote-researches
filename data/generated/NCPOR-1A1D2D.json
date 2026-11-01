@@ -1,0 +1,95 @@
+{
+  "id": "summer-period-communication-services-at-maitr-ncpor-1a1d2d",
+  "document_id": "NCPOR-1A1D2D",
+  "source_file": "Chapter+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1102/3/Chapter+2.pdf",
+  "title": "Summer Period Communication Services at Maitri",
+  "year": 2008,
+  "expedition": "27th Indian Antarctic Expedition",
+  "category": "Logistics / Expedition Operations",
+  "subcategory": "Summer Period Communication Services at Maitri",
+  "bibliographic": {
+    "title": "Summer Period Communication Services at Maitri",
+    "authors": [
+      {
+        "name": "Trilok Kumar Saini",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      },
+      {
+        "name": "Hemant Gaur",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      },
+      {
+        "name": "Ramesh Kothiyal",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      }
+    ],
+    "expedition": "27th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2008,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "Summer Period Communication\nServices at Maitri\nTrilok Kumar Saini, Hemant Gaur and Ramesh Kothiyal\nDefence Electronics Applications Laboratory, Dehradun\nABSTRACT\nA three-member DEAL team provided the communication link between for Indian\nAntarctic Expedition and India.  A brief description of the services rendered during the\nsummer period of the 27th expedition is mentioned.\nKeywords: Antarctica, Maitri, Communication, Summer Expedition.\n1.0  INTRODUCTION\nDefence Electronics Applications Laboratory (DEAL) has been\nassociated with Indian Antarctic Expeditions since 1991, i.e. from the 11th\nexpedition. Antarctica being an isolated continent did not have elaborate\nHigh Frequency (HF) propagation model. Targeting this as a major\nactivity, DEAL has been carrying out voice and data experimentation over\nmulti-hop HF channel between Antarctica and India. Later on, Adaptive\nHF communication was also tried, which is still being pursued.  From year\n1995-96 onwards, i.e. 15th Indian Antarctic Expedition, DEAL took over\nthe total communication responsibility at Maitri. Since then, DEAL\nofficials have been offering communication support to Indian station Maitri,\nbased on its rich R&D experience.\nRadio room in Antarctic base Maitri is well equipped and has latest\nstate of the art communication equipment, capable of operating in extreme\nconditions of Antarctica. In Antarctica communication is a vital\nrequirement. Communication services allow scientists to remain in\ncontact with their research laboratories at the mainland (India); it makes\npossible to exchange ideas, transfer real-time data and scientific\ninformation. Communication also helps to maintain the morale of the\nexpedition members. VHF Radios are used for local communications, such\nas contact with the field parties, contact with vehicle convoys and in\nroutine activities of Indian Antarctic base Maitri. VHF communication is\nalso used for aviation band communication for safe flight operations.\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 297-299\n298                                       Trilok Kumar Saini, et al.\nHF and satellite phones are used for medium and long distance\nconnectivity with field parties, ship and mainland.\n2.0  COMMUNICATION DURING VOYAGE\nRole of the communication team starts from the day of sailing.\nDuring voyage- phone, fax, email facility is provided to the members by\nusing the system available on board ship. Calling time and email size are\nkept to a minimum, to restrict the expenditure on communication. Regular\nHF contact with India and Maitri is also maintained throughout the\njourney.  Messages for scientific and logistic information, HF-schedule\nare regularly exchanged between ship and Maitri. During onward, as well\nas return voyages, regular messages are exchanged with NCAOR, Goa\nabout the expedition progress and other activities.\n3.0  COMMUNICATION PROVIDED BY DEAL AT MAITRI\n3.1 VHF Based Fixed and Mobile Communication\nØ Connectivity between field parties and Maitri Radio Station.\nØ Communication with local and convoy vehicles.\nØ Regular VHF/HF communication with Russian station\nNovolazarevskaya.\n3.2 Flight Operation: Aviation Band\nØ Communication with helicopter pilots for real-time weather,\nlogistic and flight specific information updates for safe\nheli-operations.\n3.3  INMARSAT based Telex, Fax, Email and Telephone services\nØ Email facility to expedition members with INMARSAT-B\nterminal.\nØ Round-the-clock telephonic facility to expedition members with\nINMARSA T-Mini-M terminal.\nØ Smooth operation of INMARSAT MINI-M based FAX facility.\nØ Scientific Data transmission:\n· 6 hourly online synoptic data transfer to IMD-HQ, Delhi\nwith INMARSAT-C Terminal.\n· Data for Geomagnetic field variation to IIG, Mumbai.\n          299Summer Period Communication Services at Maitri\n· Automatic weather report to SASE, Chandigarh.\n· Digital Seismic data to NGRI, Hyderabad.\n· Report and data transmission of scientists to concerned\norganizations.\n3.4  HF Communication around Maitri and with India\nØ HF Communication between DEAL (India) and Maitri.\nØ Reception of HF-based weather charts, broadcast from Pretoria\n(South Africa), for analysis of Meteorological forecasting by\nIMD scientists.\n4.0  PARTICIPATION IN INSTALLATION OF EARTH STATION\nAT MAITRI\nOne of the major achievements of the 27 th Indian Antarctic\nExpedition was the establishment of India's own satellite Earth Station at\nMaitri. This has facilitated video-conferencing, video-streaming, internet\nfacility, real-time communication, online scientific data transmission to\nparent institutions, faster data transfer, streaming of limited television\nchannels from India to Maitri etc. The link has a bandwidth of around\n1 Mbps to operate at the data rate. This was a most ambitious project,\nwhich provided a vital link between Antarctica and India.\nAlong with ISRO and ECIL members, the DEAL team also actively\nparticipated in installation of the sat",
+    "summary": "During the 27th Indian Antarctic Expedition, scientists conducted logistics / expedition operations investigations focused on \"Summer Period Communication Services at Maitri\". Keywords: Antarctica, Maitri, Communication, Summer Expedition. These findings from Maitri provide vital baseline evidence for understanding polar environmental dynamics.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "Logistics / Expedition Operations",
+    "subcategory": "Summer Period Communication Services at Maitri",
+    "tags": [
+      "logistics-expedition-operations",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Logistics / Expedition Operations discoveries from 27th Indian Antarctic Expedition: \"Summer Period Communication Services at Maitri\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "summer period of the 27th expedition is mentioned.",
+      "page_number": 1,
+      "section": "Abstract / Introduction"
+    },
+    {
+      "field": "research_sites",
+      "source_text": "Keywords: Antarctica, Maitri, Communication, Summer Expedition.",
+      "page_number": 1,
+      "section": "Study Area / Observations"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:16:17.454823Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "chapter_2",
+  "document_id": "NCPOR-373E6C",
+  "source_file": "Chapter+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1088/1/Chapter+2.pdf",
+  "bibliographic": {
+    "title": "Chapter+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Response of the Ionosphere\nDuring the Low Solar Activity Period 2008\nOver Maitri, Antarctica\nPurushottam Bhawre1, Rupesh M. Das2, R. S. Dabas2 and A. K. Gwali\n1Department of Physics and Electronics, Barkatullah University, Bhopal\n2Radio & Atmospheric Science Division, National Physical Laboratory,\nNew Delhi\nABSTRACT\nPresent study, based on dual frequency GPS, derived preliminary results of\nthe diurnal and seasonal variations of Total Electron Content (TEC), amplitude\nscintillation (S4-Index) and response of TEC during the minor geomagnetic\ndisturbances over the Indian base Station Maitri (Latitude -70.65° N, Longitude\n11.45°E) Antarctica, during the low solar activity period (Jan.-Dec. 2008). Month-\nwise TEC values are highest during the months of January and December, as\ncompared to June month. As regarding seasonal variations, in winter months i.e.\nJune, July and August 2008, TEC values were lowest because ionization process\nare very low, due to the absence of sunlight; whereas during southern summer\nseason TEC values reaches its maximum, due to the presence of 24-hour sunlight\nand hence the ionization radiation from the sun. The observation revealed that the\nhigh latitude L-band scintillations are observed only during night time, and since\nit was a low solar activity period, hence the observed scintillations were generally\nweak type (s4 index less than 0.5). Season-wise, their maximum percentage\noccurrence is observed in winter season, i.e. polar night periods from May to\nAugust 2008, as compared to summer and equinox seasons. A minor geomagnetic\nstorm event occurred on 11 October 2008, the response of ionospheric TEC during\nthe minor magnetic field disturbance is also observed at Maitri. On sudden storm\ncommencement, the TEC showed a 50% enhancement, compared with its regular\npattern associated with magnetic storm in high latitude region Antarctic.\nKeywords: Ionosphere, Total Electron Content, Magnetic Storm, L-band\nScintillations, GPS.\n1.0  INTRODUCTION\nThe Polar Region offers exclusive a vantage point and an open\nnatural laboratory for ionospheric research. Ionospheric studies at Polar\nRegions are of interest to users of satellite transmissions and those\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 133-144\n134                                      Purushottam Bhawre,  et al.\nstudying aeronomy. A network of stations has been reporting data on a\ncontinuous basis for the long and short term predictions. Ionosperic Total\nElectron Content (TEC) data were recorded every 30 seconds, throughout\nthe year 2008 during the 27th Indian Antarctica Expedition. The Polar\nRegions are directly affected by the energy of charged solar particles and\nthus theionosphere shows high fluctuations. The TEC fluctuations over\nPolar Region depends on various factors and one of them is the ionization\nprocess in a high latitude region. Ionization process depends on suns\nactivities and zenith angle of the sun. TEC is highly variable with time and\nseason. Several studies have demonstrated that the TEC strongly depends\non solar activates (Da Rosa et al., 1973; Soicher, 1988; Feitcher and\nLeitinger, 1997; Van Velthoven, 1990). Many studies predicted that the\nm ax im u m o f th e 1 1 -y e ar so l ar ac ti v i ty c y c l e w i l l b e re ac h e d i n 2 0 00 o r\n2001, during the high solar activity period; and the ionosphere will have a\nstrong influence on the GPS. The end of the solar activity cycle will be\nreached in 2008; and during this period of negligible solar activity, the\nionosphere will have weak influence on the GPS (Bhawre et al., 2011;\nGwal et al., 2011; Purohit et al.).\nThe high latitude ionosphere often remains turbulent and develops\nelectron density irregularities due to solar flares-magnetosphere-ionospheric\ninteractions. The dimensions of these high latitudinal ionospheric\nirregularities (Polar Patches) range from few meters to kilometers and cause\nt h e G PS s i g n a l s t o s c at t e r i n t e r m s o f a m p l i t u d e an d p h a s e , c o m m o n l y\nreferred to as scintillations. These types of scintillations are also known as\nauroral scintillations. It is well known that ionosphere is a dispersive\nmedium, in which RF signals are refracted by the amount dependent on\nthe signal frequency and the electron density in regions of irregularities,\nresulting in random phase variations in the emerging wave front, known as\nphase scintillations.  Diffraction of signals also leads to variations in\nsignal amplitude referred to as amplitude scintillation (or amplitude\nfading for degradations in signal strength). These effects are strongest in\nequator, auroral and polar cap regions. High latitude auroral irregularities\nare formed from a precipitation of energetic electrons along terrestrial\nmagnetic field lines into the high latitude ionosphere. These electrons are\nenergized through complex interaction between the solar wind and the earth\nmagnetic fields, result",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "3] Atmospheric Sciences",
+    "subcategory": "Response of the Ionosphere During the Low Solar Activity Period 2008 Over Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:14:24.454637Z"
+  }
+}

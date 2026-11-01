@@ -1,0 +1,72 @@
+{
+  "id": "article_26",
+  "document_id": "NCPOR-AA3D63",
+  "source_file": "ARTICLE+26.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/631/3/ARTICLE+26.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+26",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nWind energy applications in Indian Antarctic station Maitri,\nAntarctica\nM.P. RAMESH\nXVI Expedition Head, Wind Energy,\nNational Aerospace Laboratories, Bangalore\nINTRODUCTION\nOne of the superlatives applied to Antarctica is \"the windiest continent\"\nwith good reason. In fact, Antarctic weather is rendered unbearable partly be-\ncause of the chill winds that never seem to let up once started. This is particularly\ntrue for coastal areas. Winds have been found to touch 300km/hr under blizzard\nconditions and dwellings constructed would have to be designed taking such\nwind loads into account. Wind Energy devices have been used with low to mod-\nerate success rates in Antarctica.\nThe Steering Committee on Antarctic Research set up by the Department of\nOcean Development recommended that alternative sources of energy should be\nused to supplement the station's own and its field camp's energy requirements.\nTo this end Wind Energy Division of National Aerospace Laboratories, Banga-\nlore submitted a comprehensive proposal regarding use of wind energy at In-\ndian station. The  proposal was discussed by the expert groups and approved to\nbe implemented during XVI and subsequent expeditions. Accordingly during\nXVI expedition one senior scientist was  deputed form wind Energy Division,\nNational Aerospace Laboratories to Antarctica to get a first hand experience and\nchart out the future course of action.\nWind Energy In Antarctica- International Experience\nWind Energy has been harnessed in Antarctica by various scientific\ncommunities from counties with both temporary and permanent stations. De-\ntailed reports on the precise nature of the experiments conducted are not easily\navailable. From the available resources it has been found that American, Span-\nish and Russian stations have taken serious interest in using wind energy in their\nstations. Machine sizes of few watts to 20 kW have been found to be experi-\nmented with. These machines were employed essentially for space heating and\nmuch of the time only experimented with. Some of the interesting features of\nthese experiments is the different points of view regarding the same machine or\nexperiment. German station at Naumayar had a machine of 20 kW capacity. The\ndesigners claimed that the machine was indeed proven in Antarctic environment\nwhile Germanischer Lloyds have stated that while the machine would be useful,\nneeds to be strenghtened on several counts. Similar experiences have been re-\n416\nM.P. Ramesh \nported also from 2 Russian machines. American stations experimented with small\nsystems in the capacity range of 1 to 3 kW. These machines were taken from\nmarket and were fully instrumented to study the performance. Some authentic\nreports form Russia indicate that the machine's life from the quoted twenty plus\nyears gets drastically reduced in Antarctic environment In fact, after two or three\nyears of operation the machines would require major overhauling and replace-\nment of critical components.\nWind Energy Application in Antarctica- Indian experiments\nIndian Antarctic Programme has located a permanent station in Schirmacher\nhills and has  summer camp sites. The station can house 25 members during\nwinter and during summer nearly seventy members would live and work in the\nIndian station. The station is powered by modified diesel engines running on\nAviation Turbine Fuel. At any given time two 63 kV 3 phase alternators would be\nproviding electrical power required in the station . Four boilers provide the heat-\ning required at the station, turn by turn.\nDuring 1984 , Bharat Heavy Electricals Limited sent a 4 kW wind powered\nbattery charger to be installed at the station for study and experiments. The ma-\nchine was installed complete with control unit, dump load and batteries. The\nmachine performed for a short while. During a blizzard the machine developed\nsome snags which  could not be rectified with the available facilities at the sta-\ntion. Subsequently Research and Dvelopment Establishment, installed a much\nsmaller unit and conducted some experiments. But as such the machine was not\ncontemplated to be used for any specific application. By this time Solar Photo\nvoltaic panels were also used by field camps particularly for  charging\ncommunication batteries.\nThese experiments were similar to those conducted elsewhere in the sense\nthat the end use was not very well defined and it was also not feasible to disturb\nexisting life support systems with out fully exploring the feasibility and reliabil-\nity of the systems used. It was then decided that the matter of using wind power\nin the Indian Antarctic station should be taken up as a specific task and carry out\ndetailed analysis of available options keeping in view the limitations and safety\nrequirement.\nWind Energy Plan for Indian Antarctic Station\nLooking at a sustainable development point of ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "6]Engineering And Environmental Studies",
+    "subcategory": "Wind energy applications in Indian Antarctica station Maitri- XVI expedition Report",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:45.457962Z"
+  }
+}

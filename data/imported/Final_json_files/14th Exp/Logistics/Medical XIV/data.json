@@ -1,0 +1,72 @@
+{
+  "id": "article_26_1",
+  "document_id": "NCPOR-FCD014",
+  "source_file": "ARTICLE+26_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/434/3/ARTICLE+26_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+26_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 357-360 \nMedical Report - XIV Indian Antarctic Expedition\nS. ANANT\nAFMC (IAF), New Delhi\nThe 14th IAE Indian Antarctic Expedition sailed out of Mormugao on 17\nDec 94 and reached Antarctica on 10 Jan 95. The voyage was completed\nuneventfully except for the few cases of sea sickness. All the shelf operations\nand the transport of personnel and material were completed without any mishap.\nA case of partial amputation of great toe under general anaesthesia was\ncarried out for a member of the 13th IAE along with the doctors of the 13th\nIAE. Two more cases of minor injuries were attended to onboard MV Polar\nBird.\nDuring the entire period of the 14th expedition the members enjoyed good\nhealth except for the occasional injuries arising due to load lifting and good\namount of outdoor work. During the stay at Maitri the MI room was refurbished,\npainted. All essential equipments e.g. defibrillator, ECG machine and suction\napparatus (foot and electric operated) were repaired and made functional. All\nanaesthetic equipment along with various fitments were tested and made\nserviceable.\nThe 15 mA X-ray machine was tested and films of normal cases and some\ndental X-rays taken and development of these was done so as to get a feel of\nthe method and standardise radiological procedures. Similarly laboratory\nequipments were checked and kept in order.\nOn the 07 Feb 96 an expedition a member of the 15 th IAE sustained fracture\nfemur (R) due to a vehicle accident. Closed reduction was done under general\nanaesthesia by the anesthesiologist/surgeon of 14th IAE along \nof the 15th IAE and doctor from Russian Station Novo. The case was eventually\nevacuated by air to India from Mauritius on 12 Mar 96.\nOne of the members of the 14th IAE accidentally fell into the icy waters\nat India Bay when a portion of the shelf on which he was standing caved in.\nImmediate measures to treat possible hypothermia was instituted with complete\nrecovery of the patient.\nAn outline of the medical facilities at Maitri is as follows:\n358 S. Anant \n1. Medical Facilities at Maitri\n(a) Maitri clinic comprises a two-room complex each of approx. 10' x 8'\nsize. One of these serves as the MO' s examination room-cum-dispensary while\nthe other is Operation theatre-cum-dressing room-cum-store.\nAll pathological investigations can be in the \"A\" Block room which has\nbeen insulated and heating provided by convector and radiator. Presently due\nto extreme paucity of space it is not possible to undertake any major surgical\nprocedure in the OT. In this respect it is relevant to point out that a case of partial\namputation of great toe of a member of the 11 WOT was carried out onboard\nMV Polar Bird in the month of Mar 95 and in the month of Feb 96 a case of\nFracture femur was operated upon in the Chaupal for want of space!\nImportance of having a spacious OT at Maitri for any major surgery cannot\nbe overemphasised.\nWe have recommended a containerised hospital complex away from the\nmain Maitri building and pending which an extension of the present OT.\nb)Anaesthesia : There are two Boyle's apparatus of which one is portable\nbut is nonfunctional due to faulty flowmeter. Both the machines are old and\nneed urgent replacement with adequate spares e.g. washers for cylinder yoke,\ntubings and flowmeter and Adam's valves.\nIt is recommended that the 15th team can put in a demand for a new Boyle' s \nmachine MK-IV of standard make — Indian Oxygen Ltd. This team has\nbrought a Pulse Oxymeter which is an useful aid to provide safe Anaesthesia.\nc) Surgical: Adequate stock of surgical instruments and linen is available\nfor any major or minor surgical procedure. Two autoclaves are available and\nfunctional. Adequate no. of surgical drums are also available.\n2. Medical Attendance\na) Introduction : Nowhere is the dictum \"Prevention is better than cure\"\nmore true than in the isolation of Antarctic winter. The extreme physical\nenvironment and the unusual psycho-social conditions of living in a closed\ncommunity isolated from the rest of the world contribute equally to the medical\nproblems encountered. This was repeatedly emphasised by the medical officers\nboth formally and informally. Prompt medical attendance and probably con-\nstant presence of medical officers in all convoys, has helped 12 WOT to spend\na safe and injury free winter.\nb) Medical Problems Encountered ; Apart from scattered routine minor\nproblems like dyspepsia, diarrhoea, aphthous ulcers, headache etc., which were\nMedical Report - XIV Indian Antarctica Expedition  359\nfew and far between, the following major groups of problems were encountered\nby this team — \ni) Musculo-skeletal Trauma — C ommon cases seen were, sprain ankle,\ncontusion injuries, finger/toe nail haematoma, contusion injuries to the\nfingers. Apart from this a few lacerated/incised wounds were also seen.\nThere were no fracture cases. All cases were",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "7]Logistics",
+    "subcategory": "Medical Report—XIV Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:24.097139Z"
+  }
+}

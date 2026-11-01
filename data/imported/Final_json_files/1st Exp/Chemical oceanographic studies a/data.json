@@ -1,0 +1,72 @@
+{
+  "id": "article_2b8",
+  "document_id": "NCPOR-308BFB",
+  "source_file": "ARTICLE%2B8.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1142/1/ARTICLE%2B8.pdf",
+  "bibliographic": {
+    "title": "ARTICLE%2B8",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Chemical Oceanographic Studies Along a Section From 32°S to\nAntarctica in the Southwestern Indian Ocean\nR. Sen Gupta 1 and S. Z. Qasim 2\nABSTRACT\nWater samples collected during the First Indian Expedition to An tarctica, were analysed for salinity, diss olved oxygen,\npH. phosphate-phosphorus, nitrate-nitrogen, nitrite-nitrogen and si licate-silicon. These parameters were used to iden tify the\nregions of pola r divergence, antarctic convergenc e and sub-tropical convergence. Within the limits of the available data, the\nexistence of these three regions has been i dentified. Downward gli ding of the nutri ent-rich water along the continental slope of\nAntarctica was also recorded.\nThe atomic ratios of the change in A AOU: A Si: A N: A P were 285: 58:19:1. A comparison of these with similar ratios\nfrom the northern Indian Ocean indicates an excess of 19% nitrate and 45% silicate in the southern Indian O cean while the\nphosphate concentrations in both these seas were found to be quite similar. 'Reserved' fractions of phosphate and  nitrate\ndecreased significantly from the antarctic waters (south of the antarctic convergence) to the sub-antarctic waters found north\nof this region. This indicates that there is an increase in the intensity of oxidat ion process in these areas. Similar values of\n\"reserved\" silicate in both the regions indicate their origin from the oxidation and probably from other proce sses. Applying an\nempirical relationship between the silicate and AOU, it was observed that the lower ranges of silicate concentration were due\nto its consumption by siliceous algae, north of the po lar divergence.  Negative values between the observed and the calculated\nvalues suggest a transfer of oxygen from deeper layers to intermediate layers. Oxidative ratios do not indicate any difference in\nthe rate of ox idation in the Indian Ocean region, north and south of the equator up to the zone of Antarct ic convergence.\nINTRODUCTION\nThree major oceans— the Atlantic, Pacific and the Indian, have their  common southern boundary in\nthe southern ocean. The region between Australia, South America and Africa girdles the globe and allows\nfree interocean circulation. This region promotes processes that equalize the characteristics of the three\nmajor oceans. Because of the importance of these processes and almost similar climatic conditions\nprevailing in the circumpolar zone, the sea is often given a separate name: the 'Antarctic Ocean',\n'Antarctic Seas', or 'Southern Ocean(s)'. However, this ocean lacks a northern boundary in the classical\nsense, and hence its limit is arbitrarily fixed at a latitude marked by  oceanographic processes such as\na convergence or divergence.\nFor the purpose of the present study, we simply call the waters within this zone as the antarctic waters.\nSuch a general term is used simply to identify the waters from the coasts of Antarctica northward up  to the\npoint of antarcti c convergence. This region will also include the narrow belt of polar divergence near  the\nantarctic coast. The water between th e antarctic convergence and the subtropical  convergence is the\nsub-antarctic waters. This term is best applied to the surface layers of this zone, since the intermediate,\ndeep and bottom layers become more or less continuous across the antarctic convergence.\nAlmost all of the deep and bottom water masses of the three oceans originate in  the antarctic\nwaters. Perhaps, for this reason a number of reports of physical oceanographic, characteristics of the\nsouthern^ ocean are available. Similarly, because of the importance of \"krill\" and its phenomenal\nabundance south of the antarctic convergence, a number of reports on the biology of southern ocean\nhave also appeared.\nClowes (1940) was the first to report on some aspects of the chemistry of the southern ocean from the\ndata collected during the  'Discovery'  cruises. Several other reports (Jacobs 1966; Jacobs and Amos 1967)\n1 National Institute of Oceanography, Dona Pa ula, Goa - 403 004.\n2 Department of Ocean Development, South Block, New Delhi - 110 011.\n69\nChemical Oceanographic Studies,..\nappeared on some hydrochemical aspects, mainly from the regions of Weddell Sea of the southern ocean.\nThe first comprehensive report of the hydrochemistry of the Indian Ocean sector of the southern ocean is\nby Ivanenkov and Gubin (1960) based on the  'Ob'  cruises of 1956. Most of the analytical method, used by\nthem, have since been refined and improved. The most recen t record of the chemical observations in this\nregion is by Jacobs and Georgi (1977) from the  'Conrad'  cruises of 1974. Thus, it is obvious, that there\nexists a big gap in  our knowledg e about a comprehensive picture on the hydrochemistry of the southern\nocean.\nUsing the  opportunity provided by the First Indian Expedition to Antarctica by the ship M.V.  'Polar \nCircle', several stations along a NE-SW transect from 69°S to 32°S in the southwestern Indian Ocean\nwere worked. This paper gives a report on",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "Chemical oceanographic studies along a section from 32°S to Antarctica in the south western Indian Ocean",
+    "subcategory": null,
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:58.746663Z"
+  }
+}

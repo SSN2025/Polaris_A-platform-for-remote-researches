@@ -1,0 +1,72 @@
+{
+  "id": "337_340",
+  "document_id": "NCPOR-98F6E4",
+  "source_file": "337-340.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/759/1/337-340.pdf",
+  "bibliographic": {
+    "title": "337-340",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "11] Scientific Report Eleventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eleventh Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 9, pp. 337-340 \nHF Voice Data Communication Between DEAL,\nDehradun And Maitri,Antarctica\nKALI RAM\nDefence Electronics Applications Laboratory\nRajpur Road, Dehradun\nAbstract\nAn experimental low power HF station with a log periodic antenna was installed at\nMaitri station in December 1991 during the eleventh Indian expedition to Antarctica. Both,\nvoice and PC based data communication were provided between Maitri and India. The\ncommunication window was found for a duration of 4 to 5 hours daily except, when due to\nhigh magnetic storms there were complete blackouts. This work was undertaken as a joint\nmission by DEAL and R & D E(E),Pune.\nIntroduction\nStrong communication link with rest of the world being the backbone of\nAntarctic research, Indian scientists have addressed themselves to such need\nand carried out research, especially on High Frequency (HF) c ommunication\nright since our first venture in th at distant continent (Sengupta,1983; And-\nhere,1985; Hanjura,1986 and Singh,1986).\nIndian station, Maitri at Antarctica is about 12000 km away from India.\nHF communication can cover this range without any relay station using\nmulti-hop sky wave mode via ionosphere. The HF communication is possible\nfor a period of 4 to 5 hours every day. There was a long felt need of voice and\ndata communication from Maitri to India. To serve this goal, DEAL, Dehradun\nset up an experimental HF station at Maitri.\nSystem Configuration\nThe following HF system was configured and installed at Maitri for\nproviding voice/data communication between Maitri and India.\nThe system consists of an HF Transceiver, a data modem and a PC as data\nterminal. The modem is connected to the PC with a RS 232-C interface. The\n338 Kali Ram \nmodem and a transceiver are connected through PTT, AF out and PATCH IN\nfor data communication (Fig 1).\nThe modem generates the AFSK (Audio frequency shift keying) audio\ntones as per digital data received from PC which is further modulated in SSB,\namplified and transmitted by the transceiver. The signal is detected by the\nReceiver and demodulated to form digital data. The system specifications are\ngiven below:\nSystem specifications\n1. Tx Power 100 Watt\n2. Frequency Band 1.2 to 30 MHz\n3. Modulation AFSK/SSB\n4. Data Rate 45,50,75,100,300 baud\n5. Receiver Sensitivity 0.3 uv at 10 dB SINAD\n6. Frequency Stability 1 x 10\"\n7. Antenna Dipole and LPA\n8. Interface RS232-C\nA multi dipole antenna was fabricated and installed for communication.\nThe SWR measurements were taken and found within acceptable limits (i.e.be-\nlow 2). One compact HF log periodic antenna with gain around 9 dB in\nfrequency range 14 to 40 MHz was installed (Fig 2).\nData communication makes use of FEC and ARQ techniques as defined in\nCCIR 476.3(6). In FEC mode each character is transmitted twice to provide\nredundancy. The receiver checks for 4B/3Y (B-Mark Y-Space) ratio in the\nreceived data for determining the validity of the received character. No coding\nis done in this type of FEC.\nARQ (Automatic Repeat Request) mode uses a group of three characters\nfor exchanging data. The transmitting station sends one block of three charac-\nters at the fixed rate of 100 baud and waits for acknowledgement. If 4B/3Y ratio\nis not maintained at receiver,the Rx generates negative acknowledgement. On\nFig 1 : Block diagram of HF communication system.\nHF Voice Data Communication Between DEAL, Dehradun ... 339\nFig 2 : A compact HF Log Periodic Antenna (LPA) installed at Maitri.\nreceiving positive acknowledgement, the sending s tation takes up next three\ncharacters, otherwise the same block is transmitted again and again till it is\nacknowledged. Character error was measured by comparing received data with\na standard text and found to be minimal.\nRF Power vs. Performance\nA linear amplifier of 1200 PEP was employed to observe the effect of\nincreased RF power. The experiment conf irmed that there was no significant\nchange in the performance with increase of power in the presence of magnetic\nstorm. Communication, both in voice and data, was found to be satisfactory\nusing 100 Watts power most of the time.\nResults\nOut of the 42 days for which communication was tried between 1900 hrs\nand 2400 hrs IST, the HF c ommunication was satisfactory on 33 days. Many\nuseful text messages including scientific data were exchanged between Maitri\nand India. Sometimes strong magnetic storms caused HF black-out. The HF\ncommunication was found to be possible only for around four hours daily. This\nmay be attributed to the following reasons : \n340 Kali Ram \na) Unique ionospheric characteristic at the high latitude region charac-\nterized by strong magnetic activity.\nb) High path loss of RF energy due to multi - hop propagation.\nc) The effect of magnetic disturbances are more pronounced for region\ninvolving auroral zones.\nRecommendations\nTo increase the available communication window and ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "6]Data Communication",
+    "subcategory": "HF Voice and Data Communication Between DEAL, Dehradun And Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:18:57.845795Z"
+  }
+}

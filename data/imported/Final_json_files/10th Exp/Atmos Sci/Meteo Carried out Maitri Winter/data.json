@@ -1,0 +1,72 @@
+{
+  "id": "article_2b5",
+  "document_id": "NCPOR-DF0080",
+  "source_file": "ARTICLE%2B5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/377/3/ARTICLE%2B5.pdf",
+  "bibliographic": {
+    "title": "ARTICLE%2B5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No, 8, pp. 71-91 \nMeteorological Studies Carried Out at Maitri During Winter\nPeriod of Tenth Indian Scientific Expedition to Antarctica\nP.M.GULHANE AND S.S. KATARIYA\nIndia Meteorological Department\nAbstract\nThe Antarctic continent is the coldest, windiest, driest and least accessible of all the continents.\nIt plays an active role in shaping the global climate and is significantly responsible for future climatic\nchanges. Extensive meteorological observations, comprising surface and upper-air parameters, were\ntaken on ship during voyage, from Goa to Antarctica and back, and at Maitri during 1991. In this report\nthe studies carried out at Maitri are discussed.\nThe interesting features with respect to surface observations, total ozone and vertical profiles of\nozone during the period 01.01.91 to 31.12.91 have been discussed. August was the coldest month with\na lowest monthly mean air temperature of-17.0°C and extreme lowest air temperature of-30.6°C of\nthe year was observed on 2nd August 1991. There were in all 15 blizzards spanned over 27 days during\n1991. Warmer air temperatures were experienced during blizzards. The infrared (terrestrial) radiation\ndisposition in the different layers of upper atmosphere have also been discussed.\nIntroduction\nMeteorological programme of the Tenth Indian Antarctic Expedition (both\nsummer and winter) was mainly the continuation of the long term programme of\nIMD introduced in earlier expeditions.\nThe Tenth India n Antarctic Expedition left Goa from Marmugao port on\n27.11.90 and reached Antarctic ice-shelf near Dakshin Gangotri station on\n20.12.90. India Meteorological Department contingent consisted of two members\nfor winter and one member for summer.\nObjectives\n(i) Recording of 3 hourly synoptic observations and to disseminate 6 hourly\nsynoptic data to IMD, New Delhi for its global telecommunication network\nexchange on real-time basis.\n(ii) To investigate ozone-hole phenomena during Austral spring over Antarctica.\n(iii) To monitor surface ozone.\nP.M. Gulhane & S.S. Katariya \n72\n(iv) To measure infrared radiative fluxes in the upper atmosphere.\nTo accomplish the abov e objectives th e following meteorological observations\nwere planned:\n(a) Onward Cruise \nSurface observations at 3 hourly intervals of the parameters such as: surface\npressure, wind speed, wind direction, visibility, air temperature, humidity, sea\nsurface temperature, state of the sea etc. and transmission of main synoptic data to\nIMD, New Delhi on real-time basis.\nRadiosonde ascents were taken at the rate of one ascent per clay preferably at 12\nZ subject to the suitable surface wind below 30 kts.\n(b)At Maitri \n(i) Synoptic observation at 3 hourly intervals and transmission of main synoptic\ndata to IMD, New Delhi on real-time basis.\n(ii) Ozonesonde ascent, one per week, to study the upper-air profile witlh respect\nto temperature, humidity and ozone concentration. Ozonesonde data was\nexchanged with George Forster and Syowa station for comparing the data\nduring ozone-hole period of Antarctica.\n(iii) Radiometersonde: These were attempted before and after the blizzard at the\nrate of two ascents per month from March to November to study the infrared\nradiative fluxes in the upper atmosphere.\n(iv) Weather forecast: Outlook of weather for 24 hours  was provided for plan-\nning the daily activities and maintenance of the station and also during\nconvoy from Maitri to Dakshin Gangotri and back.\nIn addition to these observations the atmospheric turbidity with sunphotometer\non 440 and 640 mm wavelengths, surface ozone and day-to-day maintenance of all\nthe autographic instruments used for continuous record of temperature, wind speed,\nwind direction, pressure, global solar radiation etc. were carried out.\nResults and Discussions of Meteorological Data\nA. Mean Sea Level Pressure \nAs seen from the graph of monthly mean sea level pressure for 1991 (Fig. 1 A),\nthere is no systematic variation of monthly mea n sea level pressure. There are\nsignificant variations from January to April and  gradual variations are observed\nfrom April to October followed by steep rise thereafter till December.\nThe highest maximum mean sea level pressure during 1991 was 1010.5 hPa\nrecorded on 27 December and extreme lowest M.S.L. pressure of 952.1 hPa was\n73\nMeteorological Studies Carried out at Maitri... \nFig. J. Mean monthly variations of (A) mean sea level pressure (B) surface air temperature and (C) \nwind speed. \n74 P.M. Gulhane & S.S. Katariya \nrecorded on July 7. The highest mean monthly M.S.L. pressure of 995.1 hPa was\nattained in December and lowest mean monthly M.S.L. pressure of 977.7 hPa in\nMarch. In majority of cases decrease of pressure was associated with bad weather\nor strong wind speed.\nB. Surface Air Temperature \nThe monthly mean air temperature during 1991 decreased gradually from +0.9°C\nto - 0.9°C from January to February (",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 21
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Meteorological Studies Carried out at Maitri during Winter Period of Tenth Indian Scientific Expedition to Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:47.048230Z"
+  }
+}

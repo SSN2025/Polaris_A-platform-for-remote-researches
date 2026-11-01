@@ -1,0 +1,72 @@
+{
+  "id": "article_10",
+  "document_id": "NCPOR-ABA389",
+  "source_file": "ARTICLE+10.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/522/3/ARTICLE+10.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+10",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. 15, PP 121-128 \nESTABLISHMENT OF PERMANENT GPS\nTRACKING STATION AT MAITRI,\nINDIAN ANTARCTIC STATION.\nE.C.Malaimani, L.Premkishore & I.P.Raju\nNational Geophysical Research Institute, Hyderabad.\nIntroduction\nKeeping in view of the innumerable scientific objectives such\nas studies on c r ustal uplift after deglaciation, local earthquakes,\naccurate determination of hypocentres of earthquakes which occur\nthroughout t h e world, crustal  movements and to interpret the\nstructure a n d composition of the earth's interior, NGRI has launched\na study adopting space geodetic technique using GPS during the\nXVI Indian expedition to Antarctica.\nAmong the space geodetic techniques, GPS is state-of-the\nart, inexpensive, easy to use technique for  crustal deformation\nstudies. Since GPS is the THRESHOLD TECHNOLGY. It is being\nused for Geodynamic applications worldwide. In USA, JAPAN,\nAUSTARLIA,  NEWZEALAND, and GERMANY cluster of GPS\ncontinuous  monitoring networks are established to conduct regional\nand local campaign for crustal  deformation studies. As part of the\nglobal campaign, NGRI has launched this programme for the first\ntime at Antarctica.\nInitial short term GPS measurements were carried out at Maitri,\nIndian station at Antarctica with an  objective of filling up the GPS\ndata gap in Antarctica region between LAT 0° to 30° East and\nL O N 6 0 ° and 80° South in the context of global GPS network as\nwell as to study th e ongoing Indian plate motion south of Indian\nPeninsula.  ASHTECH Z XII GEODETIC 12 channel GPS receiver\nwas commissioned and data was acquired for about 45 days from\nJan 97 to Feb 97 during XVI expedition.\n122 E.C.Malaimani, L. Premkishore & I. P. Raju \nIGS permanent GPS station at NGRI\nAlready NGRI has established an IGS permanent tracking/\nreference station in JUNE 1995 to participate in the IGS global\nnetwork for the following scientific objectives to study the ongoing\nIndian plate motion by:.\n1) determination of intercontinental an d intraplate baseline\nvectors and monitor the def ormation process along the vectors.\n2) fixing a reference point in an inertial frame of reference\nand providing scope  for establishing fiducial sites to constrain GPS\nmeasurements.\nContinuous operation of the station, data acquisition, data\ntransfer to our German collaborators are on from SEPTEMBER\n1995. GPS data analysis and processing was carried out for the\nfirst data set by  the GLOBAL NETWORK SOLUTION. Very long\nbaselines of 6900 km from NGRI, HYDERABAD to OTHER\nITRF94 STATIONS hav e been estimated within an rms error of\n2cms. Hyderabad site coordinates were firmed up.\nAs an extension of this already established activity, to\nemphatically focus the studies on interplate movement and crustal\ndeformation precisely between I NDIA AND ANTARCTICA by\nestablishing a permanent GP S station at ANTARCTICA, this GPS\nAntarctica programme was initiated during XVI Expedition.\nAn experiment to measure the VERY LONG BASELINES\nbetween INDIA AND ANTARCTICA by continuous GPS monitoring\nhas been designed to carry out the crustal defor mation studies.\nEstimation of coordinates, the change in pos ition coordinates,\nbaselines, rate of base line vectors and velocity fields thus computed\nwill enable us to assess the crustal deformation and the\nfollowing. (Ref. 1)\n1) Relative displacement between INDIA and ANTARCTICA.\n2) CRUSTAL UPLIFT after deglaciation.\n3) Elevation changes.\nEstablishment of permanent GPS Tracking Station  123\nEstablishment of permanent GPS tracking station at Maitri.\nDuring XVII expedition, a permanent GPS tracking station\nat Maitri was established by commissioning Ashtech Z XII 12\nchannel Geodetic dual frequency GPS Receiver. Geodetic monument\n/permanent pillar was constructed and GPS choke ring antenna was\ninstalled. Continuous monitoring have commenced from Jan.'98.\nA suitable site was selected adjacent to  Tirumala hut to\nconstruct the Geodetic monument/permanent pillar.(fig. 1)\nGPS system consists of following : \n1) Antenna / Front end : \nThe antenna is  a drooped crossed-dipole type mounted to a \nchoke ring antenna base plane. The DORNE MARGOLIN T choke\nring, L band Omni directional antenna receives the L1 and L2\nsignals from all visible GPS satellites. These signals pass through\nan L band pre selection filter of 500MHz bandwidth centered at\n1400 MHz before  amplification by a low-noise (125o K ) amplifier.\nThe L band RF signal is then communicated along coaxial cable of\nup to 75 feet length to the receiver which is housed in Tirumala\nhut (fig.2)\n2) Receiver : \nThe GPS receiver is connected to  a onsite Digital Lap top\ncomputer via a serial communication port. The receiver\ncontinuously tracks those s atellites which fulfill preset criteria such\nas elevation cutoff (set at 10°). There is no obstruction of the\nhorizon. Measurements are at every 15 sec interval which is the\nstandard followed for ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Establishment of permanent GPS tracking station At Maitri,Indian Antarctic Station",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:17.171600Z"
+  }
+}

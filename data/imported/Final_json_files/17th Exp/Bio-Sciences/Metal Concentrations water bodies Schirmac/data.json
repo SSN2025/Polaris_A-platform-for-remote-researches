@@ -1,0 +1,72 @@
+{
+  "id": "article_19",
+  "document_id": "NCPOR-AD6499",
+  "source_file": "ARTICLE+19.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/530/3/ARTICLE+19.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+19",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. 15, PP 211-219 \nMETAL CONCENTRATIONS IN WATER BODIES\nOF SCHIRMACHER OASIS, ANTARCTICA\n: AN ASSESSMENT\nA.K. Kas hyap, A.N. Sahi, S.P. Shukla and R.K. Gupta\nBanaras Hindu University, Varanasi\nIntroduction\nAntarctic Treaty Consultative Meeting (ATCM) held in\nGorizia, Italy in 1993 emphasized the necessity of long term\nmonitoring progr ammes to verify the impacts of human activities\nsuch as tourism and scientific research on the physico-chemical\nattributes of antarctic ecosystems. The SCAR/COMNAP document\non the environmental monitoring ( 1992) also referred close\nmonitoring of the chemical compounds (eg.  Heavy metals and/or\nselected anions in  waste water, soil, snow etc.) alongwith the\nbiological indices of the Antarctic ecosystems (SCAR report, No.\n12, October, 1996). Monitoring of the concentrations of metal ions\n(including heavy metals) is an important pr erequisite for the\nassessment of the aes thetic value of the lake water of Antarctica.\nThe toxic impacts of heavy metals on plants  and human beings are\nwell established therefore, a sufficien t bulk of baseline data\nregarding the concentrations of heavy metals in lake water as well\nas timebound variations in the concentrations of  these metals is\nessential for the timely implementation of remediation processes.\nPresent communication describes the  results obtained by the\nanalysis of the samples collected during the austral summer (1997-\n98) of the 17th Indian Antarctic Expedition. C oncentrations of\ntwelve metals were determined in the water samples collected from\ndifferent sites around the permanent Indian station 'Maitri' situated\nin Schirmacher Oasis.\n212 A.K. Kashyap. A.N. Sahi, S.P. Shukla and R.K. Gupta \nMaterial and Methods\nThe objective of  the water quality monitoring of the lakes\naround 'Maitri' (70°, 45' 52\" S : 11°, 44' 0 3 \" E) in the\nSchirmacher Oasis, Antarctica was to (i) determine the quality of\nwater in its natural state which might be available for the future\nneeds and to assess (ii) the impact of activities by human and\nscientific operations upon the quality of water in its suitability for\nrequired uses.\nStudy Sites  :  Water samples were collected from 40 different\nlocations (Fig.1) at  a particular time and represents only the\ncomposition of the source at that time.\nControl :  This comprises of lakes where no  human activity was\nfound in the vicinity eg. DG lake and Epsilon or Long lake in the\nCentral Schirmacher, west of 'Maitri' and CL1, CL2 and CL3\nlakes as shown in Fig.l. The observations of these lakes have been\npooled to represent the undisturbed control sites (T able -1).\nPriyadarshini :  Sampling from M1 to M6 and M11 to M19 has\nbeen presented in the Fig.l.\nWaste Disposal Pond (WDP) :  The waste water is collected from\nthe kitchen, urinal and wash room in the waste discharge pond.\nPeriodically it is pumped out and discharged few hundred meters\naway as shown in Fig.l. From the dis charge point of the pumped\nwaste water, the water trickles down to the waste disposal pond\n(GL/L). Water renewal is a constant feature in this pond due to the\nsnow melts of the Glacier in the South. This causes rapid dilution\nof the metals in the summers (see sampling points WDP1 to WDP4\nand Li1 to Li2 in Fig.l).\nBehind Aditya Generator Complex (BAG) :  Sampling was done in\nthe small stagnant pool of water behind the generator complex\nexpressed as BAG1 to BAG4 and GL/R (Fig.l and Table. 1).\nPipeline Sites :  This comprises of water samples just beside the\ndrinking water pipline in the Priyadarshini-lake (P2 to P6) upto the\nMetal Concentrations in Water Bodies  213\ncontainer complex and P1 from the pump house (Fig. 1 and\nTable.1).\nSampling procedure  :  Samples were collected in 1 litre bottles for\nthe study of Acid-Extractable M etals. At the time of collection the\nentire sample was acidified with 5 ml conc HNO3/L sample.\nBefore analysis, the sample was well mixed and transferred to 100\nml flask and added 5 ml 1 + 1 high purity HCl. The same was\nheated for 15 min on  a steam bath and f iltered through membrane\nfilter and the filterate volume was adjusted to 100  ml for further\nanalysis. Metal analysis was carried out by Atomic Absorption\nSpectrophotometer were as the analysis of Sodium and Potassium\nwere estimated by flame photometer (Greenberg et al., 1992).\nResults and Discussions\nCadmium is regarded as one of the most toxic elements in\nthe environment. Its pr esistence in the environment, rapid uptake\nand accumulation in the  food-chain contributes to its potential\nhazards. Recommended level of cadmium in  drinking water is 0.01\n|g/ml (US and Indian Standards) and  0.005 |g/ml according to\nWHO guideline values. Maximum concentration of 0.05 |g/ml Cd\nwas recorded in waste disposal pond which wa s slightly lowered in\nPriyadarshini (0.047 |g/ml). Taking into account the concentration\nof Cd adjacent to the pipeline sites ( ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "4]Bio-Sciences",
+    "subcategory": "Metal Concentrations in water bodies of Schirmacher Oasis, Antarctica _ An Assessment",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:22.519416Z"
+  }
+}

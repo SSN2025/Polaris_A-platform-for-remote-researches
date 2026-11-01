@@ -1,0 +1,72 @@
+{
+  "id": "article17",
+  "document_id": "NCPOR-541061",
+  "source_file": "article17.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/276/3/article17.pdf",
+  "bibliographic": {
+    "title": "article17",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 247-256 \nIce Flow Conditions in the Ice Sheet Draining Part\nof the Central Queen Maud Land, East Antarctica\nM.K. KAUL, R.K. SINGH, D. SRIVASTAVA, S. MUKERJI AND S. JAY ARAM\nGeological Survey of India\nFaridabad-121001\nAbstract\nThe area of central Queen Maud Land described here, lies between longitudes 9° to\n14°E and latitudes 70° to 72°S. The present day flow conditions of the area have been\ndescribed to provide a first hand information about the dynamic state of this segment\nof the ice sheet, and to lay a basis for future work. The flow direction of the inland\npolar ice, as observed in the field, and the location of the grounding line is demarcated,\nbased on surface studies. Coordination of four stakes fixed on the margin of the inland\nice on experimental basis, has revealed movement of the ice varying from a minimum oi\n0.031 m to a maximum of 1.91 m per day, based on the observation of one year. The\noutline of a part of shelf ice surveyed (January-February, 1986) and compared with the\nsatellite imagery of. 1975, shows very little change in its outline. The present work could\nform a basis for inducting various techniques to assess the flow movement and mass flux\nin this part of central Queen Maud Land.\nIntroduction\nCentral Queen Maud Land encompassed between longitudes 9°E and 14°I\nand latitudes 70°S and 72°S reveals the two classical divisions of Antarctic ice, i.e\nthe shelf ice and the inland continental ice. Between the two there has to be a \nline where the polar ice, moving over the bedrock, starts floating on the sea\nThis 'grounding line' is very important component of the system of the ice\nsheets and ice streams and throws light on their mass flow and dynamics, but\nat the same time is least understood because of the highly crevassed nature oi\nits surface and lack of knowledge about the subglacial topography. Northwards\nthe shelf ice is limited by the 'calving line', wherefrom the ice breaks in the\nform of icebergs into the sea. This is defined to a good extent by the presem\nice shelf boundary. Between the grounding line and  the calving line, at least\nfour ice rises are located in the above sector.\nAbout 150 to 200 km inside towards south from the shelf boundary, the\nWohlthat mountains act as a barrier to the flow of the ice emanating from the\nplateau area and impart a local flow system, controlled by the spatial distribution\nof these barriers and their intervening ice streams.\n248 M. K. Kaul et at. \nThe Mountain Barrier\nThe ice emanating from the plateau area from altitudes of 3000 to 4000\nm.a.s.I. swerves on the eastern and western extremities of the Wohlthat mountain\nrange which acts as a barrier to its flow for a linear distance of about 200 km.\nBut between these two extremities, the plateau ice branches off and flows between\nthe blocks of  the dissected mountain range. At least ten such offshoots are\nrecognised, some of which are occupying what are most likely the structurally\ncontrolled lineaments obviously generated prior to major ice inundation. On\naccount of this phenomenon, the ice streams  have attained  many  swerves,\nattenuated or modified by local offshoots, emerging in different directions, thus\ngiving rise to a localised flow pattern within the environs of the mountain chain\n(Fig. 1). This local flow pattern is quite distinct from the regional flow of the\nice sheet. The dominant flow components therefore, are:\n1. Main northeasterly flow of Musketov glacier south of Gruber massif,\nswerving around the massif to a northwesterly flow. The northeasterly component\nis joined by  the southeasterly flow of ice, from the elevated levels.\n2. The northerly or north-northeasterly flow of the major offshoots dissecting\nthe mountain range. These are joined by the west to southwesterly flowing\nstreams from elevated levels on the interior slopes within the mountain range.\n3. A divergent flow from the 'mountain glaciers' occupying higher elevations\non the mountains, some of which join the main offshoots. Their flow direction\nis controlled by the aspect  of the mountain slope they occupy.\nThe interference of  various flow directions in this manner has had effect\non the development of related ogives and on the orientation of moraine trails\nwhich are in the incipient stage of development. Three distinct types of such\nmoraine trails named here as 'incipient' moraines, on which the flow pattern\nhas a pronounced effect, were noticed viz. the trails parallel, tangential and at\nright angles to the flow direction. The incipient moraines that are parallel are\nexemplified by the Austbanen and Vestbanen moraine trails developing on either\nside of  Petermann range (Fig. 1). Another such example is offered by the moraine\ntrail developing north of Vasskilsata nunatak (Fig. 2). This type of moraine is\ndeveloping between two parallel flow vectors defined by two sub-streams of ice\nin the main ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "3]Glaciology",
+    "subcategory": "Ice Flow Conditions in the Ice Sheet Draining Part of the Central Queen Maud Land, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:13.907092Z"
+  }
+}

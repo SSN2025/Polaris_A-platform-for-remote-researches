@@ -1,0 +1,72 @@
+{
+  "id": "article_17",
+  "document_id": "NCPOR-273900",
+  "source_file": "ARTICLE+17.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/358/3/ARTICLE+17.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+17",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 227-238 \nObservation on the Snow Accumulation/Ablation over Shelf and\nContinental Ice in Parts of Central Dronning Maud Land, East\nAntarctica\nR. RAVINDRA, A. DEY, M.J. BEG AND M.K. KAUL\nGeological Survey of India, Faridabad\nAbstract\nSnow accumulation and ablation patterns over shelf and continental ice in parts of Central\nDronning Maud Land, East Antarctica were studied during summer of 1989-90, austral winter of 1990\nand summer of 1990-91. While there was negligible addition on the shelf ice near Dakshin Gangotri,\nbetween December 1989 and March 1990, the period between March 1990 and end of October 90,\nrecorded a steep rise in accumulation of the order of 15.9 gm/cm\n2\n. The summer that followed (1st\nNovember 90 to March 91) experienced ablation to the tune of 10.3 gm/cm\n2\n. An year long profile of\nthe snow surface between Maitri and Dakshin Gangotri has revealed a marked accumulation beyond\nthe grounding line as compared to the area close to the Schirmacher oasis. The stake data collected\nover the continental ice between Maitri and Northern Humboldt (Nordvestoya) has shown heavy\naccumulation (average 32.5 gm/cm ) during austral winter of 1990 and an ablation of 7.4 gm/cm in\njust one month of summer that followed it.\nIntroduction\nAntarctic icesheet is in approximate state of equilibrium with respect to its height and\nlateral extent. Hollin (1962) has shown that the altitude of this icesheet is controlled mainly\nby the flow of ice rather than by accumulation and air temperature. However, in the coastal\nregions snow accumulation does take place due to deposition of drift snow and its transfor-\nmation to ice because of  melting, drop in temperature and weight of the overriding snow of\nsubsequent periods. Cameron (1964) established that an approximate calculation of the mass\nbalance of  Antarctic icesheet can be done by monitoring  systematically laid stakes over shelf\nand continental ice.\nThe snow accumulation and ablation studies over the shelf ice near Dakshin Gangotri in\nthe Central Dr onning Maud Land of East Antarctica, were initiated in 1983 during the\nSecond Indian Expedition to Antarctica by  Kaul et at, (1985). Regular stake readings, on a \ncontinuous basis, commenced during Fifth Expedition onwards (Singh et al.,  1988) on a \n100 m X 100 m plot of shelf ice, which was essentially an obstacle free area about 1.25 km\neast of Dakshin Gangotri. A total of nine stakes, each at 50 m interval, wer e fixed in a \nrectangular pattern as s hown in Fig. 1A. The stakes were 3 m high and had rubber shoes at\ntheir base. Tttese stakes have been measured  for snow accumulation/ablation  since 1985 at\na fortnightly or monthly interval by the s uccessive expedition teams.\n228\nR. Ravindra et al. \nFig. 1A. Location of Stakes near Dakshin Gangotri Station (after Singh et al, 1988). \nFig. 1B. Location of Glaciological Stakes along DG-Maitri route. \nObservation on the Snow Accumulation... 229\nDuring Ninth Indian Expedition to Antarctica (1989-91), apart from the observations on\nthe above mentioned stakes, the observations spread over a year, were made on an additional\nset of 50 stakes, which were fixed on the shelf ice between Dakshin Gangotri (D.G.) and\nMaitri, along the winter convoy route. These s takes were fixed by drilling one metre deep\nholes at an approximate spacing of one km. The location of each stake was fixed on the map\nby vehicle mounted SATNAV  equipment (Fig. 1B).\nA third set of 80 stakes was fixed on the continental ice between Maitri and Nordvestoya\n(Fig. 2). Observations on the former set of stakes are available for austral winter of 1990 and\nsummer of 1990-91, while the data on the latter set of stakes was recorded thrice between\nApril 1990 and October 1990. The observations thus pertain to three glacial domains — \nshelf ice close to sea, shelf ice between sea and the continental ice and the continental ice.\nAccumulation/Ablation Pattern over Shelf Ice near DG\nThe set of nine glaciological stakes nea r DG station (Fig. 1A) were monitored for\naccumulation/ablation studies on monthly basis. However, since DG station was decommis-\nsioned in the beginning of 1990, the recording of the data could be done only during the time\nof convoys to DG from M aitri. Thus the observation over stakes are available for the months\nof December 1989, January, February, March, May, August,  September, November 1990\nand February and March 1991. The snow accumulation and/or ablation figures, in terms of\nwater equivalents, are given in Table 1.\nA scrutiny of this table would reveal that most of the stakes recorded accumulation of\nsnow during the winter months i.e. March to October, except the stake Nos 7 and 8 which\nrecorded no change in terms of accumulation or  ablation during the months of August and\nSeptember. An overall average accumulation of the order of 19.1 gm/cm2 took place on the\nTable 1: S",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "5]Earth Sciences",
+    "subcategory": "Observation on the Snow Accumulation_Ablation over Shelf and Continental Ice in Parts of Central Dronning Maud Land, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:21.428025Z"
+  }
+}

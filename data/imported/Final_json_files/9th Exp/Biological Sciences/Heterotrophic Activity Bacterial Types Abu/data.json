@@ -1,0 +1,72 @@
+{
+  "id": "article_7",
+  "document_id": "NCPOR-13CD10",
+  "source_file": "ARTICLE+7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/344/3/ARTICLE+7.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+7",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No, 6, pp. 91-106 \nHeterotrophic Activity, Bacterial Types and Abundance in\nDifferent Ecosystems of  the Queen Maud Land\nN. RAMAIAH, J, KODAGALI, S. NAIR, G. SHEELU AND D. CHANDRAMOHAN\nBiological Oceanography Division, National Institute of Oceanography, Goa\nAbstract\nMicrobiological studies from the marine, limnetic, terrestrial and glacial ecosystems were carried\nout during the Ninth Indian Expedition (1989-90) to estimate the bacteria! numbers, to characterise\nthe generic types and also to estimate the uptake of  14 C glucose and glutamic acid by these\nheterotrophs. Bacterial communities in different habitats appeared to be having distinct ecosystem\nspecialisation both in terms of number and activity. In the maritime Antarctic, their biomass was found\nto be substantially high. Ver tical profiles of bacterial counts biomass decreased gradually and\nuniformly with increasing depth in the polynyas. A higher recovery of viable population from 100m\nwas seen in the pelagic waters within the Antarctic Convergence. Distribution of bacterial populations\nin freshwater, terrestrial and glacial habitats in the Schirmacher Oasis showed a remarkable ecological\nadaptation. They were more abundant in the habitats where there was accumulation of organic matter.\nInterestingly, marine bacterial populations were persistent and highly active in the materials of marine\norigin (eg. flesh and bone remains of petrels) that were found far away in glacial and/or terrestrial\nregions. Production of extracellular enzymes in the freshwater bacterial strains was more pronounced\nthan those of the marine origin and measurements of heterotrophic uptake of labelled substrates\nshowed a distinctly different uptake pattern in the freshwater, polynyal and offshore natural microbial\nassemblages. Results of these studies are discussed with an emphasis on the role of microbial\npopulation in the oxidation and biotransformation of organic matter and in the trophodynamics of the\nAntarctic regimes.\nIntroduction\nMuch of the microbiological research in the  Antarctica is still in the \"what is there?\"\nphase of discovery (Franzmann et al.,  1990; Huntley  et al., 1991 and Labourn-Parry  et al., \n1991). Studies on micro-organisms and microbial processes began only very lately and our\nunderstanding of these aspects has radically changed over the last 2 to 3 decades. Earlier\ninvestigators thought that bacteria.would strongly be inhibited by the perpetual low tempera-\ntures and the rate of oxidation of dissolved organic matter would be extremely low (see\nSorokin, 1971). However , recent studies carried out with new enumeration and assay\ntechniques have disproved such contentions (Hanson,  1982; Hempel,  1985; Holm-Hansen,\n1985; Tanoue and Hara, 1986; Verlencar era/., 1988 and Hand, 1980).\nThe Indian efforts on understanding the Antarctic microbiology were initiated by Ma-\ntondkar (Matondkar and Gomes, 1983) followed by  Shivaji (1987) and Matondkar and\nParulekar (1987) leaving much of the microbial community  characteristics unelucidated.\n92 N. Ramaiah et al. \nThis paper deals with the bacteriological studies carried out on their types, abundance and\nactivity, during the Ninth Indian Expedition to Antarctica.\nMaterials and Methods\nSampling from different ecosystems carried out in the Indian sector of  the Southern\nOcean and in  the Schumacher Oasis of the Queen Maud Land included water, sea-ice,\nphytoplankton, zooplankton, krill gut contents of seabirds (marine); lake water and ice,\nsediments, lichens, mosses, cyanobacterial mats (limnetic); dry soils, dead remains of snow\npetrels (terr estrial); glacial ice an d faeces and feather droppings of Adelie and Emperor\npenguins (glacial). Oceanographic stations in the maritime Antarctic and freshwater lakes\nin the Schumacher Oasis, from where the samples were collected, are shown in Figs 1 and\n2. Quantitative enumeration of viable populations of bacteria from all the above samples\nwas carried out  following s tandard microbiological methods. Membrane (0.22 μm; Mil-\nlipore) filtration technique for ic e and water samples and serial dilution and spread plate\ntechniques for all other samples were employed for enumeration purposes. Water and ice\nsamples were suitably preserved and brought to NIO for the determination of Total Direct\nCounts. Acridine Orange was employed for staining bacterial cells and total bacterial cells\nwere counted by epifluorescence microscopy as per the procedure given by Parsons et al., \n(1984). Seawater nutrient agar and ZoBell's marine agar 2216e were used for enumerating\nviable marine bacterial populations. Nutrient agar prepared with the lake water was used for\nenumerating viable bacterial populations from the terrestrial, glacial and limnetic samples.\nAll the plates were incubated at ambient temperatures of 0 to 8°C for 12 to 15 days and the\nbacterial colonies counted. After",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "4]Biological Sciences",
+    "subcategory": "Heterotrophic Activity, Bacterial Types and Abundance in Different Ecosystems of the Queen Maud Land",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:15.989526Z"
+  }
+}

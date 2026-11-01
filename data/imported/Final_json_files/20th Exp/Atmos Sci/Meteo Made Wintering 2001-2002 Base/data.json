@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_18_2c_pp_91_105",
+  "document_id": "NCPOR-31FD1C",
+  "source_file": "Technical+Publication+No.+18%2C+pp+91-105.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/812/1/Technical+Publication+No.+18%2C+pp+91-105.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+18%2C+pp+91-105",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twentieth Indian Expedition to Antarctica, Scientific Report, 2006 \nMinistry of Earth Sciences, Technical Publication No. 18, pp 91-105 \nA Report on Meteorological Observations Made \nduring Eighteenth Wintering (2001-2002) at the \nIndian Antarctic Base Maitri, Central \nDronning Maud Land, East Antarctica \nSuresh Ram and M. K. De \nIndia Meteorological Department, New Delhi \nAbstract \nMeteorology remains at the core of all scientific expeditions to Antarctica. India \nMeteorological Department is involved with this all important task. During the year \n2001 vital data on Meteorology was collected at the Indian Base Maitri. An average \nannual temperature of -9.50°C was recorded at the base. Besides the weather data \nimportant data on behaviour of ozone over Maitri was collected using ozonesonde \nascents and Brewer Spectrophotometer. It was observed that Ozone reached its \nminimum during September-October 2001 period and showed remarkable recovery \nin the proceeding month of November 2001 and reaching almost the normal value in \nDecember 2001. \nIntroduction \nThe India Meteorological department (IMD) has been monitoring the \ncrucial meteorological data at the Indian Base Maitri. The data being \ngenerated is an important input in the global weather database. The data \ngenerated at Maitri has wider implications and is used in analyzing the \nglobal climate/ weather changes. In year 1999 IMD installed a Brewer \nSpectrophotometer at Maitri for measuring the atmospheric ozone, sulfur \ndioxide, nitrogen dioxide, D-UV radiation. These parameters were also \nmonitored during the 18th Wintering at Maitri using the Brewer \nSpectrophotometer. The Synoptic data collected daily were further \ntransmitted using global telecommunication network on real time basis for \nuse in weather forecasting world over. \nThe process of collecting meteorological data had been one major \noccupation at the Indian Base. This all important data was collected \nthrough following studies carried out at Maitri. \n92 Suresh Ram and M. K. De \na. Daily, seasonal and annual variation of atmospheric pressure, \nsurface temperature surface wind, surface ozone, snow fall and \ncloud cover. \nb. The atmospheric changes with reference to specific synoptic \nweather systems. \nc. Radiation budget including total global solar radiation and diffused \nsolar radiation. \nd. Monitoring and archival of information through weather satellite \nand HF radio sets regarding weather system affecting Maitri and \nAntarctic continent. \ne. Atmospheric turbidity in Antarctica \nf. Balloon born measurement of Ozone for its vertical profile over \nMaitri to study the ozone depletion phenomenon. \ng. Daily, seasonal and diurnal variation of total ozone, D-UV, SO2 \nand NO2 using Brewer Spectrophotometer. \nExecution of Programme \nA. During onward cruise on board ship Magdalena Oldendorf, surface \nobservation were taken eight times a day at three hour interval at \nsynoptic hours from the next day of departure from Cape town \nand in similar way during return journey. \nB. The Surface observation programme was divided into the following \ncategories. \n(a) Surface observation of all weather parameters recorded at all \nsynoptic hours on all the days and four observations out of \neight were transmitted to IMD office New Delhi for onward \ntransmission over GTN. \n(b) Atmospheric pressure, temperature, wind speed, wind \ndirection, surface ozone and global radiation were recorded \ncontinuously except for periods of diffused radiation. \n(c) Sun photometer observations were taken on all clear weather \ndays for analysis of atmospheric turbidity. \nC. For the study of Antarctic ozone hole phenomenon 39 Ozone-sonde \nascents were taken using Indian electrochemical ozonesonde. For \nstudy of radiation balance 15 Radiometersonde ascents were taken. \nD. Making short term weather forecasts for helicopter operations and \nfor groups engaged in carrying out field studies is a challenging \ntask in Antarctica. This task becomes difficult with limited \nA Report on Meteorological Observations made during 18th Wintering .... 93 \nresources i.e. weather charts and network observatories. However \nlimited cloud picture images were down loaded from internet for \nthis purpose. The IMD team in spite of the limitations managed a \ngood weather forecast which helped in planning field tasks and \nhelicopter operations during the expeditions. \nBrewer spectrophotometer \nThe Brewer spectrophotometer which was installed in 18th \nExpedition (1999) functioned nonnally during the 18lh Wintering. A minor \ntechnical snag had developed in April which was quickly rectified without \naffecting the observation schedule. \nThe mean maximum total ozone was measured in May 2001 at 303 \nDU (for Moon observation) where as the mean minimum ozone was 133 \nDU in October 2001 for sun observation. For sun observations the mean \nmaximum ozone was 300 DU in January 2001 and it reduced by 15% in \nFebruary .The values for March 2001 were similar to that of February \n2",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "A Report on Meteorological Observations Made during Eighteenth Wintering (2001-2002) at the Indian Antarctic Base Maitri, Central Dronning Maud Land, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:52.919654Z"
+  }
+}

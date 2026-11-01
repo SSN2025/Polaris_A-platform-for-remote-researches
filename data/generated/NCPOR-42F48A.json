@@ -1,0 +1,85 @@
+{
+  "id": "a-new-seismological-station-at-maitri-antarct-ncpor-42f48a",
+  "document_id": "NCPOR-42F48A",
+  "source_file": "ARTICLE+9.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/521/3/ARTICLE+9.pdf",
+  "title": "A New Seismological Station At Maitri, Antarctica",
+  "year": 2000,
+  "expedition": "17th Indian Antarctic Expedition",
+  "category": "Geology",
+  "subcategory": "A New Seismological Station At Maitri, Antarctica",
+  "bibliographic": {
+    "title": "A New Seismological Station At Maitri, Antarctica",
+    "authors": [
+      {
+        "name": "AT MAITRI",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      },
+      {
+        "name": "ANTARCTICA",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      }
+    ],
+    "expedition": "17th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2000,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. 15, PP 105-120 \nA NEW SEISMOLOGICAL STATION\nAT MAITRI, ANTARCTICA\nL. Prem Kishore  \\  I. Prasad Raju\n 2\n and India Mohan\n 3 \nNational Geophysical Research Institute, Hyderabad\nAbstract\nA Seismological Station (code named MAIT) equipped with a \nmatched 3-component short period digital and a short period vertical\nanalog seismographs was commissioned ai Maitri, the Indian Antarctica\nbase station. The station became operational from 26th Jan, 1998. A \nnoise survey for selecting a suitable site and feasibility study with the\naim of operation of Broad-band seismographs at  the station was carried\nout earlier during the Antarctica summer, in Jan-Feb, 1997. The\nnormal backgr ound noise due to artificial and natural sources was found\nto be very low. However, a very high level of noise was observed\ndue to heavy winds during the blizzards which rage the icy continent\nquite often. A thermally insulated vault ha s been specifically designed\nand buried  underground as the Broad-Band seismographs are very\nsensitive to temperature  and pressure var iations. The vault has been\nfurther provided with an electronic device which maintains inside\ntemperature at 15±0.5°C. The recording is done in continuous mode\nwith 24 bit digitizer @ sampling rate of 50 samples per seconds.\nAn internal GPS clock with the data acquisition system provides\naccurate time. The digital and analog data is analyzed daily and the\nphase data is e-mailed to Hyderabad weekly. The complete digital data\nis archived on DAT tapes. In this article the details of the feasibility\nstudy, instrument details & their calibration, and details of specially\ndesigned seismometer vault have been described. The station is in\ncontinuous operation.\n/. Participated in XV! and XVII IAE (Summer) \n2. Participant in XVII IAE (Wintering, 15th WOT) \n3. Planned and supervised the program. \n106 L.Prem Kishore I. Prasad Raju and Indra Mohan \nIntroduction\nWith the objective of installation of a permanent state-of-the-\nart digital Broad-band seismological station at Mait ri, the Indian\nAntarctica base station, a r econnaissance for feasibility and site\nselection was carried out during the XVIth Indian Scientific\nExpedition to Antarctica in Jan-Feb, 1997. The aim of the station is\nto monitor earthquakes in and around Antarctica, the region with\nvery low level of seismic activity, and overall monitoring of\nteleseismic events. This station would be specifically useful in the\nepicentral locations in the Indian  Ocean, south of Asia and Africa,\nPresently only a three component short period digital Seismic system\nhas been  commissioned. A short period vertical analog seismograph\nis also being operated simultaneously.\nThe station wa s formally inaugurated by Mr. Alexander\nKandratiey, the leader of 42nd Russian Antarctica Expedition to\nNOVO base station, who was the  'guest-of-honour' on the occasion\nof the India's Republic Day celebrations at the Maitri station on\n26th January, 1998 (Picture-1 ).\nThe station coordinates are\nLatitude : 70°45.94' South Longitude 11\no\n44.13' East\nElevation : 115 meters\nStation Code : MAIT\nThe location of the station in the 'M AITRI complex' is shown in\nFig. 2.\nSeismic Status\nThe Antarctica is seismically very quiet. Its surroundings\nare also less active. Due to the absence of any habitation no\ninformation was available about the actual seismic status of the\ncontinent. The operation of a seismological stations in Antarctica are\nvery useful as they provide valuable control on global hypo-central\ndeterminations especially of the earthquakes in higher latitudes in the\nsouthern hemisphere. Antarctica's exposed bedrock amounts to less\nthat 2% of its surface which is located along the margins of the\nA New Seismological Station 107\ncontinent. This puts a restriction on the location of the seismic\nstations as operation of stations in the ice covered areas is difficult\nduring the winter months. Even most of the base stations of\nvarious countries are located along the exposed lands. However\nUSA is maintaining SPA station at the South Pole where ice cover\nis about 2900 meters thick.\nA temporary station in Antarctica was operated as early as\n1902-1903 at Scott-Base. Later on, some more stations were\noperated intermittently by various countries between 1940-52. During\nthe International Geophysical Year (1957), 4 stations were operated\nat MIR, SBA, WILKES and ADELIE (Richter, 1958) Two WWSSN\nstations are in operation from 1963-64 at SBA and SPA.\nSubsequently many countries have installed seismographs at their\nbase stations in Antarctica. The  locations of which are shown in\nFig. 3. (after Kaminuma 1992). Due to difficult environmental and\noperating conditions continuous operation of the station is  rather\ndifficult and many stations have a very high down-time as the\nrepairs are not possible. Perhaps for this r eason only, the first\nhypocentre in the re",
+    "summary": "During the 17th Indian Antarctic Expedition, scientists conducted geology investigations focused on \"A New Seismological Station At Maitri, Antarctica\". with 24 bit digitizer @ sampling rate of 50 samples per seconds. These findings from Maitri provide vital baseline evidence for understanding polar environmental dynamics.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "Geology",
+    "subcategory": "A New Seismological Station At Maitri, Antarctica",
+    "tags": [
+      "geology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Geology discoveries from 17th Indian Antarctic Expedition: \"A New Seismological Station At Maitri, Antarctica\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Department of Ocean Development, Technical Publication No.",
+      "page_number": 1,
+      "section": "Abstract / Introduction"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:19.673710Z"
+  }
+}

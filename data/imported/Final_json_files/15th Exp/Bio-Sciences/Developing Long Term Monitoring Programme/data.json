@@ -1,0 +1,72 @@
+{
+  "id": "article_11",
+  "document_id": "NCPOR-14C24C",
+  "source_file": "ARTICLE+11.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/456/3/ARTICLE+11.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+11",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 131-164 \nDEVELOPING A LONG TERM MONITORING\nPROGRAMME FOR BIRDS AND MAMMALS IN THE\nINDIAN OCEAN AND ANTARCTICA\nYash Veer Bhatnagar and  Sathyakumar\nWildlife Institute of India\nAbstract\nThe Wildlife Institute of India participated for the second consecutive year, in the 15\nth\nIndian Antarctic expedition, 1995-96 with the objective of continuing monitoring of birds\nand mammals in the Indian Ocean and in Antarctica. Daily watch was maintained en-route\nfrom the ship for wildlife and on sighting a bird or mammal, the position, species and their\nnumbers were recorded. The entire route was divided into latitudinal climatic zones viz.\ntropical (north), tropical (south), sub-tropical, temperature, sub-Antarctic and Antarctic.\nDuring the voyage, fifty bird species and fourteen mammal species were recorded of which\n41 and 9 were identified, respectively. Among the birds, members of Diomedidae, Sphenis-\ncidae, Stercorariidae, and some Procellariidae dominated in the cold temperate to Antarctic\nwaters, while members of Sulidae, Sternidae, Phaethotidae and some Procellariidae domi-\nnated in the tropical and sub-tropical regions. During the onward journey, the temperate\nzone was the most species-rich zone (14 species) while during the return journey, the\nAntarctic zone had the highest richness (14). Shannon's diversity was highest in the\nsub-Antarctic zone (1.676) during the onward journey while during the return journey, it\nwas highest in the Antarctic zone (1.728). The species richness and H' was lowest in the\nsub-tropical zone during the onward (5 and 0.728, respectively) and return journeys (5 and\n0.833, respectively). Bird abundance was highest in the Antarctic zone during both journeys\n- 0.83 birds/km during the onward and 1.62/km during the return, while they were lowest\nin the tropical (S) during the onward (0.32/km) and the tropical (N) zone during the return\njourney (0.16/km). The data clearly shows that the diversity as well as abundance of species \nwas highest in the cold waters beyond ca. 25° S with the sub-tropical convergence, Antarctic\nconvergence and Antarctic divergence. The Soresen's similarity index between neighbour-\ning zones was high for the temperate to Antarctic latitudes while the warm water zones had\nlesser similarity.\nIntroduction\nThe Wildlife Institute of India (WII) participated for the first time in the\nsummer team of the 14\nth\n Indian Scientific Expedition to Antarctica (Decem-\n132 Yesh Veer Bhatnagar & Sathyakwnar \nber-94 to March-95), with the purpose of developing 'Long Term Monitoring\nProtocols for birds and mammals in the Indian Ocean and Antarctica' with\ndetails of how, when and where to monitor. This study had two major compo-\nnents, viz., en-route monitoring of birds and mammals in the Indian ocean and\ncensus of animals in Antarctica. (The latter aspect is presented in detail in the\nnext paper.)\nThe study is continuing with the following objectives : \nGeneral objectives \n1. To monitor species en-route to Antarctica and back.\n2. To count penguins and seals in the 'India bay region' of Antarctica using\naerial census.\n3. To classify wildlife habitats and their use by wildlife.\n4. To conduct behavioural studies on penguins and seals.\n5. To standardise techniques for the above objectives.\nEn-Route Monitoring of Birds and Mammals in Indian Ocean\nOceans cover approximately three fourths of earth's surface and greatly\ninfluence world's climate. They are a rich source of food, energy, medicines\nand minerals. With advancements in technology, and decline of land resources,\ngreater dependence on the oceans is inevitable. Such trends are already visible\non a global scale (Beazlcy, 1991; Murphy and Duffins, 1996). Marine fish\nharvests are already expected to have crossed the sustainable limits and de-\nmands are continuing to rise. Instances of coastal and marine pollution are also\nincreasing.\nThe long voyage to Antarctica by the Indian expedition, passes through a \nvast spectrum of marine zones (from the tropics to the south polar zone) and\nprovides an excellent opportunity of monitoring species en-route. Few biolo-\ngists pass through the high seas and information on the status and distribution\nof marine bird and mammal species is rarely encountered. Watson (1975),\nSiegfried (1985) and Viet and Hunt (1991) emphasise the importance of\nmonitoring along voyages for developing data bases on the distribution abun-\ndance and diversity of pelagic birds and their relation to various environmental\nfactors such as sea water temperature, salinity, sea depth and food availability.\nAlthough the species richness per se in the oceans is lower than on land,\nconsidering the number of taxa inhabiting the oceans, the bio-diversity exceeds\nthat on the land (Beazley, 1991). There is a vast group of pelagic bird species\nand cetaceans (the whales and dolphins) which contribute to oceanic ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 34
+  },
+  "taxonomy": {
+    "category": "3]Bio-Sciences",
+    "subcategory": "Developing A Long Term Monitoring Programme for Birds and Mammals in the Indian Ocean and Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:49.378770Z"
+  }
+}

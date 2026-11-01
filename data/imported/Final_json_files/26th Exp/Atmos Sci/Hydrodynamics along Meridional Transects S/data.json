@@ -1,0 +1,72 @@
+{
+  "id": "73_99_pg",
+  "document_id": "NCPOR-DD27C4",
+  "source_file": "73-99+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1046/1/73-99+pg.pdf",
+  "bibliographic": {
+    "title": "73-99+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "73\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 73-99\nHydrodynamics along Meridional Transects in the\nSouthwest Indian Ocean Sector of the Southern\nOcean during Austral Summer 2007\nAlvarinho J. Luis\nNational Centre for Antarctic and Ocean Research, Earth System Science\nOrganization, Ministry of Earth Sciences, Headland Sada, Goa\nABSTRACT\nPreliminary analysis of expendable CTD profiles collected during the 26 th\nIndian Antarctic Expedition along the ship route from Durban to India Bay,\nAntarctica (Track-1) and Prydz Bay to Mauritius (Track-2) during February–\nMarch 2007 are discussed. Vertical thermohaline structure reveal that the\nnorthern and southern branches of  Subantarctic Front on both Tracks merge;\nlikewise, the Agulhas Retroflection Front (AF) and South Subtropical Front\n(SSTF) merge between 43° and 44°S on Track-2. The southern branch of the\nPolar Front (PF2) meanders by 550 km southward towards east. The Subtropical\nSurface Water, Central Water and Mode Water are located north of 43.5°S,\nwhile the Subantarctic Surface Water, Antarctic Surface Water, Antarctic\nIntermediate Water and Circumpolar Deep Water are encountered in the Antarctic\nCircumpolar Current (ACC) region.  Baroclinic transport relative to 1000 db\nreveals that the ACC volume is enhanced by 10 × 10\n6 m3s–1 eastward, and a four-\nfold increase in transport occurs south of ACC. Nearly half of the ACC transport\noccurs in the 100–500 m slab.\nINTRODUCTION\nThe wind driven circulation in the Indian sector of the Southern\nOcean (SO) consists of the anticyclonic subtropical gyre (STG), the\neastward flowing Antarctic Circumpolar Current (ACC) and the westward\nflowing Antarctic Coastal Current. The STG comprises of the Agulhas\nCurrent (AC) to the west, the Agulhas Return Current (ARC) to the\nsouthwest, the South Indian Ocean Current to the south, the equatorward\nflowing West Australian Current to the east and the South Equatorial\nCurrent to the north. This gyre differs from its counterparts elsewhere in\nthat most of the water re-circulates in the western and central parts of the\n74\nocean basin (Stramma and Lutjeharms, 1997). The AC, which is the\nstrongest western boundary current in the southern hemisphere, transports\nsouthwards warm and saline water of tropical and subtropical IO origin\namounting to 65 × 10\n6 m 3 s-1 (Stramma and Lutjeharms, 1997).  These\ncharacteristics promote strongest eddy activity in the southwestern IO\nand generate quasi-permanent meanders and eddies (Weeks and\nShillington, 1994).\nThe Antarctic Circumpolar Current (ACC) is organized into a small\nnumber of relatively narrow and deep-reaching jets associated with the\nbaroclinic shear (Nowlin and Klinck, 1986). Spanning 45° to 55°S, the\nACC flows uninterrupted from west to east (Orsi et al ., 1995), linking\nthe different ocean basins, thereby allowing the exchange of climate\nrelevant properties, which constitutes an important part of the global\noverturning circulation (Schmitz, 1996).  The IO sector of the SO has an\nintricate frontal system of quasi-zonal fronts that merge, split and steer\nover the uneven bottom topography in the Crozet region (Park et al .,\n1993) and Kerguelen region (Belkin and Gordon, 1996 (hereafter BG96);\nHolliday and Reed, 1998). The identification of fronts and their\nmeandering properties are essential elements in tracing the upper-level\nocean circulation.  At the choke points, such as the Drake Passage, south\nof Africa, south of Tasmania, the meridional spread of the SO dynamics\nis constrained, meaning that the ACC transport, water mass and frontal\ncharacteristics can be accurately monitored.\nHydrodynamic characterization of the southwestern IO is warranted\non the basis of a number of meteorological and oceanographic features.\nFirst, the positive wind stress curl promotes downwelling throughout the\nyear at the rate of 0–20 cm\n-1 day (Hellerman and Rosenstein, 1993).\nSecond, the coastally trapped waves are formed in the atmosphere\naround the south African coast, which propagate eastward as coastal low\npressure system during the passage of synoptic pressure systems to the\nsouth (Gill, 1977); therefore the winds blow parallel to the east African\ncoast. Third, the general wind patterns over the southern IO drive major\ncurrents; consequently, the wind-driven circulation is dominant over\nthermohaline circulation (Hellerman and Rosenstein, 1993). Fourth, the\nregion exchanges a large heat with the atmosphere, which is received\nlargely via the warm (16–26°C) and saline (35.5, salinity is unitless\nbecause it is measured from the ratio of conductivities) AC, which\nAlvarinho J. Luis\n75\nbecomes trapped in the Agulhas Retroflection. Fifth,  among the world\noceans, about 67% of total water volume with temperature between –2°\nand 2°C is present in the southwest IO, as this region lies immediately\ndownstream of the Weddell Sea, where most of this water is formed\n(Emery and Meincke, 1986). Despite the a",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 27
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Hydrodynamics along Meridional Transects in the Southwest Indian Ocean Sector of the Southern Ocean during Austral Summer 2007",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:01:57.520968Z"
+  }
+}

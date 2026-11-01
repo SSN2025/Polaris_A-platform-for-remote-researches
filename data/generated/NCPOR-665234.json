@@ -1,0 +1,81 @@
+{
+  "id": "on-the-zweissel-granitoids-central-dronning-m-ncpor-665234",
+  "document_id": "NCPOR-665234",
+  "source_file": "ARTICLE+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/647/3/ARTICLE+4.pdf",
+  "title": "On the Zweissel Granitoids, Central Dronning Maud Land,East Antarctica Antarctica",
+  "year": 1983,
+  "expedition": "2nd Indian Antarctic Expedition",
+  "category": "Glaciology",
+  "subcategory": "On the Zweissel Granitoids, Central Dronning Maud Land,East Antarctica Antarctica",
+  "bibliographic": {
+    "title": "On the Zweissel Granitoids, Central Dronning Maud Land,East Antarctica Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "2nd Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1983,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 2nd Indian Antarctic Expedition examines key glaciology phenomena in polar terrain around Dronning Maud Land. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Dronning Maud Land"
+    ],
+    "research_sites": [
+      "Dronning Maud Land"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Glaciology",
+    "subcategory": "On the Zweissel Granitoids, Central Dronning Maud Land,East Antarctica Antarctica",
+    "tags": [
+      "glaciology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Glaciology discoveries from 2nd Indian Antarctic Expedition: \"On the Zweissel Granitoids, Central Dronning Maud Land,East Antarctica Antarctica\". Learn how Indian scientists studied Dronning Maud Land on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Glaciology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:33:43.742838Z"
+  }
+}

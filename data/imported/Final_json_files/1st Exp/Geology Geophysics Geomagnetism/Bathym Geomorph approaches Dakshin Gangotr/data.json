@@ -1,0 +1,72 @@
+{
+  "id": "article_16",
+  "document_id": "NCPOR-265D73",
+  "source_file": "ARTICLE+16.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/186/3/ARTICLE+16.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+16",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Bathymetry  and  Geomorphology  of  the  Approaches  to\nDakshin  Gangotri,  Princess  Astrid  Coast,\nQueen  Maud  Land,  Antarctica.\nH. N. Siddiquie\n1\n and M. C. Pathak\n1\nABSTRACT\nThe continental margin  of  the  Princess Astrid Coast  has  been  poorly  surveyed  earlier and very  few  depths  have been shown on\nthe navigational charts. The depths along the route  undertaken  by  the  First  Indian  Expedition ranged  from  about 740 m at the\nnorthern edge of the ice pack  (January 1982)  to  224  m  at  the  ice  shelf. The route has been  found  to  be  safe for navigation except for\nthe presence of seasonal ice cover and large  semi-permanent  icebergs. The characteristic feature  of  the  topography  in  the  area is\nmarked by a sill at about 120 m depth which separates the deeper open ocean (>700 m) in the north  and  more  than 200 m (even 700\nm) in the south. The position of the sil! is marked  by  the  grounding  of  numerous  icebergs. The sill perhaps  plays  a  significant role in\nthe separation of water masses of the area and even in the development of polynya.\nINTRODUCTION\nSeveral expeditions undertaken earlier have added considerable knowledge to the bathymetry of the\ncontinental margins of Antarctica. However, inspite of the large number of expeditions, the data on the\nbathymetry of the Antarctic continental margin are still scanty. The continental margin of Antarctica,\nbetween 10° to 30°E, has been shown on a small scale chart with limited soundings (1:15,00,000).\nMV Polar Circle which took the First Indian Expedition was equipped with a satellite navigation\nsystem collected over 17000 line km of echosoundings of which more than 7700 line km were in Antarctic\nTreaty Area, 350 line km in the area covered by the ice pack and polynya (in December 1981 and January\n1982). The polynya at the time of the survey extended approximately from 69°37' to 69°55'S and 11°35'\nto 11°55'E and covered an area of over one thousand km\n2\n. The open waters were, therefore, utilised for\nan extensive bathym'etric survey. Since no bathymetric data have been shown earlier on the published\nnavigational charts, these are presented here. Bathymetric data of the remaining area are also being\nprocessed and these will be published separately.\nMETHODS\n(a) Position fixing : Positions during the surveys were obtained by a Magnavox MX 1112 (single channel)\nsatellite navigation system interfaced with a gyro and speed log. This provided an i \naccuracy of about ± 150 to 300 m which is considered sufficient for a reconnaiss ance\nsurvey.\n(b) Echosounding: Echosounding was carried out using a Simrad EKS-12 echosounde'r having a maxi-\nmum depth range of 10,000 m with a Simrad 1100 recorder (20 cm wide dry paper).\nRESULT AND DISCUSSION\nThe depth at the northern edge of pack ice in December 1981-January 1982 (Lat. 69°15.48' Long.\n11°3.6'E) were about 740 m. To the south, the depth is reduced to about 120 m (sill) after which the depth\nincreases again to more than 220 m (Fig. 1). The shallow depth of about 120 m perhaps forms a sill and is\nmarked by grounding of numerous icebergs.\n, The sea bed from the northern edge of the ice pack to the polynya (Fig. 2a) has a gradient from 1:1500\nto 1:57 This is marked by minor irregularities of the order of about 10 m. However, the sea bed from the\nsouthern edee of the pack ice to the base of the sill is relatively devoid of irregularities and has gradients of\n149\n1\n National Institute of Oceanography, Dona Paula, Goa - 403004.\nBathymetry and Geomorphology of...\n1:100. The northern flank of the sill has gradients of the order of 1:50 and irregularities of the order of 10\nm. The southern flank of the sill is not very steep (1:100) and further south towards the ice shelf, it\nbecomes almost flat (1:4000). The depths further south increases to 220 m. and excepting some irre-\ngularities of about 15 to 20 m, the sea bed in the area is devoid of significant topographic features.\nIn the polynya, because of a number of icebergs, small lines, only upto 10 km, could be surveyed. The\nsounding indicate that the depth in the polynya and along the ice shelf is about 220 m, although in the east,\ndepths of about 172 m were also recorded. The seabed in the polynya is devoid of large irregularities and\nthe only irregular features of about 5 m and rarely of more than 10 m could be seen (Fig. 2b).\nThe route followed by the expedition was considered to be safe for navigation except for the presence\nof seasonal ice cover and semi-permanent icebergs.\nThe sill at about 120 m depth appears to be a major topographic feature. It was observed that a large\nnumber of icebergs were grounded at this depth. The height of the ice shelf was about 100 m in January\n1982. Earlier Buinitskii (1964) had observed that the height of the ice shelf above water in this area ranges\nfrom about 107 to 160 m.\nIt is thus apparent that a break-up of the shelf ice during the summer may lead to the formation of\nlarge icebergs which will run aground on",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "5]Geology,Geophysics,Geomagnetism & Glaciology",
+    "subcategory": "Bathymetry and geomorphology of the approaches to Dakshin Gangotri., Princess Astrid Coast, Queen Maud Land, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:46.194407Z"
+  }
+}

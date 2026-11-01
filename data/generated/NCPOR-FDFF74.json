@@ -1,0 +1,81 @@
+{
+  "id": "study-of-physico-chemical-characteristics-of--ncpor-fdff74",
+  "document_id": "NCPOR-FDFF74",
+  "source_file": "45-54.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1205/1/45-54.pdf",
+  "title": "Study of Physico - Chemical characteristics of Aerosols and snow chemistry over Antarctica",
+  "year": 2010,
+  "expedition": "29th Indian Antarctic Expedition",
+  "category": "Atmospheric Science / Meteorology",
+  "subcategory": "Study of Physico - Chemical characteristics of Aerosols and snow chemistry over Antarctica",
+  "bibliographic": {
+    "title": "Study of Physico - Chemical characteristics of Aerosols and snow chemistry over Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "29th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2010,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 29th Indian Antarctic Expedition examines key atmospheric science / meteorology phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "Atmospheric Science / Meteorology",
+    "subcategory": "Study of Physico - Chemical characteristics of Aerosols and snow chemistry over Antarctica",
+    "tags": [
+      "atmospheric-science-meteorology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Atmospheric Science / Meteorology discoveries from 29th Indian Antarctic Expedition: \"Study of Physico - Chemical characteristics of Aerosols and snow chemistry over Antarctica\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Atmospheric Science / Meteorology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:56:25.025641Z"
+  }
+}

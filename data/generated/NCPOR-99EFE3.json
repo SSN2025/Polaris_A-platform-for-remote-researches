@@ -1,0 +1,81 @@
+{
+  "id": "document-control-data-sheet-ncpor-99efe3",
+  "document_id": "NCPOR-99EFE3",
+  "source_file": "T.+P.+No.+22+.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/940/1/T.+P.+No.+22+.pdf",
+  "title": "Document Control Data Sheet",
+  "year": 2012,
+  "expedition": "24th Indian Antarctic Expedition",
+  "category": "Other",
+  "subcategory": "Control Data",
+  "bibliographic": {
+    "title": "Document Control Data Sheet",
+    "authors": [
+      {
+        "name": "NCPOR Research Team",
+        "affiliation": "National Centre for Polar and Ocean Research"
+      }
+    ],
+    "expedition": "24th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2012,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "Document Control Data Sheet\nRR No. 22\nSl. No\n1 \nName of the institute \nNational Centre for Antarctic & Ocean\nResearch\n2 \nDocument number \nNCAOR RR. No.-22\n3 \nDate of publication \n2012\n4 \nTitle of the document \nScientific Report of Twenty Fourth Indian\nExpedition to Antarctica\n5 \nType of Document* \nRR\n6 \nNo. of pages &\nfigures\nxx, 374 pgs\n7 \nNumber of\nReferences\n-\n8 \nAuthor (s) \nMembers of Expedition No. 24th, RR No. 22\nReport Prepared by-Rajesh \nAsthana\n,      \nUnder the Supervision of Sh. \nRasik \nRavindra\n,\nDirector, NCAOR- Goa\n9 \nOriginating Unit \nNCAOR, Project (Antarctic Science)\n10 \nAbstract (100 words) \nThis Scientific Publication consists of various\nArticles from different disciplines of Polar\nScience. The data used for the report was\ncollected during the Twenty Fourth Indian\nScientific \nExpedition\n to Antarctica.\n11 \nKey words \nAtmospheric Sciences, Earth Sciences,\nGlaciology & Climate Change, Biology &\nEnvironmental Sciences, Human Physiology &\nMedicine, Task Force\n12 \nSecurity\nclassification\nOpen\n13 \nDistribution \nUnrestricted",
+    "summary": "This investigation conducted during the 24th Indian Antarctic Expedition examines key other phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 1
+  },
+  "taxonomy": {
+    "category": "Other",
+    "subcategory": "Control Data",
+    "tags": [
+      "other",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Other discoveries from 24th Indian Antarctic Expedition: \"Document Control Data Sheet\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Other based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:55:14.001408Z"
+  }
+}

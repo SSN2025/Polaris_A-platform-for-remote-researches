@@ -1,0 +1,72 @@
+{
+  "id": "pages_361_375",
+  "document_id": "NCPOR-E92377",
+  "source_file": "pages+361-375.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/916/1/pages+361-375.pdf",
+  "bibliographic": {
+    "title": "pages+361-375",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic Expedition\nMinistry o f Earth Sciences, Technical Publication No. 21, pp 361-375\nEffect of Certain established Ayurvedic Rasayana  \nFood Supplements on Aging Process at  \nAntarctica -  A review\nP. Bansal, R. Sannd , N. Srikanth and G.S. Lavekar\nCentral Council for Research in Ayurveda & Siddha, Jawaharlal Nehru  \nBhartiya Chikitsa Avum Homoeopathy Anusandhan Bhawan, 61-65, Institutional Area,  \nD-Block Janak Puri, New Delhi-110 058\nINTRODUCTION\nIt is a well-known fact that stress generates free radicals that may \ncause lipid peroxidation and affeact the antioxidant status of the body. The \nbody has certain set mechanisms to exert scavenging action on free radicals \nthat include some antioxidant enzyme systems like super oxide dismutase, \ncatalase and glutathione peroxidase, glutathione-s-transferase and glutathione \nreductase which are involved in the detoxification of reactive oxygen species \ndirectly or indirectly Low levels of these antioxidant enzymes will cause \naccumulation of free radicals and may finally actively participate in the \nprocess of tissue injury (Mulden et al, 1991). According to another study \nfree radicals damage tissue both at cellular and sub-cellular level by causing \nlipid peroxidation in the cell membranes and the inactivation of membrane \nbound enzymes (Florence, 1995).\nIndia has been arranging expeditions to Antarctica for the last two \ndecades. An Antarctic expeditioner has to face and cope up with many \nphysical and psychological stresses apart from the stress related to UV \nradiations, magnetic field, high wind velocity, extreme cold conditions, and \ncircadian biorhythms. Men living in Antarctica also suffer significant \nemotional strain as a result of physical isolation and social deprivation in \naddition to physiological stress imposed by few factors mentioned earlier \n(Roy and Dev, 1999). At the same time exposure to extreme cold poses \nstress and causes a number of metabolic disturbances in addition to problems \nof frostbite. So all these stress factors cause oxidative stress, which can be \ninduced either by depletion of antioxidants and / or by an overload of oxidant \nspecies so that antioxidant levels become insufficient (Halliwell and \nGutterige, 1990). In such a situation it is very important to supplement\n\n362 P . Bansal et al.\nantioxidants to keep up antioxidant status of the body. Attempts have been \nmade to study the mechanisms that might be involved in man’s physiological \nresponses to polar conditions. Few of them have helped in evaluating the \nnutritional requirements of men working in Polar Regions.\nAyurveda the first recorded scientific medicine in the history of the \nworld emphasizes on prevention of disease and promotion of health by \nstrengthening the tissue so that they can withstand the exogenous and \nendogenous stressors. This is achieved by modulating diet and life style as \nwell as by the appropriate use of the phytomedicine/drugs that restore the \nequilibrium of the body (Dahanukar and Thatte, 1989a, 1989b). Over 600 \nplants have been described in various Ayurvedic texts like Charak Samhita, \nSushruta Samhita  and Nighantu.  There are interesting groups of herbs \ncalled rasayana  herbs that have proven adaptogenic properties. The word \nRASAYANA means the path that plasma follows {RASA- Plasma; AYANA-  \nPath). It is believed that in Ayurveda the qualities of RASA DHATU (plasma  \ntissue) influence the health of other dhatu’s (Tissues) of the body. Hence \nany medicine that improves the quality of RASA should strengthen or promote \nthe health of all tissues of body. So these rasayana  herbs are said to prevent \naging, re-establish youth, strengthen life and brain power and prevent disease \nall of which imply that they increase the resistance of body against any \nonslaught and act as non-specific adaptogen (Ghaniker, 1981).\nAlthough there is a provision of very good nutritional diet to the \nmembers of the expedition, yet the scientific field lacks the data related to \nnutritional requirements in stressful Antarctic climate. Keeping the above \nview in mind, a food supplement of various rasayana  herbs was prepared \nand a study was carried out to look into the adaptogenic effects of rasayana  \nherbs on aging process at Antarctica.\nSUBJECTS AND METHODS\nThe study was conducted on Indian station “Maitri” on subjects out of \nthe 23rd Indian Scientific Expedition to Antarctica. Out of total 50 team \nmembers, 21 members volunteered for supporting this study. All the members \nwere briefed about the project and informed consent was taken to join the \nstudy as per international ethical guidelines. The trial drug was tested for \nheavy metals and it was free from cadmium, lead and arsenic. The food \nsupplement was also tested for microbial load and total bacterial count was \n7.3x104 CFU/g whereas total fungal count, enterobacteria count and \nsalmonella sp. was within permissible limits. All the subjects were provided\n\nEffect o f Certain E",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "6] Human Physiology and Medicine",
+    "subcategory": "Effect of Certain Established Ayurvedic Rasayan Food Supplements on Aging Process at Antarctica- A review",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:52:34.314578Z"
+  }
+}

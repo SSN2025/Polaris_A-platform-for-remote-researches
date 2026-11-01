@@ -1,0 +1,72 @@
+{
+  "id": "chapter_3",
+  "document_id": "NCPOR-059AFC",
+  "source_file": "Chapter+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/999/1/Chapter+3.pdf",
+  "bibliographic": {
+    "title": "Chapter+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 187-194\nProspects of High-Frequency Acoustic \nSounding at Maitri, Antarctica\nH. N. Dutta1 and B. S. Gera\nSubharti Institute of Technology & Engineering, Meerut-250 005\nAnd\nN. C. Deb\nElectronics & Communication Science Unit, ISI, Kolkata-700 108\n1 Member—25,h Indian Scientific Expedition to Antarctica\n2 Formerly with National Physical Laboratory, New Delhi-110 012\nINTRODUCTION\nThe group at the National Physical Laboratory, New Delhi has \nexploited a monostatic acoustic sounding system installed at Maitri, \nAntarctica in studying the Planetary Boundary Layer (PBL) processes \nover Maitri, Antarctica in an extensive manner (Pasricha et al., 1991; \nNaithani et al., 1994, 1995; Naithani, 1997; Ashok Kumar, 2002; \nGajananda, 2002; Ganananda and Dutta, 2005; Gajananda et al., 2004, \n2007, 2011;Ved Parkash, 2008; Bishnoi, 2010; Gajananda et al., 2011; \nDeb et al., 2010a,b; Singh and Dutta, 2011). Later on, the group \ntransferred the technology of monostatic acoustic sounder developed for \nAntarctica to a private firm (Dutta and Naithani, 1994), resulting in \nbenefits of Antarctica to be harnessed by the scientific and technological \nsociety in India. The group also utilized the Antarctica PBL data in \ngetting an international patent (Gera et al., 2005, 2011). Later on, the \ngroup worked extensively on the development of a shipbome acoustic \nsounder and the successful attempt has resulted in important contributions \nat the global level (Bishnoi et al., 2005; Singh and Dutta, 2011; Dutta \net al., 2011).\nBased on the acoustic probing of the Planetary Boundary Layer up \nto a height of 1 km at Maitri, it has been realized that almost all the \nimportant ice-air-ocean interactive phenomena are in the lowest domain \nand instead of going to 1 km as the probing height, a much lower \nprobing height would be good enough for all practical purposes. It was\n\n188 H. N. Dutta, B. S. Gera and N. C. Deb\nrealized that maintaining a low frequency acoustic sounder (using 6 feet \nparabolic dish surrounded by an acoustic shield) in the open environment \nis a herculean task, especially during blizzards and during winter period. \nDuring blizzards, so much of snow gets accumulated on the parabolic \ndish antenna that it has to be removed immediately so that the observations \nstart without major break. Any delay in physical removal of snow may \nhamper the observational part seriously. Some groups are providing \nheating in the antenna itself to melt the snow/ice. This is an attempt \nwhich has not been made by our group, as it would mean, redesigning \nthe antenna to fit the inbuilt heating coils.\nAt the same time, many groups in the world have ventured to use \nhigh frequency acoustic signals in capturing the advantage of portability \n(Coulter and Martin, 1986; Mursch-Radlgruber and Wolfe, 1993; Coulter \net al., 1994; Woulfelmaier et al., 1999; Kouznetsov, 2009) but it limits \nthe probing range to within about 300 m (Coulter and Martin, 1986), \nwithout really compromising on its capability to detect drainage flows in \nthe rocky mountains (Woulfelmaier et al., 1999).\nBased on this important input, an innovative approach would be to \ngo for high frequency acoustic sounding, especially in Antarctica so that \nthe whole antenna is small enough to physically shift it inside a room \nduring blizzards. Moreover, the height range of even high frequency \nacoustic sounding is good enough to yield answers for many unresolved \natmospheric processes and issues in Antarctica. High frequency would \nalso remove possibility of reflections from nearby tall structures. Although, \nwe do not have these kinds of issues at Maitri, Antarctica but the \nadvantage cannot be ruled out.\nWork Carried Out During 25th Expedition\nWith this background in mind, the group at NPL, New Delhi \ndeployed a high frequency acoustic sounder at Maitri, Antarctica during \nthe 25th Indian Scientific Expedition to Antarctica and the present report \nhighlights the experiences for its future growth in India and its prospects \nof installation at Maitri, Antarctica.\nDesign Philosophy\nBased on the inputs from the published literature, it was decided to \nuse a 2 feet parabolic dish with a high frequency acoustic transducer \nfitted at the focus. In fact, we carried various types of acoustic transducers\n\nProspects of High-Frequency Acoustic Sounding...189\nwhich had the capacity to operate at higher frequencies. It may be \npointed out that while choosing a transducer; almost all the companies \nwould give specifications about the transmitting characteristics. However, \ntheir receiving functional parameters are missing and this is something \nthat has to be assessed either in the laboratory or directly in the field \nitself. Moreover, for receiving side, environmental temperature is \nextremely important. We have not been able to create this type of a \nfacility to have a perfect trial but the testing",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "3] Atmospheric Sciences",
+    "subcategory": "Prospects of High-Frequency Acoustic Sounding at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:57:58.499280Z"
+  }
+}

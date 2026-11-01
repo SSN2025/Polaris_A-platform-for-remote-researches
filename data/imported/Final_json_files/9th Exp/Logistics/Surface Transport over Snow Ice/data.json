@@ -1,0 +1,72 @@
+{
+  "id": "article_23_1",
+  "document_id": "NCPOR-0FF998",
+  "source_file": "ARTICLE+23_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/366/3/ARTICLE+23_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+23_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 291-298 \nSurface Transport over Snow & Ice Terrain in Antarctica\nBALRAJ SINGH\nIndian Army\nHaulage of fuel and cargo from shelf and Dakshin Gangotri to India's new permanent\nstation, Maitri, involved surface transport over 130 km long crevasse laiden terrain of snow\nand ice. The wilderness of Antarctica, lack of landmarks and cruel cold, call for extreme\ncaution, meticulous planning and a sound sense of navigation while negotiating the icy\ncontinent.\nDuring the austral winter of 1990, the 7th wintering team had the distinction of running\n9 convoys, 7 to DG and 2 to Wohlthat mountains. The convoys were significant in the sense\nthat no assistance was sought for from the neighbouring German or Russian stations. The\nconvoys to Wohlthat were a great feat as these have opened new areas for geological\nexploration during the winters.\nConvoys to Dakshin Gangotri\nThe major objective of these convoys was to transport fuel and other heavy stores to\nMaitri. The team undertook 7 convoys to DG during the period from 25th Feb '90 to 14th\nNov '90. A joint convoy with members of new team was also undertaken in February 1991\nto acquaint them with terrain and route. Every convoy consisted of 6 vehicles (Fig.l) and 7 \nto 8 persons. Due to constraints of manpower, it was not possible to have a driver and a \nco-driver in all the vehicles. However, the leading and the last vehicle generally had two\npersons each, to guide and monitor the progress of vehicles. The details of different convoys\nto DG and the cargo handled are given below in Table 1.\nEach convoy had a scientific component attached to it, increasing the value of effort.\nSignificant glaciological, geomorphological and geophysical data were collected during the\nconvoys by members from Geological Survey of India.\nAn effective communication between convoy and Base — as also among the different\nvehicles was maintained. Two 100W Tx/Rx sets and six PWSL Walkie-Talkie sets were\nprovided to every convoy leaving Maitri.\nConvoys to Wohlthat Mountains\nAttempts by earlier expeditions to approach mountains south of Maitri did not materialise\nowing to the limited capabilities of then available snow vehicles. During DC Expedition two\nnew Pisten Bullys (DS-270) were obtained and a geological programme envisaged for\nWohlthat mountains during winters.\n292\nFig. 1. One of the winter convoys on move from Maitri. \nBalraj Singh \nSurface Transport over Snow & Ice Terrain ... \nTable 1: The Convoy Details\n293\nSI. No. From To Tasks accomplished\n(Transportation of)\n(a) 25 Feb',90 27 Feb'90 27,000 Ltrs of fuel\n(b) 15 Mar'90 25 Mar'90 50,000 Ltrs fuel\n(c) 12 May'90 20 May'90 53,000 Ltrs fuel, Dobson Hut Workshop container and\nEngine assembly of 62.5 KVA genset shifted to Maitri.\n(d) 30 Jul'90  10 Aug'90 48,000 Ltrs of fuel\n(e) 07 Aug '90 10 Aug '90 Recovery  of vehicle\n(f) 11 Sep '90 19 Se p '90 5000 Ltrs of fuel.\nHial Tech construction stores of 8 contrainers load\nburried in snow at shelf retrieved and brought to Maitri.\n30 KVA genset with container shifted to Maitri.\n(g) 05 Nov '90 14 Nov '90 56,000 ltrs of fuel.\nFig. 2. Pisten Bully 270DS making its way to Nordvestoya, northern Humboldt mountains. \nA reconnaissance convoy was run between 9th to 12th April 1990 with three vehicles and\nsix personnel. The convoy covered 65 km one way and returned successfully after estab-\nlishing 65 route markers and collecting base data for geophysical and  glaciological studies.\nThe convoy  established suitability and trafficability of different snow vehicles being used\nBalraj Singh \nat Indian station apart from gaining the confidence and having the 'feel' of the continental\nice terrain.\nThe main Wohlthat convoy was planned and executed successfully between 5th October\nto 28th October 1990. Three vehicles, two geologists, including the leader, and four Army\ncontingent members joined the detachment of wintering team which camped at Nordvestoya\nand completed detailed geological studies as assigned to the VII Wintering team.\nThe two new Pisten  Bullys, PB 270 DS, were extensively used to cover interior areas\n(Fig. 2), facilitatin g collection of data and optimum utilization of good weather days. The\nsuccess of Wohlthat convoy has paved the way for future exploration of interior areas during\naustral winters and thus has rightly been claimed as new feat in the annals of  Indian\nExpeditions to Antarctica . The party faced three severe blizzards while at Nordvestoya and\none blizzard during the return journey. Th e vehicle performance, power generation and\ncommunication systems functioned satisfactorily.\nVehicles\nA variety of snow vehicles are held at Maitri and DG stations. All the vehicles have been\nused extensively during the winter of 1990. Vehicles available in Antarctica with VII\nwintering were:-\nThe performance report of different types of vehicles is given in the succeeding para-\ngraphs.\n",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "8]Logistics",
+    "subcategory": "Surface Transport over Snow & Ice Terrain in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:33.737294Z"
+  }
+}

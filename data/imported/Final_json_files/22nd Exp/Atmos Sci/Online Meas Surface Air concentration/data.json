@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_20_2c_pp_117_124",
+  "document_id": "NCPOR-447DEA",
+  "source_file": "Technical+Publication+No.+20%2C+pp+117-124.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/878/1/Technical+Publication+No.+20%2C+pp+117-124.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+20%2C+pp+117-124",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "22] Scientific Report of Twenty Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Second Indian Expedition to Antarctica, Scientific Report, 2008 \nMinistry of Earth Sciences, Technical Publication No. 20, pp 117-124 \nOnline Measurement of Surface Air Concentration of \nCH4 and C02 at Maitri, Antarctica \nS. L. Jain, B. C. Arya, Ashok Kumar, V. B. Gupta* and Sachin D. Ghude \nRadio and Atmospheric Sciences Division \nNational Physical Laboratory \nNew Delhi-110012 \n*School of Future Studies and Planning, Devi Ahilya University, \nIndore-452017 (India) \nABSTRACT \nMeasurement of surface air concentration of methane and carbon dioxide has been \ncarried out using Automated Gas Chromatograph at Indian research Station, Maitri (70°.44'S, \n11°.45'E), Antarctica during 21s1 and 22nd Indian Scientific Expedition to Antarctica. Very \nsmall day-to-day variation of surface CH4 concentration was observed during observational \nperiod. The mean CH4 concentration for sixteen-month period (February 2003 to June 2004) \nwas found out to be 1.70 ppm. The averaged C02 concentrations were found out to be \n368.32 ppm and 369.51 ppm in the year 2002 and 2003 respectively. The values of CO, \nobserved over Maitri are comparable to present Global CO, values. In present communication \nexperimental setup and results obtained are discussed in detail. \nKey Words: Gas Chromatograph (GC), Methane, Carbon dioxide, Antarctica \nINTRODUCTION \nThe current important issues, which are dangerous for the survival of \nlife on the earth, are global greenhouse warming, global increase in carbon \ndioxide, regional increase in tropospheric ozone, urban and regional \natmospheric pollution and the decrease in stratospheric ozone and ozone \nhole over Antarctica12. The distribution of greenhouse gases in the \natmosphere, particularly those due to human and biosphere activities, is \nquite heterogeneous3. The growth of the atmospheric concentration levels \nof greenhouse gases since the industrial period (1750) such as carbon \ndioxide, methane, nitrous oxide, halocarbons and tropospheric ozone has \nbeen identified as one of the major causes of the warming of the Earth's \nsurface4\"6. In polluted environment the concentration of greenhouse gases \nfluctuate widely from place to place, and even from day to day. However, in \n118 S.L. Jain et al. \nAntarctica contaminations sources are distant, the air is very well mixed \nand extremely clean. It is truly the background air of the planet when \ncompared to measurements made elsewhere around the glob. Therefore, \nspecial conditions at Antarctica makes it an ideal site for the baseline \nmonitoring of atmospheric composition. \nMeasurement of surface concentration of greenhouse gases like C02, \nCH4, CO, CFC's etc. is continued since long. Various techniques have been \nused for the continuous in situ measurement of atmospheric greenhouse \ngases at various places over globe. Bacastow (1981)7 reported gas flasks \nsampling technique for continuous measurement of C02 using non-dispersive \ninfrared gas analyzer at South Pole, Antarctica. Langenfelds (2001 )8 reported \nanalysis of air sample collected from the South Pole using Gas \nChromatograph (GC). For a continuous monitoring of greenhouse gases at \nMaitri Antarctica, automated Gas Chromatograph Instrument using flame \nionization detector was setup during 21s1 Indian scientific Expedition to \nAntarctica (2002-03) for the measurements of atmospheric C02 and CH4. \nIn the present communication detailed synopsis of experimental setup and \nresults obtained are discussed. \nEXPERIMENTAL SETUP \nThe gas chromatograph established at Maitri during the measurement \nperiod is a state of art technology consisting of an independent nitrogen \ngenerator producing nitrogen as carrier gas at site and directly connected to \nthe system. It also has in built hydrogen generator and air compressor which \nprovide fuel (Hydrogen + Air) to the flame ionization detector. The samples \nfrom ambient air are injected into the column by a computer controlled \nsampling pump for known interval of time. The appropriate software is being \nused to estimate CO,, CH4 ambient concentration. To achieve optimum \nseparation, good accuracy and precision, good regulation of pressure and \nflow rate of carrier gas and temperature programming of the column is done \nusing dedicated computer controlled software. \nThe complete block diagram of experimental setup for the online \nmeasurement of near surface air concentration of CO, and CH4 using gas \nchromatograph at Maitri, Antarctica is as shown in Fig. 1. The complete \nsystem incorporates Nitrogen Generator, Hydrogen Generator, computer \ncontrolled sampling pump, Gas Chromatograph and Data Processing unit. \nThe system has an independent nitrogen generator which supplies ultra \nhigh pure nitrogen as carrier gas to GC at site. Carrier gas separates the \ncomponents of a mixture using physical method of separation while \ntransporting the sample components through the column to the detector. \nOnline Measurement of Surface Air Concentration 119 \nFig. 1: Block Dia",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Science",
+    "subcategory": "Online Measurement of Surface Air concentration of CH4 and CO2 at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:17.666321Z"
+  }
+}

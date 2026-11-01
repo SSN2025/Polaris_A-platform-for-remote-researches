@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_135_153",
+  "document_id": "NCPOR-0169C4",
+  "source_file": "Technical+Publication+No.+19%2C+pp+135-153.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/853/1/Technical+Publication+No.+19%2C+pp+135-153.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+135-153",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 135-153 \nObservations of Sea Birds during the XXI Indian \nExpedition to Antarctica (2001-2002) \nKailash Chandra \nZoological Survey of India, Central Regional Station, Scheme No. 5, \nPlot No. 168 /169, Vijay Nagar, Jabalpur-482 002, Madhya Pradesh \nAbstract \nThe paper presents the information on birds observed during the XXIst Indian \nScientific expedition to Antarctica. Total 26 species of birds were observed during \nonward voyage between 50° 19' to 69° 51' Latitude (S) & 10° 05' to 16° 00' Longitude \n(E) and return voyage from 68° 07\" to 37° 58' Latitude (S) & 18° 06' to 28° 06' \nLongitude(E). The distribution, habit and abundance at various locations were also \nincorporated in the present paper. The observations on South Polar Skua were also \nrecorded in Schirmacher Oasis. Their habit, nesting sites and population in Schirmacher \nOasis was also studied. \nIntroduction \n\"Antarctica- the name means \"Opposite to the Arctic\" is the southern \nmost continent. The Antarctic continent is the fifth largest continent, \nessentially not well known region on the earth. The mainland of Antarctica \ncovers about 15.4 million square miles. The air in Antarctica is extremely \ndry. The low temperature results in a very low absolute humidity. Like \nthe northern Polar Regions, Antarctica experiences sudden changes that \nresult from the earth's 23.5° tilt from vertical axis. This means that for \nmany weeks during the mid-summer (November to February), it is light \naround the clock. In mid-winter (June and July) there is corresponding \nperiod of continual darkness, when the sun never rises. \nAlthough, both the poles receive very little direct radiation from the \nsun, but Antarctica is much colder than Arctic for a variety of reasons. \nThere is about eight times more ice in the Antarctic region than Arctic \nRegion and reflects more than 80% of the incoming radiation in the \natmosphere, which reduces the heat retaining capacity in comparison to \nthe Arctic. The lowest temperature (- 89.6°) ever recorded on earth was \nin Antarctica. \n136 Kailash Chandra \nIn Antarctica, the freshwater is more than any other continent, but it \nreceives least precipitation (5 cm.), which is even lower than precipitation \nin many desert areas. But, it does snow in Antarctica, and if there is strong \nwinds, then the most ferocious condition prevails, that is called blizzards. \nA severe blizzard may last a week at a time and visibility reduces to a \nfew feet and wind speed cross over 100 knots. Blizzards may drift the \nfreshly fallen snow to other areas, which may occur eight to ten times a \nyear in coastal areas and they stand still the outdoor human activity. \nAntarctica is windiest continent on the earth. \nMaterials and Methods \nThe birds were observed with binoculars (lOx 40), which were useful \nfor the observation during the onward and return voyage. For the visuals \nrecord, three still camera and one movie camera were also used. Of these, \ntwo S. L. R. Camera of Pentax and Cosina and another for Zoom Camera \nwere carried for slide preparations. Identification of sea birds are mainly \ndone as per the classification of Harisson (1989).While onward journey \nfive days surveillance from 14.01.02 to 18.01.02 and during return voyage \nfrom 18.03.02 to 24.03.02. \nObservations \nThe fauna of Antarctic continent is unique to the southern region, \nwhich shares a variety of adaptations and enables them to survive in harsh \nenvironment. The major groups of animals are birds (sea birds including \npenguins) and the mammals (seals and whales) and the minute microscopic \nanimals. \nSince the commencement of journey from Cape Town on 8th lanuary, \n2002, the diversity of birds species at different positions during the voyage \nbetween Cape Town and Indian Bay (Antarctica) including Schirmacher \nOasis was studied, which revealed the presence of about 26 species of \nbirds. Their abundance and range of observation at different latitude and \nlongitude are also recorded. The classification of sea birds were followed \nas given by Harisson (1989). \nSea Birds \nThe Antarctic convergence includes about 65 species of sea birds, \nbut only 12 species breed on Antarctic continent itself (Harisson, 1989). \nThese include pelagic, free ranging; species such as albatrosses and petrels. \nObservations of Sea Birds during the XXI Indian Expedition .... 137 \nWhile coastal species forage close to sea shore, among them are skuas, \ncormorants, terns and sheathbills. Among these, legendary albatrosses are \nthe masters of the stormy southern seas. \nOrder SPHENISCIFORMES \nFamily SPHENISCIDAE \nPenguins \nPenguins are the flightless sea birds, mostly with dark upper parts \nand white underneath. The wings are covered with short flippers like \nstructure covered with scale like feathers. Penguins are seldom seen during \nsea voyages in Antarctic convergence. They dive at the",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 19
+  },
+  "taxonomy": {
+    "category": "3] Bio-Sciences",
+    "subcategory": "Observations of Sea Birds during the XXI Indian Expedition to Antarctica during (2001-2002)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:44.999242Z"
+  }
+}

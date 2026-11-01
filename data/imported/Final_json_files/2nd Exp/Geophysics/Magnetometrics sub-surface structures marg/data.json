@@ -1,0 +1,72 @@
+{
+  "id": "article_9",
+  "document_id": "NCPOR-CC53DD",
+  "source_file": "ARTICLE+9.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/173/3/ARTICLE+9.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+9",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Magnetometrics  in  the  Study  of  Sub-surface  Structures  of\nAntarctica  Margin\nB.R Arora, S.Y. Waghmare and L.A. D'Cruz\nIndian Institute of Geomagnetism, Colaba Bombay-400  005 \nDuring the second Indian Antartica expedition in addition to monitoring time variation in the\ngeomagnetic field components a preliminary ground based magnetic survey was conducted Magneto \nmetric data obtained along six 10 -15 km long profiles, after correction for transient and day- day varia \nbility are examimed in the form of magnetic profiles and anomaly contour map . Qualitative interpreta-\ntion of data suggests the presence of a north- south trending rift structure on the topographic ridge\nbetween 10- 12 E. The structure appears to be northward continuation of rift valley mapped on the\ncontinental margin of the Princes Astrid coast. The rift structure appears to terminate against a sharp \ndiscontinuity.\nINTRODUCTION\nThe study of continental margin has received the attention of several workers in the past two\ndecades. It is well recognised that in geological sense the coastal line is no t the true boundary\nbetween continent and ocean. The rocks and structures seen on land extend under the sea and hence\nthe real boundary between the continent and ocean must be  looked for far out to sea. The average\nequality of free-air gravity anomalies over both oceans and continents, established in the beginning\nof century, suggested an isostatic balance between continents and ocean basins with either a \nshallower depth to Moho and /or denser crust and upper mantle beneath the ocean basins\nSubsequent seismic and gravity modelling have confirmed that the crust-mantle boundary rose from\n30-35 km  depth beneath the continent to a depth of 10 km beneath the ocean basins over a transition\nzone of approximately 200 km wide. In some regions, the ocean-continent boundary appears to be\nfairly easily defined as a sharp discontinuity while in other s there is no consensus on its position or on\nthe width of a possible region of  transitional crust situated between true oceans and true continental\ncrust.\nMagnetic anomalies have been particularly useful in locating  edge anomalies  between more\nhighly magnetized oceanic crust and continental crust with lower magnetization (Keen, 1969, Emery\net al, 1970, Keen and Keen, 1974) More recent analysis has suggested the value of both magnetic\nanomalies and two dimensional local Any isostatic gravity anomalies as the key to locating the\nocean-continent boundary (Talwani and Eldholm, 1972,1973, Rabinowitz and LaBreque, 1977 ) On\naverage, the magnetic anomalies associated with such edge effect exhibit an increasing trend away\nfrom continent reaching a peak over ocean-continent boundary, followed by a steady decrease  and\nhave amplitude of several hundreds of gammas. Any geophysical study ot the morphology of Moho\nat ocean-continent junction through its gravity and magnetic character is complicated by the\npresence of topographic structures on  continental shelf and slope bordering the continent.\nIn view of the geological and economic importance, continental margins of several continents\nhave been studied extensively. Studies of the continental margin s of Australia, India, South Africa\nand South America,  which once formed single landmass, would be informative in  providing better\nunderstanding of the structural evaluation and rifting processes associated with the splitting of\n69\nABSTRACT\nMagnetometrics in Study of Sub-surface\nGondwana landmass. Our knowledge of continental margins, particularly of Antarctica, is still very\nscanty and much more needs to be known. In  the past two decades, several countries have carried out\ngeophysical surveys which are continuously filling the gaps in our knowledge about this continent.\nIn the first Indian expedition to Antarctica, several geophysical measurements, including\nmarine magnetometrics, were undertaken. The magnetometer sensor towed by the ship made\nmeasurements throughout its  voyage to Antarctica. The measurements during the onward and\nreturn cruises from Goa to Antarctica, revealed several magnetic anomalie s which could be\nqualitatively associated with Mauritius island rises, Southwest Indian ridge, the Crozet plateau rises\netc. A magnetic anomaly of more than 1000 gammas wa s also observed in association with hitherto\nunreported sea-mount, now named as  Indira  Mount. Within the Antarctica area (south of 60 0S),\nseveral strong magnetic anomalies were registered on the continental margin off the Dronning Maud\nLand. This continental margin is characterised by the three prominent North-South trending\ntopographic highs. The eastern one at about 33-35 0E is known as the Gunner Ridge and the western\none between the 0 and 5 0E has been named as the Maud Bank. Between these two ridges lies an\nunnamed ridge between 10-120E. A rift structure was mapped on this ridge. In some areas rift is\nmarked by magnetic lows of 150-200 gammas. The eastern flank of the Gunner Ridge was ma",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "3]Geophysics and Geomagnetism",
+    "subcategory": "Magnetometrics in the study of sub-surface structures of Antarctica margin",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:12.428978Z"
+  }
+}

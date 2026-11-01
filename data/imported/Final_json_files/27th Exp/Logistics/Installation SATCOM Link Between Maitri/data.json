@@ -1,0 +1,72 @@
+{
+  "id": "chapter_1",
+  "document_id": "NCPOR-F14B55",
+  "source_file": "Chapter+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1101/1/Chapter+1.pdf",
+  "bibliographic": {
+    "title": "Chapter+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "LOGISTICS\nInstallation of the First SATCOM Link\nBetween Maitri, Antarctica and India\nSunil S. Kushwaha and S. S. Valdiya\nSpace Applications Centre, Ahmedabad\nABSTRACT\nSpace Applications Centre, Ahmedabad has installed and commissioned a\n3m C-Band Earth Station at Maitri. The commissioning of SA TCOM link between Maitri,\nAntarctica and mainland India sets a new landmark in ISRO's SA TCOM programme. With\nthe commissioning of the counter-part Earth Station at NCAOR, Goa; the Indian Antarctic\nStation, Maitri is now connected to the World Wide Web.\nKeywords: Antarctica, Maitri, Earth Station, Link, Goa India.\n1.0  INTRODUCTION\nSpace Applications Centre, Ahmedabad has installed and\ncommissioned a 3m C-Band Earth station at Maitri, Antarctica (71deg S,\n1 1 de g E) to pro v ide a tw o w ay Co mm un icatio n Link be tw e en Maitri at\nAntarctica and mainland India. At the time of installation and\ncommissioning, this Earth Station was characterized and tested using 13m\nantenna system at MCF, Hassan. Later on, a 7.2m C- Band Station was\ninstalled and commissioned at National Centre for Antarctic & Ocean\nResearch (NCAOR), Goa to establish a dedicated communication link for\nround-the-clock operations. This link has been designed to operate at a\nvery low elevation angle for the video conferencing, video streaming and\ninternet browsing applications. The link operates at a data rate of around 1\nMbps between Maitri and Goa.\nThe selection of materials for the antenna and its foundation and the\ndesign of electronic-subsystems were carried out keeping in mind the\nweather of the cold and windy Antarctic conditions. The system was\nconfigured with full redundancy, considering the extreme isolation of the\nplace, disconnected from the rest of the world. All the Earth Station\nmaterials were transported from NCAOR, Goa to Antarctica ice-shelf coast\nby ship. It was a real test of men and machine to shift the heavy and odd\nshaped antenna materials from ice-shelf to Maitri station by helicopter.\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 291-295\n292                                    Sunil S. Kushwaha and S. S. V aldiya\nIt took two helicopters, making 8-10 sorties per day, for about 10 days, to\ntransport the Earth Station material from shift to Maitri.\n2.0  NETWORK  DESCRIPTION\nThe communication network has been planned with geostationary\nsatellite and Earth Stations at Maitri, Antarctica and mainland India. The\nC-band has been chosen for the communication, because of its inherent\nadvantages of lesser propagation loss at low elevation angles, negligible\nrain attenuation and availability of satellites having a wider beam width of\nAntarctica and main land India coverage. The network configuration has\nbeen planned with INTELSAT IS-1002 satellite, as Maitri station does not\ncome within the beam coverage of Indian National Satellite (INSAT).\nAs it was difficult to transport heavy materials to Antarctica and also\nexpensive to provide radome protection to a bigger size antenna, the\ncommunication network has been configured with Earth Station of 3m\nantenna at Maitri and 7.2 m antenna at NCAOR, Goa. PAMA\n(Pre-Assigned Multiple Access) is the access technique for these Earth\nStations, as the communication link has been planned with two fixed nodes\nfor round the clock operations.\nThe project was initiated with installation of Antarctic Earth Station.\nThe communication link was tested with MCF Hassan for establishing the\nfeasibility of the link. The Earth Station antenna look-angles at Maitri and\nMCF, Hassan for IS-1002 satellites are 345.5°E azimuth, 10.0° Elevation\nand 195° E azimuth, 3.5° Elevation.\n3.0  SATELLITE  PARAMETERS\nThe major specifications of the INTELSAT-IS 1002 located at 359\ndeg E longitude are as follows:\nS r. No. Parameters Specification\n1.         Total transponders C-band : up to 70 (in eqiv. 36 M Hz \nunits ) Ku-band : up to 32 (in eqiv. 36 \nMHz uni ts)\n2.         Uplink frequency 5850 to 6425 M Hz                                   \n13.75 to 14.50 GHz\n3.         Downlink frequency 3625 to 4200 M Hz                                \n10.95 to 12.75 GHz\n4.         Polarization C-band : Circular – Right or Left Hand                                  \nKu-band : Linear – Horizontal or V ertical\n(Contd....)\n          293Installation of the First SATCOM Link Between Antarctica and India\n5.         EIRP (Beam edge to \nbeam peak)\nGlobal : 32.0 up to 36.0 dBW                 \nHemi : 37.0 up to 44.1 dBW                                      \nZone : 37.0 up to 46.4 dBW\n6.         G/T (Beam edge to \nbeam peak)\nGlobal : -10.7 up to -7.7 dB/K               \nHemi : -6.5 up to +2.4 dB/K                   \nZone : -4.6 up to +3.0 dB/K\n7.         SFD range (Beam edge) C-band :  -89.0 to -67.0 dBW /m 2                                              \nKu-band : -87.0 to -69.0 dBW /m 2\n4.0  SATCOM TERMINAL SPECIFICATIONS AT MAITRI,\nANTARCTICA\nThe Earth Station at Maitri, Antarctica consist",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "7] Logistics",
+    "subcategory": "Installation of the First SATCOM Link Between Maitri, Antarctica and India",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:16:19.222164Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_18_2c_pp_171_182",
+  "document_id": "NCPOR-33C302",
+  "source_file": "Technical+Publication+No.+18%2C+pp+171-182.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/818/1/Technical+Publication+No.+18%2C+pp+171-182.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+18%2C+pp+171-182",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twentieth Indian Expedition to Antarctica, Scientific Report, 2006 \nMinistry of Earth Sciences, Technical Publication No. 18, pp 171-182 \nStudies on Seismotectonics and Geodynamical \nProcesses between Antarctica and India \nL. Prem Kishore, T. Chaitanya, A. Akilan, G.S. Srinivas, \nG.B. Navin Chander, S.V.R.R Rao, E.C. Malaimani and N. Ravikumar \nNational Geophysical Research Institute \nUppal Road, Hyderabad - 500 007 \nAbstract \nThe on-going research activities at Antarctica were successfully carried out during \nXX IAE for the scientific objectives of studying the crustal deformation processes, the plate \ndriving mechanisms and the response of the Indian Ocean Hthosphere, to monitor the space \nand time distribution of Earthquake occurrences and obtain hypocental parameters, \nmagnitudes of earthquakes, release of energy, strain accumulation and stress drop, velocity \ninversion for underground structure and physical properties, earthquake source mechanism, \nreceiver function analysis, attenuation of seismic waves and anisotropy studies by operating \nthe GPS station and the Seismological Observatory continuously. The GPS Station continues \nto contribute to Scientific Committee on Antarctic Research (SCAR) and International Earth \nRotation Service (IERS), the Seismological Observatory continues to contribute to NEIC \n(USGS) and ISC (UK) and plays a pivotal role in the Global Seismographic Network in \nAntarctica. By participating and contributing data, both GPS and Seismic Observatory at \nAntarctica have gone global. Both the stations working in tandem aid mutually the studies \non tectonic processes, analyzing the seismic activities in and around Antarctica, yield a \ncomprehensive picture on Indian Plate Kinematics. These scientific objectives would provide \nthe challenges and future opportunities to further the scientific investigations to unravel \nthe unknown behavioral patterns of the earth systems, especially in the Indian Ocean. The \npaper discusses the importance of collocating GPS and Seismological Observatory at the \nsame site. \nKeywords: GPS, Digital Broad Band Seismometer, NEIC, SCAR, IERS, ISC \nIntroduction \nSpace geodesy, GPS-Geodesy and Seismic Studies being pursued by \nNGRI are very relevant as it can test many predictions related to plate \nboundary conditions which remain otherwise unconfirmed. Besides, \nstudies of this kind have rarely been conducted on the larger oceanic part \nof the Indian plate. The need to focus the study on the Indian Ocean Margin \nbecomes mandatory in the present scenario of intraplate and interplate \nearthquakes that do occur frequently in India forcing to reevaluate the \n172 L. Prem Kishore et al. \nrigidity of the Indian plate as well as Indian Ocean Margin. To broad base \nthe studies to understand the tectonic activity and crastal deformation in \nthe south of Indian peninsula, the driving mechanisms and the response \nof the Indian Ocean Lithosphere, the data from the IGS stations in the \nislands surrounding Indian plate is included in the global network solution. \nDuring XX IAE the Permanent GPS station at Maitri, was operated \ncontinuously and the data accrued and archived were processed and \nanalyzed to estimate the Time Series Site coordinates of Maitri in ITRF \n97 Reference Frame at Epoch 1998.1 \nSimilarly the Seismic Observatory was also operated continuously \nand the earthquake events were recorded. The collocation of both GPS \nand Seismic Stations at Maitri, Antarctica have necessarily to co-exist and \nwork in tandem for several years in order to collect Time Series capable \nof providing reliable information on crustal deformation processes and the \nseismic activities that are taking place in and around Antarctica. The India \n-Eurasia collision zone has been the focus of intense studies by the Space \nGeodetic community for Indian Plate Motion. So far space geodetic studies \nby GPS have been made in southern and central India that bears on the \nrigidity of the Indian plate (Malaimani et al., 2000; Paul et al., 2001), \nwhose velocity data for 2 sites fit the rigid plate model within uncertainties, \nestimated at about 3.7 cm/yr. for Hyderabad and 3.9 cm/yr. for Bangalore. \nThe Indian Ocean \nThe classic Triple junction as shown in Fig. 1 in the Indian Ocean \nnamed as Rodrigues Triple junction (RTJ) where the three plates Somalia-\nFig. 1: Indian Ocean depicting the classic Indian Triple Junction. \nStudies on Seismotectonics and Geodynamical Processes .... 173 \nAntarctica-Indo-Australia diffuse plate boundary meet makes an interesting \nstudy of Indian Plate Kinematics. The three mid-ocean ridge (MOR) \nsystems that form the triple junction are (i) Southwest Indian Ridge \n(SWIR), (ii) Southeast Indian Ridge (SEIR), and (iii) Central Indian Ridge \n(CIR) and its northwestern continuation Carlsberg Ridge (CR). Many \nearthquakes of magnitude 6 or 7 have occurred in this century near the \nNinety East Ridge (90ER) and give a rate of seismic moment release \ncomparable to that alon",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences",
+    "subcategory": "Studies on Seismotectonics and Geodynamical Processes between Antarctica and India",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:07.184773Z"
+  }
+}

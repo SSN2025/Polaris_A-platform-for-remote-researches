@@ -1,0 +1,72 @@
+{
+  "id": "chapter_3",
+  "document_id": "NCPOR-5E93BF",
+  "source_file": "Chapter+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1094/1/Chapter+3.pdf",
+  "bibliographic": {
+    "title": "Chapter+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Recording Aerobic Culturable Microbial Load\nof Soil Core Samples from Larsemann Hills,\nEast Antarctica\nSoumya Biswas and Narayan Chandra Mandal\nZoological Survey of India\nABSTRACT\nLarsemann Hills is an ice-free area of around 40 square km, located in Princess\nElizabeth Land, East Antarctica. In this study, five soil cores were collected from five\ndifferent locations in Larsemann Hills. A great variation of four major types of bacterial\ncolonies, based on their size and colour, was found and recorded; when the soil suspension\nwas plated both onto Nutrient Agar and Yeast Extract Agar media. These microbes were\ngrown in different media and different temperatures. Their morphology was examined by\nScanning Electron Microscopic and growth pattern at different temperature ranging from\n4°C to 37°C was also recorded. The samples showed a great variability, although collected\nfrom almost same geographical region.\nKeywords: Aerobic, Bacteria, Yeast, Larsemann Hills, Antarctica.\n1.0  INTRODUCTION\nAntarctica is one of the most pristine and extreme places on Earth.\nThis is because it is not so easily accessible and there is no native human\npopulation there. Exploitation of natural resources is prohibited, which\nmakes it uninteresting for industries, as there is no immediate economic\nbenefit. The whole continent is used for scientific study. Larsemann Hills\nis an ice-free area of around 40 square km, located approximately in the\nmiddle of the Vestfold Hills and the Amery Ice Shelf on the southeastern\ncoast of Prydz Bay, Princess Elizabeth Land, East Antarctica 1. The\ndominant rock types in the Larsemann Hills are metapelitic cordierite and\nFe-Ti oxide-rich gneisses and various leucogneisses2.\nNear-zero and sub-zero environments on the surface of our earth have\nbeen lucratively colonized by plentiful organisms, exacting algae3, fungi4,\nlichens5 and bacteria 6. Fundamental conditions for life are its ability to\nself-replicate and to catalyze chemical reactions efficiently and selectively.\nAs these organisms do not have any temperature regulation, their inner\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 229-234\n230                          Soumya Biswas and Narayan Chandra Mandal\ntemperature is close to the temperature of immediate environment.\nDespite the strong depressing effect of low temperature on biochemical\nreactions, these organisms grow and breed at rates comparable to those\nachieved by related species living in mild environments. It is obvious from\nthe information, dating as early as 1990, that densities of bacterial cells as\nhigh as 107 ml–1  have been established in the Antarctic Ocean7. In the present\ninvestigation, an attempt has been taken to enumerate the bacterial and\nyeast load of five soil samples of Larsemann Hills of East Antarctica, which\ncan be cultured on microbial growth media.\n2.0  METHODOLOGY\nIn this study, five soil cores were collected from five different loca-\ntions in Larsemann Hills. For collection, sterilized steel borers were used,\nwith a diameter of 1 cm and length of 8 cm. Hammer was used to push the\nborer into the soil. Steel piston of compatible diameter was used for push-\ning the soil out of the borer into sterilized cryovials of 5 ml volume. The\nborer and piston were washed and burned every time, before collecting\nsoil from a new location, to eliminate any chance of contamination. In\nevery location air temperature, soil temperature, and the coordinates were\nrecorded. After collection, the samples were stored in –24°C in the refrig-\nerator. The list of collected samples is given in a tabular form in Table-1.\nTable 1– Description of Antarctic Soil Sample\nSample \nNo. \n \nLocation Temp er ature \n(in O C) \nRemark  \nLatitude  Longitude  Soil Air \nL .H.-01 \n \n6 9.41333 S 76.18916 E  -1 .2 -4.7 Soil from snow \ncover ed area. \nL .H.-02 \n \n6 9.40555 S 76.19166 E  -0 .6 -1.1 Soil from the  \nmoss-bed near lake. \nL .H.-03 \n \n6 9.40583 S 76.19305 E  -0 .8 -1.3 Sand fro m between \nthe cracks of the \nrock. \nL .H.-04 \n \n6 9.37388 S 76.13861 E  -2 .2 -5.5 Soil from under the \nrocks. \nL .H.-05 \n \n6 9.40583 S 76.19444 E  -3 .2 -7.6 Soil from between \nthe cracks of rocks. \n L.H.=Larsemann H ills \nSterile glycerol 10% was used (1ml 10% glycerol for 1gm of soil) as\na cryopreservent to minimize the detrimental effect of the freeze-thaw cycle,\nwhich was quite impossible to avoid while working with it.\n                        Recording Aerobic Culturable Microbial Load  ....                 231\nOne gram of soil was suspended in 5 ml of water. The suspension\nwas subjected to vigorous vortexing to take the bacterial cells into\nsuspension, detached from soil particles. It was diluted according to the\nneed. Then 100µl of that suspension was spread on different culture media\nand kept for incubation. After the appearance of visible colonies, they were\ncounted and calculated to correspond to per gram of soil. This same\nprocedure is applied for all the",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "4] Biological and Environmental Sciences",
+    "subcategory": "Recording Aerobic Culturable Microbial Load of Soil Core Samples from Larsemann Hills, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:15:18.282757Z"
+  }
+}

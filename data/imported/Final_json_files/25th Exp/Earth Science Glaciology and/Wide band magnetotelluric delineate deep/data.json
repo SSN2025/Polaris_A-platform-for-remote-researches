@@ -1,0 +1,72 @@
+{
+  "id": "chapter_5",
+  "document_id": "NCPOR-312C00",
+  "source_file": "Chapter+5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/994/1/Chapter+5.pdf",
+  "bibliographic": {
+    "title": "Chapter+5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 119-137\nA Wide Band Magnetotelluric Investigations to \nDelineate the Deep Crustal Geoelectric Structure \nin East Antarctica\nS. Prabhakar E. Rao, Sharana Basava and T. Harinarayana\nNational Geophysical Research Institute, Hyderabad \n(Council of Scientific and Industrial Research)\nABSTRACT\nIn the 25th Indian Scientific Expedition to Antarctica, wide-band magneto \ntelluric investigations were carried out during December 2005 to March 2006 in \nand around Schirmacher oasis. The aim of the study was to map the deep crustal \ngeoelectric structure of east Antarctica around the Indian Research Station, Maitri. \nLimited long period MT studies were taken up earlier in Antarctica by other \ncountries. Wide band MT data acquisition (0.001-1000 sec.) covering both AMT \nand MT signals became a problem related to get high quality data. The problems \nare tackled with computer aided online processing facility using internally heated \nlaptop computer and special electrodes. A total number of six sites have been \noccupied along a profile oriented NE-SW direction to the south of Maitri with a \nstation interval of 2-3 km with length of about 15 km. One site is situated on land \nmass in gneissic terrain close to Maitri and other five sites were to the south of \nMaitri on Continental ice sheet. MT data have been collected at each site for a \nduration of 4-5 days to acquire long period signals and also to obtain good quality \nshort period signals. Use of titanium electrodes as e-probes has reduced the contact \nresistance to kilo-ohms and facilitated recording of both high and low frequency \nsignals. In the present study, the logistics of field data acquisition procedures of \nthe wide band mhgneto telluric study are presented. A deep crustal geoelectric \nsection obtained from 2-D modeling results showed a thin (10 km) high resistive \nupper cmst followed by less resistive mid-lower crust. A feeble resistivity contrast \nis also observed as a boundary between lower cmst and upper mantle, perhaps \nrepresents an electrical Moho. Results are compared with earlier (24th Indian \nAntarctic Expedition) MT results and discussed.\nINTRODUCTION\nAntarctica has been broadly divided into eastern and western parts by \ntransantarctic mountains (Gregory, 1901). West Antarctica encompasses\n\nthe Scotia arc region, the Antarctic Peninsula, Ellsworth Land, the Ellsworth \nmountains and Marie Byrd Land, while East Antarctica consists of Dronning \nMaud Land, Enderby and Kemp Lands. An approximately 95 per cent of \nits surface is covered with thick (1— 3 km) ice, and so crust and mantle \nstructure must be deduced geophysically. Geophysical deductions must \nmake use of only a handful of physical properties of the Earth, one of \nwhich is its electrical resistivity. The geophysical method that can provide \nimages of resistivity to deep crustal or upper mantle depths is \nmagnetotellurics (MT) (Vozoff 1991; Harinarayana et al., 2003, \nWannamaker et al., 2004). This physical property in turn can provide \ninformation on primary structures (sedimentary distributions, lithologic \ncontrasts, major fault offsets), geochemical fluxes (hydrothermal alteration, \nremobilized graphite and sulphides) and thermal regime (prograde or melt- \nexsolved fluids, crustal or upper mantle melts, mineral semi-conduction).\nThe Queen Maud Land area in East Antarctica, in Indian Research \nStation‘Maitri’ is situated in Schumacher Oasis. Schirmacher Oasis is a \nsmall ice-freeland mass of 35 km area, located at the intersection of \ncoordinates 70.8° S lat. and 11.8°E long. East Antarctica has been accepted \nas a stable cratonic block of Pre-Cambrian rocks, but more recently is \nthought to have been a component of a Late Proterozoic supercontinent \nRodinia (e.g. Dalziel 1991; Borg and DePaolo 1994; Rodgers et al 1995; \nSatish-Kumar et al., 2008). West Antarctica has been assembled to East \nAntarctica from accreted blocks and subduction-related plutonism since \nlower Paleozoic time (Storey & Alabaster, 1991).\nEarlier Studies in the Region\nGeophysical and geological surveys along and across the continental \nmargin of Antarctica play a major role in deciphering the Gondwana puzzle. \nGeophysical survey measurements are of particular importance in Antarctic \nresearch because of the dominating ice cover of this continent. Global \nGeoscience Transect projects were carried out from different countries in \nthis part of Antarctica. Previously, Geomagnetic, deep seismic soundings, \ngravity and magnetic studies were carried out both on exposed land mass \nas well as on the ice covered regions (Dimitriev & Kochi, 1964; Kogan & \nStroev, 1972).\nThe seismic refraction studies (Bentley, 1991; Behrendt, 1999; Bentley \n& Clough, 1970) and Radar soudings (Jiracek, 1967; Bentley, 1991) were\n120 S. Prabhakar E. Rao, Sharana Basova & T. Harinarayana\n\nA Wide Band Magneiotelluric Investigations to Delineate.12",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 19
+  },
+  "taxonomy": {
+    "category": "2] Earth Science, Glaciology and Global Change",
+    "subcategory": "Wide band magnetotelluric investigations to delineate the deep crustal geoelectric structure in East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:56:50.638750Z"
+  }
+}

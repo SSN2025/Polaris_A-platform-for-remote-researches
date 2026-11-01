@@ -1,0 +1,72 @@
+{
+  "id": "article_17",
+  "document_id": "NCPOR-2EB6EB",
+  "source_file": "ARTICLE+17.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/393/3/ARTICLE+17.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+17",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 261-269 \nThermal Acclimatization to Cold in Men Exposed to\nAntarctic Environment during Summer\nU. SACHDEVA, M EENAKSHI NAIDU AND G. SUNDARESAN\nAll India Institute of Medical Sciences, New Delhi\nAbstract\nThe finger skin temperature (Tsk) and blood flow (FBF) alterations before and after cold\nimmersion on exposure to Antarctic environmen t for 8 weeks were studied in 64 subjects. Cold\nimmersion test was performed at non-Antarctic and A ntarctic conditions by immersing the hand for 2 \nmin in 0- 4°C cold water. The result of this study indicated that continuous cold exposure in Antarctica\nresulted in vasodilatation which overrides the stronger vasoac tive response of acute cold exposure,\nthereby preventing cold injuries. Besides these circulatory acclimatization to cold there was increase\nin body mass associated with redistribution of subcut aneous fats.\nIntroduction\nAcclimatization to cold exposure is one of the most important physiological\nmechanisms for the men in Antarctica (Budd, 1962; Palmai, 1962; and Sjurley,\n1970), so as to favour adequate work performance without developing cold injuries.\nThe changes in skin temperature (Tsk) and hand blood flow to cold exposure have\nbeen interpreted as  indicators of cold acclimatization (Budd, 1964; Budd and\nWarhaft, 1966). Morphological changes such as body size and insulation by redis-\ntribution of subcutaneous tissue have also been found to be associated with cold\nexposure (LeBank, 1962). The cold induced vasodilatation response has also been\nreported to be improved in cold acclimatized men (Glaser et al., 1959). However\nthis has not been clearly demonstrated in non-acclimatized men on exposure to\nAntarctic cold. Therefore the present study was designed to test the acclimatization\npattern of skin temperature, finger blood flow and redistribution of fat of Indian men\nwho participated in Antarctic expedition.\nMaterials and Methods\nThe study took place during austral summer, i.e. December 1990 to February\n1991 on the members of Tenth Indian Scientific Expedition to Antarctica at the\nIndian Antarctic station, \"Maitri\". The air temperature averaged 3°C with winds\nU. Sachdeva et al. 262\nupto 25 km/hr. There was 24 hour sunshine with blizzards every 8-10 days lasting\nfor 24 to 48 hrs.\nThe experiments were conducted on 64 healthy male volunteers. Their mean age\nwas 35.3 yrs (range 25-53 yrs), mean height 168.3 cms and mean weight 64.82 kg.\nThe cold exposure began on 22nd of Dec. 1990 when the expedition ship reached\nthe fast ice of Antarctica. The outdoor activities of off-loading the ship as well as\nother construction and scientific activities initiated at this time. The cold exposure\ncontinued till 26th of February 1991. During these 8 weeks  all subjects worked\noutdoor for 6-8 hrs travelling on foot or on snow vehicles, sleeping in unheated huts \n(temperature 3-4°C higher than ambient temperature).\nTest procedure \nSixty-four subjects were studied and three sets of observations were made. In\neach set of experiment the number of subjects varied, as on several occasions during\nthe period of test the subjects were not available due to involvement in their own\ntask. Test was made on board the expedition ship (Phase I) which was air condi-\ntioned and the air temperature was maintained at 25±2°C. The second set of\nreadings (Phase II) were obtained in late Dec. i.e. one week in Antarctica and 3rd\nset (Phase III) was obtained 2-3 days before sailing in late Feb. i.e. 8 weeks of\nAntarctic stay. The experimental procedure was identical in all phases. All experi-\nments were performed in  the morning after the subjects had a night's sleep and\nstandard breakfast. The subjects were comfortably clothed and relaxed in a room\nfor 30 min during the experiment before they were exposed to a standard cold test\nof right hand immersion in stirred cold water at 0°C for 2 min. The Tsk was recorded\nby means of a digital thermometer using thermistor probe and the finger blood flow\n(FBF) by the Laser Doppler flowmeter (Type PFID).\nCold pressor test \nThe subjects were asked  to immerse their right hand upto wrist in an ice cold\nwater bath (0°C) which was stirred occasionally for 2 mins. The hand was removed,\nwiped with a dry towel and within 30 sec of cold water test the Tsk was measured\nfollowed by FBF measurement.\nPhysical parameters \nThe abdominal girth and midarm circumference were measured in centimetres\nwith the help of a standard measuring tape. The tricep skin fold thickness (in mm)\nwas measured by using a vernier caliper. Besides this the body weight was recorded\nat each test session.\nThermal Acclimatization to Cold in Men Exposed... 263\nStatistical analysis \nThe results from all the subjects were used in the statistical analysis. All data are\npresented as the mean ± SE values. Student's t-test was performed to evaluate the\nsignificance of difference between pr",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "5]Medical Sciences",
+    "subcategory": "Thermal Acclimatization to Cold in Men Exposed to Antarctic Environment during Summer",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:12.838258Z"
+  }
+}

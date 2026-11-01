@@ -1,0 +1,72 @@
+{
+  "id": "pages_from_iith_indian_expedition_281_20_29",
+  "document_id": "NCPOR-15451C",
+  "source_file": "Pages+from+IITH+INDIAN+EXPEDITION+%281++-20%29.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/751/1/Pages+from+IITH+INDIAN+EXPEDITION+%281++-20%29.pdf",
+  "bibliographic": {
+    "title": "Pages+from+IITH+INDIAN+EXPEDITION+%281++-20%29",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "11] Scientific Report Eleventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eleventh Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 9, pp. 1-20 \nPrologue to the Aims and Achievements of Eleventh \nIndian Expedition to Antarctica \nS. MUKERJI \nExpedition Leader \n\"Ah, but a man's reach \nShould exceed his grasp \nOr what's a heaven for'' \n(R. Browning) \nIntroduction \n Since 1981, when India focussed her attention on Antarctica, It has been a \nstory of progress in leaps and bounds. Contributions made by Indian scientists \nwithin a  short  period  of only a  decade, in  various  disciplines of  Antarctic \nscience, are phenomenal. It was with an intention of continuing this process of \nproviding valuable inputs to the existing knowledge about Antarctica, that the \neleventh scientific expedition to this distant land was launched in the austral \nsummer of 1991-92. The fury of nature gave rise to an unprecedented situation \nin the context of Indian expeditions, restraining the ship from going alongside \n,ice shelf till as late as 22 February 1992. Yet, almost all the assigned tasks were \ncompleted. Some of the achievements are the geological investigation of Payer \nand Weyprecht mountains - hitherto a virgin area, recce for future camping sites \nin Conrad and Orvin mountains, GPS observations to set up control points in \nall the ranges of Wohlthat mountain chain from Gruber to Humboldt, systematic \nand detailed study of Antarctic and other birds, studies on Planetary Boundary \nLayer, detailed study.on lichens of Schirmacher Oasi s, large scale topographical \nmapping of the area surrounding Maitri station, etc. Erection of a 28 m tower \nfor scientific studies  and  communication purposes,  strengthening of  water \nsupply line  and  pumphouse structure, installation of new generators, experi­\nments conducted on HF communication as well as on amateur radio hands and \nrecord number of flying hours  clocked by  helicopters  despite  bad  weather \nconditions, are highlights from logistic sector. \n2 .\nTasks \nThe summer  time  scientific  and  logistic  assignments  for  the  team  are \noutlined below: \nScientific tasks \n1. Geological investigation of Payer and-Weyprecht mountains in Wohlthat \nrange. \n2. Routine  glaciological observations including monitoring of the snout of \nDakshin Gangotri Glacier in Schumacher Oasis. \n3. Search  for meteorites. \n4. Large  scale topographical mapping of Maitri station area. \n5. GPS  observations in Schinnacher Oasis and Wohlthat mountains for ground \ncontrol points to prepare digital terrain model with the help of SPOT imageries. \n6. Measurement  of aerosol concentration oven Antarctica. \n7. Collection  of data to study the Planetary Boundary Layer (PBL). \n8. Investigation  in  marine  and  fresh  water  eco-systems in  the  Antarctic \nenvironment. \n9. Studies  on lichenometry in Schirmacher Oasis, Antarctica. \n10. Study  of bacteria in Antarctic soil collected from Schirmacher Oasis. \n11. Investigation  of faunal aspects in Antarctica. \n12. Studies  on  circadian  rhythm  changes  on  human  beings  in  Antarctic \nenvironment. \n13. Routine  studies in geomagnetism. \n14. Routine  meteorological studies. \n15. Studies  on integrated water vapour content of atmosphere and radio noise \nmeasurements. \nLogistic tasks \n16. Enhancing  fire protection measures in Maitri station. \n17. Installation  of  new  generator  sets  in  the  genset  accommodation  and \ncommissioning of power house. \n18. Improving  the heating system in Maitri station. \n19. Improving  the structure for water supply system at Maitri station. \n20. Erection  of 28 m tower for fixing scientific equipments and communica-\ntion antennas. \n21. Routine  maintenance of vehicles. \n22. Erection  of  living and toilet modules in summer camp. \n23. Establishing  data  transfer  facility  using  HF  link  with  India. \n S  Mukerji \nPrologue to the Aims amd Achievements cf Eleventh ... 3 \nThe Voyage \nExpedition ship M.V.THULELAND sailed at 1800  hrs from Mormgao \nharbour, Goa on 27th of November 1991 with 98 members on board. Of these, \n29 were scientists Including 7 member who were to winterover  the  Indian \nstation Maitri, drawn from various government organisations, universities and \nnational laboratories. Out of the rest, 65 members formed the logistic support \nteam with 28 personnel drawn from Indian Army, 18 from Indian Navy and 19 \nfrom Indian Air Force. There was one representative each from Department of \nOcean Development, Films Division and field of journalism. The team had also \na meteorologist member from Colombia as guest scientist who was sent by his \ncountry basically to prepare for a future Colombian expedition to Antarctica. \nThe journey was fairly smooth upto the outskirts of Antarctica. Enroute, \nthe equator was crossed on 30 November 1991. There was a halt at Port Louis, \nMauritius from  05  December  to  07  December  1991  ,  where  a  helicopter \nbelonging to Mauritian Police, which had undergone repairs in India, courtesy ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 20
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Prologue to the Aims and Achievements of Eleventh Indian Expedition to Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:37.532423Z"
+  }
+}

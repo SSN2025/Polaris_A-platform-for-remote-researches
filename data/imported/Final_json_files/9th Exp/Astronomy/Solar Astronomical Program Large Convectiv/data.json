@@ -1,0 +1,72 @@
+{
+  "id": "article_2",
+  "document_id": "NCPOR-3D377B",
+  "source_file": "ARTICLE+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/337/3/ARTICLE+2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 21-28 \nFirst Indian Solar Astronomical Program at Antarctica:\nStudy of  Large Convective Cells\nJAGDEV SINGH\nIndian Institute of Astrophysics, Bangalore - 560 034\nAbstract\nContinuous monitoring of the sun has great advantage in finding answer to many problems such\nas helioseismology, evolution of activity and supergranulation which has a lifetime of about 20 hours.\nTo study the evolution and decay of these large convective cells known as supergranules, a solar\ntelescope was set up at the Maitri station in Antarctica region during the local summer months\n(December 1989 through March 1990). The need for astronomical observations from Antarctica, the\nexperimental set up to obtain the filtergrams of the sun through K-line(l .2 A pass band) filter and the\nobserving conditions at Maitri have been described.\nCalcium K-line filtergrams at an interval of about 10 minutes were obtained whenever clear\nweather permitted. The analysis of a continuous sequence of filtergrams obtained for 106 hours\nindicates that the most probable lifetime of the calcium K network is about 22 hours. The lifetime\ndepends upon the size of the cell and is larger for bigger cells. The data also show that ceils (of a given\nsize) associated with remanent magnetic field regions live longer than those in the field free region. It\nmay mean that magnetic field is playing an important role in the confinement of these structures.\nIntroduction\nThe small scale structures over the image of sun can be seen at the time of good seeing.\nThese structures known as gr anules are of the size of 700-1400 km and have lifetime of\nabout 10-20 minutes. Leighton, Noyes and Simon (1962) discovered the presence of large\ncells from the velocitygrams obtained during the summer of 1960 and 1961. They found that\nthese cells have horizontal outward flow and material moves with an  average velocity of\n~0.5 km/sec. These large cells or 'supergranules' have a typical size of 30,000 km and\naverage life of 20-24 hours. They concluded that supergranulation pattern is surface\nmanifestation of convective currents which come from relatively great depths inside the sun.\nSubsequently Simon and L eighton (1964) showed that there is similarity in the appearance\nof calcium K network and supergranular cells. Worden and Simon (1976) have investigated\nthe velocity and magnetic field associated with supergranulation using Sacramento Peak\nObservatory Diode Array Magnetograph, Their observations indicate that the supergranular\nvelocity cells may have lifetimes in excess of the accepted value of 24 hours.\nThe calcium K network seen in K-line spectroheliograms or filtergrams has a wide range\nof shapes that are frequently irregular and in many cases even incomplete. The autp-corre-\nlation technique used to determine the size of supergranule would give a value which is\n22\nJagdev Singh \nlikely to be effected by the presence of incomplete cells. Therefore, Singh and Bappu (1981)\nused a technique to measure the individual cells to study the dependence of cell size on solar\ncycle. Their measurements indicated that the most probable size of this cell is smaller than\nestimated earlier by Leighton, Noyes and Simon ( 1962). The significant result of this\nanalysis is the variation of cell size with the phase of solar cycle, the cell size being smaller\nby 5% at solar maximum than at minimum.\nThe study of evolution of these large cells will reveal the physical characteristics of the deeper\nconvective layers and manifestation of the magnetic fields on the sun. To achieve this goal one\nneeds data at least for 2-3 days without the interruption of day-night cycle. To obtain continuous\ndata first attempt was made, during the international Geophysical year (July 1957-December\n1958) by setting up worldwide network of small telescopes equipped with hydrogen H-alpha\nfilters to record solar activity (Harvey, Pomerantz and Duvall, 1982). The collective contribution\nfrom different observatories, although substantial, lacked uniformity and there were frequent\ngaps in the data. Despite these problems, a network station is still the accepted method for\ncarrying out solar research requiring continuity over long periods of time. A network of 6 stations\nknown as Global Oscillation Network Group (GONG) is being planned to study oscillations on\nthe solar surface and thereby probe the interior of sun.\nAnother way to avoid the sunset without leaving the surface of earth is to travel poleward\nof the Arctic or Antarctic circles during local summer. We then experience the midnight sun\nand weather permitting can observe without interruption. The first observations of this kind\nwere made in 1966 from Thule, Greenland 10° above the Arctic circle. Rogers (1970) has\nestimated the lifetime of 25 ± 1.6 hours for H- alpha chromospheric network using a nearly\ncontinuous sequence of H- alpha pictures of sun over  a 6",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "2]Astronomy",
+    "subcategory": "First Indian Solar Astronomical Program at Antarctica_ Study of Large Convective Cells",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:08.154457Z"
+  }
+}

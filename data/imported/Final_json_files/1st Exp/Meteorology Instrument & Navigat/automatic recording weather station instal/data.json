@@ -1,0 +1,72 @@
+{
+  "id": "article_2",
+  "document_id": "NCPOR-D7461D",
+  "source_file": "ARTICLE+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/131/3/ARTICLE+2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "18\nAn  Automatic  Recording  Weather  Station\nE.  Desa 1 ,  A.  P.  Selvam 1 , R. G. Prabhu Desai 1 ,\nM.  R.  Nayak 1 and S. Tengali 1\nABSTRACT\nThis paper describes the Automatic Weather Station erected by the First  Indian  Antarctic Expedition. A simplified block\ndiagram  of  the  system electronics presents an overview of the sensors and associated electronic hardware. A detailed flow-chart of\nthe acquisition and storage software is also presented together with details of the processor module, analog board, clock and power\nsupply circuits and tape recorder interface. Finally, a typical print-out obtained at the site of erection, Dakshin Gangotri, is\nreproduced.\nINTRODUCTION\nAn automatic recording weather  station ha s been designed and installed at location Dakshin\nGangotri (Latitude : 11°38' 13.618\"S Longitude : 70°45' 12,963\"E), during the First Indian Antarctic\nExpedition 1981-82.\nThe station was programmed to interrogate meteorological sensors every 213 sees (2 hours 16 minutes\n32 seconds) and record their values. The values were stored on an  incremental cassette recorder with a \ntotal capacity of 1.6 Mega bits equivalent to a 5 month capacity at the set interrogation interval.\nThe electronics was based on Intel's 8085(1) microprocessor which was programmed to sample each\nsensor four times and compute an average value. The reference voltages as well as the temperature of the\nelectronics package were also recorded. The Analog to Digital Converter (ADC) used was Intersil's 7107.\nThe use of the 7107,  and that of a high stability reference voltage source LM 299A(3) , gave the system a \ntheoretically good performance. Military specifications integrated circuits (ICs) were used where avail-\nable. The system was powered by sealed lead-acid GEL cells and secondary charging was achieved via\nnormal lead-acid batteries of high capacity.\nMechanically, the station consisted of a 4 meter long aluminium pipe of 4.5 inch diameter which was\nmounted on a steel tetrapod and stabilised by 4 stainless steel guy wires. The electronics was based within a \n0.5 inch thick black High Density Polyethylene (HDPE) cylinder of external diameter 30 cms and a height\nof 60 cms. The intervening spaces were filled with expanded polystyrene foam. The initial results obtained\nat site showed that the interior temperature was maintained at about 10°C above the outside ambient. The\nsealed lead-acid  GEL cells were contained in a second HDPE cylinder and were totally sealed with\nconnections brought out via 'O' ring fitted underwater connectors.\nThe data recorded on tape during the short sojourn at Dakshin Gangotri, was retrieved prior to\ndeparture and a new tape loaded. The meteorological values recorded showed good correlation with the\nvalues broadcast by the Russian Station located about 10 kms distance from Dakshin Gangotri. A \nprint-out of the recorded data is given in Table 1 alongwith the transmitted Russian Station values for\napproximately the same period and location.\nSYSTEM HARDWARE: ELECTRONICS AND SENSORS\nA block schematic of the system electronics is shown in Fig. 1 and a photograph of the electronics\nsituated in the insultated housing is shown in Plate 1.\nELECTRONICS\nBinary Clock Board\nThe binary clock was permanently powered and was switch selectable on the board to provide a pulse\nevery 2n seconds, n wa s chosen as 13 as this gave a timing closest to the standard meteorological synoptic\n_________________________________________________________________________________________________________________________________________________\ni National Institute of Oceanography, Dona Paula, Goa-403 004.\nobservation period of 3 hours. The interval was actually 2 hours 16 minutes and 32 seconds. A block\nschematic of the board is shown in Fig. 2- It was not possible, in the short time-frame available for\nfabrication, to construct a clock board which would operate at 3 hour intervals.\nFig. 2 : Block schematic of binary clock board.\nPower Supply Board\nThe power supplies were all situated on one standard card and a schematic is shown in Fig. 3 \nFrom Fig. 2, it is seen that battery power is provided at all times to the CMOS binary clock board, the\nCMOS RAMS on the micro-computer board and to the tape drive. The total consumption for these three\ncircuits was of the order of 200 micro-amps (μA). The circuit used military specifications voltage\nregulators where possible The tape drive unit was permanently powered up as it was a low drain system (60 \nμA) and moreover it tended to write a random garbled character every time it was switched on. This error\nwas avoided by continuously powering the recorder.\n19\nCONTROL\nDATA AND\nSIGNALS\nTape\nRecorder\nGel Cells\n20 A hrs.\nCMOS\nRAMS\nMicro Computer\nBoard\nCHANNEL SELECT AND DATA BUS\nSENSOR\nEXCITATION\nSENSOR\nOUT PUTS\nANALOG\nBOARD\n5 V SUPPLY\n15 V SUPPLY\nBinary\nClock\nLead -Acid\n180 A hrs.\nFig. 1 : Block schematic of  system electronics.\nClock\nGenerator 1 Sec pulse\nBinary\nDivider\n2 1 to 2 8\nBinary\nDivider\n2 9 t",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "2]Meteorology, Instrument & Navigation",
+    "subcategory": "An automatic recording weather station installed in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:33.936264Z"
+  }
+}

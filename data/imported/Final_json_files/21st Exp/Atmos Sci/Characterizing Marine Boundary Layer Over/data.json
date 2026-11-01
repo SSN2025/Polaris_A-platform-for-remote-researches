@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_117_123",
+  "document_id": "NCPOR-1DBC62",
+  "source_file": "Technical+Publication+No.+19%2C+pp+117-123.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/851/1/Technical+Publication+No.+19%2C+pp+117-123.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+117-123",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 117-123 \nCharacterizing the Marine Boundary \nLayer Over East Antarctica \nPawan K Sharma, Laxmi Bishnoi, Jaswant Singh, BS Gera, \nNeha Gera, Gurbir Singh and HN Dutta \nNational Physical Laboratory, New Delhi-110 012, India \nand \nRPLal \nIndia Meteorological Department, New Delhi-110 003, India \nAbstract \nCharacterizing atmospheric boundary layer (ABL) is a prerequisite for microwave, \nmm-wave and infrared communication / radar operations over the marine environment \nor along the coastal zones. At the same time, ABL acts as a buffer between air and \ninteraction between ice and the ocean. To estimate the various ABL parameters, airborne \nand remote sensing techniques dominate but these need to be calibrated against the \nsurface based measurements. With this aim, we have develop a shipborne acoustic \nsounder, which was deployed onboard the ship Magdalena Oldendorff to probe the \nmarine boundary layer along the east Antarctic shelf during January-February, 2002. It \nhas revealed many unique features of ABL, which may lead to a better understanding \nof various communication problems faced over the marine environment. \nIntroduction \nCharacterizing atmospheric boundary layer is a prerequisite for \nmicrowave, mm-wave and infrared communication / radar operations over \nthe marine environment or along the coastal zones [1-5]. To estimate the \nvarious atmospheric processes, airborne and remote sensing techniques \ndominate, as there is no stable platform available to deploy the equipment \n[6-8]. However, for utilizing the remote sensed data, inter-comparison with \nthe shipborne measurements can be made to assess the reliability of \nremotely sensed data[9-ll]. With this aim, we have develop a shipborne \nacoustic sounder, which was deployed onboard the ship Magdalena \nOldendorff to probe the marine boundary layer along the shelf over east \nAntarctica. \n118 Pawan K Sharma, Laxmi Bishnoi, Jaswant Singh et al. \nThe Antarctic boundary layer remains predominantly in the stable \nstate throughout the year [12-13]. However, thermal convection has been \nobserved at many stations over the icy continent, primarily during local \nsummer, and under calm/light wind conditions [14-15]. The ocean around \nthe Antarctic continent is one of the most dynamical regions as over the \nocean-ice-air interactive space, many strong forces play an interactive role. \nThe katabatic winds flowing from the interior of the continent towards \nthe periphery, result in the flow of inversion air mass, leading to the \nformation of low-pressure areas and the cyclones. These cyclones, in turn \nlead to the turbulent ocean, and break pack ice. During the local summer, \nthe solar radiation is available for 24 hours; it melts upper part of the shelf \nice and the polar ice around the periphery. This leads to the formation of \ncold-water drainage from the continent towards the ocean around. At the \nsame time, solar energy also melts pack ice. The cold water so formed \nby the above two processes, leads to churning in the oceanic water. Thus, \nthe chances of formation of thermal convection remain low, even during \nsummer over the ocean. \nExperiment and Observational Site \nNational Physical Laboratory, New Delhi started the development \nof a shipborne acoustic sounder in the year 1992[16], and after gaining \nthe experience of various problems associated with the development of a \nshipborne system, established a monostatic acoustic sounder onboard the \nship, Magdalena Oldendorff, which sailed to Antarctica, as part of the 21st \nIndian Scientific Expedition to Antarctica. The 1.2 m fiberglass-antenna \nmounted on a vibration damped, gyro-stabilized platform and surrounded \nby a hexagonal cuff, was deployed in the bow area of the ship. Fig. 1 shows \nthe photograph of the shipborne antenna cuff fitted in the bow and \nadditional ropes had to be utilized to secure its position in heavy rolling \nand pitching. The PC controlled electronics was housed in a room just \nbelow the bow. \nThe ship after reaching to the Indian Bay in Antarctica, sailed to the \nSouth African station, and returned just after a day, to its scheduled \nposition. Fig. 2 shows the ship position on various dates. It is important \nto note that due to blizzards, and the movement of icebergs, ship can't be \nanchored at one point; rather, it is maneuvered to safer positions. This \nmakes the ship to change of its position, speed and course etc. frequently \nand is displayed as a box in Fig. 2. Also, the useful data is limited to only \nlow wind conditions; cyclones and blizzards restrict the usefulness of \ndata. \nCharacterizing the Marine Boundary Layer Over East Antarctica 119 \nFig. 1: Shipborne acoustic sounder antenna Oldendorff \nFig. 2: Position of the ship Magdalena mounted in the bow \narea along the coast/ shelf in east Antarctica \nObservations \nThe acoustic sounder data has been reco",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Characterizing the Marine Boundary Layer Over East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:34.445286Z"
+  }
+}

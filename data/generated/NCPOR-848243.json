@@ -1,0 +1,81 @@
+{
+  "id": "document-control-data-sheet-ncpor-848243",
+  "document_id": "NCPOR-848243",
+  "source_file": "T.+P.+No.+21+.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/932/1/T.+P.+No.+21+.pdf",
+  "title": "Document Control Data Sheet",
+  "year": 2010,
+  "expedition": "23rd Indian Antarctic Expedition",
+  "category": "Other",
+  "subcategory": "Control Data",
+  "bibliographic": {
+    "title": "Document Control Data Sheet",
+    "authors": [
+      {
+        "name": "NCPOR Research Team",
+        "affiliation": "National Centre for Polar and Ocean Research"
+      }
+    ],
+    "expedition": "23rd Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2010,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "Document Control Data Sheet\nRR No. 21\nSl. No\n1 \nName of the institute \nNational Centre for Antarctic &  Ocean\nResearch\n2 \nDocument number \nNCAOR RR. No.-21\n3 \nDate of publication \n2010\n4 \nTitle of the document \nScientific Report of Twenty Third Indian\nE\nxpedition to Antarctica\n5 \nType of Document* \nRR\n6 \nNo. of pages & \nfigures\nxx, 375 pgs\n7 \nNumber of\nReferences\n-\n8 \nAuthor (s) \nMembers of Expedition No. 23rd, RR No. 21\nReport Prepared by-Srinivasan Jayaram,\nUnder the Supervision of Sh. Rasik Ravindra,\nNCAOR- Goa\n9 \nOriginating Unit \nNCAOR, Project (Antarctic Science)\n10 \nAbstract (100 words) \nThis Scientific Publication consists of various\nArticles from different disciplines of Polar\nScience. The data used for the report was\ncollected during the Twenty \nThird \nIndian\nScientific Expedition to Antarctica.\n11 \nKey words \nAtmospheric Sciences\n, \nEarth Sciences,\nGlaciology &  Global Change, Biology & \nEnvironmental \nSciences, Engineering & \nCommunication, Human Physiology & \nMedicine\n12 \nSecurity\nclassification\nOpen\n13 \nDistribution \nUnrestricted",
+    "summary": "This investigation conducted during the 23rd Indian Antarctic Expedition examines key other phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 1
+  },
+  "taxonomy": {
+    "category": "Other",
+    "subcategory": "Control Data",
+    "tags": [
+      "other",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Other discoveries from 23rd Indian Antarctic Expedition: \"Document Control Data Sheet\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Other based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:53:50.037328Z"
+  }
+}

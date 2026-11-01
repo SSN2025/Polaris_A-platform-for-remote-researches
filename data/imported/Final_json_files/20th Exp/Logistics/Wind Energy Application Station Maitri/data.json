@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_18_2c_pp_263_268",
+  "document_id": "NCPOR-6A85A5",
+  "source_file": "Technical+Publication+No.+18%2C+pp+263-268.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/825/1/Technical+Publication+No.+18%2C+pp+263-268.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+18%2C+pp+263-268",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twentieth Indian Expedition to Antarctica, Scientific Report, 2006 \nMinistry of Earth Sciences, Technical Publication No. 18, pp 263-268 \nWind Energy Application in Indian Antarctic \nStation, Maitri, Antarctica \nKanakamuthu, N. Jayaram and M.P. Ramesh \nWind Energy Programme National Aerospace Laboratories \nBangalore - 560017 \nAbstract \nWind Energy Division of NAL has been experimenting with designs of wind mill \nsuitable for Installation at Indian Antarctic Base, Maitri. Antarctica with its extreme \nclimatic conditions has made this task difficult as it has been found that yawing effect \nassociated with gusty winds cause machine failure. This was also found true for the new \nprototype Savonius type vertical axis windmill introduced to charge batteries during 20th \nIndian Antarctic Expeditions. It was observed that the bearing design safety factors \nconsidered were not sufficient for use in Antarctica. \nIntroduction \nWind Energy Division, National Aerospace laboratories initiated \nWind energy related studies during XVI Indian Scientific Antarctic \nExpedition. Main objective of the programme was to determine wind \nenergy potential around the Maitri station, utilization of wind energy for \nIndian Station Maitri and to provide support for field experiments. \nWind Energy Activities at Indian Antarctic Station \nThere is considerable potential for the application of wind power at \nthe Indian Antarctic station site; particularly given the need for \nenvironmentally sound, locally produced power. But experience shows that \nvery few machines can survive the severe Antarctic conditions. The failure \nof the past has slightly hampered its use in Antarctica. But a systematic \nanalysis on causes of failure has enabled NAL to make modifications that \nit believes will withstand the Antarctic adverse climatic conditions. Based \non the studies and analysis carried out by NAL in previous expeditions a \ndetailed proposal on utilization of wind energy at the Indian Antarctic base \nwas prepared. Antarctica being the windiest continent it was observed that \n264 Kanakamuthu, N. Jayaram and M.P. Ramesh \nthe potential to use wind energy at Maitri and field camps were very good. \nThe proposal looked at near term and long-term prospects for utilization \nof Wind energy. In near term it was essential to create an awareness of \nusefulness of Wind Energy hardware, particularly amoung scientific and \nlogistic group. Under long-term prospects, it has been suggested that the \nstation heating loads be met, with energy from wind power. \nDuring XVII expedition two machines imported were installed & \ncommissioned. In few months machine failed due to main bearing and \nYawing Mechanism failure. Based on the experiences made it was found \nthat one of the causes for the failure was the excessive hunting which was \nequivalent to gyroscopic movement related failures. This problem was \naddressed by incorporating a yaw bearing damping device. This \narrangement reduced hunting considerably which has made the machines \nsturdier. The new machines introduced in Antarctica were replete with \nthese modifications. \nXX Expedition \nDuring XX Indian Scientific Antarctic Expedition, Wind Energy \nDivision of National Aerospace Laboratories successfully completed \nfollowing tasks. This could be a step forward to gradually increase the \nutilization of Wind energy at the Indian Base. \n1. Installation of portable Windmill on top of the mobile laboratory \nSankalp to provide power supply to the instruments in field camps \nthrough the battery. \n2. Installation commissioning and testing of indigenously Developed \nvertical Axis Windmill for remote area application, study the \nperformance and survival. \n3. Maintenance of existing windmills at communication repeater \nstation in Vittiah peak and at station workshop. \n4. Energy Audit in Maitri station. \nInstallation of Portable Windmill on Sankalp \nA portable wind battery charger was experimented in this expedition \nto gain operational experience and study the applicability of wind power \nin remote field camps. The idea is to charge 12 V batteries, which would \nbe used for energising communication systems, and provide stand by power \nfor instruments used in measurements. \nIn Antarctica, communication between Maitri station and remote field \ncamps is carried out by VHF communication. 12V Batteries are used to \nWind Energy Application in Indian Antarctic Station, Maitri .... 265 \nsupply electric power to the VHF Repeaters using for communication. Due \nto very low temperatures (-5 to 25°C), the batteries have excessive self-\ndischarging in open camps in Antarctica. During blizzards and other critical \nperiods when communication is very important, discharged batteries would \ncause difficulties for logistic and other groups. \nIn XX Expedition, Survey of India (SOI) proposed to setup Field \ncamp near Trishul hills. Field camps exceedingly depend on portable \ngenerator for Power Supply and to run their equipments. Generally running \nand",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "6] Logistics",
+    "subcategory": "Wind Energy Application in Indian Antarctic Station, Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:20.045082Z"
+  }
+}

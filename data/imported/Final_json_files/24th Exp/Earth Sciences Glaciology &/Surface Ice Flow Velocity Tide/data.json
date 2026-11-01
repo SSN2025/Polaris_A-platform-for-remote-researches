@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_15a",
+  "document_id": "NCPOR-E456C2",
+  "source_file": "RRChapter-15A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/957/1/RRChapter-15A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-15A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "247Surface Ice Flow Velocity and Tide Retrieval of the Nivlisen Ice..........\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 247-256\nSurface Ice Flow Velocity and Tide Retrieval of the\nNivlisen Ice Shelf from GPS Observations\nP.S. Sunil, C.D. Reddy, Ajay Dhar, B.M. Pathan, P. Elango and C. Selvaraj\nIndian Institute of Geomagnetism\nNew Panvel, New Mumbai – 410 218, India\nABSTRACT\nUsing a Global Positioning System (GPS) receiver, 19 days of continuous\nGPS data were collected from January 23 to February 10, during austral summer\nof 2005, in the frontal zone of Nivlisen ice shelf (NIS) of central Dronning Maud\nLand (cDML), East Antarctica. GPS data were analyzed to estimate the diurnal\nand semi-diurnal variations.  We constrained the shelf DG GPS site co-ordinates\nwith the base station MAITRI set up at Schirmacher Oasis and nearby International\nGNNS Service (IGS) stations.  The Ice shelf motion in both cases was caused by a\ncombination of ocean tidal effect, wind stress and ocean currents. The estimated\nhorizontal velocity at DG GPS site was 0.72 m/day towards north-north-east with\nan azimuth of 20.27\no\n. Major constituents of the oceanic tide have been delineated\nsubjecting the hourly time series data (for five days) to Fast Fourier Transform\n(FFT) analysis.   The amplitudes of the diurnal and semi diurnal were ~1.25 m and\n0.5 m, respectively. The result showed not only the expected vertical tidal\ndisplacement but also a significant variation in the horizontal velocity. The maximum\nforward velocity occurred about 3-4 hours after the maximum tidal height, a phase\nrelationship that suggests the role of ocean currents also as one of the driving\nforces for the ice shelf movement. Further more, this type of precise observations\nof diurnal and semi-diurnal tidal constituents can be assimilated in tide models.\nKeywords: Antarctica, Nivlisen Ice Shelf, Schirmacher Oasis, GPS, Tide, Velocity\nINTRODUCTION\nThe Polar Regions are important components of the global\nenvironment. The floating ice shelves and glacier tongues surrounding\nAntarctica are the source of most of the mass loss from the Antarctica ice\nsheet (Jacobs et al., 1992), and fast responding components to climate\nwarming in the Antarctic Peninsula. Hence knowledge of the surface\nvelocity field and strain rate of ice shelves and continental ice are important\nin determining their present kinematical states and detecting any changes.\n248 P .S. Sunil et al.\nMuch of the Antarctic coastline is fringed by floating ice shelves which\nrange in area up to 500,000 km2 and in thickness up to 2 km or more (Doake\net al., 2002). There are many large ice shelves surrounding Antarctica.\nSome of the important ones are Amery Ice Shelf, Filchner-Ronne Ice Shelf,\nRoss Ice Shelf and Nivlisen ice shelf etc. The ice shelves are usually\nconsidered to have a similar horizontal and vertical movement and the\nformer is much less than the latter during a 24 hour period (Rommelaere\nand Ritz, 1996). Strain induced by the weight of the ice shelf or increased\nbasal melting and ocean tides and currents are the major responsible forces\nfor time varying horizontal and vertical changes of these ice shelves.\nGenerally, for the ocean tidal effect, ice shelves respond like a free floating\nobject and maintain in phase with the tide (schematic diagram of ice shelf\nis shown in Fig. 1).\nFig. 1 : Schematic diagram of an ice shelf (after Vaughan (1994);\nFricker  and Padman (2006)). F , G, I and H indicate limit of\nice flexure, limit of ice flotation, and inflexion point and the inshore limit of the\nhydrostatic zone of free-floating ice shelf, respectively\nThere are many techniques by which, tide-induced effect on floating\nice shelves can be monitored. Interferometric Synthetic Aperture Radar\n(InSAR) (Bindschadler, 1998), Global Positioning System (GPS) (Manson\net al., 2000 and Horwath el al., 2006), Gravity meters (Williams and\nRobinson, 1980), bottom-mounted tide gauges, tilt meters etc. From a\ncombined analysis of ice thickness, ice surface height and ice-flow\nobservations, one can   obtain a new description of the complex glaciological\nregime, and can generate models of ice thickness,  ice-flow velocity,  mass-\nflux and mass-balance parameters on a local and integrated scale (Horwath\net al., 2006). In this paper we report on the preliminary study to access\nwhether GPS data from floating ice shelf can provide useful information\nfor the NIS, which floats on the Lazarev Sea, East Antarctica (looks like\n249Surface Ice Flow Velocity and Tide Retrieval of the Nivlisen Ice..........\nfunnel shaped, Fig. 1, Fig. 6 ). Both horizontal and vertical movements of\nthe NIS are particularly important to observe, as both provide valuable\ndata for mass balance calculations.\nGPS Data Collection and Processing\nNIS, is one of the number of small ice shelves bordering the\nAntarctica’s Atlantic sector (Fig. 2).  The ice shelf extends over about 80\nkm in south-nor",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology & Climate Change",
+    "subcategory": "Surface Ice Flow Velocity and Tide Retrieval of the Nivlisen Ice Shelf from GPS Observations",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:37.957173Z"
+  }
+}

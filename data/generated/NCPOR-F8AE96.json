@@ -1,0 +1,83 @@
+{
+  "id": "notes-on-pattern-of-snow-accumulation-ablatio-ncpor-f8ae96",
+  "document_id": "NCPOR-F8AE96",
+  "source_file": "pg+111-122.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1166/1/pg+111-122.pdf",
+  "title": "Notes on Pattern of Snow Accumulation: Ablation on Ice Shelf and Secular Movement of Dakshin Gangotri Glacier Snout in Central Dronning Maud Land, East Antarctica",
+  "year": 1993,
+  "expedition": "12th Indian Antarctic Expedition",
+  "category": "Geology",
+  "subcategory": "Notes on Pattern of Snow Accumulation_Ablation on Ice Shelf and Secular Movement of Dakshin Gangotri Glacier Snout in Central Dronning Maud Land, East Antarctica",
+  "bibliographic": {
+    "title": "Notes on Pattern of Snow Accumulation: Ablation on Ice Shelf and Secular Movement of Dakshin Gangotri Glacier Snout in Central Dronning Maud Land, East Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "12th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1993,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 12th Indian Antarctic Expedition examines key geology phenomena in polar terrain around Dakshin Gangotri and Dronning Maud Land. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Dakshin Gangotri",
+      "Dronning Maud Land"
+    ],
+    "research_sites": [
+      "Dakshin Gangotri",
+      "Dronning Maud Land"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Geology",
+    "subcategory": "Notes on Pattern of Snow Accumulation_Ablation on Ice Shelf and Secular Movement of Dakshin Gangotri Glacier Snout in Central Dronning Maud Land, East Antarctica",
+    "tags": [
+      "geology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Geology discoveries from 12th Indian Antarctic Expedition: \"Notes on Pattern of Snow Accumulation: Ablation on Ice Shelf and Secular Movement of Dakshin Gangotri Glacier Snout in Central Dronning Maud Land, East Antarctica\". Learn how Indian scientists studied Dakshin Gangotri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Geology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:20:09.697001Z"
+  }
+}

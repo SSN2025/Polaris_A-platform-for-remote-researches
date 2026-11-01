@@ -1,0 +1,72 @@
+{
+  "id": "article29",
+  "document_id": "NCPOR-DA6460",
+  "source_file": "article29.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/289/3/article29.pdf",
+  "bibliographic": {
+    "title": "article29",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition  to  Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 367-381 \nSome Features of PCS Magnetic Pulsations in  Dakshin Gangotri,\nAntarctica\nG.K. RANGARAJAN AND AJAY DHAR\nIndian Institute of Geomagnetism Colaba,\nBombay-400 005\nAbstract\nMagnetic pulsation data in the Pc 5 range (150-600 sec periodicity) in February\n1986 at Dakshin Gangotri, Antarctica were analysed through (i) Power spectral methods\n(ii) 3-Dimensional polarisation (iii) Complex demodulation and (iv) Single station transfer\nfunction for the induction vectors. Dynamic spectra showed that the oscillations were\nconfined to basically three bands of frequencies. The anticipated change in ellipticity and\npolarisation (left handed to right handed) across the magnetic local noon was not observed\nsuggesting that plasmapause location may be further west of the station. For all the three\nfrequency bands the orientation ot the major axis of the ellipticity of polarisation was\nquite stable as a function of time. The induction arrows computed for 350, 200 and 150\nSec and periodicity  point to inland contrary to the expected direction towards the deep\noceans, suggestive of  some conductive structure in the Antarctic landmass close to the\nmagnetic station.\nIntroduction\nDuring the Fifth Indian Scientific Expedition to  Antarctica, useful magnetic\ndata were collected between 15 January and 28 February, 1986. Fluxgate magnetome-\nter housed in a well insulated cabin was buried below the ground level in the\nice-shelf to minimise temperature variations. The output was taken in two modes:\n(i) for Normal daily variation and (ii) for Magnetic pulsations in the pass-band\n1 to 33 mHz (30 to 1000 sec periodicity), The output was fed to a digital data\nlogger with internal crystal-controlled clock system and sampled every 30 sec.\nAnalog records were also simultaneously obtained which clearly revealed the\ngood quality of data, completely free from artificial noise except for duration\nwhen the HF communication system was operated.\nThe period of observations was marked by intense magnetic activity in the\nsubauroral latitude as seen from  daily index Ap of magnetic activity. One of\nthe most severe magnetic disturbances in recent times began on 6th February\nand ended by  9 February, 1986 (Allan, 1986). Ap reached a peak value of 202\non 8th February, 1986. During the recovery phase of the magnetic disturbance,\non 9th February, interesting sequence of pulsations wer e observed lasting almost\n368 G.  K. Rangarajan and A)ay Dhar \nthe entire day. Some significant highlights of the magnetic field variations in the\nPC5 pulsation  range (150 to 600 sec) observed on 9 February, 1986 are presented\nin this paper.\nImportance of Dakshin Gangotri Location\nThe coordinates of the temporary Indian  magnetic station in Antarctica are\ngiven in Table I.\nTable I. Coordinates of Dakshin Gangotri\nGeographic\nDipole\nCorr. Geomagnetic\nL-Parameter\nGeomagnetic local time (MLT)\nLat.\nLong.\nLat.\nLong.\nLat.\nLong.\n(UT-\n70°05'S\n12°00'E\n65.5°S\n54.5°E\n62.1°S\n52.3°E\n4.61RE\n1 hour)\nThe L-parameter is the equatorial distance (in earth radius units) of the\ngeomagnetic field line originating near ground in southern hemisphere and reaching\nthe conjugate location in the northern hemisphere. It is well known that at the\nplasmapause (boundary of the plasmasphere region located between 3 and 7 RE)\nthere is an abrupt drop in plasma density by a factor of 100. The plasmapause\nis also known to have a bulge in the evening sector and its shape and  location\nchanges with  enhanced magnetic activity. It has  been suggested (Rostoker and\nSamson, 1981) that plasmapause provides a broad range of resonant frequencies\nover a confined range of L shells due to the presence of the sharp discontinuity\nin the thermal  plasma density. Pulsation amplitudes are known to have a secondary\nmaximum at plasmapause location in addition to the primary auroral maximum.\nThe number of magnetic stations in Antarctic region located in the region\nof plasmapause are sparse and Dakshin Gangotri fills a vital gap to provide data\nfrom a subauroral latitude location. The significance of plasmapause in magnetic\npulsations studies have been highlighted in a number of publications.\nData Analysis\nThe digital data of 3 component of  magnetic field (X-Geographic N-S,\nY-Geographic E-W and Z-vertical) at 30 sec. sampling interval were subjected\nto analysis in several ways:\n(i) Power spectra,\n(ii) 3-Dimensional Polarisation Analysis,\nSome features of PCS magnetic pulsations...  369 \n(iii) Complex Demodulation Analysis for horizontal and anomalous Z-variations \nand \n(iv) Single station transfer function computations for induction vectors at chosen \nfrequencies. \nSegments of analog records between 0600 and 2330 UT of February, 1986 \nare shown in Fig. 1. Due to m alfunctioning of the Z-channel upto about 0600 \nUT, we have confined the  analysis between 0600 and 2330 UT. In the following \nsections w",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "6]Geomagnetism and Radiophysics",
+    "subcategory": "Some Features of PC5 Magnetic Pulsations in Dakshin Gangotri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:39.714472Z"
+  }
+}

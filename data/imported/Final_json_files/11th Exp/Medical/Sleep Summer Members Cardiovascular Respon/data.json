@@ -1,0 +1,72 @@
+{
+  "id": "321_328",
+  "document_id": "NCPOR-9469EC",
+  "source_file": "321-328.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/746/1/321-328.pdf",
+  "bibliographic": {
+    "title": "321-328",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "11] Scientific Report Eleventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eleventh Indian Expedition to Antarctica, Scientific Report, J 995 \nDepartment of Ocean Development, Technical Publication No. 9, pp. 321-328 \nSleep Studies of Summer Members in Antarctica: \nCardiovascular Responses \nB.CHHAJER, U.SACHDEVA and M.NAIDU \nDepartment of Physiology \nAll India Institute of Medical Sciences \nNew Delhi- 110 029 \nAbstract \nSix summer and four wintering members of Indian Antarctic expedition underwent \nheart rate (HR) and galvanic skin resistance (GSR) recordings during sleep. A total of three \nnight recordings were performed on each subject at three different sessions during the period \nof four months of austral summer. As the subjects slept in the laboratory, they showed \ndisturbance in sleep pattern. In all the subjects during summer, the sleep bradycardia \nincreased with absence of periodic fluctuations of HR indicative of temporary loss of REM \nsleep. The subjects tended to show increase in slow wave sleep during summer. The \nwinterover subjects showed disturbed sleep variables which was not related to HR and GSR \nchanges during sleep. However, due to the limited number of subjects no affirmative answer \ncould be made to prove relationship of sleep disturbance with prolonged daylight or \npsychological reaction with prolonged isolation. \nIntroduction \nStable temporal organization of human physiology and psychology is \nachieved through synchronization of underlying circadian pacemakers to a 24 \nh period primarily by appropriate light - dark cycle. The polar region provides \nan excellent laboratory for studying the human circadian rhythms. There is \nevidence that Antarctic expedition members frequently complain of \"insom­\nnia\", and this has been linked to polar nights and homesickness (Bo-\ngolovaskii,1974 and Natani et al.,1970). The Antarctic sleep studies have been \nconducted by various workers like Bogolovaskii (1974), Gander et al.(1991) \nand Natani et al.(1970), particularly on subjects overwintering, indicating sleep \ndisruption, suppression of delta sleep and diminution of paradoxical sleep \nduring polar night by polysomnographic recordings (Joren et al.,1970 and \nBuguetetal.,1987). \n322 B. Chhajer et al. \nThe cardiovascular modifications take place during the whole of sleep-\nwake cycle and have multi-disciplinary importance. These modifications pro-\nvide evidence for qualitative changes in the central mechanisms which control \nphysiological functions between awake and sleep states. This evidence shows \nthe need to perform experiments during sleep if one wants to define fully the \nhaemodynamic profile during everyday life. \nThe cardiovascular regulations during sleep have been studied under \nvariety of laboratory conditions (Coote,1982, Mancia and Zanchetti,1980 and \nParmeggiani,1982). This study has been extended in Antarctic field conditions \nduring XI Indian expedition to Antarctica to examine cardiovascular regulation \nduring prolonged summer days by monitoring the heart rate (HR) and galvanic \nskin resistance (GSR) throughout the sleep phase. This knowledge is clearly \nneeded to explain the adaptations ofpmembers to Antarctic environment. \nMaterial and Methods \nThe study took place at the Indian Antarctic station \"Maitri\" during austral \nsummer period (Dec, 1991 to March, 1992) on summer members of XI expedi-\ntion team. Out of 50 summer members, six volunteers (mean age 35 years) were \nchosen for their usually good sleeping habits. A total of three night recordings \nwere performed on each subject. Due to logistic constraints, selection of \nsubjects could be made only on board ship in December, 1991. The first \nrecording session was in the ship, the second was after reaching Antarctica - at \nMaitri station after 8 weeks of stay i.e. in February, 1992 and third and final \nsession was during the return journey on board ship. In four winterover subjects \n(mean age 29.5 years) one sleep session recording was conducted during return \njourney to determine whether the alteration in sleep pattern is related to \nprolonged daylight or to prolonged isolation. \nEach recording session of one subject was for one night. The subject slept \nin the bed of the study room which was in the medical room of the ship, and \ninside the laboratory at Maitri. A two channel polygraph (Biorite manufactured \nby Medicare systems, India) was placed away from the subject with a partition \nin between subject and the machine. The recording consisted of ECG (Standard \nLimb lead II) and galvanic skin resistance. Two basal records were obtained at \nhalf hourly intervals from 2130 hrs onward when the subject was put on the \nbed. The subjects were instructed to have their dinner by 2030 hrs and abstain \nfrom consumption of alcohol for that evening. On an average, the lights were \nswitched off at 2230 hrs and the waking time was 0600 hrs ±15 min. The night \nwatch was kept by the scientist monitoring the ECG. Hourly ECG and GSR \nSleep Studies of Summer Members in Antarctica 323 \nrecords were obtained.The HR calcul",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "5]Medical Sciences",
+    "subcategory": "Sleep Studies of Summer Members in Antarctica_ Cardiovascular Responses",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:18:52.892738Z"
+  }
+}

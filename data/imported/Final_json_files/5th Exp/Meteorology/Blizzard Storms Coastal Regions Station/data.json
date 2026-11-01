@@ -1,0 +1,72 @@
+{
+  "id": "article19",
+  "document_id": "NCPOR-C2666C",
+  "source_file": "article19.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/278/3/article19.pdf",
+  "bibliographic": {
+    "title": "article19",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 2S3-287 \nBlizzard Storms: Coastal Regions of Indian Antarctic\nStation, Dakshin Gangotri (1985-86 Summer)\nA.C. SHARMA\nAir Headquarters, New Delhi-110001\nAbstract\nThe Fifth Indian Antarctic Expedition experienced one of the worst summer seasons\nin Antarctica. Out of a total stay of 69 days on the Continent, on forty-five days either\nblizzards or  strong winds were blowing. Weather forecasts based on  the available aids\nhelped to a great extent in accomplishing the various assigned tasks. In this paper, a \nsystematic synoptic study of weather condition, highlighting the blizzard storm situations\nat Dakshin Gangotri has been presented.\nIntroduction\nSynoptic weather interpretation especially over the coastal regions of Antarctica\nposes a major challenge to the weather forecastings, because of the following:-\n(a) the unending stream of low pressure areas in the region of  semi-polar vortex.\n(b) paucity of weather observing stations and obstruction in the smooth\nfacsimile HF transmission/reception due to severe magnetic storms.\n(c) the local meteorological parameters, especially pressure and  temperature,\nsuffer from the inherent flaws of topography and inversion effects, so\nthat change in them do not reflect a true picture for the synoptic\ninterpretation of the systems.\n(d) the consistency in wind direction is a major obstacle. Being of great\nhelp in one way for the aviation forecasts, it prohibits a true comprehension\nof changes that are generally associated with the approach and passage\nof weather system.\nThe severity of weather has contrasting, feature when compared over the\ncoastal regions and inland. This is well evident especially when observations\n(during Indian Summer Expedition) are available on board ship, Dakshin Gangotri\nand Maitree. Weather gets less severe as we proceed fro m coastal waters to\ninland. The data used were the synoptic charts received from Pretoria and\nMolodezhnaya Also local data was collected during the period 24 Dec, 85—03\nMar., 86. Some of the surface analysis charts are reproduced in Fig. 1.\nFig. 1. Some typical surface analysis charts \nA. C. Sharma 284\nBlizzard Storms... 285\nDescription of Blizzard Storms\n25 Dec 85—06 Jan 86: Blizzard followed an occurrence of fog/low clouds.\nPrior to this on 23 Dec 85 and 24 Dec 85, fair weather prevailed. Bad weather\napproach was signified by a change in the wind direction from consistent northeast\nto south-south-west and south. A low  pressure area was lying with its centre\nnear 65°S Lat. and 10°E Long. It lay at the trailing edge of cold front lying\nbetween 60 to 70°S latitude. There was a time gap of approximately six hours\nbetween the change in the wind direction and appearance of low clouds. Low\nnear 65°S and 10°E moved southeastwards. The  blizzard continued to blow\nconstantly till 30 Dec 85. Wind speed at times reached 60-65 kt, but was\nconstantly blowing between 35-40 kt. On the evening of 30th Dec, clearance\noccurred in the wake of the passage of this system for a very short duration\nand weather got clamped by 31st morning and remained bad for next six days\nupto 06 Jan 86. During this period, it was more of a strong wind an d weather\nwas interspread with snow drift. As compared to the weather on board, weather\nat Maitree was mil d and wind speed relatively just 20 kt. But Weather was\nequally bad over Dakshin Gangotri.\n10 Jan 86-20 Jan 86: A deep frontal system was lying near 54°S and 03°E.\nIt moved south-south-eastwards and lay near 60°S and 10°E. In this system also\nwind direction became persistent fro m northeast (110°) to south-south-west (200°).\nWith respect to ship position, weather  started drifting from south and south-west.\nWind reverted back to easterly direction and snowfall ensued. On 14 Jan, this\npressure system was lying as an extended system between 65° to 70°S and 0-16°E\nand it was moving northeastwards. Fog occurred in the  wake of the passage of\nthe system. On the 16th, wind direction once again changed to south-south-west\n(230/10kt) by  about 10.00 hours. Weather lifted up for two to three hours but\nagain became bad as another frontal system  approached the station. Wind speed\nremained 30-40 kt with an occasional light to heavy snow showers. Weather\nlifted up and fog again occurred by  midnight.\nThere was another spell of bad weather following a bright weather period\nbetween 20 Jan 86 to 26 Jan  86. On 27 Jan, the upper layer of atmosphere had\nbecome turbulent due to the passage of the system to the north. Only its region\nof maximum wind was affecting the station. It is clear from the satellite picture\n(Fig. 2) that part of the warm front was only affecting the region of DG and\nneighbourhood.\n10 Feb 86-16 Feb 86: A frontal system was  lying with its centre near 68°S\nand 03°E (extension 05°W-15°E). Variable clouding (Morning Stratus with base\n250; Afternoon Stratus, Stratocumulus and Altocum",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "4]Meteorolgy",
+    "subcategory": "Blizzard Storms_ Coastal Regions of Indian Antarctic Station, Dakshin Gangotri (1985-86 Summer)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:30.795654Z"
+  }
+}

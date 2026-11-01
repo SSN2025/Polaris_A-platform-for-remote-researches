@@ -1,0 +1,72 @@
+{
+  "id": "introduction",
+  "document_id": "NCPOR-E5C6F6",
+  "source_file": "INTRODUCTION.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/405/3/INTRODUCTION.pdf",
+  "bibliographic": {
+    "title": "INTRODUCTION",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SCIENTIFIC  REPORT\nFOURTEENTH  INDIAN  EXPEDITION\nTO  ANTARCTICA\nTECHNICAL  PUBLICATION  NO.  12\nDEPARTMENT  OF  OCEAN  DEVELOPMENT\nCGO  COMPLEX,  LODI  ROAD\nNEW  DELHI-110003\nINDIA\n1998\nPrepared by Dr S D Sharma\nRadio & Atmospheric Division\nNational Physical Laboratory\nDr K. S Krishnan Marg\nNew Delhi 110 012\nand\nDepartment of Ocean Development\nNew Delhi 110 003\nPrinted at National Institute of Science Communication, CSIR\nDr K. S Krishna Marg, New Delhi 110 012\nGOVERNMENT OF INDIA\nDEPARTMENT OF OCEAN DEVELOPMENT\nFOREWORD\nDR. A,E. MUTHUNAYAGAM\nAntarctica, the last heritage of mankind and the continent of extremes has\ncome to be known as  the 'Continent of  Science'. It is the nature's biggest\nlaboratory where no outside anthropogenic interference has taken place over the\nages till recent times. Being at a unique geographical location, it offers unique\nopportunities for a number of scientific experiments. India which joined the\nAntarctic bandwagon in 1981 has already made its presence felt with its\nuninterrupted scientific interests in the continent\nThis 14th Indian Scientific Antarctic Expedition (1994-96) had  been\nsuccessful in executing most of the tasks entrusted to them both scientific and\nlogistic. In addition to the ongoing programmes, several new experiments on\nozone measurements, daytime auroral studies, wildlife distribution pattern and\nlong distance communication using e-mail were initiated. Planning and\nexecution of some of the advanced scientific experiments at Antarctica speaks\nabout the maturity level of Indian Expedition to Antarctica. This multidisclplinary\nand multiinstitutional task has bee n possible due to the deep involvement and\nlong term com mitment of various agencies in our country\nThe present r eport carries the research findings of the both summer and\nwinter components of the 14th Indian Scientific Antarctic Expedition Dr. S.D.\nSharma, the leader of the Expedition has done a comm endable job in collating\nthe manuscripts and bringing the leport in the final shape. I am sure that this\nreport will serve to be  a valuable source of data and information for the use of\nscientific community\n(A E Muthunayagam)\nSECRETARY\nMAHASAGAR BHAVAN'. BLOCK-12. C.G.O COMPLEX.\nLODHI ROAD,  NEW  DELHI - 110 003\nDR. P.C. PANDEY\nCentre Director \nPREFACE\nIt is a matter of great pleasure that the Scientific Report of XIV\nIndian Scientific  Expedition to Antarctica is ready, which puts on\nrecord the scientific data collected and observations made during the\nsummer  and  winter periods of the Expedition The efforts put in by\nDr S D Sharma, the  Leader of the Expedition, deserve appreciation\nfor collating the documents and bringing it to the final stage after\ngetting it peer-reviewed from the experts in the field\nEver since the inception of Indian Antarctic Expedition in 1981\nand subsequently at taining the consultative party status in 1983,  it\nhas been a constant effort at Department of Ocean De velopment, to\nbring out as much science as possible  through a variety of\nexperiments run by scientists coming from different research\nInstitutions and Universities The wide spectrum of subjects covered\nby Indian scientists for the experiments at Antarctica using its unique\nspecificity speaks volumes about the importance given to this national\neffort by various organisations in the country The Antarctic\nprogramme has truly become multi-disciplinary and  multi-institutional\nwith the country's first polar research institute, Antarctic Study Centre\n(DOD) at Vasco-da-G ama, Goa, as the nodal agency\nIn pursuance of the scientific information exchange under\nAntarctic Treaty Systems, this 12\nth\n Technical Publication will be a \nvaluable source of scientific and logistic information to India's effort in\nAntarctica I congratulate the Team Leader of tne XIV IAE and all the\nteam members for their fine achievements\n(P  C  PANDEY)\nGOVERNMENT OF INDIA\nDEPARTMENT OF OCEAN DEVELOPMENT\nANTARCTIC STUDY CENTRE\nACKNOWLEDGEMENTS\nThe Fourteenth Indian Scientific Antarctic Expedition with a 63 strong\nteam was flagged off on 15\nth\n December, 1994 by Sh. E duardo Faleiro, the\nMinister of Chemicals and Fertiliser . The blessings for the success of the\nexpedition were also received from Sh. J.V.R. Prasada Rao, Joint Secretary\n(DOD) and Dr. E. Desa, Director NIO .The leaders of the previous expeditions\nSh. Rasik Ravindra (IX) and Sh. Mukerji (XI) were also present for advice and\nencouragement. The heads of various Ins titutions were also present to bless the\nparticipants. The shi p sailed off on 17\nth\n Dec., 1994 at 2100 Hrs.\nThe team comprised of a scientific component, Army and Navy compo-\nnents. A medical officer from IAF was also a member of the winter team. As\nis customary, the next day, the team was assembled and different s ub-commit-\ntees were formed to take care of various aspects of life onboard the ship which\nincluded a mess committee, entertainment committee, seminar committee etc.\nI wish to acknowledge the good work done by these c",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Introduction Of Publication",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:48.106358Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article21",
+  "document_id": "NCPOR-DF29A1",
+  "source_file": "article21.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/280/3/article21.pdf",
+  "bibliographic": {
+    "title": "article21",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 299-301 \nA Note on the Role of Sub-Tropical Anticyclones of Southern\nHemisphere on the  Severity and Persistence of Weather\nover Coastal  Antarctica\nA.C. SHARMA\nAir Headquarters, New Delhi-110001\nAbstract\nRole of sub-tropical anticyclones on  the modification of weather over coastal region\nof Antarctia is generally underestimated. The aim of this  paper is to highlight-their role,\na viewpoint, which is required to be developed further.\nIntroduction\nA cursory glance on the general circulation (Fig. 1) in  the Southern hemisphere\nbrings out the following:-\na) The sub-tropical anticyclone belt:  30-40°S.\nb) The zone of strong westerlies in temperate latitude s with strongly varying\nair pressure decreasing poleward in the mean.\nc) The polar zone with asymmetric circumpolar vortex (Sub Polar Low)\nand Continental High. The asymmetry of the polar vortex is a consequence\nof the asymmetric topography of  Antarctica.\nd) The meridional temperature gradient between the coast of Antarctica and\nopen ocean near the surface is moderate in the summer and large during\nthe rest of the year. The sign of this gradient does not change all through\nthe year.\nFor variety of reasons, the major attention of the synopticians of  weather\nis on the cyclogenesis of the migratory cyclones moving in the sub-polar region.\nThese cyclonic disturbances form or intensify in a strongly baroclinic field (i.e.\na band-like area across which th e isobaric temperature gradient in the region is\nlarge). These are attributed as the major weather causing systems. Hardly any\nimportance is given to sub-tropical anticyclones, on the southern periphery of\nwhich the general cyclogenesis region exists.\nEven the existence of permanent anticyclone over the Antarctic continent\nwas disputed as long back as 1926 by Van Everdingen E. (1926, Stationare\n300 A. C. Sharma\nFig. 1. General circulation in southern hemisphere \nAntizyclone Ann. Hydrograph Maritim Meteorol). Moreover, the outward exten-\nsion of this anticyclone does not have much effect on the occurrence of  weather\nover coastal Antarctica.\nDiscussion\nThe synoptic charts received during the Fifth Indian Scientific Expedition\nto Antarctica are use d as the data.\nThe sub-tropical anticyclones in the Southern Hemisphere have more stable\ncharacter as compared to Northern Hemisphere. But their  meandering at times\nis more pronounced and  these wedge in circum-polar vortex right upto 60-65°\nSouth latitude. Also wave-trains of cyclones develop in their vicinity and travel\neast or east-southeastwards. Such a south-east moving cyclone further strengthens\nthe cyclone moving along the coastal region. Such a strengthening was noticed\nin Jan-Feb, 1986 when Dakshin Gangotri region suffered long spells of consistent\nbad weather even when the cyclones were moving away.\nIn a more typical situation these anticyclonic belts lead to blocking situations\nthereby impeding the movement of cyclones. So during the process of blocking\n(which takes 3-5 days), low  pressure areas continue to stagnate over the region\nwherever these are lying. Also east-southeastward moving cyclone result in\nretrogression of the  systems thus prolonging the effects of the system in  causing\nbad weather.\nA Note on the Role of Sub-Tropical Anticyclones... 301\nConclusions\nThere are lot of red-herrings in the true understanding of the role of\nsub-tropical anticyclones on  the circumpolar vortex and vice-versa. Also the\nproblem of forecasting the weather over coastal regions of Antarctica can be\nsolved if the models can be evolved about various ways these anticyclones pulsate.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "4]Meteorolgy",
+    "subcategory": "A Note on the Role of Sub-Tropical Anticyclones of Southern Hemisphere on the Severity and Persistence of Weather over Coastal Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:26.702357Z"
+  }
+}

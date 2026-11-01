@@ -1,0 +1,72 @@
+{
+  "id": "1_report_of_lan_layout",
+  "document_id": "NCPOR-F2D216",
+  "source_file": "1-+Report+of+LAN+Layout.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1134/1/1-+Report+of+LAN+Layout.pdf",
+  "bibliographic": {
+    "title": "1-+Report+of+LAN+Layout",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "ENGINEERING & \nLOGISTICS REPORT\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 377-381\nEstablishment of Structured Local Area Network\nat Maitri\nDR S HAILENDRA S AINI*1\n1 IT Consultant,ESSO-National Centre for Antarctic and Ocean Research, \nHeadland Sada, Vasco da gama, Goa-403804\n*shailendra.saini@gmail.com\nPoint to point C  band SATCOM link between NCAOR,  GOA and \nMAITRI, Antarctica was established in XXVII Indian Scientific Expedi-\ntion to Antarctica by Satellite Application Centre (SAC), Electronics Cor-\nporation of India Limited (ECIL) and Expedition members.  This had opened \nthe way  to  connect MAITRI  station  with mainland,  with  a  mandate to \nreduce communication time, NCAOR has planned to extend link by estab-\nlishing Local Area Network (LAN) at MAITRI.\nA LAN  is  a  high-speed, fault-tolerant  data  network that  covers  a \nsmall area and this was suitable for MAITRI station and surrounding. Typi-\ncally workstations, personal computers, printers, and scientific equipments \nwere connected with LAN  technology. LANs  offered users  to share  ac-\ncess to devices and applications, file exchange between connected users, \nand communication between users via electronic mail and near real time \ndata transfer to mainland NCAOR.\nLAN topologies define the manner in which network devices are or-\nganized. Four common LAN topologies exist: bus, ring, star, and tree. These \ntopologies are logical architectures, but the actual devices need not be physi-\ncally organized in these configurations. Logical bus and ring topologies, for \nexample, are commonly organized physically as a star. A bus topology is a \nlinear LAN architecture in which transmissions from network stations propa-\ngate the length of the medium and are received by all other stations. Some \nnetworks implement a local bus topology. A ring topology is a LAN archi-\ntecture that  consists of  a  series of  devices connected to  one another by \nunidirectional transmission links to form a single closed loop. A star topol-\nogy is a LAN architecture in which the endpoints on a network are con-\nnected to a common central hub, or switch, by dedicated links. Logical bus \nand ring topologies are often implemented physically in a star topology. A \ntree topology is a LAN architecture that is identical to the bus topology, \nexcept that branches with multiple nodes are possible in this case.\n378  Dr. Shailendra Saini\nLAN devices commonly used in LANs include repeaters, hubs, LAN\nextenders, bridges, LAN switches, and routers. With the installation of these\nLAN devices we prevent signal deterioration caused by long cable lengths\nand large numbers of connected devices.  Switches are used as they allo-\ncate bandwidth proportionally to each port and provide evenly distributed\nbandwidth to each port.  Dedicated collision-free communication between\nnetwork devices increases file-transfer throughput. Due to all these advan-\ntages and expansion options in future, switches are used for MAITRI net-\nworking using combination of star and tree topology.\nCategory 6 cables UTP/ STP was properly installed and terminated\nat each node to meet desired communication specifications of MAITRI\nstation. Due care was taken to avoid any kink or tight bend (the bend radius\nshould be at least four times the outer diameter of the cable). The wire\npairs must not be untwisted and the outer jacket must not be stripped back\nmore than 1/2\" (25 mm). When used for 10/100/1000BASE-T, the maxi-\nmum allowed length of a Cat 6 cable is up to 100 meters (328 ft). For length\nnear or more then 100 meter CA T 6 STP cable was used and final horizon-\ntal length was kept at 90 meters (295 ft),  between the patch panel and the\nwall jack, 1 and 3 meters of stranded patch cable are attached to various\ndevice.\nExtra cable shielding was required in order to improve a Cat 6 cable's\nperformance in high electromagnetic interference (EMI) environments as\nwell as due to cold and harsh Antarctic climate. Shielding is typically main-\ntained from one cable end to the other using a thick drain hose that runs\nthrough two feet deep trench.  Extra cables, STP cables are laid for outside\nconnectivity between any two laboratories outside Maitri Station.\nMaitri Station is completely divided in three segments by three switches\nmarked as SW1, SW2 and SW3. SW1 switch was used to link C-band\nSA TCOM Link to LAN network of MAITRI and only common facilities\nare terminated (Like Video Conferencing) with extension to SW2 switch.\nSW2 and SW3 switches are the main distribution switches, these switches\nprovide connectivity to individual rooms and outside laboratories.\n 379 Establishment of Structured Locan Area Network....\nSwitch 1 (SW 1) 8 Port, Setup and Connectivity to Video conferencing and Language\nCoverage of 24 port Switch SW2 Installed in Room No. 17\n380  Dr. Shailendra Saini\nCoverage of 24 port Switch SW3 Installed in Room No. Corridor in front of Room No. 34\nConnectivit",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "5] Engineering and Logistics Report",
+    "subcategory": "Establishment of Structured Local Area Network at Maitri",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:24:08.304867Z"
+  }
+}

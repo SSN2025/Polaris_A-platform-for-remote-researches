@@ -1,0 +1,72 @@
+{
+  "id": "article_7_1",
+  "document_id": "NCPOR-6496E1",
+  "source_file": "ARTICLE+7_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/672/1/ARTICLE+7_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+7_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Geomagnetic Field Variations Near Dakshin Gangotri,\nAntarctica\nG.K. Rangarajan, L.A. D'Cruz and Asha R. Patil\nIndian Institute of Geomagnetism Bombay \nABSTRACT\nThe geomagnetic field station was located at geographic latitude 69˚59 S longitude 11 55 E \n(Dipole latitude 65 5°S longitude 54 5 E) The corrected geomagnetic co ordinates were 62 0 S \n52 3°E Two intense  magnetic disturbances were recorded on 10 January and 4 February with\nsmaller scale disturbances in between Two substorms were lecorded 12 February substorm is\ncharacterised by a simple rise to peak value marked with a sharp sudden impulse followed by a steady\nfall and 13 February substorm is in effect a sequence of substorms with periodic waxing and\nwanning\nBy selected samples of magnetic records near Dakshin Gangotri and the corresponding\nmagnetograms from the Indian equatorial region the interaction of solar wind and magnetosphere\nand the consequent geomagnetic field changes at auroral and equatorial latitudes have been studied\nINTRODUCTION\nThe Second  Indian Scientific Expedition to Antarctica reached the icy continent on 28\nDecember, 1982 The initial days were spent in transferring material from ship to the land, erecting\ntent, setting up equipment and constructing a prefabricated structure for communication and\nrecreation Scientific work began from January 8 1983\nThe geomagnetic field station was located at Geographic lat 69°59 S long 11°55 E (Dipole lat\n65 5°S, long 54 5°E) The corrected geomagnetic co ordinates, as derived from geomagnetic main\nfield model using MAGSAT data turns out to be 62 0°S, 52 3 E The conjugate location in northern\nhemisphere is in the vicinity of permanent geomagnetic observatories at Eskadalemuir and Rude\nSkov but there is no magnetic observatory in the precise conjugate location\nThe Indian field magnetic station consisted of (1) A proton precision magnetometer providing\ntotal field values (F) at a sampling interval of 10 sec with an accuracy of ± 1 nT The output was\nrecorded on a strip chart recorde r with sensitivity of 10 mv/cm The recorder has in bunt scale\nexpanding device so that there was no loss of record for the entire duration (2) A 3 component\nfluxgate magnetometer with sensitivity of 1 volt/100 nT installed on a non magnetic pole fixed to a \nwooden stand The output was again fed to a strip chart recorder at 5 cm/hour speed but with no\nscale expander Due to this and due to the fact that the level of the fluxgate magnetometer kept\nchanging by melting of the ice close to the legs of the steel there was considerable loss of record in\nthe component recordings The discussions presented subsequently are, therefore, based entirely on\nthe total field records (3) A fluxgate based vertical component magnetometer for providing spot\nvalues of Z at chosen location as part of a preliminary survey and a base line control for the variation\nstation\nThe data availability spans the period 10 January to 17 February 1983 The scientific team\nexperienced a stunning blizzard beginning on 19 February and ending on 21 February, 1983\nFortunately the records and equipment were safe and were retrieved with commendable alarcity\n53\nFig 1 3 hourly a index indicative of geomagnetic activity in\nsouthern hemisphere (sub auroral latitudes) between Jan\n10 and Feb 18 1983\n54\nFig 3  Example of a single substorm with onset growth and\nrecovery\nGeomagnetic Field Variations\nFig 4  Example of a substorm with multiple expansion phases\nFig 2 Quiet day daily variation of total field X component of 3 \nFeb 1983\n9\n100 nT\n50nT\n20\n1 H \n1 Hr \n1719\n29\n15\nJANUARY 83\nFEBRUARY 83 5\n14\n25\n9\n1\n10\n20\n20 nT\n8\n18\n100 nT \nANT F \n13 F e b 83 \n63014\n100 nT \n1810\nANT F \n12  Feb  83\nX Variation \n23  Feb  83 \nF Variation \n23 Feb 83 \n3 HOUR VALUES\nRangarajan, D'Cruz & Patil\nDATA AND RESULTS\nA gross idea of the magnetic condition prevalent in southern hemisphere during the expedition\ncan be had from Fig 1 3-hourly a indices are derived from geomagnetic activity at several suitably\nlocated stations in the southern sub-auroral zon e Values below about 20 nT can be considered\n'quiet' periods\nIt is seen that  the experiment s began under condition of  severe geomagnetic disturbance on\n10 January and was periodically punctuated by similar scale disturbance till 4 February when again\nan intense magnetic disturbance was recorded all over the globe At low latitudes there was a storm\nsudden commencement whose amplitude in H at the equatorial observatory Trivandrum was 111 nT\nand the storm range was nearly 400 nT At Antarctica on both occasions the field agitation was so\nenormous and so rapid that the records could not be scaled sensibly due to severe overlap\nX-component and F variation during one of the quie t intervals on 3 February, 1983 are shown in\nFig 2 In this and in subsequent figures time indicated is in UT (Universal Time) The Magnetic\nLocal Time (MLT), in which the field variation at high latitude are ordered is given approximately by\n(UT-1 hr) The local time at the base ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "3]Geophysics and Geomagnetism",
+    "subcategory": "Geomagnetic field Variations Near Dakshin Gangotri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:11.043939Z"
+  }
+}

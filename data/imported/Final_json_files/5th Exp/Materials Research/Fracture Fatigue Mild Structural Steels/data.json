@@ -1,0 +1,72 @@
+{
+  "id": "article32",
+  "document_id": "NCPOR-DBEB04",
+  "source_file": "article32.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/292/3/article32.pdf",
+  "bibliographic": {
+    "title": "article32",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 431-441 \nFracture and Fatigue Stu dies on Mild and Structural Steels\nFor Use in Antarctica\nSAMEER VIJAYAKAR\nIndian Institute of  Technology, Bombay-400076\nAbstract\nThis study wa s intended to determine the usability of ordinary mild and structural\nsteels in the Antarctic climatic conditions. An attempt was made to improve the fatigue\nand fracture toughness characteristics of such metals for the above  use. The effect of\nhydrogen removal on the Kpop-in value and the resulting fatigue crack growth rate and\nfatigue life of the metal specimen has been studied. An improvement in pop-in characteristics\nhas been indicated.\nIntroduction\nMany special alloys have been prescribed for and used in such low temperatures\nas are prevalent in the Antarctic. However, the high cost of these alloys inhibits\ntheir extensive use. Actual conditions in the place of use may permit the use\nof ordinary mild steels and s tructural steels. This makes it important to judge\ntheir suitability for such environs. This study assesses the fracture toughness and\nfatigue crack growth rate of mild and structural steels exposed to the Antarctic\nclimatic cycle. Hydrogen in s teel causes flaking and embrittlement. The effect\nof hydrogen removal is studied.\nMaterials and Method\nMild steel and structural steel samples wer e collected from the area in and\naround Dakshin Gangotri base station (70° 05'S; 12°E) and Schirmacher hill\nrange (70°46'S; 11° 49'E to 12°E) from metal which has experienced the Antarctic\nclimatic cycle for one year, two years and three years. Samples exposed for four\nyears also were obtained from Schirmacher hill range. The samples were removed\nfrom position a few inches above the snow surface and a few inches below.\nSome of the samples were removed from metal submerged in lakes which\nare shallow enough to freeze completely in winter.\nThe composition of the mild steel specimens:\nC 0.10% to 0.17%; Mn 0.2% to 1.0%\n434 Sameer Vijayakar \nThe composition of the structural steel specimens: \nC 0.15% to 0.28%; Mn 1.0% to 1.6%; P 0.04% to 0.45% \nS 0.04% to 0.05%; Si 0.0% to 0.3%; Cu 0.0% to 0.2% \nSpecimen Preparation:  The three-point bend specimens were prepared as per \nthe specifications of ASTM E 399 (1). The span used was 200 mm, width 50 \nmm. Notch length 'a' is 20 mm,  corresponding to a/W of 0.4. \nThe preparation of the specimen as per ASTM E399 is described in Fig 1. \nHydrogen Analysis:  The method consists of melting the sample of steel \nunder low pressure in a graphite crucible at 1550 — 1700°C. Oxides, react with \nthe carbon crucible and give carbon monoxide. The evolved gas is collected and \nanalysed. 95% by  volume is usually CO, the rest being nitrogen and hydrogen. \nVacuum Annealing for Hydrogen Removal:  The specimens were heat treated \nin a 1 μm vacuum at 400°C for a period of 4 hrs. At the end of this period \nthey were cooled to room  temperature in vacuum. The furnace, of dim ensions \n8\" X 11\" X 24\"(ht) required about 24 hrs to cool to room temperature. The \ntemperature and duration used were considered suitable to obtain the required \nhydrogen removal from the material. \nFracture Toughness and FCGR Testing:  The fracture toughnes s and fatigue \ncrack growth rate (FCGR) testing was done on an MTS 810 system. \nThe three-point bend specimen aligned in the fix ture and the clip gauge, \nwhich measures displacement, was inserted between the knife edges fitted on \neither side of the notch. Before the experiment began a table of EVB/P vs a/W \nwas prepared. \nFracture and Fatigue Studies...  435 \nThe relationship used was— \nEVB/P = f(a/W) = -45.8 + 711 (a/W) - 3919(a/W)\n2\n + 11120(a/W)\n3 \n- 15234(a/W)\n4\n + 8572(a/W)\n5 \nfor 0.3 a/W 0.7 \nWhere \nE = Young's modulus of elasticity, kN/mm\n2 \nB = thickness of the specimen, mm \nV = displacement measured by the clip gauge, mm \nP = load applied, kN \na = crack length, mm \nW = width of specimen, mm \nKnowing EVB/P, a/W was determined from the table. The value of a/W \nthus obtained was used to calculate the K-calibration function F(a/W). \nand the stress intensity factor, \nThe stress intensity value was always maintained below 15 MPa m to \nensure that  brittle fracture did not occur while  testing. From the  initial crack \nlength known, the initial F(a/W) was obtained. The maximum load to be applied \n(P max ) was adjusted to obtain the req uired value of K. \nIn cyclic loading, P max /P min  was maintained at 10, at  a frequency of 19 H z . \nAs the crack grew, the value of F(a/W) increased. The load P mix  was hence \ndecreased to ensure that K remained below the required limit. The exact value \nof F(a/W). was obtained by deriving a/W from E V B \np \nIn order to calculate E V B ,plots of P vs V were recorded periodically, The \nP \nslope of the plot (V/P) was used to calculate E V B. This precracking was continued \np \ntill a/W = 0.5. \nFor the FCGR analysis the number of l",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "8]Materials Research",
+    "subcategory": "Fracture and Fatigue Studies on Mild and Structural Steels For Use in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:49.261597Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_125_133",
+  "document_id": "NCPOR-F06793",
+  "source_file": "Technical+Publication+No.+19%2C+pp+125-133.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/852/1/Technical+Publication+No.+19%2C+pp+125-133.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+125-133",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 125-133 \nIsolation and Molecular Characterization of Sea Ice \nMicrobial Communities of East Antarctica \nV. Wilsanand \nEnvironmental Biotechnology Division, Rajiv Gandhi Centre for Biotechnology \nJagathy, Thiruvananthapuram-14, Kerala, India \nAbstract \nDuring the XXI Indian Antarctic Expedition bacterial samples have been collected \nfrom different habitats of Antarctica. A total of 150 pure isolates were obtained by streak \nplate method. Of these, 64 isolates are marine. Morphological, biochemical, physico-\nchemical and molecular characterization of the all the strains have been completed. Studies \non the salt and temperature tolerance of the marine isolates indicate that all the strains \nare halotolerant psychrotrophs. Studies on the pH tolerance revealed that they are \nneutrophiles and tolerated a pH range of 4 to 11.8. PCR based RFLP analysis of various \nstrains indicate that there are 13 genetically different marine species. Partial sequencing \nof 16 S rRNA of all the RFLP differentiated strains have been completed. Blasting and \nspecies identification will be possible only after sequencing the complete 1538 bp gene, \nwhich is in progress. \nKeywords: Antarctica, Bacteria, Halotolerant, Marine, Microbes, Psychrotrophs, \nPack ice, Sea ice. \nIntroduction \nOceans cover about 70% of the earth's surface and harbour a myriad \nof organisms. Marine microorganisms are of enormous scientific interest \nsince they have adapted to extreme environments ranging from the cold \npolar seas at -2°C to the great pressures of the ocean floor. Yet the potential \nof this domain as the basis for new biotechnologies remain largely \nunexplored. In fact, the vast majority of the marine microorganisms have \nyet to be identified. Even for known organisms, there is insufficient \nknowledge to permit their intelligent management and application. It is \nsupposed that only 1% of the microorganisms living in the marine \nenvironment have yet been discovered. \nSea ice is an interesting feature of Polar Regions. The largest expanse \nof sea ice occurs in the southern ocean. Unlike freshwater ice, sea ice forms \na semisolid matrix, permeated by a net work of channels and pores filled \n126 V. Wilsanand \nwith brine formed from expelled salts as the ice crystal freeze together. \nRecent studies have demonstrated that the sea ice is a microcosm on its \nown (Brown & Bowman 2001, Staley &Gosink 1999). Many \nmicroorganisms can stand the low temperature and high salinities of the \nbrine channels and pockets within the porous sea ice. Many planktonic \norganisms including viruses, bacteria, algae, protists, flatworms and small \ncrustaceans stick to ice crystals and become trapped within the brine \nchannels. In recent years, the study of sea ice organism has intensified by \nthe realization that the physiological and biochemical acclimatization that \nmicroorganisms thriving in the ice have to undergo may have considerable \npotential for biotechnological applications. Apart from their ecological and \nbiotechnological importance, the bacteria and algae found in the sea ice \nhave become the focus for new breed of astrobiologists who are \nenthusiastically scrutinizing the ice covered extraterrestrial bodies for the \npossibility of existence of life. Bearing these in mind, in the present \ninvestigation an attempt has been made to study the biotechnological \napplications of Antarctic microbes in general and Sea Ice Microbial \nCommunities in particular and the preliminary results obtained are \npresented here. \nMaterials and Methods \nSampling and Isolation \nDuring the XXI Indian Antarctic Expedition (summer) conducted \nduring December 2001 - March, 2002, bacterial samples were collected \nfrom sea ice and waters of East Antarctica. During the sampling period, \nthe average temperature was -2 °C. The samples were grown in nutrient \nBroth at 16 °C. They were spread on nutrient agar plates and pure colonies \nwere isolated by streaking. Pure isolates were stored in refrigerator and \ntransported back to the Laboratory in India in refrigerated conditions. \nMorphological, biochemical and physiological characterization \nThe following morphological, biochemical and physiological \ncharacterization were examined: Cell morphology; gram staining; motility; \noxidase and catalase production; indole production; MR-VP (Methyl Red-\nVoges Proskauer) test; citrate utilization; nitrate reduction; ammonia \nand hydrogen sulphide production; oxidation and fermentation; sugar \nfermentation; salt, pH and temperature tolerance following the IMTECH \nIsolation and Molecular Characterization of Sea Ice Microbial .... 127 \nmanual for identification of microbes. Gram reaction was determined \nusing the Hi Media gram stain kit according to the manufacturer's \ninstructions. Motility of the culture was determined by hanging drop \ntechnique. Catalase activity was determined",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "3] Bio-Sciences",
+    "subcategory": "Isolation and molecular characterization of Sea Ice Microbial Communities of East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:46.938702Z"
+  }
+}

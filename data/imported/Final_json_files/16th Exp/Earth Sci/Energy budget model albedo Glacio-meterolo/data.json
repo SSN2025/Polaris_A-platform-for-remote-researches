@@ -1,0 +1,72 @@
+{
+  "id": "article_20",
+  "document_id": "NCPOR-F925AE",
+  "source_file": "ARTICLE+20.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/625/3/ARTICLE+20.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+20",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendilion to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nEnergy budget model based on albedo and glacio-meteoro-\nlogical parameters of diffrent snow-ice media in Antarctica\nthrough ground based observations, 1997-98\nV.D. MISHRA and AMREEK SINGH\n(Snow and Avalenche Study Establishment, Manali (H.P.))\nAbstract\nMeasurements of the dependence of albedo in different snow and ice media\non solar elevation angle, cloud cover, liquid water content, grain size etc. can be\ninterpreted in terms of single scattering and multiple scattering radiative transfer\ntheory. Detailed albedo measurements were carried out during summer and win-\nter period in different snow and ice media in 1997-98 at different chosen sites in\nAntarctica. Average albedo values were found to be high in snow medium (max.\n99%) moderate in shelf ice (max.90%) and very low values (max.58%) in the\ncontinental ice medium.The albedo was found to be a function of cloud amount,\nincreasing with the amount and thickness. In white out conditions during bliz-\nzards high albedo (Av. 83%) was found as compared to clear sky day (Av. 76%)\nand after blizzard (Av. 78%). It showed dependency on the type of snow also.\nNew snowfall over old snow displayed higher values (90%) than older snow\n(70%) and decreases with the age of snow . It is a function of melt water in snow\npack and decreases with increasing melt water percentage by volume and showed\nsome dependency on the solar elevation. The dependency was slight for solar\nelevation' s during day time when q >» 12-15 degree but became larger with low\nangles when q > = 3 - 12 degree. Very high albedo values were found (99%)\nwhen sun is near horizon. Solar insolation in different months at different three\nelevated sites also calculated and vary from (10-550) In/day (Aug. - Oct.) , \n(350-920) In/day (Nov. - Dec.) and (190-750) In/day (Jan. - Feb.). Net energy\nbalance was found to be negative most of the time in different media at\nAntarctica.\n1. Introduction\nThe interaction of electromagnetic radiation with a natural snow cover is of\nconsiderable practical interest and scientific importance. The remote sensing\ncommunity requires an improved understanding of the optical properties of snow\nin order to correctly interpret the imagery of snow covered regions and to distin-\nguish between snow pack and cloud covers. Radiant energy transfer is important\nin the thermodynamics and metamorphosis of the snow pack and is therefore of\ninterest to those who study the mechanical and hydrological properties of the\nsnowpack. Therefore, the establishment of relationships between the optical prop-\nMisha and Amreek Singh \nerties of snow and frequently measured snowpack quantities, such as liquid\nwater content, density, surface temperature etc. would be of considerable utility.\nTo understand how ablation on a glacier may change if climate changes,\none needs to know the albedo and components of the surface energy balance. It\nis generally accepted that, atleast on mid latitude valley glaciers, the most impor-\ntant processes delivering melt energy in summer are absorption of solar radiation\nand turbulent exchange of sensible heat. On most glaciers, solar radiation typi-\ncally provides 75% of the melt energy, although on the lower parts of maritime\nglaciers this may be closer to 50%.\nIn recent years, glacier mass balance models have been developed that are\nbased on calculation of all energy transfers between atmosphere and glacier sur-\nface\n(1,2,3)\n Radiative and turbulent energy fluxes are calculated from climatologi-\ncal data. The surface balance can be prescribed, calculated with an energy bal-\nance model\n(4,5)\n The energy balance model is an attractive tool for simulating the\nsurface balance, since the physical processes on the surface can be described\nfairly explicitly in the model. Such studies were usually performed over a short\nperiod in one medium and at a single location. In spite of the energy-balance\nwork done so far and the significant increase in our knowledge this has brought\nabout, there is still a need for Glacio - meteorological, radiation data for a long\nperiod and at larger area.\nIt is, however, not easy to obtain such data continuously around the year\ndue to ablation zones and other problems of tremendous weather change in\nAntarctica. The attempt was made to record the radiation and snow-met data\nmost of the time as and when possible. Furthermore, for budgetary and logistic\nreasons, it is not feasible to have a permanently manned station at different sites\non a glacier tongue.\nIn this paper, the field scientific work was carried out at three different\nstudy sites. One was located on the snow. surface (snow pack in Antarctica is\nformed due to natural snowfall, snow drift and Blizzards) infront of permanent\nIndian base station \"Maitri\" (70\n0\n46' S, 11\n0\n 45' E). Maitri is located on Schirmacher\noasis to the west of Dakshin Gangotri with the Wohlt",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 26
+  },
+  "taxonomy": {
+    "category": "4]Earth Sciences",
+    "subcategory": "Energy budget model based on albedo and Glacio-meterological parameters of different snow-ice media in Antarctica through ground based observations, 1997-98",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:35.095370Z"
+  }
+}

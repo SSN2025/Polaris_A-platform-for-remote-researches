@@ -1,0 +1,72 @@
+{
+  "id": "article_9",
+  "document_id": "NCPOR-600223",
+  "source_file": "ARTICLE+9.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/549/3/ARTICLE+9.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+9",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eighteenth Indian Expedition to Antarctica. Scientific Report, 2002 \nDepartment of Ocean Development. Technical Publication No. 16,pp 191-198 \n191\nReport on Mapping in Antarctica\n(During 18th Indian Scientific Expedition to Antarctica)\nKamal Sharma & Rup Kumar Das\nSurvey of India, Dehradun\nAbstract\nThe paper describes the various steps involved in the detail and contour (i.e.\nOriginal Plane Tabling) survey on scale 1:1,000 with 1 m contour interval for the\nproposed summer camp site which is North West of Indian station Maitri. It also nar-\nrates as to how the precise ground control network was formed which is a basic need for\ngeographical field work and how Survey of India extended survey facilities to Geologi-\ncal Survey of India and Scientist of various participant organizations for carrying out\ntheir scientific activities in an efficient manner.\n1. Introduction\nSurvey of India is the National Survey and Mapping Organisation of our coun-\ntry under the Ministry of Science and Technology and is the oldest scientific depart-\nment of Government of India. It was setup in 1767.\nMaps are a means of communication in graphical form and provide basis for\ndevelopments in every country. In the past, primary maps were mainly prepared for use\nby defence forces. But, after Independence with the rapid development of our country,\nthe demand of maps has been increased considerably and the number of map users has\nmultiplied several times.\nThe developments due to the scientific activities carried out during the first nine\nIndian Scientific Expedition to Antarctica (ISEA) necessitated the provision of geo-\ngraphical control and mapping in the surroundings of Indian station Maitri located in\neast Antarctica. Survey of India was identified by the Department of Ocean Develop-\nment to carryout mapping task from tenth ISEA onward.\nThe ground control points were provided for the geographical fieldwork and\nthe topographical maps on scale 1:5,000 with 5 m contour interval and also on scale\n1:1,000 with 1 m contour interval have already been published as shown in Fig. 1.\nThe maps of Antarctica series, published so far, have been proved to be very\nuseful for scientific community in planning their activities.\n192\nMapping in Antarctica. \n2. Objectives:\n2.1 To provide precise ground control points for geographical and geophysical\nfield work and densification of the topographical (i.e. horizontal and vertical) control in\nthe area covering additional base stations for carrying out contoured mapping at 1 m \nvertical interval.\n2.2 To carryout detail and contour survey on scale 1: 1,000 with I m contour\ninterval for the proposed summer campsite in Maitri region (i.e. NW of Maitri)\n2.3 To study of glacial dynamics with Geological Survey of India and provide\nsurvey aids to other organizations as per their requirements.\n3. PROVISION OF GROUND CONTROL POINTS:\n3.1 Verification:\nThe ground control points (i.e. MAITRI - S, TRACK - S and OFFSET - STN)\nalready provided in previous expeditions have been verified, found intact and these\npoints were used for the extension of ground control points in the area, after checking\ntheir stability.\n3.2 Reconnaissance:\nA thorough reconnaissance was carried out for providing ground control points\nuniformly distributed in the area of work in such a way that detail survey and contour\nchasing can be done with required accuracy. Cairons were made for correct identifica-\ntion of control points. The configuration of the control points is shown in Fig. 2.\n3.3 Traversing\nA main Traverse line was run between known points, established during the\nprevious expeditions by survey of India, by using Wild -T2 Theodolite with E D M\ninstrument DI-3000S. Six Traverse stations and fifty four subsidiary ground control\npoints (Offset Points) were provided to densify the ground control covering the entire\nworking area.\nMapping in Antarctica. \nKnown Co-ordinate used for Traverse:-\n193\nSTATIONS\nMAITRI-S\nTRACK-S\nOFFSET-STATION\nEASTING\n10,00,000.00\n10,00,131.92\n9,99,544.38\nNORTHING\n5,00,000.00\n4,99^30.64\n5,00,167.98\nHEIGHTS\n117.0m\n126.1m\n134.5 m \nThe normal departmental procedure was adopted to carryout the work and main-\ntain the accuracy.\n3.4 Computation:\nThe computed mutual grid bearing at Maitri Station of Track Station has been\ntaken as initial bearing and computed mutual grid bearing at Offset Station of Maitri\nStation has been taken as closing bearing. Thus the Maitri Station and Offset Station\nwere taken as base for the computation of co-ordinates of Traverse Stations. Co-\nordinates of offset points were computed using angle and distance measurement\nduring the course of traversing. Heights of the stations have been computed in datum\nof Maitri-S only.\n4. Detail and contour survey:\nThe plane table section was divided in regular grids, each grid of size 2cm X \n2cm (20m X 20m). The ground control points (main station as well as offset points)\nwere plotted on Plane Table Section. A mesh of well distributed control points were\nprovided. A ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Report on Mapping in Antarctica (during 18th Indian Scientific Expedition to Antarctica)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:58.387011Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_3",
+  "document_id": "NCPOR-6C4FE5",
+  "source_file": "ARTICLE+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/374/3/ARTICLE+3.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 35-41 \nBoundary Layer Studies by Acoustic Sounder at Indian\nAntarctic Station Maitri\nA.K.HANJURA\nAbstract\nNational Physical Laboratory, New Delhi\nAn acoustic  sounder system designed and developed at NPL was installed at Maitri in austral\nsummer of 1991. This instrument consists of a low' power audio frequency generator, transmitting tone\nburst vertically up in the air and receving the weak echo returning from atmospheric irregularities and\nrecording them on facsimile recorder/ digital printer. Among the various types of structures observed\nby the acoustic sounder, were the echo patterns, representing ground based inversions and  variable\nstructures on the surface of the inversion layer, throwing light on the nature of plan etary boundary\nlayer.\nIntroduction\nThe Acoustic Sounder is a remote sensing tool to probe the atmosphere. It can\ngive real time values of the structure parameters as can be obtained by meteorologi-\ncal tower and aircraft techniques. The system is capable of monitoring the structure\nturbulent boundary layer. It provides an inexpensive method to probe the complete\ndynamics which is represented in a simple picture form for various practical\napplications. Gilman et al, (1946) were the first to use the acoustic sounder in\nstudies of signal fadings in the troposcatter trans-horizon microwave radio link over\nthe 64 km distance between New York and New Jersey. A correlation between\nmicrowave radio fadings and the structure parameter obtained by the acoustic\nsounder was  reported. During mid 60's, Mc Allister (1968) re-discovered the\npotential use of the acoustic scattered intensity from the atmosphere due to fluctua-\ntions in the wind velocity and temperature. He  obtained a very clear picture of\ninversion including the presence of gravity waves and he found the scattering of the\nsound waves due to temperature discontinuities or inhomogeneities.\nIn the lower atmosphere, the atmospheric boundary layer and planetary boundary\nlayer are the most dynamic regions due to the interactive process between ground,\nice, water and air. In this region the exchange of heat momentum, moisture and\nradiation takes place due to various dynamic processes including the cooling and\nwarming of the earth surface. The South Pole is substantially colder than the North.\n36\nA.K. Hanjura \nThe continental ice reflects more than 80% of incoming solar radiation back to\nspace. The driving force of the atmospheric circulation is the difference between t h e\ntemperature near the equator and the poles. Winds are also strong in the southern\nhemisphere. Winds are dominated by negative thermal wind brought about by t h e\nintense radiational cooling of the ice slopes. The cooling of the air causes a thermal\ninversion resulting in a favourable pressure gradient for the down slope wind\ncomponent. Similarly the planetary boundary layer is characterised by a high degree\nof turbulence under various conditions and is an important parameter which needs\nto be studied over Antarctica. For this reason one Acoustic Sounder was installed\nat Indian Antarctic Station, Maitri, in the Schirmacher Oasis in January 1991 during\nthe 10th expedition.\nTheory of Operation\nThe sound velocity in the lowest part of the atmosphere is 330 m/s. Even t h e\nmildest variation in temperature, humidity and wind velocity of the medium will\ncause a major change in terms of refractive index for the sound waves while\nelectromagnetic waves and optical waves suffer a neglegible interaction. Refractive\nindex (n) is a function of temperature, pressure and humidity of the atmospheric ai r \n(Bean & Dutton, 1968 & Stilke, 1973). The scattering power of the waves depends\non (An/n)\n2\n which makes the scattering of sound waves million times greater than\nthe electromagnetic waves for the same temperature inhomogenities. This property\nof sound waves offers an unique opportunity to pick up measurable scattered power\nwhile transmitting a low power pulse of nearly 100W. The backscattered power p e r\nunit volume, per unit incident flux, per unit solid angle (9) from the initial direction\nof propogation is given by\nwhere\nand are known as temperature structure and velocity\nstructure constants defined as\nand\nwhere 'r' is the separation vector such that temperature has been measured at\nlocation x and (x+r). Similarly, instantaneous wind speed at a point x to the d i r ection\nof other point (x+r). C\nv\n and CT are the root mean square differences in longitudinal\nvelocity and temperature for the two points separated by a unit distance. So\nscattered power varies relatively with the wave length. There is no scattered power\natθ = 90°. If we put 0 = 180°, the above equation becomes\nP\nr\n = 0.0039 .Pr.C.T/2. A/R\n2\n . C\n2\nT/TL . K\n⅓\n . L \nExcept\nR and L, all others are known parameters and considering them a \nconstant, the above equation can be written as\nP\nr\n = K\n1\n .C\n2\nT",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Boundary Layer Studies by Acoustic Sounder at Indian Antarctic Station, Maitri",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:53.061766Z"
+  }
+}

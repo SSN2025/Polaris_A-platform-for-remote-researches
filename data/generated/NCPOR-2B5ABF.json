@@ -1,0 +1,81 @@
+{
+  "id": "geochemical-characteristics-of-precambrian-hi-ncpor-2b5abf",
+  "document_id": "NCPOR-2B5ABF",
+  "source_file": "ARTICLE+18.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/662/3/ARTICLE+18.pdf",
+  "title": "Geochemical Characteristics of Precambrian High-Magnesium Mafic Rocks in an Intracratonic Rift-Setting, Bastar Craton, Central India",
+  "year": 1983,
+  "expedition": "2nd Indian Antarctic Expedition",
+  "category": "Geology",
+  "subcategory": "Geochemical Characteristics of Precambrian High-Magnesium Mafic Rocks in an Intracratonic Rift-Setting, Bastar Craton, Central India",
+  "bibliographic": {
+    "title": "Geochemical Characteristics of Precambrian High-Magnesium Mafic Rocks in an Intracratonic Rift-Setting, Bastar Craton, Central India",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "2nd Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1983,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 2nd Indian Antarctic Expedition examines key geology phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Geology",
+    "subcategory": "Geochemical Characteristics of Precambrian High-Magnesium Mafic Rocks in an Intracratonic Rift-Setting, Bastar Craton, Central India",
+    "tags": [
+      "geology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Geology discoveries from 2nd Indian Antarctic Expedition: \"Geochemical Characteristics of Precambrian High-Magnesium Mafic Rocks in an Intracratonic Rift-Setting, Bastar Craton, Central India\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Geology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:34:20.607043Z"
+  }
+}

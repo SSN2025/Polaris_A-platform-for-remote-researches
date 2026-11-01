@@ -1,0 +1,72 @@
+{
+  "id": "chapter_3",
+  "document_id": "NCPOR-5CC120",
+  "source_file": "Chapter+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/992/1/Chapter+3.pdf",
+  "bibliographic": {
+    "title": "Chapter+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 73-105\nClimatic History and Landscape Evolution of \nSchirmacher Oasis, East Antarctica during Late \nQuaternary: A multi-proxy study\nBinita Phartiyal\nBirbal Sahni Institute of Palaeobotany, 53-University Road, \nLucknow-226007, U.P., India\nABSTRACT\nSchirmacher Oasis (SO) region of East Antarctica is known for 118 lakes, \nbroadly categorized into pro-glacial, land locked and epi-shelf lakes. During the \nXXV ISEA 2005-06, mapping of the palaeolakes and the dry lake beds of the \nregion of East Antarctica was done. Based on distribution of the sediment cover \nand detailed lithological, sedimentological and chronological study of ten profiles \nin -35 sq km of the SO region, five areas have been mapped that were occupied by \nlarge lakes during the Holocene. The water bodies were present from the Holocene \n(-10,000 to 3000 years BP) and have reduced in size by negative water balance. \nThis desiccation can possibly be attributed to the combined effect of recession of \nglaciers feeding them, low melt water, low precipitation and strong winds. Several \nof these lakes have been reduced in size to mere lake-lets and ponds. These lacustrine \nsediment fills are a very important source of information to trace the Quatemaiy \ngeological history and palaeoclimatic records from the southern Hemisphere. From \nthe detailed lithology of sediment profiles a landform reconstruction from 13,000 \nyears BP to the present is also proposed. Apart from this a high resolution mineral \nmagnetic investigation has been carried out in few of these sections which have a \ndefined chronology to reconstruct past climatic condition. The parameters included \nconcentration dependent (%, ARM and SIRM), independent (S-ratio, ARM/SIRM) \nand some interprametric ratios (%fd %, SIRM/%, SIRM/ARM, S-Ratio, hard and \nsoft IRM’s) wfi^li were used to document regional palaeoclimatic changes in the \neastern part of Antarctica. Magnetite is the primary of remenance in these sediments \nand fall in SP and SD grain size range. The LOI% indicates a very low organic \ncontent. Elements in order of abundance present in these sediments are Fe, Rb, Zn, \nMo, Co, Pb, Mn, Cu and As, with Fe being the most abundant followed by Rb and \nothers present in minor amounts. The mineral magnetic data supplemented with \nthe radiocarbon chronology (AMS) traces 6 phases of climatic fluctuation between \n13-3 ka BP from this region (Phase 1, 3 and 5 representing cold glacial periods \nwhile Phases 2,4, and 6 being warmer periods). There was one short warm period \n~ 12.5 ka BP (Phase 2) and two marked warm periods within the Holocene, one\n\n74 Binita Phartiyal\nbetween 11.5-9 ka BP (Phase 4), and one between 4-3 ka BP (Phase 6). The \nmaximum susceptibility and the other ratios correspond to the glacial period and \nminimum reflect the interglacial, lacustrine phase i.e., a comparatively warmer \nphase. Holocene Optima (Phase 4) and Mid Holocene Hypsithermal (MHH) (Phase 6) \nare distinctively seen with a decrease in the value concentration dependent \nparameters.\nINTRODUCTION\nThe lakes in ice-free regions of Antarctica are unique on this planet. \nThe persistent ice covers them for 6-8 months a year, minimizes wind­\ngenerated currents and reduces light penetration, as well as restricts sediment \ndeposition into the lake. These are modem-day equivalents of periglacial \nlakes that were common during glacial periods at temperate latitudes and \noffer an important record of catchment and environmental changes.\nOnly 0.8% of Antarctica is ice free while 99.2% is covered by ice, \ntherefore this continent has not been as well documented for climatic data \nduring the Late Quaternary as the Northern Hemisphere, with defined Bond \ncycles, Heinrich events, Last Glacial Maxima, Younger Dryas and Older \nDryas, Holocene optima, DO cycles etc. (Johnsen et al. 1992, Bond et al.\n1992, 1993, 1995, Dansgaard et al. 1993, Heinrich 1998, Broecker 2002 \nand many more). Although only a minor part of this southern continent is \nice free (Fig. 1), it still offers a great prospective for such kind of studies \nfrom the southern hemisphere too. There are a number of ice-free areas in \nthe eastern coast of Antarctica-the Bunger hills in the Wright valley, \nMcMurdo valley in Southern Victoria land the Schirmacher Oasis in Queen \nMaud land, are some of them and have been studied by many researchers \nfor various disciplines since the 1950’s. (Korotkevich 1958, Wilson and \nWellman 1962, Hoare 1966, Gumbley et al. 1974, Wilson 1979, Matsubaya \net al. 1979, Lyons et al. 1985, 1998; Kaup et al. 1993, Smith and Friedman\n1993, Doran et al. 2004 and many more). SO region in east Antarctica is \njust a little speck of 35 sq km area on the eastern part of 14 million sq km \narea of Antarctica (Fig. 1) and is a treasure trove for Quaternary researchers \nas most part of the SO is sediment fill of lakes in the geological past \n(Fig. 2",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 33
+  },
+  "taxonomy": {
+    "category": "2] Earth Science, Glaciology and Global Change",
+    "subcategory": "Climatic history and landscape evolution of Schirmacher Oasis, East Antarctica during Late Quaternary_ A multi-proxy study",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:57:23.899544Z"
+  }
+}

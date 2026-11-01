@@ -1,0 +1,52 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Paper {
+  // Primary identifiers
+  id          String @id          // slug, e.g. "ice-sheet-dynamics-2023"
+  document_id String @unique      // sequential: NCPOR-000001, NCPOR-000002 ...
+  source_file String              // original PDF filename
+  pdf_url     String              // /pdfs/<filename>
+
+  // Scalar columns for filtering / indexing
+  title       String
+  year        Int?
+  expedition  String?
+  category    String
+  subcategory String?
+
+  // JSONB nested groups
+  bibliographic Json   // { title, authors[], expedition, publication_series, report_type, year, page_range, doi, language }
+  content       Json   // { abstract, summary, keywords[], research_sites[], num_pages }
+  taxonomy      Json   // { category, subcategory, tags[] }
+  outreach      Json   // { highlight (bool), social_caption }
+  evidence      Json   // [{ field, source_text, page_number, section }]
+  pipeline      Json   // { status, methods_used[], confidence{}, reviewed, extracted_at }
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([year])
+  @@index([expedition])
+  @@index([category])
+  @@index([subcategory])
+  @@index([document_id])
+}
+
+model Admin {
+  id       String @id @default(cuid())
+  username String @unique
+  password String // bcrypt hashed
+  name     String
+  role     String @default("admin")
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+

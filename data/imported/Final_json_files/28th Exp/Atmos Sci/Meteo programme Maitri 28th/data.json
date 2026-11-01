@@ -1,0 +1,72 @@
+{
+  "id": "chapter_4",
+  "document_id": "NCPOR-F5A9C7",
+  "source_file": "Chapter+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1118/1/Chapter+4.pdf",
+  "bibliographic": {
+    "title": "Chapter+4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Meteorological programme at Maitri, Antarctica\nduring 28th expedition\nP. Radhe Syam\nIndia Meteorological Department, New Delhi\nABSTRACT\nIndia Meteorological Department has established a meteorological observatory at\nMaitri in the year 1990. The study of Antarctic meteorology is one of the most important\nobjectives of the Indian Scientific Expedition to Antarctica (ISEA). India Meteorological\nDepartment has been actively participating from the beginning in all expeditions to\nAntarctica. The aim of IMD in   participating in the expedition is to:\n Prepare the climatology of Indian station, Maitri.\n Find out tele-connection if any between the behavior of Indian Monsoon and\nAntarctic weather systems.\n Study of Ozone hole phenomena over Antarctica.\n Providing weather information and forecast for station and convoy operations.\nThe Study of influence of Antarctic weather on Global Warming is also important,\nin the present scenario.\nINTRODUCTION\nIMD's Antarctic expedition program begins from the time ship starts\nsailing to Antarctica from Cape Town. During onward and return jour-\nneys, synoptic observations are taken every 3 hours and are transmitted to\nHQ every 6th hour by e-mail. This helps in day to day analysis as the\nobservational network over sea is very poor.\nAs part of ongoing weather monitoring & analysis, synoptic observa-\ntions are regularly taken from Maitri and transmitted in real time basis to\nGlobal Telecommunication System so that it can be used by all forecasting\noffices as meteorological disturbances does not obey any political bound-\naries. Besides this, in order to find out the current status of stratospheric\nOzone depletion over Antarctica in spring season and stratospheric warm-\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 33-43\n34                                          P . Radhe Syam\ning, ozone ascents are taken every week. This data also helps the interna-\ntional ozone monitoring community to determine the degree & extent of\nozone hole i.e. intensity as well as area wise. Continuous measurements of\ndiffused and direct solar radiation and fortnightly release of radiometer\nsonde helps the study of radiation balance over Indian station. Surface\nozone and atmospheric turbidity are other important measurements.\nScientific objectives:\nThe objectives during 28th ISEA are to study Antarctic meteorology\nand ozone profile i.e. its vertical distribution and seasonal variation. To\nachieve this, following procedure is adopted.\n1. Continuous recording of synoptic observations with weather pa-\nrameters such as atmospheric pressure, wind speed & direction, tempera-\nture, cloud base, horizontal visibility and significant weather phenomena.\n2. Recording of direct and diffused solar radiation by thermo-elec-\ntric pyranometer for radiation balance studies.\n3. Continuous recording of surface ozone.\n4. Atmospheric turbidity measurements over Maitri station.\n5. Monitoring of weather systems with the help of weather charts\nreceived from South African Weather Services and NOAA cloud imag-\neries to give local weather forecasts for day to day logistic operations and\nalso for helicopter operations.\nGeneral weather:\nSeveral factors contribute in making Antarctica one of the coldest\nand least hospitable places on the earth. It is a continent surrounded by an\nocean so interior areas do not benefit from the warming influence of ocean\nwater. The interior of Antarctica receives the most indirect sun rays for a\nshorter period of the year and no sunlight at all for the remaining part,\nwhich makes it cooler. Most land area (around 98%) are covered by snow\nand ice hence most of sunlight is reflected back rather than being absorbed.\nMinimum recorded temperature in Antarctica is around (-89)ºC at V ostok\non July 21st 1983. The average elevation of interior parts of Antarctica\n(specially Eastern) is around 2 km (peak 4.7 km, Wilkes Land). Due to this\nfrigid temperature, little or no moisture is held in the troposphere over\ninterior Antarctica.\n 35M eteorological programme at Maitri Antarctica....\nSo, practically there is no cloud formation and generally clear skies\nare observed at the South Pole. The extreme dryness of the air causes any\nheat that is radiated back into the atmosphere to be lost instead of being\nabsorbed by the water vapor in the atmosphere. The average snow precipi-\ntation over interior side is around 50 mm per year. The annual average\ntemperature is - 50º C. So extremely low temperature, several months of\ncomplete darkness, fierce winds and blowing snow are characteristic of\ninterior Antarctica.\nHowever, along the coast, weather disturbances are more frequent\nand cloudy skies are more common due to the maritime influences and\npolar circulation patterns. As the temperature starts to fall after summer,\nthe continent cools rapidly .This results in large pressure differences at the\nedge of the landmass, and leads to an increase in storm activity. The ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Meteorological programme at Maitri, Antarctica during 28th expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:20:45.981569Z"
+  }
+}

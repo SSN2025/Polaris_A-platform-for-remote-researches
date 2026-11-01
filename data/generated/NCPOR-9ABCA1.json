@@ -1,0 +1,83 @@
+{
+  "id": "evaluation-and-assessment-of-environmental-co-ncpor-9abca1",
+  "document_id": "NCPOR-9ABCA1",
+  "source_file": "171-180.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1215/1/171-180.pdf",
+  "title": "Evaluation and assessment of environmental components at Indian Scientific Base Maitri, Schirmacher Oasis, East Antarctica",
+  "year": 2010,
+  "expedition": "29th Indian Antarctic Expedition",
+  "category": "Environmental Science",
+  "subcategory": "Evaluation and assessment of environmental components at Indian Scientific Base Maitri, Schirmacher Oasis, East Antarctica",
+  "bibliographic": {
+    "title": "Evaluation and assessment of environmental components at Indian Scientific Base Maitri, Schirmacher Oasis, East Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "29th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2010,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 29th Indian Antarctic Expedition examines key environmental science phenomena in polar terrain around Maitri and Schirmacher Oasis. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri",
+      "Schirmacher Oasis"
+    ],
+    "research_sites": [
+      "Maitri",
+      "Schirmacher Oasis"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "Environmental Science",
+    "subcategory": "Evaluation and assessment of environmental components at Indian Scientific Base Maitri, Schirmacher Oasis, East Antarctica",
+    "tags": [
+      "environmental-science",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Environmental Science discoveries from 29th Indian Antarctic Expedition: \"Evaluation and assessment of environmental components at Indian Scientific Base Maitri, Schirmacher Oasis, East Antarctica\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Environmental Science based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:08:29.554842Z"
+  }
+}

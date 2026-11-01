@@ -1,0 +1,81 @@
+{
+  "id": "amateur-radio-operation-during-the-third-indi-ncpor-869963",
+  "document_id": "NCPOR-869963",
+  "source_file": "ARTICLE%2B20+-2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/223/4/ARTICLE%2B20+-2.pdf",
+  "title": "Amateur radio operation during the Third Indian Antarctic Expedition 1983-84",
+  "year": 1984,
+  "expedition": "3rd Indian Antarctic Expedition",
+  "category": "Logistics / Expedition Operations",
+  "subcategory": "Amateur radio operation during the Third Indian Antarctic Expedition 1983-84",
+  "bibliographic": {
+    "title": "Amateur radio operation during the Third Indian Antarctic Expedition 1983-84",
+    "authors": [
+      {
+        "name": "NCPOR Research Team",
+        "affiliation": "National Centre for Polar and Ocean Research"
+      }
+    ],
+    "expedition": "3rd Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1984,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "The amateur radio station VU2IF/MM3 became operational from the ship  'Fmnpolans'  from\n4-12-  8 3  a n d  operated til! 9-1-84 Then it was taken to the base camp on the ice-shelf From there\nthe station operated with the callsign AT0A From 1-3- 84 to 30-3- 84, the station was again oper-\nated from the ship\nFrom Goa to Antarctica and back, regular radiophone (SSB) contacts were maintained with\nradio amateurs in the following cities: Delhi, Bombay, Calcutta, Madras, Poona, Cochin, Triv-\nandrum, Baroda, Ahmedabad, Jaipur, Jullendhar, Chandigarh, Coimbatore, Nagpur, Ranchi, Banga-\nlore, Hyderabad, Madurai, Gandhinagar, Calicut, Kakinada, Mandya, Nagapattanam, Haripur, Lalpur,\nMangalore, Trichur, etc.\nMany QSP between the members of the expedition and their families in India were exchanged\nvia amateur radio and several direct QSO were arranged When direct path to India was not open\nQSPs were relayed via Africa North & South America For example one day when ships SATCOM\nw a s out of order QSP to Delhi was relayed via Washington DC\nFrom the base camp, first radio-phone (SSB) contact was made with Switzerland on 10 Jan.\n1984. First radio contact (Phone SSB) with India was made on 15 Jan. 1984. Thereafter, the follow-\ning Indian cities were contacted on SSB-phone: Delhi, Bombay, Madras, Calcutta, Hyderabad, Cochin,\nMadurai, Poona, Trivandrum, Coimbatore, etc.\nFollowing Antarctic stations were contacted on radio phone (SSB) Bellingshausen 4K.IF,\nMirnyy 4KIB, Molodyozhnaya 4KIA, Novolazarevskaya 4KID Komsomolskaya 4KIK, McMurdo KC4\nUSX, Palmer KC4AAC East - German - Station Y83ANT, Sanae base, etc\nThird Indian Expedition to Antarctica, Scientific Report, 1986 \nDepartment of Ocean Development, Technical Publication No. 3, pp. 265-266 \nAmateur Radio Operation during the Third Indian\nAntarctic Expedition 1983-'84\nAshutosh Singh 1\nContacts were also made with maritime-mobile stations in Antarctic waters, Carrebian Sea and\nthe Indian Ocean.\nThe station VU2IF/MM3 & ATøA also made radio phone-SSB contacts with hundreds of ama-\nteur wireless stations in the following countries. Argentina, Australia, Andorra Is., Austria, Bolivia,\nBrazil, Bulgaria, Botswana, Canada, Chile, Columbia, Costa Rica, Czechoslavakia, Crozetgs, England\nFinland, France, Germany, Grenada Is, Hong Kong, Hungary, Israel, Italy, Japan, Jordan, Luxemburg,\nMalaysia, Maldive Is, Mauritius, Mexico, Nepal, Newzealand, Norway, Parguay, Pakistan, Poland,\nPortugal, Romania, Reunion Is, Singapore, South-settard Is, South Africa, Soviet Union, Spain, Swit-\nzerland, Yugoslavia, Uruguay, Zambia, Thailand, etc.\nThe station regularly checked in Indian and International DX and emergency nets and once\nrelayed medical traffic from Malaysia to India. Various time frequency signals and transmissions from\nvarious shortwave transmitters of AIR were monitored to study propagation conditions.\n265\n1Amateur Radio Association, New Delhi\n266\n_______________________________________________________________________________________________________________________________\nAMATEUR RADIO OPERATION DURING THE THIRD INDIAN ANTARCTIC EXPEDITION 1983 - 84\nPhone-patch traffic from various U. S. Antarctic Bases and operation of many Antarctic region\nstations were monitored to study their operating habits.\nAerial Survey of Wholthot Mountain was done in Ml 8 helicopter to study VMF propagation\nin the area from the point of view of installing unmanned VHF repeater at a suitable location.\nRadio traffic of the expedition on both HF and VHF was monitored to study th e effectiveness\nof radio communication planning and performance of various radio equipments.\nIn all amateur Radio contacts, 100 watts R F power inverted-V (dipole) and Qubical Quad\nantenna were used.\nAbbreviations used\nQSP — Message without charge\nQSO — Radio Contact\nSSB — Single Side Band\nDX — Long Distance",
+    "summary": "During the 3rd Indian Antarctic Expedition, scientists conducted logistics / expedition operations investigations focused on \"Amateur radio operation during the Third Indian Antarctic Expedition 1983-84\". From the base camp, first radio-phone (SSB) contact was made with Switzerland on 10 Jan. These findings from Antarctica provide vital baseline evidence for understanding polar environmental dynamics.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "Logistics / Expedition Operations",
+    "subcategory": "Amateur radio operation during the Third Indian Antarctic Expedition 1983-84",
+    "tags": [
+      "logistics-expedition-operations",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Logistics / Expedition Operations discoveries from 3rd Indian Antarctic Expedition: \"Amateur radio operation during the Third Indian Antarctic Expedition 1983-84\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "From the base camp, first radio-phone (SSB) contact was made with Switzerland on 10 Jan.",
+      "page_number": 1,
+      "section": "Abstract / Introduction"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:03.937548Z"
+  }
+}

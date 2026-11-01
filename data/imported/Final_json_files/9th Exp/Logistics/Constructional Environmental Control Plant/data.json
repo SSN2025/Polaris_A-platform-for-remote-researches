@@ -1,0 +1,72 @@
+{
+  "id": "article_23_2",
+  "document_id": "NCPOR-E81B4A",
+  "source_file": "ARTICLE+23-2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/367/3/ARTICLE+23-2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+23-2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antatctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 299- 311 \nSome Constructional, Environmental Control and Plant Growth\nAspects of Green House at Indian Antarctic Station \"Maitri\"\nR.C. PATHAK AND R S GANGADHARA\nR & DE(E), Defence Research and Development Organisation, Pune\nAbstract\nThe salient features of constructional parameters, the environmental control system and plant\ngrowth statistics in the Green House in Maitri Station, Antarctica are described.\nIntroduction\nDuring the IX Expedition a Green House (GH) was added to the main building of Maitri\non the north-eastern side, for the purpose ot gr owing ornamental plants and some green\nvegetables on experimental basis. The size of the Green House is 10.6 m x 2.66 m and siting\nhas been done in such a way so as to get maximum sunlight through glass house effect.\nPrinciple of modular construction has been adopted for selection ot the size and structural\ncomponents, keeping in mind the futuristic scope ot expansion ot the station. The super\nstructure consists of prefabricated components/panels supported upon telescopic columns\nand grillage beams of steel and timber. Frontal views of Maitri Station with Green House\nduring summer and polar nights are depicted in Fig. 1 and Fig. 2.\nAn environmental control system, to simulate conditions suitable tor plant growth in the\nsevere climatic conditions of Antarctica, has been incorporated in the Green House T e r m -\nperature, humidity, oxidation, carbon dioxide, illumination, air change and pH value have\nbeen kept in mind while designing the systems.\nConstruction Details\nA. Siting \nSiting ot GH posed initial problems because the building was to be connected to the main\nstructure for ease of functional aspects. As on the western side of the main building, the\nKlargester and disposal system already existed, the GH could be suitably sited towards A'\nblock, in the eastern side of the main station. The orientation and siting was done in such a \nway, so as to get more solar insolation and also to keep the shelter integrated with the main\nbuilding keeping its maintenance in mind. The preliminary marking done alter preparing the\nsite for the f oundation work has been shown in Fig. 3.\nThe geometry and the shape of the GH has been designed in such a way so that it would\nreceive maximum sunlight during summer months. The corners are chamfered and roof is\nslopy to cater for high winds and the least snow accumulation on the roof (Fig. 2).\nFig. 2. Green House and Maitri station during polar nights. \nFig. I. Frontal view of Maitri station with Green House (GH) during summer. The four newly \nerected summer huts and a bath module are seen in the foreground. \nR.C. Pathak and R.S. Gangadhara 300\nB. Foundation \nConstructional, Environmental Control and Plant... \n301\nThe terrain of the area around Maitri Station consists of hard metamorphic rocks with\nboulder strewn all over. The pits for foundation had, therefore, to be dug manually. No\nblasting could be undertaken in the proximity of existing  building for reasons of the safety\nof the Station.\nThe foundation system consisted of telescopic columns and grillage beams fitted with\ntimber planks on it. After digging the ground, 14 numbers of telescopic columns were\nerected and top  surface was maintained at same level, as that of the existing main block, by\nlevelling. The  levelling was manually checked by water level technique. The general layout\nof the columns for the GH is shown in Fig. 4. Centre line of the columns and its inter\ndistances were checked hor izontally and diagonally. The telescopic columns can negotiate,\na relief difference upto the undulation of one metr e to give a level top surface to support\ngrillage beam structure. Her ein, columns were especially grouted in the pits with the help of\nbolts and special cement concrete, taking into account the cold region engineering aspects\n(Eranti et al., 1986, Pathak, (1990) Manual R & DE Engrs, 1989). The cement concrete was\nmixed with appropriate quantity of calcium chloride to provide adequate  compressive\nstrength to the foundation.\nThe strength of the f oundation was further improved upon by the controlled curing.\nBeams were placed on the columns and after ascertaining levelling and  their desired\naccuracy, these were suitably welded. Sole plates were placed on the beams and fixed after\nchecking. Level of the floor panel of the GH was brought to the same level as that of the\nfloor level of the main block. The beams an d composite timber floor panels serve the\npurpose of s topping heat transfer from ground and structural component to the GH and help\nfixing the superstructure on to the foundation system.\nC. Superstructure \nThe superstructure of GH has dimensions of 10.6 m x 2.66 m while the height is inclined\nfrom 3.9 m to 2.9 m. The superstructure consists of prefabr icated panels. The panels are\nmade up of timber framework and 12 mm thick marine plywoo",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "8]Logistics",
+    "subcategory": "Some Constructional, Environmental Control and Plant Growth Aspects of Green House at Indian Antarctic Station _Maitri_",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:32.120989Z"
+  }
+}

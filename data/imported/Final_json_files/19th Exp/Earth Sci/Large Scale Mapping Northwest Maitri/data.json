@@ -1,0 +1,72 @@
+{
+  "id": "article_8_1",
+  "document_id": "NCPOR-D8EE97",
+  "source_file": "ARTICLE+8_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/571/3/ARTICLE+8_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 83-87 \nLarge Scale Mapping\nNorthwest of Maitri Station, Antarctica\nNirmalcndu Kumar and Subhash Kumar\nSurvey of India, Dehradun\nAbstract\nAfter providing the Geodetic and Geophysical control in the Schirmucher Oasis,\nSurvey of India has started large scale mapping in the Antarctica. The paper describes\nhow the precise ground control network was formed which is a prerequisite for the desired\nlarge scale surveys, and the various steps involved in the detail and contour (i.e. original\nplane tabling) survey on 1:1,000 scale with 1m contour interval for an area of 400m x \n500m located NW of Maitri. This mapping was specially done for extension of our\npermanent station in the Antarctica. Digital map of this area was made successfully after\nthis fieldwork and given to concerned authorities.\nIntroduction\nThe developments clue to the scientific activities carried out during\nthe first nine expeditions necessitated the provision of Geographical control\nand mapping in the surrounding of Indian station Maitri. Survey of India,\nbeing the national survey and mapping organization was naturally identified\nby the Department of Ocean Development for carrying out mapping task\nand is thus associated with the Indian Antarctic Program since the 10\nth\nexpedition. During the previous expeditions, SOI had provided the Geodetic\nand Geophysical control in the Schirmucher Oasis by both astronomical\nand state-of-the-art GPS observations. After that SOI had carried out\noriginal plane table Surveys on 1:50,000 scale with 5m contour interval\nand prepared detailed contoured map of Indian Antarctic station and its\nsurroundings. Indian scientific teams needed still larger scale maps for\ntheir various studies, hence during this expedition large scale original plane\ntable survey on 1:1,000 scale with l m contour interval for an area of 400m\nx 500m was done and a digital map was prepared.\nObjectives\n1, To verify and revise the map of Maitri and surrounding area on\n1:5,000 scale and 5m C.I. prepared during earlier expedition as per\nstandard departmental practices.\n84\nNirmalendu Kumar and Subhash Kumar \n2. To provide control (Planimetric and height) in the proposed area  o f\ndetail surveying by densifying the network of existing control points\nby EDM Traverse.\n3. To carry out large scale detail and contour survey on 1:1,000 scale\nwith l m contour interval for an area of 500m x 400m NW of Maitri\nand west of the area surveyed during the 18\nth\n expedition.\nMethodology\nThe methodology consists of selecting suitable existing control points\nto run the EDM traverse. After verifying them, traverse stations were made\nand offsets were given at strategic locations to cover the whole area. Then\ncomputations and adjustments of the traverse were done for g e t t i n g t h e\ncoordinates of the control points, which were plotted, on the P.T. section,\nand detail survey was carried out as per standard departmental p r a c t i c e s .\nThe P.T. section thus prepared was then scanned, screen digitized and edited\nin MicroStation environment to get digital map of the area. T h e brief\ndetails of the different steps involved are given below.\nVerification\nThe ground control points (i.e. Maitri - A and Track - S) already\nprovided in previous expeditions have been verified, found intact a n d these\npoints were used for the extension of ground control points in t h e area,\nafter checking their stability.\nReconnaissance\nA thorough reconnaissance was carried out for providing ground\ncontrol points uniformly distributed in the area of work in such a w a y that\ndetail survey and contour chasing can be done with required accuracy.\nCairns were made for correct identification of control points.\nTraversing\nA main traverse line was run between known points, established during\nthe previous expeditions by SOI by using Wild - T2 Theodalite with EDM\ninstrument DI - 3000S. Six Traverse stations and thirty-two subsidiary\nground control points (Offset Points) were provided to density the ground\ncontrol covering the entire working area.\nLarge Scale Mapping Northwest of Maitri Station, Antarctica  85 \nKnown Co-ordinate used for Traverse:\nSTATIONS EASTING NORTHING ' HEIGHTS\nMAITRI-S 10,00,000.00 5,00,000.00 117M\nTRACK-S 10,00,131.92 4,99,530.64 126.1M\nThe normal departmental procedures were adopted to carryout the\nwork and maintain the accuracy.\nComputation\nThe computed  mutual grid bearing at Maitri Station of Track Station\nhas been taken as initial bearing and  computed mutual grid bearing at\nTrack-S of Maitri Station has been  taken as closing bearing, Thus the\nMaitri Station and Track-S were taken as base for  the computation of\nco-ordinates of Traverse Stations. Co-ordinates of offset points were\ncomputed using angle and distance measurement during the course of\ntraversing. Heights of the stations have been computed in datum of Maitri-\nS only.\nDetail and Co",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "2]Earth Sciences",
+    "subcategory": "Large Scale Mapping Northwest of Maitri Station, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:01.188312Z"
+  }
+}

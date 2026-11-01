@@ -1,0 +1,72 @@
+{
+  "id": "article_2b4",
+  "document_id": "NCPOR-F1F3BC",
+  "source_file": "ARTICLE%2B4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/339/3/ARTICLE%2B4.pdf",
+  "bibliographic": {
+    "title": "ARTICLE%2B4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 35-56 \nEstablishment of A New Meteorological Observatory at\nMaitri and Study of Meteorological Parameters, Ozone\nDepletion in Antarctic Spring and Solar Radiation during\nNinth Antarctic Expedition\nSARABJIT SINGH & E. KULANDAIVELU\nIndia Meteorological Department, New Delhi\nIntroduction\nThe Southern polar continen t — Antarctica, is endowed with unique features such as\ncold temperatures, strong winds, blizzards and the vast glaciers on the earth. Meteorology\nis considered paramount because it can foresay the weather conditions in any particular\nregion, The synoptic systems around Antarctica are typically inhospitable and dreadful,\nunlike elsewhere. Prediction of weather in this  region is complicated due to unpredicted\nmovements of upper celestial phenomenal changes. In order to get a better prediction, it is\nnecessary to correlate the data obtained by various meteorological observatories situated in\nthe continent, besides satellite cloud imagery. Hitherto i.e. till 1989, the meteorological data\nwere monitored from Dakshin Gangotri which is located on ice-shelf, and the same were quite\nvariable as compared to data from a s tation located on land. India established its second\npermanent scientific research station Maitri (Lat 70° 45' 39\"S, Long 11° 44' 48\"E, Altitude\n117M) in the Schirmacher ranges in 1988-89. India Meteorological Department established\nits full fledged  meteorological observatory at Maitri in January 1990 and discontinued\nmeteorological obs ervations from Dakshin Gangotri. The  various data collected at Maitri\n(WMO Station Index  89514) are forwarded to IMD HQ, New Delhi which in turn sends these\nto other world meteorological centres to help forecasting weather at any time in this region.\nOrography of  Maitri\nAll meteorological parameters are variable and also depend upon orographical features\nof the place.  Maitri is situated in the valley of Schirmacher ranges extending upto 7 Km in\nlength and 0.5 to 2 Km in width. Towards its south, high glaciers occupy vast  areas\nextending upto South Pole and towards the north, the ice shelf extends upto about 100 Km.\nThere are also numerous lakes between rocky hills.\nProgramme\n(i) Establishing a new Meteorological Observatory at Maitri and monitoring weather\nconditions by keeping constant watch.\n36 Sarabjit Singh & E. Kulandaivelu \n(ii) Recording of 3 hourly synoptic observations and disseminating the main 6 hourly\nsynoptic data to IMD, New Delhi for its global exchange programme.\n(iii) To investigate ozone depletion in the Antarctic spring season over this region.\n(iv) To monitor the radiation flux in the upper atmosphere.\n(v) To monitor surface ozone.\n(vi) To do other activities as were done by the previous expeditions.\nInstallation of Instruments\nA. (i) Stevenson Screen and two wind masts were installed during January 1990.\n(ii) Due to spac e constraints in the main station, the installation of self recording\ninstruments, Radiosonde Ground Equipment, APT Recorder, Ozone Gener-\nator etc. could be commissioned in mid February 1990 only.\n(iii) Besides dry bulb thermometer, the maximum and the minimum thermometers\nwere also positioned in the Stevenson Screen.\n(iv) Electrical thermometer (YSI Thermister) was installed in a mini screen on\nDCP wind mast at the same height of Stevenson Screen for continuous\nrecording of surface air temperature.\n(v) Cup generator anemometer and wind vane were installed on the top of the\nbuilding structure.\n(vi) The omni-directional antenna and helical antenna were installed at the top\nstructure of the building to receive cloud imagery and signals from upper air\nsoundings, respectively.\n(vii) Pyranometer was also positioned on top of the building.\nB. The following instruments have been installed in the lab : \n(i) Radio Sonde Ground Equipment for receiving signals from upper-air sound-\nings (Ozone Sonde, Radio Sonde and Radio Meter Sonde).\n(ii) Automatic Picture Transmission (APT) receiver-cum-recorder for receiving\nthe visible and infra-red cloud pictures from Polar Orbitting (NOAA-10 and\nNOAA-11) Satellites.\n(iii) Temperature recorder for continuous recording of surface air temperature.\n(iv) Wind direction and speed recorders for'continuous recording of wind data.\n(v) Recorder for continuous monitoring of surface ozone.\n(vi) Protek recorder for continuous recording of Global Solar Radiation.\n(vii) Microbarograph for self recording of atmospheric pressure.\n(viii) Sunphotometer to measure atmospheric turbidity.\nC. Data Collection Platform (DCP)\nThe DCP Unit was installed at Maitri in mid February 1990. The helical antenna was\ninstalled on top of the eastern end of the building. Since Maitri is surrounded by hills, the\ndirect line of sight with the satellite was available from this corner only. The main unit\nEstablishment of a New Meteorological Observatory.... 37\nconsisting of Signal Conditioner and DC",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 22
+  },
+  "taxonomy": {
+    "category": "3]Atmospheric Sciences",
+    "subcategory": "Establishment of A New Meteorological Observatory at Maitri and Study of Meteorological Parameters,Ozone Depletion in Antarctic Spring and Solar Radiation during Ninth Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:11.481505Z"
+  }
+}

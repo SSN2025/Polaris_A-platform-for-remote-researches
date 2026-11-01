@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_20_2c_pp_109_116",
+  "document_id": "NCPOR-96FD93",
+  "source_file": "Technical+Publication+No.+20%2C+pp+109-116.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/877/1/Technical+Publication+No.+20%2C+pp+109-116.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+20%2C+pp+109-116",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "22] Scientific Report of Twenty Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Second Indian Expedition to Antarctica, Scientific Report, 2008 \nMinistry of Earth Sciences, Technical Publication No. 20, pp 109-116 \nOzone Hole during 2002 and 2003: A Comparison \nS. L. Jain, B. C. Arya, Sachin D. Ghude, Ashok Kumar and V. B. Gupta* \nRadio and Atmospheric Sciences Division \nNational Physical Laboratory, New Delhi-110012 (India) \n*School of Future Studies and Planning, Devi Ahilya University, Indore, \nM.P. (India) \nABSTRACT \nTotal column ozone has been measured using Microtop Sun photometer at Maitri (70° \n45'S, 11° 44'E), Antarctica, during 21s'and 22nd Indian Scientific Expedition to Antarctica. A \ncomparison of TOC at Maitri over Schirmacher region of east Antarctica has been made to \nunderstand the behaviour of ozone hole in relation with stratospheric temperature. The \nobservation showed relationship between the stratospheric temperature and TOC. The \nminimum values of TOC of about 185 DU and 126 DU were observed in the year 2002 and \n2003 respectively during ozone hole period. The ozone hole values (less than 220 DU) \nduring ozone hole period at Maitri was found out to be 20.7 % and 62.7 % in the year 2002 \nand 2003 respectively. Temporary sudden rise in TOC before the recovery period were also \nobserved in both the years. In present communication the results obtained are discussed in \ndetail. \nKey Words: Ozone Hole, Antarctica, Polar Vortex, Planetary Waves. \nINTRODUCTION \nOzone is one of the most important greenhouse gas in the atmosphere \nand in spite of its low concentration, a few ppmv in mixing ratio, it plays an \nimportant role not only in the chemistry of this region but also it affects \ndynamics and biological activity near the surface. The amount of ozone \nover any particular place depends not only on photochemical balance, but \nalso on the stratospheric climate, the winds that transport the ozone \n(Hartmann, 1994). Ozone is also one of the most important constituents in \nthe atmosphere and is the only greenhouse gas that strongly absorbs solar \nradiation at the ultraviolet end of the spectrum. As a green house gas, it \ntraps the long wave radiation in 9.6 |im band and thus affects the energy \nbudget of the earth - atmosphere system. Stratospheric ozone protects the \nEarth's surface from harmful solar ultraviolet radiation (especially UV-B) \n110 S.L. Jain et al. \nand plays an important role in controlling the temperature structure of the \nstratosphere by absorbing incoming solar ultraviolet radiation and outgoing \nterrestrial long-wave radiation. \nMost of the ozone is produced over the tropics and transported to \nhigher latitude by the general circulation of the stratosphere. The Brewer-\nDobson circulation transports ozone out of its tropical source region into the \npolar region. Based on both satellite and ground base measurement, Harris \n(1997) reported that at mid latitudes of northern and southern hemisphere \nthe total ozone column is decreasing. WMO (1995) reported 4.6 % per \ndecade decrease in the total ozone column during 1979 to 1994. \nThe area covered by extremely low values less than about 220 DU of \ncolumn ozone is generally defined as ozone hole area. The factor involved in \nthe formation of ozone hole during Antarctic spring is catalytic depletion of \nozone due to heterogeneous chemical reaction (Cadle et al., 1975) on the \nsurface of the ice particle (Polar stratospheric clouds), which transforms \ncomparatively inert C10x, HC1 and NOx (Farman et al, 1985) into active \nforms of chlorine compound. However, it has now established that the \ndevelopment of the Antarctic ozone hole is strongly influenced by \nphotochemical balance (Crutzen et al., 1986), the winds that transport the \nozone and meteorological conditions in the stratosphere (Hartmann 1994). \nIn view of the above a hand held microprocessor based sun photometer, \ni*.e., MICROTOP-H, has been used to measure total ozone at Maitri, Indian \nAntarctica research station during the years 2002 and 2003. The observations \nwere taken throughout the expedition on hourly basis during clear sunny \ndays. In the present communication, the experimental setup and results \nobtained are discussed in detail. \nEXPERIMENTAL SETUP \nThe MICROTOP-II is a five-channel hand held microprocessor based \nsun photometer with a full field of view of 2.5°. The instrument has five \noptical collimators aligned to aim in the same direction. A narrow-band \ninterference filter and a photodiode suitable for the particular wavelength \nrange are fitted with every channel. All the channels face directly the solar \ndisc simultaneously when the image of the sun is centered at the cross hairs \nof the sun target. When the radiation captured by the collimators falls onto \nthe photodiodes, it produces an electrical current proportional to the received \nradiant power, which is amplified and converted into digital form in a high \nresolution A/D converter. Signals are processed in a series of 20 conversions \nper second. Out of the five channels at ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Science",
+    "subcategory": "Ozone Hole during 2002 and 2003_ A comparison",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:19.066895Z"
+  }
+}

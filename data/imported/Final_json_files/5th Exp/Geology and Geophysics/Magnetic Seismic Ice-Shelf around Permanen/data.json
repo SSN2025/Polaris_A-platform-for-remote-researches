@@ -1,0 +1,72 @@
+{
+  "id": "article7",
+  "document_id": "NCPOR-7BBCAB",
+  "source_file": "article7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/266/3/article7.pdf",
+  "bibliographic": {
+    "title": "article7",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 198S \nDepartment of Ocean Development, Technical Publication No.  5,  pp. 151-155 \nMagnetic and Seismic Investigations on the Ice-Shelf around the\nIndian Permanent Station in  Antarctica\nSHIKHAR CH.  JAIN, RATAN DHAR  AND K.N.S. REDDY\nNational Geophysical Research Institute,\nHyderabad-500007\nAbstract\nResults of magnetic and seismic investigations around the Indian Base Station in\nAntarctica have established the usefulness of geophysical tools in  delineating sub-shelf\nstructures. Of the explosives tried so far for  selecting a suitable energy s ource for seismic\nstudies, Lo w Temperature Plastic Explosives (LTPE) developed by ERDL, Pashan, has\nbeen found to be the best under sub-zero climatic conditions of Antarctica.\nIntroduction\nMagnetic investigations initiated during Second Indian Antarctic Expedition\nwere continued thereafter, including during Fifth Indian Antarctic Expedition.\nDuring this Expedition, another 26 km long magnetic traverse, 5 km east of \nIndian Permanent Station was completed.\nSeismic investigations initiated  during Fourth Indian Antarctic Expedition\nwere continued during the Fifth Expedition with following objectives:\ni) Testing suitability of Plastic Explosives  (PEK) manufactured at Kirkee\nand Low Temperature Plastic Explosives developed by ERDL Pashan\nunder Antarctic conditions, as gelatine based SGL-80 explosives, commonly\nused in seismic surveys in India, turned brittle due  to non-availability\nof moisture in atmosphere in sub-zero  conditions and thus were not\nfound safe to use in Antarctic conditions; and\nii) To find out efficacy of a more portabl e Geometrics Nimbus 12 channel\nseismograph in delineation  of sub-shelf structure.\nThe present paper describes the results of these  investigations.\nGeophysical Layout and Data Collection\nFor continuing magnetic investigation, another traverse, Traverse 9, 5 km\neast of Indian Permanent Station, Dakshin Gangotri, was laid in north-south\ndirection, starting from the coast in the northern extreme to the deep un-negotiable\n152 Shikhar Ch. Jain et  al.\nwater channels encountered 26 km south of the coast. Field magnetic measurements\nwere carried out with geometrics G816/826 Proton Precession Magnetometer on\nmagnetically quiet day.  Diurnal magnetic measurements were carried out with\nNGRI made Proton Precession Magnetometer coupled with TOA recorder. Fig. 2 \nshows sample diurnal magnetic data, compared to diurnal magnetic data on the\nshelf on quiet days.\nReverse seismic shootings were carried out at four locations S3, S4 and S5\nas shown in Fig. 1, and one-way refraction shooting was carried out at location\nS2. 14.7 Hz natural frequency geophones  were placed 20 m apart with an offset\nof 50 m. Shot holes upto depth of 2 m were drilled with the help of hand\nauger. 25 sticks of PEK or LTPE with T-33 electrical detonators were used to\nshoot refraction profiles,\nFig. 1. Contour map of magnetic inten-\nsity in the ice shelf area around \nDakshin Gangotri station \nFig. 2, Diurnal total magnetic field \nvariation\nDiscussion of Results\nMagnetic: Upper-most curve in Fig. 3 shows observed magnetic profile on\nTraverse 9 after applying base and diurnal correction. It was observed that in\nN-S magnetic profile the geomagnetic field increases from north to south and\nhence a regional gradient of 8 nT/km was applied to the corrected magnetic\nfield. The second curve in Fig. 3 exhibits the anomaly pattern after this\ncorrection. To get idea of continuous depth profile for the basement, pseudo-gravity\nresponse was computed using the Hilbert Transform technique (Shuey, 1972).\nThe third curve in Fig, 3 shows the computed pseudo-gravity anomalies of the\nprofile. The basement topography along the traverse was then  computed from\nMagnetic and Seismic Investigations... 153\nthe pseudo-gravity  anomaly using Sazhina and Grushinsky (1971) method as\ndescribed by Verma et al.  (1987).\nAs traverse  9  is eastward continuation of earlier measured traverses during\nthe Second and Fourth expeditions, assumption as  by Verma  et al.  (1987) were\nmade and a continuous depth section corresponding to the pseudo-gravity anomaly\nwas computed, shown as fourth curve in Fig. 3. The basement topography is\nvery similar to and the depths computed of the same order as reported by\nVerma et al. (1987). It is observed that the shallower depth of 406 m below\nsea level of the basement is found about 20.5 km south of coast line on the traverse.\nFig. 3. Magnetic profiles, pseudo gravity \nanomaly and basement topography \nprofile along traverse.9 \nSeismic: The analysis of refraction profiles showed increasing velocity upto\n4150 m per second within 50 m from the surface, thus showing heterogeneous\nnature of the shelf. The high velocity layer at shallow depths, within 50 m from\nthe surface means that even at such shallow depth ice is very compact. The\nanalysis also shows that stratification in ice is not horizontal but dipping towards\nnorth, which i",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "2]Geology and Geophysics",
+    "subcategory": "Magnetic and Seismic Investigations on the Ice-Shelf around the Indian Permanent Station in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:07.652812Z"
+  }
+}

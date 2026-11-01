@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_111_116",
+  "document_id": "NCPOR-0186A3",
+  "source_file": "Technical+Publication+No.+19%2C+pp+111-116.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/839/1/Technical+Publication+No.+19%2C+pp+111-116.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+111-116",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 111-116 \nTotal Column Water Vapour Concentration \nMeasurement During Sea Voyage and at \nMaitri During 2002 \nSachin D. Ghude, S.L. Jain and B.C. Arya \nRadio and Atmospheric Sciences Division, National Physical Laboratory \nNew Delhi-110012 (India) \nAbstract \nMeasurement of total column water vapour has been made using Microtop sun-\nphotometer over at Maitri (70.44° S, 11.45° E), Antarctica The observation taken during \n2002 showed that the monthly average concentration varied from 0.67 cm to 0.18 cm. \nWater vapour concentration found varying significantly with season and time of the day. \nThe water vapor has also been measured during sixteenth and twenty-first Indian Antarctic \nScientific Expedition on the way from Goa, India (15.24° N, 73.42° E) to Maitri, Antarctica \n(70.44° S, 11.45° E) on the ship Polar Bird and Magdalena Oldendroff respectively. It \nwas found that total column water vapor decreased as the ship moved towards the higher \nlatitudes. Water vapor values were also found to be in correlation with corresponding \ntemperature. \nKeywords: water vapour, green house gases, Antarctica, climate and global change, \nhydrological cycle. \nIntroduction \nWater vapour is very important mechanism for heat energy transfer \nfrom earth's surface to its atmosphere. It strongly contributes to greenhouse \neffect and considered as a positive feedback. Water vapour feedback acting \nalone approximately doubles the warming from that it would be for fixed \nwater vapour1. Atmospheric water vapour varies considerably with the \ntemperature. The amount of water vapor varies widely through out the \natmosphere and the average content fluctuates about a mean, determined \nby the other greenhouse gasses, and the nature of the earth land surface. \nIn the upper troposphere and lower stratosphere the radiative2 and \nchemical3 effects of water vapor are large. Water vapor is the primary \nsource of the hydroxyl radical and photochemical production of OH is \nlargely determined by water vapor in the atmosphere4. Water Vapor under \nstratospheric conditions affects the heterogeneous chemistry and plays \n112 Sachin D. Ghude, S.L. Jain and B.C. Arya \nsignificant role in the Antarctic ozone depletion by providing reaction site \nas polar stratospheric clouds in the form of H20 ice5. \nThe global database for water vapor is insufficient and therefore \nregular measurement is of immense importance for understanding the \nhydrological cycle in depth to carry out global change studies6. In view \nof the above, a Hand-held microprocessor based sun-photometer, \nMicrotop-II7, has been used to measure total column water vapour at \nMaitri (Antarctica). The technical details and theoretical consideration \nhave already been discussed in the DOD technical Report of 16th \nexpedition. In the present communications the results obtained will be \ndiscussed in detail. \nExperimental Setup: MICROTOP-II \nIt is a five-channel hand held microprocessor based sun photometer \nwith a full field of view of 2.5°. The instrument has five optical collimators \naligned to aim in the same direction. A narrow-band interference filter and \na photodiode suitable for the particular wavelength range are fitted with \nevery channel. All the channels face directly the solar disc simultaneously \nwhen the image of the sun is centered at the cross hairs of the sun target. \nWhen the radiation captured by the collimators falls onto the photodiodes, \nit produces an electrical current proportional to the received radiant power, \nwhich is amplified and converted into digital form in a high resolution A/ \nD converter. Signals are processed in a series of 20 conversions per second. \nOut of the five channels at 300, 305, 312, 940 and 1020 nm, the first three \nfilter channels are used to derive atmospheric total ozone column and other \ntwo for water vapor8. \nResults and Discussion \nLatitudinal distribution of water vapor carried out during the voyage \nfrom Delhi (India) to Maitri, Antarctica is depicted in Fig. 1. The gap in \nthe graph is due to non-availability of the data during Airplane Journey \nfrom Goa, India to Cape Town, South Africa in the year 2002. The \nlatitudinal variation of total column water vapor observed during both the \nexpedition showed that total column water vapor decreased as the ship \nmoved towards the higher latitudes. However, total column water vapor \nwas observed higher in the year 2002 as compared to 1997 during sea \nvoyage from Cape Town to Maitri, Antarctica. The total column water over \nDelhi was 1.18 cm whereas over Goa it was around 3.30 cm and at Maitri \nit was found to be around 0.5 cm in 1997 and 0.9 cm in 2002. Little rise \nTotal Column Water Vapour Concentration Measurement .... 113 \nin water vapour concentration has also been observed in both the year \nwhen ship was cursing through the 40 degrees towards south. The water \nvapor was",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Total Column Water Vapour concentration measurement during sea voyage and at Maitri during 2002",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:36.642782Z"
+  }
+}

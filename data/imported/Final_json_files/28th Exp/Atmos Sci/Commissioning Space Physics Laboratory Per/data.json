@@ -1,0 +1,72 @@
+{
+  "id": "chapter_3",
+  "document_id": "NCPOR-44B21B",
+  "source_file": "Chapter+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1117/1/Chapter+3.pdf",
+  "bibliographic": {
+    "title": "Chapter+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Commissioning of Space Physics Laboratory at Indian\nPermanent Research Base \"Maitri\", Antarctica to\nstudy the impact of space weather events on high\nlatitude ionospheric region\nRupesh M. Das\nCSIR-National Physical Laboratory, Dr. K. S. Krishnan Marg,\nNew Delhi-110012, India-\nrupesh@nplindia.org\nABSTRACT\nIonosphere plays an important role for long distance HF communications as well as\naffects the satellite communication and navigation services especially in high and equatorial\nlatitudes.  Inview of this CSIR-NPL planned to establish a state of art Space Physics\nLaboratory at Indian Permanent Research Base \"Maitri\" to study the space weather impact\nover high latitude ionospheric region and its coupling with the low latitude region. In\nconnection to this a Canadian make Advanced Digital Ionosonde (CADI) system along\nwith a Novatel make Global Ionospheric Scintillation and Total Electron Content Monitoring\n(GISTM) system has been installed during IPY period. The said systems are capable of\nmonitoring different ionospheric parameters like bottom side vertical electron density\nprofile, peak electron density and heights of different ionospheric layers, Ionospheric Total\nElectron Content (ITEC), L-Band Phase and Amplitude Scintillation etc. on real time\nbasis. This knowledge is important to study the morphology and dynamics of high latitude\nionosphere.\nINTRODUCTION\nThe near Earth space environment also known as space weather con-\ndition has a great impact on earth's atmosphere specially on upper atmo-\nspheric heights known to be as ionosphere. The ionosphere is the ionized\npart of the earth's upper atmosphere which comprises free electrons and\npositive ions, generally equal in numbers. This causes the media to be as\nelectrically neutral. However, the spatial distribution of ionization is not\nhomogeneous and the ion density varies with the geographic latitudes. The\nspatial distribution of ion density depends upon the various background\nparameters like solar zenith angle, regional electro-dynamic properties,\nneutral wind pattern etc. In view of this, the terrestrial ionosphere may be\ndivided mainly into three region as low, mid and high latitude regions.\nAmong, all three regions, the low and high latitude ionospheric regions are\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 21-31\n22  Rupesh M. Das\nvery sensitive and very unstable in nature. The low latitude ionospheric\nzone is strongly influenced by electro-dynamic process arising over the\nequatorial region due to nearly horizontal geomagnetic field line perpen-\ndicular to east-ward electric field. On the other hand, the high latitude\nionospheric zone is directly affected by solar wind due to nearly vertical\ngeomagnetic field lines. They connect this region with the outer magneto-\nsphere which is directly driven by solar wind. Highly variable solar wind,\nwidely affects the high latitude ionospheric region by producing additional\nionization. In general, the polar latitudes are most sensitive and signifi-\ncantly affected due to slight change in space weather conditions. Nearly\nopen or vertical geomagnetic field lines over the polar region allow the\nsolar wind along with the associated high energy particles to penetrate up\nto lower altitudes. The charged particle precipitation produces aurora with\nsimultaneous increase in the ionospheric conductivities. Such effects are\nnot homogenous throughout the polar region hence the polar region is fur-\nther divided into three parts i.e. sub-auroral, auroral and polar cap region.\nThe auroral zone is a region of continuous and intense precipitation of\nenergetic particles emanating from the Earth's plasma sheet (Lui et al.,\n1977; Earther et al., 1976). However, in the sub-auroral region, the ener-\ngetic particles can be stored and accelerated to very high energies (10KeV\nto several MeV) before eventual precipitation into the middle atmosphere\n(in the altitude range between 50-100 km). On the other hand, in the polar\ncaps, the geomagnetic field lines are generally thought to be open and\nconnected to the interplanetary medium. This permits direct access for\nenergetic particles of solar or galactic origin. Though the three regions\nhave different behaviour and responses to the changing space weather con-\ndition but combination of the three decides the electro-dynamic properties\nof polar region. The electric field mapping from the magnetosphere into\nthe ionosphere along with magnetic field lines establishes the dawn-to-\ndusk field in the polar cap; the field-aligned currents connect the currents\nflowing in the magnetosphere and ionosphere, forming a three dimensional\ncurrent system. Hence, the upper atmosphere exhibits various stormy fea-\ntures, affecting mainly the auroral regions. However, the excessive amount\nof energy deposition over the high latitude region causes the phenomenon\nknown to be as Joule's heating phenomenon. Such phenomenon is further\nresponsible to modulate ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Commissioning of Space Physics Laboratory at Indian Permanent Research Base _Maitri_, Antarctica to study the impact of space weather events on high latitude ionospheric region",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:20:52.297191Z"
+  }
+}

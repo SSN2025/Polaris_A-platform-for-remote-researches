@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_14a",
+  "document_id": "NCPOR-621A1C",
+  "source_file": "RRChapter-14A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/955/1/RRChapter-14A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-14A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "227 GPS Permanent Station and Seismological Observatory to......\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 227-238\nContributions of GPS Permanent Station and\nSeismological Observatory to Geophysical Studies\nat Maitri, Antarctica During\nXXIV-Indian Antarctic Expedition\nA. Nageswara Rao, S.V .R. Ramachandra Rao, G.B. Navinchander,\nA. Akilan, G.S. Srinivas, E.C. Malaimani and N. Ravikumar\nNational Geophysical Research Institute, Uppal Road, Hyderabad-500 007, India\nABSTRACT\nOn going research activities at Antarctica were successfully carried out during\nXXIV IAE for the long-term scientific objectives of NGRI. The data from GPS\nstation continues to contribute to Scientific Committee on Antarctic Research\n(SCAR) and International Earth Rotation Service (IERS). The seismological\nobservatory continues to contribute to NEIC (USGS), ISC, (UK) and plays a pivotal\nrole in the Global Seismographic Network in Antarctica. Global positioning system\n(GPS) measurements at Maitri, Indian Antarctic station, have been carried out for\nthe period 1997 to date. The International GPS Service for Geodynamics (IGS)\nstations, in different plates, such as Casey, Davis, Kerguelen, Seychelles, Coco,\nHartebeesthoek, Yaragadee, and Tidbinbilla were chosen for global network\nsolution. The GPS data from 1997 to 2005 of all these IGS stations in and around\nAntarctica along with Maitri were used to estimate the time series, baseline lengths\nand their changes and velocity vectors of individual sites. The results have enabled\nto obtain a deeper insight into the driving mechanism and the causative factors for\nIndian plate kinematics. During this expedition i.e., from January 2005 to February\n2006, continuous seismic data were also acquired for processing and analysis. The\nfinal analysis of this data has been completed using SEISAN software and reported\nto ISC, United Kingdom as per their time schedule up to December 2005. The\nnumber of earthquakes recorded as global events and near-events in and around\nAntarctica during the period of expedition is discussed in this report.\nINTRODUCTION\nFocused study on the Indian Ocean and South Sandwich Islands\nRegion becomes very important in the present scenario of interplate and\nintraplate earthquakes that do occur frequently in India and nearby regions,\n228 A. Nageswara Rao et al.\nforcing us to re-evaluate the rigidity of the Indian plate as well as Indian\nOcean Margin. GPS-Geodesy and Seismic Studies are extended to envelop\nthe large Indian Ocean lithosphere. In order to monitor the seismic activity\nin and around Antarctica and Indian Ocean, a reconnaissance survey for\nsite selection and feasibility of operation of seismological observatory in\nAntarctica was initiated during 16\nth Indian Antarctic Expedition and a Digital\nShort Period System was installed during 17th expedition. The station was\nfully commissioned on 26 January 1998 with analog and short period digital\nsystems. This observatory was further upgraded with the installation of\nBroadband seismic system during the 20\nth IAE, comprising a Broadband\nSensor CMG-3ESP (GURALP make with 50 Hz to 100 sec flat response)\nand Reftek Data Acquisition System.\nThe permanent seismic station at Maitri has gone global by figuring\nin AnSWeR. (Antarctic Seismic Web Resource) as shown in Figure 4, with\nthe station code MAIT. After final analysis of seismic broad band digital\ndata, the complete phase data had been reported to ISC, to be included in\nthe global data center for global access by any other agency and can be\naccessed at: \nhttp://www.isc.ac.uk\nThe Seismic sensors (S-13 for short period  & analog recorders and\nGuralp CMG-3ESP for Broadband System) have been installed in the\nunderground vault behind Tirumala Hut. The Data Acquisition System\n(DAS) – REFTEK High Resolution Digital Data Acquisition System RT\n72A 121-03 from Refraction Technology Inc., USA interfaced with a P.C.,\nAnalog Recorder – vertical component analog RV-320B Portacorder and a\nGPS receiver –was installed in the Tirumala hut. The Sensor pit and the lab\nare being maintained at about 15 to 20 degrees temperature using electrical\nheaters. The data acquired have been processed using SEISAN software.\nDuring this expedition i.e., from January 2005 to February 2006, continuous\nseismic data have been recorded and archived and stored in CDs for further\nprocessing and analysis.\nUsing SEISAN software the final analysis of this data collected up to\nDecember 2005 has been completed and reported to International\nSeismological Centre, United Kingdom. The data acquisition during\nwintering period, the Preliminary Determination of Epicenters (PDE) reports\nby NEIC are referred to while processing the data using SEISAN 7.2,\nPCSUDS and REFTEK utilities software. After completion of the analysis,\nthe arrival times, origin times and the corresponding hypo central parameters\nof the processed events were used to compile the MAITRI Seismological\nB",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology & Climate Change",
+    "subcategory": "Contributions of GPS Permanent Station and Seismological Observatory to Geophysical Studies at Maitri, Antarctica During XXIV Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:43.827369Z"
+  }
+}

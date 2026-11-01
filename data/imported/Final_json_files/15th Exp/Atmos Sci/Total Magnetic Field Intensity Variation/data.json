@@ -1,0 +1,72 @@
+{
+  "id": "article_2",
+  "document_id": "NCPOR-9B7F7D",
+  "source_file": "ARTICLE+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/446/3/ARTICLE+2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 21-37 \nSTUDY OF TOTAL MAGNETIC FIELD INTENSITY\nVARIATION (F) AT MAITRI, ANTARCTICA\nVARIATIONS OVER 1922-1996\nArun Patil, Ajay Dhar, S. Sankaran and Girija Rajaram\nIndian Institute of Geomagnetism, Mumbai\nAbstract\nThe total geomagnetic field intensity (F) was recorded at the Indian Antarctic Station,\nMaitri (MAI), during Jan 1996, using a Proton Precession Magnetometer (PPM). The PPM\ndata was compared with the variations in intensity of the three orthogonal components of\nthe geomagnetic field X, Y and Z, recorded by using a Fluxgate Magnetometer (FM). The\nF values as expected, showed a matching trend with the Z component during magnetically\nquiet conditions. During magnetically disturbed conditions however, a sizeable contribution\nfrom the other two components X and Y, was also observed. A remarkable observation was\nthat the total field at Maitri, when compared to the value at this geographic location from\nprevious records had declined by 9000 nT over the period 1922-1996.\nIntroduction\nThe total field (F) at Dakshin Gangotri (Geog lat. 70° 05' S, long. 12° E),\nAntarctica, was first recorded in 1982, using a Proton Procession Magnetometer\n(PPM)(Iyengar and Rajaram, 1983). During subsequent years the PPM was\nreplaced by a fluxgate magnetometer, recording variations in the three orthogo-\nnal components X (North-South), Y (East-West) and Z (Vertical). A PPM was\nonce again used at Dakshin Gangotri (DG) during Jan-Mar 1986 and during\nJan 1996, to record the absolute value of F. In bot h cases a fluxgate magne-\ntometer was operated simultaneously, and the results obtained from a compari-\nson ef A F, A X, A Y, and A Z are discussed in this paper.\nExperiment\nIndia operates round the year, apermanent scientific station at Maitri (Geog\nlat.70° 45' S and long. 11° 45' E), Antarctica, in the rocky mountains of the\nSchirmacher Oasis. The magnetic field variations in th e three orthogonal\ncomponents X, Y and Z are recorded using a fluxgate magnetometer (FM). The\nArun Patil et al.11\ndenote a quiet day. The Kp for the three-hourly intervals 00-03, 03-06, 06-( x)\n09-12, 12-15, 15-18, 18-21 and 21-24 are 1-, 1 0, 1o, 1-, 0+, 1-, 2o and 2 +\nrespectively on Jan 7, 1996; and 2-, 1-, 1o, 1- and 0+ respectively for the first\nObservations\nI Comparison of F with X, Y and  Z  during magnetically Quiet (>) \nconditions : \nFig.2 shows the variations in the total field intensity F recorded on 7 and\n8 Jan 1996, at MAI, Antarctica. Both days are magnetically Quiet as judged\nfrom the 3-hourly Kp indices ( a measure of magnetic activity primarily for the\nlow and mid latitudes of Earth). The for the two days are 9- and 7  ..\nrespectively, and normally any value of ) less than 10 is considered to\nDaily Variations*(DV) and Magnetic Pulsations (MP) are recorded in analog\nand digital form. In Jan 1996 a PPM was used to record variations in the total\nfield (F) in analog form. These data when compared with the fluxgate magne -\ntometer records, show some interesting results. Fig.1 shows the block diagram\nof the experimental set-up for the fluxgate and proton precession magnetome-\nters.\nFig.2:Variations at Maitri of Y, X, Z(top three curves) and F (fourth curve), for the two magnetically quiet days \n7 Jan 1996 (00-24 hr) and 8 Jan 1996 (00-15 hr). The magnetic signatures on Y, X, Z are those \nof the southern limb of the southern Sq current loop \n23Magnetic Field Intensity Variation (F) at Maitri \n24 Arun Patil et al\nfive intervals on Jan 8,1996. Each of these Kp values is indicated on Fig.2 for\nthe relevant interval. The first 3 curves for each day depict variations in Y, X,\nand Z observed by FM while the fourth curve depicts variations in F observed\nby PPM. MAI experiences the magnetic effect of the southern limb of the\nsouthern Sq current system (westward current) during quiet magnetic condi-\ntions in the daytime hours, hence a decrease (upward deflection) in the vertical\ncomponent (Z) during the morning and afternoon hours is observed. A similar\nFig.3 shows such variations again during Quiet conditions, but during\nnight-time hours of Jan 9-10, 1996. The Kp values for these two days are 5+\nand A Y.rather than fromcontribution to F is from\nthe vertical component during these quiet conditions i.e. the maximum\ndecrease (upward deflection) is observed in the total field variation\nthese days. The variation in the total field F is very similar to the variation in\non both\n2. Comparison oj\nconditions:\nduring moderately disturbed \nThe current system in the ionosphere over MAI becomes complex with\nincreasing magnetic activity, and a significant contribution tn and\nis observed. Fig.l shows one such event recorded on moderately disturbed\ndays, Jan 5, 1996, with and Jan 6, 1996, with = 13-.The Kp\nindices for the 3-hourly intervals 21-00, 00-03 and 03-06 for the night of 5-6\nJan 1996 are 3-, 3- and 3- respectively as indicated in F",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 17
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Study of Total Magnetic Field Intensity Variation (F) at Maitri, Antarctica Variations Over 1922-1996",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:39.023351Z"
+  }
+}

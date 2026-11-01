@@ -1,0 +1,72 @@
+{
+  "id": "article_8",
+  "document_id": "NCPOR-A32990",
+  "source_file": "ARTICLE+8.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/548/3/ARTICLE+8.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "153\nEighteenth Indian Expeditin to Antarctica, Scientific Report, 2002 \nDepartment of Ocean Development. Technical Publication No. 16 pp 153-190 \nA COMPARITIVE STUDY OF GLACIO-M ETEOROLOGICAL\nPARAMETERS, REFLECTANCE AND SURFACE ENERGY\nEXCHANGE OVER DIFFERENT SNOW-ICE MEDIA IN\nDRONNING MAUD LAND IN EAST ANATRCTICA\nSnow and Avalanche Study Establishment, Manali\nAbstract\nTwo Automatic Weather Stations (AWS) were installed over continental shelf and\ncontinental ice surfaces in Dronning Maud Land in East Antarctica during XVIIth\nIndian Scientific Expedition to Antarctica (ISEA). High quality glacio-meteorological\ndata were collected round the year. A simple energy balance model based on the glacio-\nmet parameters is formulated to calculate the energy exchange over the two types of\nsurfaces. Surface roughness and albedo values of the two types of surfaces have been\naccounted for in the model. Different components of energy budget are tabulated and\nthe results are compared for the two types of surfaces during Austral summer of 1999-\n2000. Summer and winter energy budget are also compared and discussed for the con-\ntinental ice surface. The difference in the energy balance over continental shelf and\ncontinental ice is mainly caused by differences in albedo, surface roughness and short-\nwave extinction coefficient. The average energy budget over continental ice was found\nto be negative during both summer and winter period. Results indicate that the main\ndifference in summer and winter energy budget over continental ice is in the net radia-\ntion and sensitive heat fluxes during the corresponding periods. As the energy balance\nmodels are sensitive to surface reflectivity variation, albedo measurements over differ-\nent snow-ice media were carried out and its dependence on solar elevation angle and\ncloud amount/type were investigated in detail.\nThe albedo of sea-ice in the southern ocean was also investigated during the\nsea voyage to Antarctica. The mean albedo varied from 12 % for open water to 61 % for\n10/10 sea-ice concentration with average value of 43 % for the observational period.\nThe measured values are in agreement with those reported previously.\nINTRODUCTION\nTo the human eye, the vast Antarctic ice sheet gives the impression of homo-\ngeneity. However, large seasonal fluctuations in surface climate at these high latitudes\nPraveen Kumar Srivastava\n154\nPraveen Kuamar Srivastava. \ncreate substantial changes in surface energy balance. Long term fluctuations in the\nenergy balance of Antarctic ice sheet are of considerable interest because of significant\ncontribution to mass balance and its fluctuations resulting from green house induced\nwarming, sublimation and melting. Energy balance investigations include knowledge of\nthe structure of the atmosphere above the ice sheet as well as the physical processes at\nthe surface and in snow and ice layers. Only with a thorough understanding of the\natmospheric boundary layer and the energy- and mass- exchange processes can the\nresponse of the Antarctic ice sheet to changing climatic conditions be simulated by\nthermodynamic ice-sheet models (Huybrechts and others, 1991). The energy balance\nwhich includes net radiation, sensible heat flux, latent heat flux, latent heat of fusion\nand ground heat flux, determines the ablation process at the surface. These processes\ndepend strongly on atmospheric conditions and surface properties. The problem thus\ninvolves quantifying the competing effects of energy balance components v/s net\nenergy gain or loss over the surface. A major difficulty lies in the fact that due to sparse\nobservatory network over the Antarctic continent, area averaged values for energy\nbalance components in different snow-ice medium are still not precisely known or can\nat best be summed over as sketchy (Smith, 1998). Keeping this in view attention was\nfocussed on studying the variation in snow-met parameters, radiative fluxes, short-\nwave reflectance (albedo) and surface energy balance over the Dronning Maud Land,\nEast Antarctica. This paper examine and compares physical processes and the factors\ncontrolling energy balance over the continental shelf covered with thick layer of high\ndensity snow with that over the blue-ice (continental ice).\nINSTRUMENTATION AND LOCATION OF MEASUREMENT\nSITES\nIn order to improve the data quality and to cover a large area with continuous\nradiation data, two Automatic Weather Stations (AWS) were installed during the aus-\ntral summer of XVIIIth Indian Scientific Expedition to Antarctica. The AWS  were set up\nat locations 70° 05' S, 12° E over continental shelf to study the radiative properties of\nsnow & shelf ice and 70° 45' 52\" S, 11\n0\n 44' 3\" E over the blue-ice. The location over the\nshelf is barely 18 km from the sea thus representing the coastal conditions. The site of\nthe blue-ice station is very close to the grounding line, just behind the Schirmachar\nOasis. The blue-ice site is of particular interest because though Antarctic blue-ice ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 38
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "A comparative study of Glacio-meteorological parameters, reflectance and surface energy exchange over different snow -ice media in Dronning Maud Land in east Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:00.692956Z"
+  }
+}

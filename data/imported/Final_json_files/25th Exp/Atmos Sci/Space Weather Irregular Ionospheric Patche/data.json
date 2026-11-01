@@ -1,0 +1,72 @@
+{
+  "id": "chapter_2b4",
+  "document_id": "NCPOR-A5BFA6",
+  "source_file": "Chapter%2B4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1143/1/Chapter%2B4.pdf",
+  "bibliographic": {
+    "title": "Chapter%2B4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 195-202\nSpace Weather and Irregular Ionospheric \nPatches at “MAITRI”\nShailendra Saini1* and A.K. Gwal2\n1 Space Science Laboratory, Department of Physics, Barkatullah University, \nBhopal-462 026, India, (*Presently at National Centre for Antarctic and Ocean\nResearch, Goa-403 804, India\n2 Space Science Laboratory, Department of Physics, Barkatullah University,\nBhopal-462 026, India\nINTRODUCTION\nSpace weather refers to conditions in geospace which are controlled \nby the solar activity and which can cause disruption of satellite operations, \ncommunications, navigation, and electric power distribution grids, leading \nto a variety of socio-economic losses. Most of the time, space weather \nis of little concern in our everyday lives. However, when the space \nenvironment is disturbed by the variable outputs of the Sim, technologies \nthat we depend on, can be affected. Space weather disturbances are \ngenerally caused by transient events in the solar atmosphere, which \ntrigger disturbances in the Earth’s environment. Geomagnetic storms are \naccompanied by a variety of ionospheric disturbances, which are \npresumably caused by the intensification of the solar wind. However, not \nall solar proton flares result in geomagnetic storms and even more \nsignificantly, not all geomagnetic storms can be associated with solar \nflares. Some of the most dramatic space weather effects occur in \nassociation with eruptions of material from the solar atmosphere into \ninterplanetary space. Such eruptions are sometimes associated with \nflares and they now appear to be a primary cause of geomagnetic \nactivity.\nThe ionosphere plays an active role in the complex space weather \nrelationships which affects the distribution of plasma in the ionosphere \nfrom low to high latitude. During the periods of disturbed space weather, \nthe ionosphere can be filled with small-scale irregularities. Radio signals \ntraversing the disturbed ionosphere are disrupted by these irregularities\n\n196 Shailendra Saini and A.K. Gwal\nwhich cause phase and amplitude fluctuations in the signals. This \nproblem is particularly worst at high latitudes in the region of the \nauroral, sub auroral ovals and in the equatorial region where ionospheric \nbubbles (not associated with solar disturbances) occur. When charged \nparticles ejected from the Sun arrive at the Earth, they can cause \nperturbations in the geomagnetic field the ionosphere where the electron \ndensity (number of electrons in a given volume) can vary considerably, \nboth in time and space. The cloud of charged particles (which also bring \nwith them parts of the solar magnetic field) will interact with the Earth’s \nmagnetic field when the magnetic clouds reach the Earth’s orbit. This \nresults in a disturbance of the Earth’s magnetic field and the auroral \nparticle precipitation into the atmosphere increases. The aurora is a \ndynamic and delicate visual manifestation of solar-induced geomagnetic \nstorms. The electromagnetic interaction of radio waves with charged \nparticles of the ionospheric plasma may cause the signals degradation. \nThese changes in phase, amplitude and polarization of transmitted radio \nwaves can be effectively used to obtain essential information about \nionospheric state.\nGeomagnetic quiet and disturbed conditions include a competition \nof many different processes in the magnetosphere-ionosphere- \nthermosphere system. At high latitude, it becomes dominant and these \ncomplex phenomena need comprehensive measurements of ionospheric \nparameters. The occurrence of large scale effects in the F-region in \nassociation with geomagnetic storms was initially reported by Appleton \nand Ingram (1935). Later on Berkner et.al. (1939) and Berkner and \nSeaton (1940) have reported an opposite effect near the magnetic \nequator. Ionosphere at high latitude is considerably more complicated \nthan the mid or low latitude. Here geomagnetic field lines are nearly \nvertical and connects high latitude to the outer part of magnetosphere \nwhich is driven by the solar wind and is accessible to energetic particle \nemissions. The dramatic changes take place very frequently in the \nauroral and polar ionosphere with the different geophysical conditions. \nDuring the storm large and medium-scale irregularities occur in the high- \nlatitude ionosphere. Drastic changes in ionosphere vertical TEC can be \nproduced by intense disturbance electric fields originating from the \nmagnetosphere-ionosphere interaction (Tsurutani et al., 2004). Baran, \net al., (2002) have seen the essential changes of TEC registered in the \nauroral and sub-auroral ionosphere, attributing to the effect of the trough.\n\nThe measurements of Global Navigation Satellite System (GNSS) signals \noffer an unique opportunity to obtain valuable space weather information \nby measuring amplitude and phase of navigation signals. Total Electron \nContent (TEC) of the i",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "3] Atmospheric Sciences",
+    "subcategory": "Space Weather and Irregular Ionospheric Patches at “MAITRI”",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:57:46.093087Z"
+  }
+}

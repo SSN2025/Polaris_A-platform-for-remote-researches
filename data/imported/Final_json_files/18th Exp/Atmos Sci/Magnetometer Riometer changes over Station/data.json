@@ -1,0 +1,72 @@
+{
+  "id": "article_1",
+  "document_id": "NCPOR-FE4396",
+  "source_file": "ARTICLE+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/540/3/ARTICLE+1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eightenth Indian Expedition to Antarctica, Scientific Report, 2002 \nDepartment of Ocean Development, Technical Publication No. 16 pp 1.16 \nMAGNETOMETER/ RIOMETER CHANGES\nOVER INDIAN ANTARCTIC STATION MAITRI,\nAS A POINTER TO DISTURBANCES IN SPACE\nGirija Rajaram, K. Emperumal, Sumendra Singh,\nA.N. Hanchinal and Ajay Dhar\nIndian Institute of Geomagnetism, Colaba,\nMumbai 400 005 INDIA\nABSTRACT\nIt is observed that the just sub-auroral Indian Antarctic station Maitri (geom.\n62\n0\n.8S, 52\n0\n.8E) is very sensitive to the electromagnetic changes in the geoenvironment.\nObservations of the three components of the geomagnetic field X, Y, Z and the 30 MHz\ncosmic radio noise signal recorded by Riometer (RIO) at Maitri can provide clues to the\nstate of Space Weather, and for that matter the state of Interplanetary space. Maitri data\nof X, Y, Z and RIO during Jan-Feb 1999 are used to highlight this aspect.\n1. INTRODUCTION\n\"Geospace Weather\" can be defined as the electromagnetic state of the Earth's\nspace environment. This encompasses the electric and magnetic fields, the particle\npopulations and their distributions in the entire ionosphere-magnetosphere system.\nEarliest recognition of Space Weather can be traced back amongst others to Gilbert\n(1600) for realising that the Earth's magnetic field extends into Space all around in 3 \ndimensional form, Graham (1724) and Celsius (and Hiorter) (1741) for noticing oscilla-\ntions in compass needles and in ammeters during auroral displays and de Mairan (1754)\nfor postulating that auroral and geomagnetic storms are caused by the entry of charged\nparticles of solar origin into the geoenvironment.\nThe first instruments to detect disturbances in the Earth's environment were\nground-based magnetometers (Harang, 1946; Silsbee and Vestine, 1942; Obayashi and\nHakura, 1960) and ionospheric sounders (Appleton and Piggott, 1952). These could be\neasily operated at various latitudes of Earth, and it was understood quite early that the\nhigh latitudes were in a state of perpetual disturbance. The Riometer was found to be\n1\nGirija Rajaram et al, \n2\nparticularly useful in sensing these high-latitude disturbances (Little and Leinbach,\n1959), while the VLF receiver technique of sensing these was realised at about the same\ntime (Helliwell and Gehrels. 1958). Many techniques, both ground-based and satellite-\nbased, have been developed for sensing geospace disturbance either directly or indi-\nrectly (Hargreaves. 1992). Optical all-sky cameras operated from the ground and aboard\naircraft and satellites, have rendered yeoman service (Akasofu. 1974). while the Riometer\nand magnetometer when operated together at high latitudes provide a great deal of\ninsight into the physical processes at work in these regions (Ranta et al., 1999).\nIn the light of the foregoing, the subject of Geospace weather is by no means a \nnew one. It is just that in the present age with its increasing dependence on solid state\ntechnological devices, the use of transpolar airflights to shorten distances, and the\nreality of Space travel in the years to come, the subject has taken on a special impor-\ntance (J an sen et al., 2000). In this work we study the Riometer and Magnetometer\nvariations at the just-sub-auroral Indian Antarctic station Maitri (geomag. lat. 62\n0\n 8 \nS, long. 52°.8 E, L = 4.8) on selected days, and compare these with Kp values, and the\ninterplanetary magnetic field (IMF) and solar wind values obtained by the WIND  satel-\nlite on the same days. The results indicate that Maitri (MAI) is very sensitive to\ndisturbance in Geospace, and hence forms a very suitable location for monitoring Space\nWeather.\n2. OBSERVATIONS AND DISCUSSION\nThe results, which follow, will be presented in a very terse form to conform to the\nbrevity required. : \n2.1 Progression From Quiet to Disturbed Days\nFig.) to Fig.3 show M A I moving progressively from ∑Kp = 2o,to ∑Kp= 11o.\nThe left hand side (LHS) of each figure shows the 30 MHz RIO, and the Y, X and Z \nvariations followed by the 3 hrly Kp values for the day. The right hand side (RHS) of\neach figure shows the WIND satellite observations of the Interplanetary Magnetic\nField parameters B (total field) and the components Bx, By, Bz, all in nT. For the sake of\nbrevity, graphs of solar wind velocity and density variations are not presented, but the\naverage values of the Vx component have been stated. It may be noted that for MAI,\nUT and MLT  (Magnetic Local Time) differ only by 1 hr. 10 min.\nFigure 1 is for 26 Feb 1999 with ∑Kp = 2o. The RIO, Y,X and Z curves are all | \ncalm and smooth on this very Quiet day, and show the characteristic signatures of a ! \nsub-auroral station. The three hourly Kp index has actually remained at Oo for most part | \nof the day, except during 03-06 UT, and during 12-18 UT, when it takes up values of 0+ I \nand 1o, at which times the Y. X, and Z components register magnetic disturbance. The | \nMagnetometer/ Riometer changes. \n3\nBz component of the IMF turned clearly negative ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Magnetometer_Riometer changes over Indian Antarctic Station Maitri, as a pointer to disturbances in space",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:55.940917Z"
+  }
+}

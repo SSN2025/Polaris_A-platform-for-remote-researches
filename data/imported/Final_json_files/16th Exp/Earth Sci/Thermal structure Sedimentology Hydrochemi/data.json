@@ -1,0 +1,72 @@
+{
+  "id": "article_19",
+  "document_id": "NCPOR-7910B6",
+  "source_file": "ARTICLE+19.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/624/3/ARTICLE+19.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+19",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nThermal structure, sedimentology, and hydro-geochemsitry of\nlake priyadarshini, schirmacher oasis, Antractica\nR.SINHA & ASIM CHATTERJEE\nEngineering Geology Group, Department of Civil Engineering\nIndian Institute of Technology, Kanpur- 208016, India.\nAbstract\nAnalysis of thermal structure and  estimation of heat budget for lake\nPriyadarshini, eastern Schimacher  oasis during sixteenth Indian Scientific\nAntarctica Expedition (December' 96-March'97) reveal that weak thermal\nstratification prevailed in the lake for the major part of the period of observation\nduring mid summer. However, the lake becomes unstratified as the winter period\napproaches. The heating cycle of th e lake is a function of climate and\nmorphometry of the lake itself. Detailed study of mineralogical and geochemical\naspects of lake sediment cores have been carried out to elucidate the depositional\nprocesses and post-depositional changes within the total lake system, including\nits catchment. The in-situ parameters of lake water, concentration of some major\nions and trace metals have also been analyzed in the present study to understand\nthe hydrogeochemistry of the lake.\nIntroduction\nThe Schirmacher Oasis of Antarctica is a group of  low-lying hills of 50-\n200m height and is interspersed with a number of freshwater glacial lakes. The\navailable information indicate that the size of these lakes ranges form a few hect-\nares to a few km\n2\n and the maximum depth of water in them ranges from a few\nmeters to about 150m. Depending upon their topographic setting, they occur as\ninland lakes, ice margins lakes or epishelf lakes. Lake Priyadarshini, with the\ntotal water spread area or 0.75 sq. km., is one of the largest lake in the region and\nis closest to the Indian Station, Maitri. This lake, located at about 255 meters\naway from Maitri, is the lifeline of the Indian expedition as it completely caters\nto the water supply to the station. The lake has been described as a proglacial\nlake (Priddle and Heywood, 1980, inVerlencar et. al. 1996), formed at the edge\nof the ice cap during the deglaciation phase. The water and sediment input to the\nlake is entirely through melt water during warmer periods of spring and summer.\nThe fresh water lakes present in the Schimacher range of East Antarctica\nhave drawn the attention of scientists from various disciplines. As on today, the\nknowledge of thermal behavior, sedimentation regime and geochemical param-\neters of Antarctic lakes and lacustrine sediments is inadequate. In the present\nwork, thermal data were collected during the ice free period (Jan-Feb., 1997)\nfrom the Lake Priyadarshini. The available data give an estimate of basic heat\n280\nR. Sinha & Asim Chatterjee \nbudget of Priyadarshini, in particular, and provide an insight to the theramal\nstructure of Antarctica lakes, in general. Sediment coring, dredging and water\nsampling were carried out at different sites in the Priyadarshini and a few lakes\nin the Western Schirmacher. Detailed mineralogical and chemical studies of the\nlake sediments provide important information about the sources of lacustrine\nsediments and processes operting within the lake system including its catchment\narea. In-situ parameters and analysis of few major and heavy metals in lake\nwater were also carried out to know the lake water chemistry.\nThermal Structure and Heat Budget\nThe thermal cycle of the Antarctic lakes can be divided into two periods: the\nice-covered period and ice-free period. It is well established that a lake's overall\nthermal response and resulting heat balance is the result of exceedingly complex\ninteraction of many thermal and dynamic processes (Lerman, 1978). However, a \nfirst estimate of the heat-budget of a lake can be obtained with minimum of\nobservational data and without regular year-round in situ monitoring of the lake\nitself. In the present study, thermal data were collected during ice-free period\n(Jan-Feb., 1997). The available data give an estimate of basic heat budget of the\nLake Priyadarshini in particular, and provide an insight to the thermal structure\nof the Antarctic lakes, in general.\nThe Lake Priyadarshini  undergoes alternate phases of freezing in winter\nand melting in summer periods. The top 2-2.5 meters of the lake freezes during\nthe winter. The freezing of the shore area starts approximately during the second\nweek of February and the lake freezes completely by the first week of April. The\nmelting phase starts in the first week of November and the lake is in liquid state\nby the last week of December. The temperature sensors and a 10-channel digital\ntemperature indicator were installed in the second week of January'97 close to\nthe pump house (see S1 in Fig.l) for recording of lake water temperature. The\ntemperature sensors were dropped in the lake with the help of a float. Out of 10\ntemperature sensors, the t",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 30
+  },
+  "taxonomy": {
+    "category": "4]Earth Sciences",
+    "subcategory": "Thermal structure, Sedimentology and Hydrochemistry of lake Priyadarshini, Schirmacher oasis, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:37.155218Z"
+  }
+}

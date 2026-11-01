@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_7a",
+  "document_id": "NCPOR-86006D",
+  "source_file": "RRChapter-7A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/948/1/RRChapter-7A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-7A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "129Signature of the Antarctic Circumpolar Wave........\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 129-134\nSignature of the Antarctic Circumpolar Wave in the\nSurface Temperature Over Maitri\nMihir K. Dash+, M. Srivastav*, N. Khare** and P. C. Pandey +\n+ Indian Institute of Technology, Kharagpur\n*Indian Coast Guard\n** Ministry of Earth Sciences\nABSTRACT\nThe gridded surface temperature (ST) anomalies over Maitri for the period\nJanuary 1979 – December 2005 were analyzed using continuous wavelet analysis.\nThe early part of the study showed the influence of 2 – 8 month wave on variation\nof ST. Combined analysis of the wavelet power spectrum and the ST anomalies\nrevealed that high fluctuations in the surface temperature during the year 1989 –\n1991 were associated with the superposition of Antarctic circumpolar wave and\nthe quasi-biannual signal. The later part of the study period showed strong effect\nof the 16 – 24 month signal over the ST variation.\nINTRODUCTION\nAntarctica the southernmost icy continent is known for extreme\nclimatic conditions. The vast ice field of the Antarctic acts as a sink of the\nglobal climate engine. Any perturbation in oceanic/meteorological\nparameters disturbs the global circulation and hence affects local weather\nand global climate. On the other hand, a number of studies have suggested\nthat atmospheric, oceanic, and sea ice fields around Antarctica linearly co-\nvary with the tropical Pacific El Nin˜o–Southern Oscillation (ENSO)\nphenomenon (Turner, 2004; Yuan, 2004; Kwok and Comiso, 2002; Yuan\nand Martinson, 2000; Liu et al., 2002; Liu et al., 2004). Also, the weather\nand climate in the Antarctic are affected by the Antarctic Circumpolar Wave\n(ACW) (White and Peterson, 1996; White et al., 1998; Venagas, 2003) and\nthe Southern Ocean annular mode. The Antarctic circumpolar wave is a\ncoupled air sea interaction propagating eastward in a wave train with a\nperiodicity of around 4–5 yr and a propagation speed of 6 – 8 cm/s, and is\ncomposed of two waves taking approximately 8 years to circle the globe\n(White and Peterson,1996). The eastward propagation of the ACW is also\n130 Mihir K. Dash et al.\ncharacterized by coherent variations in sea surface temperature anomalies,\nwhich drive meridional surface wind (MSW) anomalies in the overlying\natmosphere. The MSW anomalies feedback corresponding zonal surface\nwind (ZSW) anomalies causing anomalous SST tendency through\nanomalous meridional Ekman heat advection , and hence affect the weather\nand climate of the Antarctic. The weather and climate in the Antarctic is a\ncumulative effect of the local as well as the global effect.\nIn the present study we analyzed the available gridded surface\ntemperature (ST) observations surrounding Maitri to find the signature of\nACW and its effect.\nDATA AND METHODOLOGY\nThe gridded monthly surface temperature data over the whole globe\nfor the years 1979 to 2005 were downloaded from the Goddard Institute\nfor Space Studies (http://data.giss.nasa.gov/gistemp/). The gridded surface\nair temperatures measurements were generated using the unadjusted data\nof the Global Historical Climatology Network (Peterson and Vose, 1997\nand 1998), United States Historical Climatology Network (USHCN) data,\nand SCAR (Scientific Committee on Antarctic Research) data from\nAntarctic stations. These data sets are available in a 2° × 2° latitude-\nlongitude grid. The surface temperature data for the Maitri region were\nextracted. The climatology of surface temperature for each month was\ncalculated by taking the mean for each month from 1979 – 2005. It was\nfound that for three months data were not available. ST for those months\nhave been replaced by the climatology of the month. The monthly surface\ntemperature anomalies over Maitri were calculated by subtracting the\nmonthly mean from that for each individual month. The anomalies in the\nsurface temperature over Maitri are shown in Figure 1.\nTo isolate the non-stationary power at different frequencies, the ST\nanomalies were analyzed using continuous wavelet transform (WT)\n(Torrence and Compo, 1998). In this transform the Morlet wavelet is used\nas the mother wavelet. The transform was performed in Fourier space (for\ndetails see Torrence and Compo, 1998; Jevrejeva et al., 2003). To reduce\nthe wraparound effects the time series was padded with zeros to make their\nlength a power of 2. The Monte Carlo method was used to find the statistical\nsignificance at the 5% level against the red noise. The WT has edge artefacts\nbecause the wavelet is not completely localized in time. Therefore, the\ncone of influence (COI) was introduced in which the edge effects cannot\n131Signature of the Antarctic Circumpolar Wave........\nbe ignored (Jevrejeva et al., 2003). The wavelet coherence is shown in the\nFigure 2.\nRESULTS AND DISCUSSION\nThe 2° × 2° gridded monthly surface temperature (ST) anomalies\nover Maitri from January 1979 to December 2005 are shown in Fig",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Signature of the Antarctic Circumpolar Wave in the Surface Temperature Over Maitri",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:08.042806Z"
+  }
+}

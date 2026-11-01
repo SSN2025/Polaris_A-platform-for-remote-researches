@@ -1,0 +1,72 @@
+{
+  "id": "article_7_2",
+  "document_id": "NCPOR-55A82A",
+  "source_file": "ARTICLE+7-2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/171/3/ARTICLE+7-2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+7-2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "02] Scientific Report Of Second Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "63\nMAGNETO METER\nANTARCTICA (20 1 83)\nX COMPONENT\n(ARBITRARY UNITS)\nNOISE CURRENT\n(ARBITRARY  UN ITS)\nTIME (HRS) IST\nFig 1  Magnetic field  changes (X comp ) and corresponding nometer records at Antarctica during\nmagnetic sub storm (20 Jan 1983)\n* Indian Institute of Geomagnetism Colaba Bombay 400005\nRIOMETER 30 MHz\n0900 1000 1100 1200 1300\n20 MHz\n1200 1300 14001000 1100\nRiometer  Observations  at  Antarctica  in  1982-83  Indian  Expedition\nA.K. Saha,  R.  Venkatachari, A. Sen Gupta and G.K. Rangarajan*\nNational Physical Laboratory New Delhi-110012 \nTwo nometers operating at 20 and 30 MHz were set up at the Antarctica base camp by the\nNational Physical Laboratory and gave continuous records for about 40 days in Jan -Feb , 1983. The\nquality of the records was good and several interesting events of lonospheric-magnetospheric\ninterests were noted. The analysis work is in progress.\nAs expected, the events noted were more prominent in 20 MHz records than in 30 MHz\nbecause of the higher ionospheric absorption at the lower frequency.\nAs many of the events noted were apparently linked with magnetic activity, they are being\ncompared with magnetograms recorded at the Antarctica station by the Indian Institute of\nGeomagnetism Group.\nRiometer Observations at Antarctica\nFig. 2.  Magnetic field changes (X-comp.) and corresponding nometer records at Antarctica (6 Feb, 1983)\nwhen an SC storm was in progress.\nMagnetic storm changes in the magnetograms were followed by similar pattern on riometer\nrecords with time delays of about 1 hour (Fig. 1). The Indian Antarctic  station being outside the\nauroral oval, gives interesting possibilities of interpretation of the mechanism of the delayed\nphenomena.\nAn interesting case is shown in Fig. 2 where similar patterns on magnetograms an d riometer\nwere observed for  about 3 days, but with a time delay. An SC storm was in progress preceded by a \n3 X-ray flare.\nDetailed analysis of these phenomena are in progress and will be published in a regular journal.\nThe riometer records at 20 and 30 MHz were only for about 40 days and much less than required\nfor obtaining Quiet Day sidereal time curve for computing normal diurnal absorption values.\nHowever, an attempt is being made to circumvent this from records at the two frequencies 20 and 30\nMHz and assuming a frequency relation of the galactic radiation pattern.\nMAGNETO METER ANTARCTICA (6-2-83)\nX-COMPONENT\n(ARBITRARY  UNITS)\n64\nRIOMETER 30 MTz \n0300 040002000100\n0200 0300 0400\nTIME (HRS) IST\n0500 0600 0700\n0500\n20 MHz\nNOISE CURRENT\n(ARBITRARY UNITS)",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "3]Geophysics and Geomagnetism",
+    "subcategory": "Riometer observations at Antarctica in 1982-83 Indian Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:14.776462Z"
+  }
+}

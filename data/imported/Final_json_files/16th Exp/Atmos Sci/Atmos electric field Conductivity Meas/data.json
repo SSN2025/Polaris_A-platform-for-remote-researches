@@ -1,0 +1,72 @@
+{
+  "id": "article_11",
+  "document_id": "NCPOR-CBB564",
+  "source_file": "ARTICLE+11.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/615/3/ARTICLE+11.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+11",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nThe Atmospheric electric field and condvctivity\nmeasuremfnts during the XVI Indian Antarctica expedition\nC.G DESHPANDE AND A K KAMRA\nIndian Institute of Tropical Meteorology, Pune, India\nAbstract\nSurface measurements of the atmospheric electric field and the conductiv-\nity of both polarities made at Maitri (70° 46'S, 11° 44' E,) Antarctica and along\nthe cruise track are reported. The 20 fair -weather days average diurnal variation\ncurve of the atmospheric electric field is single periodic with the maximum at\n1300 GMT, and the minimum at 0100 GMT. It also shows a secondary but\ndistinct maximum at 1900 GMT. The difference between the diurnal variation\ncurve observed at Maitri and the universal varition curve observed at oceans and\nat the south pole is discussed with refrence to the validity of the classical global\nelectric circuit. The electric conductivity does not show much change during a \nday either at Maitri or over open ocean. However, the conductivity has the mini-\nmum value at around 30°S the value of conductivity keeps increasing southward\nof 30°S upto 70°S and northward upto 10°S. The condutivity shows a decrease\nnorth of 10°S, The variation in conductivity with latitude on the onward and\nreturn cruises has been interpreted in terms of the shift in the inter tropical con-\nvergence zone and the presence of some synoptic systems around Antarctica in\nthis period. The incidences of fog over ocean have been reported in which the\nelectric conductivity decreases in the region of fog.\nIntroduction\nIn the classical picture of the global electric circuit, a potential difference of\nabout 250 kv is maintained between the ionosphere and the Earth by the totality\nof all thunderstorms acting at the same time all over the globe. This classical\ntheory proposed by Wilson (1920), finds strong support in the observation that\nthe diurnal variation of electric field with universal time observd over the world\noceans during Carnegie cruises dining 1910 -30 coincides with the diurnal valua-\ntion of global thunderstorm frequency with universal time (Whipple and\nScarce,1936). The validity of classical theory has often been tested with obser-\nvations of the atmospheric electric parameters made at clean places such as over\nthe oceans, in polar regions, at high mountian peaks, and above exchange layer.\nThese observatins are quite often contradictory and suggest the contributions of\nother than thunderstorm generator in maintaining the ionospheric potential. As a \nresult, the validation of the classical concept of the global electric circuit still\nremains, as Dolezalek (1972)put it, \"a fundamental problem of atmospheric\nPWilWPi«PllWiP»»«WW««^ll\n138 C.G. Deshpande and A. K. Kamra \nelectricity\". We describe here, the measurements of the electrie field and con-\nductivity of both polarities made during our stay at Maitri (70° 46,S, 11° 44,E),\nAntarctica and along the cruise track. Fig. 1 shows the onward and return cruise\ntracks. The arrows marked along the tracks show the wind speed and direction\nmeasured every 3-hours on the ship.\nInstrumentation\nThe atmospheric electric field is measured with a vertical a. c. field-mill in\nwhich the sensor, a conducting plate , is alternately exposed and shielded from\nthe atmospheric electric field. The sensor and rotor plates of 9 cm diameter and\na cylinder of non-magnetic stainless steel are used for the fabrication of the\nfield- mill to reduce the contact potentials (Bailey and Anderson, 1987). The\nrotor was driven with an a.c.motor(220v,50Hz and 1500rpm)whose shaft is\ngrounded with a carbon brush. The signals received from the sensors of the\nfield-mill are amplified with an operational amplifier IC 8007 and demodulated\nwith IC 1596. the  electronic circuit is fitted inside the field-mill. The electrical\nconductivity of both polarities is measured with a Gerdien's apparatus. It con-\nsists of two identical cylindrical condensers of stainless steel joined with a U-tue\nand has a common fan to suck the air through the two tubes. A potential differ-\nence applied between the inner and uter cylinders of each condenser drives the\nions of one polarity to be colleted at the inner electrode. The critical mobility of\neach condenser is adjusted to be 3.60 x 10\n-4\n m/V/s. Th e signal from each\ncondenser is amplified separately with amplifier 31 IK of Analog Devices. The\namplifiers are kept inside a shielded box near to the sensors. The air suction fan\nof the apparatus is shielded with a conical cap to avoid accumulation of snow or\nrain. The signals from both, field-mill and Gerdiens apparatus are recorded with\na PC-based data acquisition system which has a capacity to sample 10 samples/\nsec and can store and average the data at different time intervals. The data is\nstored in 1-min average and 30-mins average modes during the entire period.\nMaintenance of both instrume",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "The Atmospheric electric field and Conductivity measurements during the XVI Indian Antarctica Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:23.178189Z"
+  }
+}

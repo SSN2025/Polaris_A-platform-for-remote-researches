@@ -1,0 +1,72 @@
+{
+  "id": "article35",
+  "document_id": "NCPOR-F48B0A",
+  "source_file": "article35.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/295/3/article35.pdf",
+  "bibliographic": {
+    "title": "article35",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 465-466 \nA Note on Comparative Methane  Measurements\non an Antarctic Air Sample\nD.C. PARASHAR, J. RAI, PRABHAT K. GUPTA, V. RAMAN,\nR.C. SHARMA, N. SINGH, H. SINGH AND A.K. SAHA\nNational Physical Laboratory, New Delhi-110012\nAbstract\nMethane concentration measurements in the air samples was carried out for three\nsamples including one from Antarctica collected during the Fifth Indian Expedition. The\nAntarctic air sample was collected on 28/12/85 and 27/2/86 , coinciding with the beginning\nand end, respectively, of the summer work. The comparative results of the three analyses\nare presented in this short note, with future plans for such work at Antarctica.\nIntroduction\nMethane measurements of air samples from rice paddy field were started at\nIndian Agricultural Research Institute, Pusa, New Delhi during September 1985.\nPortable Gas Chromatograph was used for methane measurements. Gas samples\ncontaining 1 ppm or higher concentrations of methane were prepared by static\ndilution. Gas samplers fabricated at NPL, gas tight syringes (imported from\nUSA) and methane and nitrogen gases procured from Indian Oxygen Ltd. were\nused for making the gas mixture standards. Slash and burn experiment was\nconducted at Laithmawsiang near Cherrapunji in the hills of Meghalaya in Aprij,\n1986. CH 4 , GO, NO, and SO 2 concentrations were measured before and after\nslash and burn. Usual chemical methods involving trapping the gas in suitable\nsolutions in  impinger followed by formation of characteristic coloured complex\nwere used for NO 2 and SO 2 SO 2 and NO 2 measurements were done at the\nsite and CO, CH 4 were measured in samples collected in teflon bags and stainless\nsteel containers and analysed by gas chromatograph in the laboratory. These\nresults were reported at the IMAPC meeting held in July, 1986.\nPresent Work\nMeasurement of the methane concentration in the grab samples obtained\nfrom Antarctica, Ajabpur in Dehradun and Muratipur in  Nadia district of West\nBengal (about 2 km north of Kalyani University) were  made.\nStainless steel containers were evacuated to 1 x 10 -5  mm Hg while being\ndegassed at 200°C.  These were checked for any possible leakage over a period\n466 D. C. Parashar et al. \nof one month and also when subjected to low temperature down to—70°C. The\nsamples from Antarctica were collected by Mr. D.R. Nakra, Scientist, NPL on\n28.12.85 and 27.2.86, i.e. in the beginning and end of his stay in Fifth Antarctic\nExpedition. These samples were analysed at NPL. The samples from Nadia and\nDehradun were collected in  evacuated stainless steel containers as well as in\nteflon bags and analysed at Kalyani University and NPL, respectively. Methane\nefflux measurements were also performed in the  Nadia paddy fields. Portable\nGas Chromatograph (A.I.D. Inc., USA, model 511) with flame ionisation detector\nand 6 feet long Molecular Sieve 5A column was used for these measurements.\nResults obtained are summarised below:\nSample Site C H\n4\n concentration Methane\nin the Ambient Efflux\nAntarctica\n28.12.85 and\n27.2.86\nNadia\n5.8.86 to 8.8.86\nDehradun\n24.9.86\n1.5 ppm\n2.0 ppm\n1.6 ppm\n___\n0.21 to 0.44\ngm-\n2\nd-\n1\nThe high concentration of methane in the ambient at Nadia may be due to\nnatural fertilizer and alkaline discharge from the adjoining paper factory.\nFuture Plans\nEvacuated stainless steel containers and portable gas  chromatograph have\nbeen sent in the sixth Antarctic expedition for the evaluation for methane\nconcentration  in situ  and to stud y its variation during the year. Work is being\ndone to measure nitrousoxide in addition to methane in th e grab samples to be\nprocured from the sixth Antarctic Expedition.\nA versatile gas chromatograph (Perkin Elmer Sigma 2000) with flame\nionisation, thermal conductivity and electron capture detectors has been commis-\nsioned. Matheson Gas blender has also been received and will enable the\npreparation of standard gas mixtures to calibrate the GC for ppb and lower\nconcentrations of various minor constituents of the  atmosphere.  Measurement\nfacilities for freons are expected to be established during this year.\nAcknowledgements\nStrengthening of gas chromatographic facility has been supported by DST\nunder the scheme entitled \"Gas chromatographic facility for the measurement\nof atmospheric minor constituents\".",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "x]General",
+    "subcategory": "A Note on Comparative Methane Measurements on an Antarctic Air Sample",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:57.601059Z"
+  }
+}

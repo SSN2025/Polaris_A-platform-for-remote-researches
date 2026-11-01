@@ -1,0 +1,81 @@
+{
+  "id": "response-of-geomagnetic-field-at-indian-antar-ncpor-c9470e",
+  "document_id": "NCPOR-C9470E",
+  "source_file": "pg+47-57.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1161/1/pg+47-57.pdf",
+  "title": "Response of Geomagnetic Field at Indian Antarctic Station Maitri, to Increasing Electromagnetic Disturbance in Geospace",
+  "year": 1993,
+  "expedition": "12th Indian Antarctic Expedition",
+  "category": "Atmospheric Science / Meteorology",
+  "subcategory": "Response of Geomagnetic Field at Indian Antarctic Station Maitri, to Increasing Electromagnetic Disturbance in Geospace",
+  "bibliographic": {
+    "title": "Response of Geomagnetic Field at Indian Antarctic Station Maitri, to Increasing Electromagnetic Disturbance in Geospace",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "12th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1993,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 12th Indian Antarctic Expedition examines key atmospheric science / meteorology phenomena in polar terrain around Maitri. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "Atmospheric Science / Meteorology",
+    "subcategory": "Response of Geomagnetic Field at Indian Antarctic Station Maitri, to Increasing Electromagnetic Disturbance in Geospace",
+    "tags": [
+      "atmospheric-science-meteorology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Atmospheric Science / Meteorology discoveries from 12th Indian Antarctic Expedition: \"Response of Geomagnetic Field at Indian Antarctic Station Maitri, to Increasing Electromagnetic Disturbance in Geospace\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Atmospheric Science / Meteorology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:19:23.031761Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article22",
+  "document_id": "NCPOR-EFC60E",
+  "source_file": "article22.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/281/3/article22.pdf",
+  "bibliographic": {
+    "title": "article22",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp.  303-308.\nTypical Meteorological and  Oceanological Situations  Encountered\nduring the Fifth Indian Scientific Expedition to Antarctica\n(1985-86)\nSURINDERJIT SINGH\nNaval Headquarters, New Delhi-110001\nAbstract\nDuring the Fifth Indian Scientific Expedition to Antarctica, round the clock marine\nmeteorological data was collected during the passage of the ship to and fro Antarctica,\nincluding the stay in polynya near Dakshin Gangotri. The paper highlights some of the\nprominent meteorological conditions encountered including the two typical storms on the\nreturn journey. Extreme values of meteorological parameters recorded in the polynya are\nalso given in the paper.\nIntroduction\nFifth Indian Scientific Expedition on board MV Thuleland sailed for Antarctica\non 30 Nov. 85 from Marmugoa harbour. During the passage to Antarctica from\n30 Nov. to 24 Dec. 85 and return passage from 03 Mar. to 24 Mar. 86, the\nfollowing typical meteorological and oceanological conditions were experienced:-\nI. Intense low pressure area on 15 Dec. 85 in Southern Ocean.\nII. Thick pack ice.\nIII . Thick fog causing reduction in visibility on 07 Mar. and 08 Mar. 86.\nIV. Tropical storms 'Horoninia' and 'Irimma'.\nThe above mentioned meteorological and oceanological situations are discussed\nin this report.\nIntense Low Pressure Area on 15 Dec 85\nMost of the vortices in the Southern Ocean develop between 35° and 45°S,\nin winter and 50° and 55°S, during summer. The axis of most frequent cyclogenesis\ncoincides with the Polar Front. In summer, the highest frequency is along 50°S\nwith a branch from lower latitudes aligne d NW-SE across the central and eastern\nparts of the  ocean. Tropical cyclones develop in the zone of 10-20°S and most\nof them move westward at first and subsequently SW, S and SE in the zone\n304 Surinderjit Singh \n20-35°S. Three centres of  maximum cyclone frequency identified in the Antarctic\nzone are  20-40°E, 60-75°E and 95° to beyond 115°E. The average speed of these\ncyclones is of the order of 24-29 kt in zone 40-60°S, 30 kt along 45-50°S and\n35 kt in the zone 30-40°S.\nOn 15 Dec 85, a cyclonic storm with central pressure of 968 mb was\nobserved at 60°S-15°E on the facsimile chart received from Pretoria. The system\nwas associated with a cold front extending N-S. The expected movement of the\nstorm was eastward. Ship started experiencing very rough  weather with extremely\nhigh speed winds of the order of 55 kt with overcast skies and gradual drop\nin pressure from 1007.5 mb to 989.6 mb in 12 hours. Sea state went upto 9.\nOn 16 Dec 85, the storm had moved to position 62°S-35°E at 06Z. The\nmeteorological situation was appreciated taking into account that maximum winds\nupto 80 to 100 kt would be experienced if the ship be allowed to pass through\nthe storm. Such high speed winds with high swell and very rough seas could\ncause considerable damage to the ship's cargo which was of utmost importance\nfor the Expedition. Any damage to helos or cargo could have been detrimental\nto the objectives of the expedition. Keeping these in view, the ship's Captain\nand the Expedition  Leader were advised to change course of the ship westwards\nthereby allowing the storm to pass ahead of  the ship's earlier intended course.\nOn change to westerly course, the pressure gradually commenced  rising after a \nlittle drop in the beginning; 1003.0 mb was recorded at 062 on 17 Dec 85.\nWesterly course was maintained till 19 Dec 85, when the storm passed clear,\nand the ship's course altered back towards destination thereby saving the cargo\nand the ship from any damage. Copy of the meteorological chart with ship's\nposition duly, indicated is placed at Fig. 1.\nPassage through Thick Pack Ice\nThe minimum extent of pack ice around Antarctica is observed in March.\nFreezing of sea commences in the end of March and the area covered by the\npack ice increase until maximum in September or October—more than double\nthe area of Antarctica. The width of the ice belt around Antarctica ranges from\n600 km to 30,00 km. The ice limits normally coincide with —1.8°C sea isotherm.\nMelting of ice starts in November. However, rapid melting and retreat occur\nmainly during December and  continue till March. During  February and March,\nlarge parts of the Antarctic coast are ice free. During this period, the outer limit\nof pack ice varies from 1 to 4 degrees from the coast. It is during the  period\nNovember to March each year that ships can attempt to reach the Antarctic\ncoast. The mobility of the pack ice under the influence of  ships force, allows\nships to penetrate it. Winds and ocean currents causing the pack ice to close\nsometimes results in trapping and crushing of ships.\nMV Thuleland entered the pack ice on 17 Dec 85. On 18 Dec 85 a special\nrequest was made  to Molodezhnaya station through Dakshin Gangotri for the\n305Typical Meteorological and Oceanological Situati",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "4]Meteorolgy",
+    "subcategory": "Typical Meteorological and Oceanological Situation Encountered during the Fifth Indian Scientific Expedition to Antarctica (1985-86)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:25.709314Z"
+  }
+}

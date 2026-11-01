@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_19a",
+  "document_id": "NCPOR-A3B2C4",
+  "source_file": "RRChapter-19A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/961/1/RRChapter-19A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-19A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "285Bacterial Diversity from Schirmacher Oasis, Antarctica\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 285-292\nBacterial Diversity from Schirmacher Oasis,\nAntarctica\nLeelatulasi Salwoom, G.Y. Annie Tan and Irene K.P. Tan\nInstitute of Biological Sciences, Faculty of Science, University of Malaya\n 50603 Kuala Lumpur, Malaysia\nABSTRACT\nBacterial diversity from Schirmacher Oasis, Antarctica was assessed by 16S\nrDNA clone library analysis. The samples were collected from sites with obvious\nhuman impact and sites with low or non-obvious human impact during the austral\nsummer of 2004/2005, winter of 2005 and austral summer of 2005/2006. Analysis\nof clones from high human impact sites showed higher bacterial diversity in\ncomparison with clones from the pristine sites. About 74 different unique phylotypes\nhave been identified. Most of the sequenced clones are related to the phyla γ-\nProteobacteria , α-Proteobacteria , β-Proteobacteria , Actinobacteria , and\nBacteroidetes. Pseudomonas sp. from the γ-Proteobacteria phylum was the most\ndominant species found in the Schirmacher Oasis, occurring in the high as well as\nlow impact sites. Bacterial community profiles from three consecutive seasons were\nanalysed by denaturing gradient gel electrophoresis (DGGE).\nINTRODUCTION\nMaitri station (70°45’57\"S, 11°44’09\"E), the second Indian scientific\nstation, is located in the Schirmacher Oasis, an ice-free land mass of 35\nkm\n2 area, situated in the Central Dronning Maud Land, East Antarctica.\nThe station hosts summer and over-wintering scientific personnel\nconducting meteorological, geomagnetic, biological, geological,\nglaciological, medical, environmental, and physical research programs.\nMicrobiologists are interested to study the diversity and ecological role of\nmicroorganisms in Antarctica. Total community DNA extraction and\ncharacterisation of 16S rRNA gene libraries using culture-independent\nmethods has allowed a wide assessment on the composition of bacterial\ncommunities. Application of DNA-based methods such as denaturing\ngradient gel electrophoresis (DGGE) and 16S rRNA gene cloning has greatly\ncontributed to the expanding knowledge of bacterial compositions in the\n286 Leelatulasi Salwoom et al.\nunique Antarctica ecosystems (Aislabie et al ., 2006). This study\nincorporated both 16S rDNA clone library and PCR- DGGE to assess the\nbacterial diversity of environmental samples from Schirmacher Oasis. PCR-\nDGGE analysis was used to compare the environmental samples from three\nconsecutive seasons from Schirmacher Oasis.\nMATERIALS AND METHODS\nSampling\nSamples were collected from impacted and pristine sites of\nSchirmacher Oasis, Antarctica. Sampling for this study was carried out\nduring the austral summer of 2004/2005, winter of 2005 and austral summer\nof 2005/2006.  Impacted areas include sites surrounding Maitri Station and\nthe workshop area. The pristine sites include the Priyadarshini Lake and\nthe western and eastern part of Schirmacher Oasis. The samples were\ncollected in sterile containers and was stored at -20 ºC\nExtraction of genomic DNA and Polymerase Chain Reaction (PCR)\nGenomic DNA was extracted using the UltraClean\nTM Soil DNA\nIsolation Kit (Mo Bio). 16S rDNA clone library was constructed using\nsamples from austral summer 2004/2005. Universal primers 519f and 1492r\n(Bowman and McCuaig, 2003) was used to amplify the 16S rRNA gene\nfragment for clone library analysis. Samples from three consecutive seasons\nwere used for DGGE analysis. Universal primers 27f and 1492r (Newberry\net al ., 2004) and 907r and 341f-GC (Powell et al ., 2003) were used to\namplify the 16S rRNA gene fragment for DGGE analysis.\nCloning and Restriction Fragment Length Polymorphism (RFLP)\nPCR products of the clone library analysis were gel extracted, purified\nand cloned into pDrive cloning vector (Qiagen). This vector allows\nampicillin and blue/white colony selection. Plasmids with positive inserts\nwere extracted using the Miniprep Spin Kit (Qiagen). Clones were\ndifferentiated by RFLP analysis. Unique RFLP bands were reamplified,\npurified and sequenced. Sequences were aligned using ClustalW and\ncompared to reference sequences obtained from the GenBank using Basic\nLocal Alignment Search Tool (BLAST).\nDenaturing Gradient Gel Electrophoresis (DGGE)\nDGGE was performed using the D-Code Universal Mutation Detection\nSystem (Bio-Rad). The PCR product was analysed on 35-60% denaturant\n287Bacterial Diversity from Schirmacher Oasis, Antarctica\nFig. 1 : Research approach for the bacteria diversity from Schirmacher Oasis\n\n288 Leelatulasi Salwoom et al.\npolyacrylamide gel and viewed on an UV transilluminator. The banding\npatterns were converted into a presence/absence matrix. Multivariate\napproach using the PRIMER 6 statistical software (Plymouth Marine\nLaboratory, UK) was carried out to analyse the DGGE banding patterns.\nSimilarity matrices were then generated by Bray-Curtis similarity measure\nwith t",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "4] Biology & Environmental Sciences",
+    "subcategory": "Bacterial Diversity from Schirmacher Oasis, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:54.126682Z"
+  }
+}

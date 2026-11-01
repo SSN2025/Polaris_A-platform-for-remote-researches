@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_5a",
+  "document_id": "NCPOR-ED3177",
+  "source_file": "RRChapter-5A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/946/1/RRChapter-5A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-5A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "89Some Features of Aerosols and Pre-cursor Gases Observed ..........\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 89-109\nSome Features of Aerosols and Pre-cursor Gases\nObserved over Antarctic Region during 24th Indian\nAntarctic Expedition\nP.C.S. Devara and S.M. Sonbawne\nIndian Institute of Tropical Meteorology, Dr. Homi Bhabha Road, Pune 411 008\nTel. +91-020-25893600; Fax: +91-020-25893825; E-Mail: devara@tropmet.res.in\nABSTRACT\nThe aerosols and pre-cursor gases data sets have been utilized to investigate\nthe aerosol optical, physical and radiative properties, and their interface with\nsimultaneously measured gases. Data over the Oceanic region has been collected\non ship’s front deck. The daily mean AOD at a characteristic wavelength of 500\nnm was found to be 0.042 with an average Angstrom coefficient of 0.24, revealing\nabundance of coarse-mode particles. Interestingly, the January fluxes were found\nto be less by about 20 per cent as compared to those in February. The average\nshort-wave direct radiative forcing due to aerosols showed cooling at the surface\nwith an average value of -0.47 W/m\n2 during the study period. The total column\nozone increased from about 252 DU around 38oS to about 312 DU at 70oS, showing\na gradual increase in ozone with increasing latitude. The TCO measured by the\nsurface-based ozone monitor matched reasonably well with that observed by the\nTotal Ozone Mapping Spectrometer (TOMS) satellite sensor within 5%. Variability\nin ozone on daily scale, during the study period, was less than 4% over the Antarctica\nregion. In this report, we briefly describe the equipment deployed, data archival\nand analysis techniques and some salient results obtained from the measurements\nmade during the above period.\nINTRODUCTION\nAerosols are a minor component of the atmosphere in free troposphere\nand aloft. They mostly form due to gas-to-particle conversion processes.\nAerosols may be natural or anthropogenic in origin. The main mechanisms\nby which atmospheric aerosols are formed include break-up of materials\nand agglomeration of molecules. Once formed, aerosol may undergo\ndifferent changes caused by physico-chemical reaction processes such as\ndiffusion, coagulation, sedimentation, evaporation and nucleation.\n90 P .C.S. Devara and S.M. Sonbawne\nCoagulation process controls the smaller particle end of the aerosol size\ndistribution. The sedimentation process depends on both diffusion\ncoefficient as well as fall velocity of particles. The study of aerosols is\nimportant for various reasons. For example, (i) aerosols influence the climate\ndirectly by altering the radiative energy transfer through their optical\nproperties, and (ii) space-time variability of aerosol in homogeneities are\nneeded for environmental research.\nThe importance of aerosols on climate forcing has been very well\nestablished (Penner et al., 2001; Ramanathan et al., 2001). Aerosols can\nchange Earth’s radiation budget both directly by scattering and absorbing\nradiation and indirectly by affecting cloud properties (Russell et al., 1999).\nChanging the net flux of radiation above or within the atmosphere alters\nthe energy available for driving the Earth’s climate. Hence such a net flux\nchange is termed as radiative forcing of climate (IPCC, 1995). Particles in\nthe atmosphere scatter the incoming solar radiation and thus reduce the\nradiation flux reaching the Earth (dimming). This is known as ‘direct\nradiative effect’ and it accounts for negative forcing. Negative forcing tends\nto cool the climate and positive forcing tend to warm it. Aerosol particles,\nparticularly those with high black carbon (BC) content, are capable of\nabsorbing incoming solar radiation. While this also decreases the radiation\nflux at the surface, it heats the atmosphere locally. This heating can, in\nturn, cause a third climate forcing effect known as the ‘semi-direct radiative\neffect’; the heating of the atmosphere can suppress the local relative\nhumidity (RH) and there by reduce the change of cloud formation.\nThe polar-regions play an important role in global change studies\nbecause enhanced warming is predicted for high-latitudes as greenhouse\ngas and aerosol concentrations continue to increase in the atmosphere.\nGlobal warming is believed to be primarily due to significant increase in\nthe so-called greenhouse gases of which troposphere ozone is one important\ncomponent. Aerosols and pre-cursor gas observations over Antarctic region\nplay great role not only in the Earth’s radiation budget but provide reference\nlevels for all environmental and pollution studies due to its remoteness and\nrestricted human activities. Thus, in this region, while the total mass of the\naerosol particles suspended in the vertical atmospheric column of unit cross\nsection yields smaller values, the lower aerosol optical depth at all the\nvisible and near-infrared wavelengths is of great concern for Earth’s\nradiation budget studies. The at",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 21
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Some Features of Aerosols and Pre-cursor Gases Observed over Antarctic Region during 24th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:22.017637Z"
+  }
+}

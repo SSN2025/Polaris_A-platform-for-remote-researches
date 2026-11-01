@@ -1,0 +1,72 @@
+{
+  "id": "article_20",
+  "document_id": "NCPOR-05282C",
+  "source_file": "ARTICLE+20.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/464/3/ARTICLE+20.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+20",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 265-279 \nANNUAL CYCLE OF PERMAFROST MIGRATION IN\nSCHIRMACHER OASIS\nArun Chaturvedi1, Amar Singh1 and S. Venkateswarlu2\nGeological Survey of India\nIndia Meteorological Department\nAbstract\nThe soil in Schirmacher Oasis is poorly formed and is mostly a remnant of glacial\nmoraines. In this soil, a pit — about a metre deep — was dug and it touched the bedrock.\nFive thermistors were placed in it, at 20 cm intervals. From March' 96 to January '98, thermal\ndata were recorded on a daily basis, barring highly windy days. In these two annual polar\ncycles, 358 sets of data have been collected. The dates of the onset of summer thawing and\nthe migration of permafrost levels have been worked out; which could be useful in planning\nfor buildings and foundations. The thawing dates for deeper levels appear to be consistent,\nirrespective of surface warming dates.\nIntroduction\nMuller (1947) has defined permafrost as \"a thickness of soil or other\nsuperficial deposit, or even of bedrock, at a variable depth, in which a tempera-\nture below freezing has existed continually for a long time.\" The properties of\npermafrost vary considerably, depending on local climatic, morphological and\nhydrogeological conditions. The temperature in the upper layers of permafrost\ncrosses the freezing point, due to the influence of seasonal variations. The depth\nand the dates of these migrations are important for planning any foundation\nwork. Schirmacher Oasis is a rocky hill range of about 35 sq. km area,\nsurrounded by glaciers and polar ice sheet. The glaciers have retreated, leaving\nbehind a thin and sporadic cover of soil on an undulating terrain. The site of\nthe present study is about 50 m north of Indian Antarctic Station, Maitri\n(70°45'39\" S latitude and l l°44'4\" E longitude) in Schirmacher Oasis. It has\na cover of morainal soil of about 1 m thickness over the bedrock. The prevalent\nwinds from SE are quite persistent and do not allow the formation of any snow\ncover over the exposed study area.\n266 Arun Chaturvedi et al. \nEquipment and Methodology\nIn March 1996, a small pit was dug in the permafrost, till the bedrock was\nencountered at a depth of about a metre. Five calibrated thermistors (PT-100)\nwere installed in the pit, at regular intervals of 20 cm from the surface. The\nrange of the thermistors was -40°C to +20°C and the accuracy was ±0.1 °C. The\npit was filled up with the scooped out material to replace the original medium.\nA sixth thermistor was calibrated to record the ground surface temperature.\nSince the diurnal variations do not affect the sensors at a depth of one metre\n(Chaturvedi and Asthana, 1996), observations were taken once-a-day in the\nafternoon, on a daily basis, except on days the Antarctic blizzards precluded a \nvisit to the site.\nObservations\nDuring the 15th and 16th Indian Antarctic Expeditions, observations cov-\nering a total span of 691 days, from 11th March 1996 to 30th January 1998, have\nbeen used in the present study. The study period spreads across two polar\nwinters. The constraints of Antarctic weather permitted 358 days' observations\nduring this time. On each observation day, thermal data from 6 thermistors were\nrecorded; However, late in August 1997, the bottom-most thermistor (at 100\ncm depth) developed some mechanical fault and the data from this thermistor\ncould not be recorded thereafter. The day-to-day observations have been\npresented in Table-1. The temperatures of two polar cycles have been com-\npared for their amplitudes in Table-2 and the dates of thawing have been\npresented in Table-3.\nDiscussion and Conclusions\n1. From Table-2 and Fig.1, the comparison of minimum and maximum\ntemperatures of the two polar cycles shows that the amplitude of\nvariation was much more in year 1996-97 than 1997-98, both for colder\nas well as warmer limits. However, as the depth increases, the differ-\nences in the two cycles taper out and at 100 cm depth, both the cycles\nshow a uniform-16oC.\n2. The annual average temperature also goes down with depth, but the\nmean values for the depths of 40, 60 and 80 cm are almost a uniform\n-7.3°C. The 100 cm depth is slightly colder with a mean value of -7.5°C,\nwhile the 20 cm depth is warmer with a mean of -6.7°C.\n3. It is seen that the annual average temperature for the ground surface is\n-5.7°C. Rasal and Mahor of IMD, in this publication, have\nannounced an annual mean temperature of -8.4° C for Maitri station.\nDate\n11-Mar-96\n12-Mar-96\n14-Mar-96\n15-Mar-96\n16-Mar-96\n17-Mar-96\n18-Mar-96\n19-Mar-96\n20-Mar-96\n21-Mar-96\n22-Mar-96\n23-Mar-96\n25-Mar-96\n26-Mar-96\n28-Mar-96\n29-Mar-96\n30-Mar-96\n02-Apr-96\n03-Apr-96\n04-Apr-96\n05-Apr-96\n07-Apr-96\n08-Apr-96\n09-Apr-96\n10-Apr-96\n12-Apr-96\n13-Apr-96\n14-Apr-96\n16-Apr-96\n17-Apr-96\n20-Apr-96\n21-Apr-96\n22-Apr-96\n23-Apr-96\n24-Apr-96\n25-Apr-96\n26-Apr-96\nSeq-day\n1\n2\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n15\n16\n18\n19\n20\n23\n24\n25\n26\n28\n29\n30\n31\n33\n3",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "4]Earth Sciences",
+    "subcategory": "Annual Cycle of Permafrost Migration in Schirmacher Oasis",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:00.637342Z"
+  }
+}

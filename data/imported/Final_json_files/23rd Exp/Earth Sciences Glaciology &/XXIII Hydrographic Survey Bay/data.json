@@ -1,0 +1,72 @@
+{
+  "id": "pages_155_159",
+  "document_id": "NCPOR-D670E1",
+  "source_file": "Pages+155-159.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/927/1/Pages+155-159.pdf",
+  "bibliographic": {
+    "title": "Pages+155-159",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "23] Scientific Report of Twenty Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Third Indian Antarctic Expedition\nMinistry o f Earth Sciences, Technical Publication No. 21, pp 155-159\nXXIII Indian Antarctic Expedition Hydrographic  \nSurvey—India Bay\nPrashant K. Srivastava & Siva R.K. Kopalli\nNational Hydrographic Office, Dehradun\nINTRODUCTION\nThe Hydrographic Survey of India Bay, Antarctica HI/NHO/01/2003- \n04 was undertaken during the X X IIIIA  expedition from 05 Dec 03 to 30 \nMar 04. A total of 310 nautical miles of sounding was carried out by the \nexpedition team. Apart from the bathymetric survey, current, salinity and \nsound velocity observations were also carried out during the expedition at \nvarious places. CTD probe was employed for data collection for the first \ntime during the survey. The 150 NM ice shelf around the India Bay was \ndelineated using System GPS 200 on K inem atic in the Fly mode. \nMeteorological observations were also carried out during the survey.\nGEODETIC CONTROL\nHorizontal control for the entire survey was established in WGS 84 \nDatum and plotted on Mercator Projection with scale true at 66° S. GPS \ncoordinates as directly obtained from the ship fitted GPS “Trimble Navtrac \nXL” were used for sounding. No control was established for this purpose. \nHowever, the output of the ship fitted GPS set was compared with the \nLeica GPS 200 available with the survey team and positions were found to \nbe acceptable. The following existing station was recovered and used for \nextension of Geodetic Control. The coordinates of the station in WGS 84 \nDatum are as follows:\nStn.Id Station Name Latitude Longitude Ell Height Source\n(in M)\nA Maitri S  70° 45' 51\".730 117.068 HI/NHO/01/2003-04\nE 11° 44' 02\".570\n\n156 Prashant K. Srivastava & Siva R.K. Kopalli\nBATHYMETRY\nThe bathymetric survey was undertaken using the ship fitted echo \nsounder. Two Russian made echo sounders were available onboard. Model \nM4 designed for measuring depths up to 35 m and model NEL M3B for \nmeasuring depths up to 500 m. These instruments are analogue in nature \nand have no digital output to log the data in an Automated Survey System. \nIn view of this, the data recorded was manually extracted from the analogue \necho trace using manually graduated scale and corrected for draft and \ncalibration. The sound velocity was fixed at 1500 m/s on the echo sounder \nand used for depth data collection. As all the soundings were more than \n200mtrs, they were then corrected for index error of the echo sounder, \nships draught and sound velocity using the Nautical Publication 139 echo \nsounder correction tables for Antarctic region. The sounding lines were run \nat approximately 1  cm apart on scale the scale of survey (1 :  200,000), \nperpendicular to the depth contours. A cross line was also run in the area. A \ntotal of 310 Nautical miles of sounding was completed in areas designated \nas A, B and C on chart INT 9051.\nCOASTAL TOPOGRAPHY AND TOPOGRAPHICAL FEATURES\nDelineation of the complete ice shelf was carried out on 15 Mar 04. \nThe ice shelf was surveyed using the integral helicopter at an average speed \nof 80 knots and height o f200 feet was maintained during the operation. The \ndata was logged on Leica GPS 200 in Kinematic on the Fly mode. The GPS \ndata of the IGS Station, DAVIS (Australia) was used as reference for \nprocessing the logged data. This station was used for baseline measurements \nto the ice shelf. The entire GPS data was processed in baseline mode using \nSKI version 2.3. The graphical representation of the complete ice shelf \nfrom 11° E to 14° E was plotted on a scale of 1:50 000 (enclosed figure) for \nstudying the changes in the ice shelf. The coast or the ice shelf is totally \nbarren and desolate. The ice cliff forms the seaward edge of the ice shelf. \nIn most locations it is about 10-15 metres above waterline. Extreme caution \nneeds to be exercised while moving on the shelf by foot or motorized vehicle. \nThese cliffs are extremely dynamic features and are prone to breaking off \nand separating. Although they paint distinctively on radar, they become \nvisually distinct only on melting of the fast ice in the summer. There is no \nplantation or vegetation even during the summer. The only feature that at \ntimes is visual during the summer months are some crevasses. There are \nno conspicuous objects along the coast falling within the survey area. \nHowever, there are numerous containers lying at the Indian and Russian\n\nXXIII Indian Antarctic Expedition Hydrographic Survey-India Bay  15 7\nDischarge Points on the ice shelf at Indian and Russian Bay respectively. \nThese can be used as general guideline, but not for any position fixing, since \nthe containers are moved by the Expedition members for route marking or \nback loading as and when the requirement arises. Graphical representation \nof the newly acquired ice shelf data is shown below :\nArea ‘A’ and ‘C ’:  During the course of survey, it was found that the \n500 meter contour in area ‘A’  has shifted south wards by approximately 5.0 \nmiles in the centr",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences, Glaciology & Global Change",
+    "subcategory": "XXIII Indian Antarctic Expedition Hydrographic Survey- India Bay",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:34:16.861152Z"
+  }
+}

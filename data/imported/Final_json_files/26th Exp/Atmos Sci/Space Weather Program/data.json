@@ -1,0 +1,72 @@
+{
+  "id": "129_157_pg",
+  "document_id": "NCPOR-598425",
+  "source_file": "129-157+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1049/1/129-157+pg.pdf",
+  "bibliographic": {
+    "title": "129-157+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "129\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 129-157\nSpace Weather Program at Antarctica\nR. Tiwari*, P. K. Purohit and A. K. Gwal\nDepartment of Physics, Barkatullah University, Bhopal, India\n*School of  Electrical and Electronic Engineering, Newcastle University, UK\nABSTRACT\nThe use of GPS (Global Positioning System) in diverse areas such as\nsurveying, enroute navigation and precision approach of aircraft, deformation\nmonitoring, and various land/marine navigation applications necessitate high\naccuracy and availability. In the presence of time varying irregularities in\nionospheric degrades the performance of the GPS receiver. During 26\nth ISEA\n(Indian Scientific Expedition to Antarctica), the effect of ionospheric irregularities\non GPS performance were studied. This include, standalone GPS receiver\npositioning at Maitri, a real time kinematic position on board ship in auroral\nstorm region. The study shows strong evidence of ionospheric activity affecting\nGPS performance in high latitude during auroral storm period.\nINTRODUCTION\nThe Earth’s atmosphere is composed of various gases; these gases\nundergo a process of ionization during the interaction of solar energetic\nparticle with it. This increases electron density in the ionosphere.\nHowever, the ionization phenomenon is prominent in day-time, while the\nrecombination process occurs in night-time. As a consequence, the\nelectron density in the ionosphere is not uniform all the time. Having\nsaid, electron density of Earth’s atmosphere does depend on the interaction\nof solar energetic particles as a result the electron density differs with the\ndifferent geomagnetic latitude. Generally, based on some of the similar\nbehaviour of ionosphere, the Earth’s ionosphere is divided into three\ngeomagnetic regions; the low-latitude region (ranges up to ±30º); the\nmid-latitude region (ranges between 30º and 55º N or S); and the high-\nlatitude region (above 60º N or S).\nIn geomagnetic low latitude region, there exist many responsible\nmechanisms for electron density generation such as; (i) equatorial\n130\nElectrojet; (ii) electrodynamic lifting; (iii) equatorial ionosphere effect\ncalled the Fountain Effect (electron density is minimum at the geomagnetic\nequator while from ±10º to ±20º of the equator, and the strongest effect\nis around ±10º [Basu et al., 1988]); (iv) high-latitude effect on low\nlatitude (direct effect of inter-magnetic fields [IMFs]). Nishida ,[1968]\nstudied a correlation between the IMFs and equatorial electrojet\nproduction. Besides, it varies with solar cycle and day to night; it is\nmaximum around 1400 LT, furthermore second large peak in the late\nevening during the solar maximum period.\nThe mid-latitude region is least ionospheric disturbed region.\nHowever, there are some significant events and mechanisms responsible\nfor enhancing ion density in mid latitude region as well, like, the Sub-\nAuroral Ion Drift (SAID), which is associated with auroral storms during\nenhanced geomagnetic activity. The basic structure of an auroral storm\nis oval and it expands equatorward based on the intensity of geomagnetic\nstorm, thereby transferring ionized energy from high-latitude to mid-\nlatitude regions. The SAID drift with velocity greater than 1 km/sec is\nSAID [Rodger et al.,  1992], with this threshold, the recombination rate\nof oxygen [O] more than doubles. Thus, with the frictional heat developed\ndue to the recombination process, the ion flow is induced upward,\neventually creating a trough in the E layer of the ionosphere. However,\nthe probability of its occurrences is well correlated with the strength of\ngeomagnetic storms [Collis and Haggstrum,1988]. The ionospheric trough\nat mid-latitude is a night-time phenomenon; it extends for a few degrees\nin latitude during the dusk sector.\nThe geomagnetic high latitude region is above 60º on either side of\nthe pole, further it is subdivided into three latitudinal ranges; i) auroral\nregion (59º - 72º N or S); ii) sub-auroral region (49º - 59º N or S); iii)\nPolar region (above 72º in N or S). The source of high latitude ionization\nis the interaction of solar energetic particle through the Earth’s magnetic\nfield lines. The Earth’s magnetosphere protects the Earth from high\nthrust of solar wind, although the Earth is exposed to the interplanetary\nmagnetic field (IMF) which lies in the helispheric equatorial plane\n(see Figure 1). The orientation of IMF plays very important role in\nletting solar energetic particle into the Earth’s atmosphere. Figure 1\nillustrates the sketch of solar energetic particle interaction with the\nEarth’s atmosphere, in the Figure 1-A, the flow of solar energetic particle\nR. Tiwari, P . K. Purohit and A. K. Gwal\n131\nindicated by solid arrow from day sector is drifted towards the night\nsector, elongating along the magnetic field lines termed magneto-tail.\nThe energetic particle reconnects the open Earth’s magnetic field and the\nenergy is trap",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 29
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Space Weather Program at Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:00:39.401913Z"
+  }
+}

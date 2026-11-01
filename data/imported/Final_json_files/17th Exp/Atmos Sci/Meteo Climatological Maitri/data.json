@@ -1,0 +1,72 @@
+{
+  "id": "article_2b5",
+  "document_id": "NCPOR-3D14C9",
+  "source_file": "ARTICLE%2B5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/515/3/ARTICLE%2B5.pdf",
+  "bibliographic": {
+    "title": "ARTICLE%2B5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development. Technical Publication No. 15, PP 51-62 \nMETEOROLOGICAL & CLIMATOLOGICAL\nSTUDIES AT MAITRI, ANTARCTICA\nB. N. Vishnoi* & Manmohan Singh**\nINDIA METEOROLOGICAL DEPARTMENT\n*Weather Radar Station, Jaisalmer & **Meteorological\nCentre, Cahndigarh\nAbstract\nAntarctica continent influences the general circulation pattern over\nthe globe and is supposed to provide s ignificant forcing to the future\nclimate changes due to its huge ice shield covering most part of the\ncontinent. Weather over Antarctica is a real challenge to the\nmeteorologist participating in the Indian Scientific Expedition. A \npermanently manned meteorological observatory equipped with the\ninstruments to monitor weather system exist at the Indian Antarctic\nstation MAITRI and continuous meteorological parameters were recorded\nduring 17th Expedition from Jan.98 to Dec. 98. During the XVII\nIndian Scientific Expedition, installation of a snow gauge was done\nfor measuring the snow collected during snowfall/bizzard days. In this\nreport data pertaining to surface weather parameters i.e. the\natmospheric pressure, temperature, wind direction, wind speed, cloud\nsnowfall, global radiation, surface ozone an d vertical distribution of\nozone are presented and  discussed. Number of aurora days & blizzards\nobserved during the year are als o described.\n52\nB. N. Vishnoi & Manmohan Singh \nIntroduction\nIndia M eteorological Department has been continuously\nparticipating in all the Antarctic Expeditions, s ince the first\nExpedition. This is an ongoing programme of recording and\nanalysing the meteorological data during their stay at Maitri.\nDuring the 17th Expedition a new programme i.e. the installation\nof snow guage was included for measuring the snowfall during\nwinter and bizzards. Standard equipments and procedures\napproved hy World Meteorological Organisation (WMO) are being\nfollowed for meteorological data collection. Th e synoptic weather\ndata recorded at main hours is als o transmitted over Global\nTelecommunication System (GTS) on real time basis for the use of\nweather forecasting.\nScientific Objectives\nScientific objectives of the meteorological programme during\nXVII IAE was to s tudy the following meteorological parameters : \na) Daily, seasonal and annual variation of atmospheric pressure,\nsurface air temperature, surface ozone snowfall and clouds.\nb) The changes in weather parameters with reference to the\nspecific synoptic situations.\nc) The radiation budget\nd) Monitoring and archival of information through weather\nsatellites and HF radio broadcasts regarding weather system\naffecting the Indian station Maitri.\ne) Atmospheric turbidity in Antarctica\nf) Balloon borne measurement of the vertical profile of ozone\nover Maitri to s tudy the nature of ozone hole over Antarctica.\nObservational Programme\nTo achieve the above objectives the programme was devided into\n3 main groups.\nMeteorological & Climatological Studies \n53\na) Synoptic observations during onward and return cruise\nb) Surface observations and upper air observations  at Maitri\nc) Radiation observations\n(a) During onward cruise by ship, MV Polar Bird, observations\nwere taken eight times a day, at three hourly intervals, w.e.f. the\nfirst synoptic hour from the day of departure from Goa\n(b)The occurrence of ozone hole is the burning topic of the\npresent environmental science over the globe. The cause of ozone\nhole is basically due to the formation of the winter circumpolar\nstratospheric vorte x over Antarctica, which prevents the air\nexchange with the mid-latitudes. Due to absence of s olar radiation\nthe temperature inside the vortex goes below -80°C during polar\nrights. This situation favours the generation of polar stratospheric\nclouds (PSC) containing ice particles and accumulation of Chloro-\nFluoro-Carban (CFC)  compounds. With the return of the sunlight\nin the early spring these reservoir compounds are converted into\nactive chlorine, bromine species on the surface of the PSC's which\nbreak the ozone molecules.\nFollowing ozone sounding and radiometer soundings were carried\nout with Indian electrochemical ozone sondes and  radiometer s onde\nrespectively\na) 47 number ozone sonde ascents\nb) 12 number of  radiometer sonde ascents\nWeather forecasting in  Antarctica is a challenging job with\nlimited resources available at the station . Even then, very good\nweather outlooks were given for all scientific outdoor activities.\nMembers were briefed about the weather before undertaking\nconvoys and other field activities.\nTo achieve the above, continuous imageries as well as HF-Radio\nweather charts transmitted by  Pretoria were very helpful tool for\nforecasting the weather. IMD team also carried out/contributed to\nthe following additional work during their stay at Maitri.\n54\nB, N. Vishnoi & Manmohan Singh \n(i) Regular maintenance of IMD-equipments and repair\nwherever required,\n(ii) Group activities of the station.\nResult ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Meteorological & Climatological Studies at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:05.921934Z"
+  }
+}

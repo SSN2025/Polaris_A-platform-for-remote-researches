@@ -1,0 +1,85 @@
+{
+  "id": "a-note-on-the-refrigeration-system-at-maitri-ncpor-31979e",
+  "document_id": "NCPOR-31979E",
+  "source_file": "ARTICLE+34.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/479/3/ARTICLE+34.pdf",
+  "title": "A Note on the Refrigeration System at Maitri",
+  "year": 1999,
+  "expedition": "15th Indian Antarctic Expedition",
+  "category": "Logistics / Expedition Operations",
+  "subcategory": "A Note on the Refrigeration System at Maitri",
+  "bibliographic": {
+    "title": "A Note on the Refrigeration System at Maitri",
+    "authors": [
+      {
+        "name": "Fifteenth Indian Expedition to Antarctica",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      },
+      {
+        "name": "Scientific Report",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      }
+    ],
+    "expedition": "15th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1999,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 409-411 \nA NOTE ON THE REFRIGERATION SYSTEM\nAT MAITRI\nP.K.Deyand P.Y.Dabeer\nResearch & Development Establishment (Engineers)\nDifferent types of foodstuff stocked at Maitri require different temperatures\nfor preservation. There are seven deep freezers housed in B-block loft. Two\nwalk-in type deep freezers are housed in the terminal portion of A-block. For\nthe last three winters, it was observed that cooling units of the walk-in type deep\nfreezers malfunction and have to be replaced by new ones. Four such units were\nbackloaded for repairs.\nProblem Identified\nThe deep freezing units, which are fitted with walk-in type cold chamber\nare housed at the extreme end of the A-block. It was observed that during polar\nwinter, the ambient temperature of cold-chamber surroundings drops below\n-10° C. The refrigerant R-502 is affected by exposure to the extremecold, which\ndoes not allow it  to convert to gas. The behaviour of- R-502 at different\ntemperatures is shown in Fig.l. The set temperature of the cold chamber is\nBehaviour of R-502 (Refrigerant) at different temperature\nPressure lab/Sq inch\nTemperature deg C \nFig.\n 1 \nMODIFICATION ON WALK -IN TYPE\nDEEP FR EEZING UNIT\nAT ANTARCTICA\n410 P.K. Dey & P.Y. Dabeer \nAMBIENT TEMP - 15 ° C \nFREEZER\nUNIT\nFOOD STORAGE\nAIR\nBLOWER\nFig. 2 \ncold air\nBLOWER\nA Note on the Refrigeration System at Maitri 411\nnever attained, so the compressor runs continuously. Thus, the compressor is\noverloaded and malfunctions.\nRectification\nIn the month of March 96, a wooden ventilation system (Fig.2) was\ndesigned and fabricated, which traps the heat discharged by the compressor of\nt h e freezer unit. This way, the dissipated heat is recycled to keep the surrounding\ntemperature of the unit around +15°C to +30°C and any excess heat beyond\n+30° C is discharged by the ventilation fan. Throughout the year, the function-\ni n g of the deep freezer unit was recorded and it worked satisfactorily. The\ntemperature of the unit always remained under control. This modification will\nincrease the life of the walk-in deep freezer unit in A-block.\nAcknowledgements\nWe acknowledge the help and moral support extended by the Leader of the\n15 th  expedition, Shri Arun Chaturvedi and all the members of the team. We\nalso extend our thanks to the logistic team for their help in completing the\nlogistic assignments. We give special thanks to our Director, Shri M.R. Joshi,\nfor his valuable guidance and moral support.",
+    "summary": "During the 15th Indian Antarctic Expedition, scientists conducted logistics / expedition operations investigations focused on \"A Note on the Refrigeration System at Maitri\". walk-in type deep freezers are housed in the terminal portion of A-block. These findings from Maitri provide vital baseline evidence for understanding polar environmental dynamics.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "Logistics / Expedition Operations",
+    "subcategory": "A Note on the Refrigeration System at Maitri",
+    "tags": [
+      "logistics-expedition-operations",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Logistics / Expedition Operations discoveries from 15th Indian Antarctic Expedition: \"A Note on the Refrigeration System at Maitri\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Department of Ocean Development, Technical Publication No.",
+      "page_number": 1,
+      "section": "Abstract / Introduction"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:10.560739Z"
+  }
+}

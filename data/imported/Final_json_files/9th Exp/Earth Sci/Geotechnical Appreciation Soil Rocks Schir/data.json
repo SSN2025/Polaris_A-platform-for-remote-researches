@@ -1,0 +1,72 @@
+{
+  "id": "article_14",
+  "document_id": "NCPOR-180F6B",
+  "source_file": "ARTICLE+14.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/355/3/ARTICLE+14.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+14",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica Scientific Report, 1994 \nDepartment of Ocean Development Technical Publication No 6, pp 195-207 \nGeotechnical Appreciation of Soil and Rocks of Schirmacher\nHills, East Antarctica\nR.C. PATHAK\nR&D.E. (Engrs)\nDefence Research & Development Organisation Pune\nAbstract\nIndian permanent station, Maitri was constructed during Seventh (1987-88) and Eighth (1988-\n89) Indian Antarctica Expeditions. A concerted effort towards geotechnical appreciation of the area\nwas made during present Expedition by evaluating the physical and strength properties of soil and\nrocks around the station. These geotechnical parameters achieve significance in so far as the founda-\ntion, water management and waste disposal systems are concerned.\nIntroduction\nThe Indian permanent station 'Maitri' (70°S, 11°45'E), situated on the Schirmacher Hills\nof East Antarctica, is our farthest outpost and gives us a sense of pride as it is f ully\nconstructed out ot indigenous resources. The station has been functioning smoothly since\nits commissioning in the austral summer of 1988-89 and has withstood the test of the time\nDuring the IX expedition the author undertook studies to check the durability and structural\nstability of the station. A systematic  geotechnical appreciation was carried out by testing soil\nand rocks and analysin g norms for rheological deformation. Hitherto very scanty data was\navailable about soil an d rocks of  Schirmacher Hills (Joshi  et al. , 1988, Mukherjee et al.,\n1988). The various physical tests on soil and rocks samples, and their strength parameters\nalongwith the engineering and  geological properties, bring out the salient characteristics\nabout stability of  the structure.\nExperimental Programme\nRepresentative samples of soil and rocks from Green House and Priyadarshini Lake area\naround Maitri, Schirmacher as also  the rock samples from Gruber massif area, were\ncollected. Data on some sub-surface profiles and morphometry of the  terrain were analysed\nto arrive at  applied geomorphological norms.\nThe rocks and soil of Central Dronning Maud Land Area come under \"Coastal Oasis\nGreater\" Antarctic zone. Normally, Antarctic climate is cold and arid with poor moisture\ncontent. The moisture content of soil has played an important role in weathering, especially\nchemical and frost-heaving actions etc , which is vital to the terrain and building, pavement,\nfoundation design etc. At Schirmacher, the soil is of glacial origin. Generally, grey soil of\n196 R.C. Pathak \nsandy gravel composition, lacking in organic material is found. As is observed, the soils are\nprincipally glacially derived and vary from fine silts, sands  and sometimes clay to coarse\ngrained soil comprising gravel and stones. Much of the soil is of recent origin. Periglacial\nfeatures ranging from gelifluction/solifluction lobes to a variety of patterned ground (stone\nstripes, polygons,) are common with presence of permafrost phenomenon. All patterned\ngrounds appear on glacial till or fluvioglacial deposits which are at  least 1000 years old\n(Bonner et al.,  1985; Walton, 1987).\nFig.1. Schematic layout of Maitri, Antarctica. \nGeotechnical Appreciation of Soil and Rocks . . . \n197\nThe various physical tests, index and strength properties of soil and rocks have been\ncarried out according to IS and prevailing code of practice specifications.\nTerrain Evaluation \nSchirmacher hills expose various types of metamorphic rocks like streaky gneiss, augen\ngneiss, garnet biotite gneiss, banded gneiss, migmatitic coarse grained gneiss, lit-par-lit\ngneiss etc. (Sengupta 1986, Singh 1986). A schematic layout of Maitri station is given in\nFig. 1, which covers all the constructional activities till IX Expedition. The general lie of the\nterrain is boulderous with varying sizes of boulders. The area is sloping in a general S-N\ndirection i.e. the glacier front is of higher relief than the Maitri station and the lacustrine\narea. The Schirmacher Hills have many lakes of different dimensions. The two bigger lakes\nare located at Maitri (Priyadarshini) and the other near Russian Station (Novolazrevskaya).\nBoth lakes have been tapped for drinking water by Indian and Russian stations respectively.\nThe VIII Expedition Winter team had tried to construct a track joining Indian and Russian\nStations, a distance of approximately 5 kms, by dozing down the boulders The track is only\npartly complete upto a distance of 2 kms from Indian side the rest of the track could not be\ncompleted due to technical problems. An appreciation of boulderous terrain can be had by\nFig.2 which depicts boulders, bigger than 1 m dia. around Maitri station. Many rock\nshattering phenomena, due to frost action have been noted. Typical sorted polygons/circles\n(Fig.3) and non-uniform stripes have been observed especially near the lakes where mois-\nture is present. Stone flow (Kurums) have been noticed at places. The Schirmacher Hill and\nadjoining Humboldt mountains are the typical examples of per",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "5]Earth Sciences",
+    "subcategory": "Geotechnical Appreciation of Soil and Rocks of Schirmacher Hills, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:26.421284Z"
+  }
+}

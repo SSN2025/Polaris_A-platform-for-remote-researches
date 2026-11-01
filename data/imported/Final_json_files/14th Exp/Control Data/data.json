@@ -1,0 +1,72 @@
+{
+  "id": "t_p_no12",
+  "document_id": "NCPOR-4C06BC",
+  "source_file": "T.P.+No12.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/785/1/T.P.+No12.pdf",
+  "bibliographic": {
+    "title": "T.P.+No12",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Document Control Data Sheet \nRR No. 12 \nSl. No   \n1 Name of the institute \n \nNational Centre for Antarctic & Ocean \nResearch \n2 Document number  \n \nNCAOR RR. No.-12 \n3 Date of publication \n \n1998 \n4 Title of the document\n  \n \nScientific Report of Fourteenth Indian \nExpedition to Antarctica \n5 Type of Document* \n \nRR \n6 No. of pages & \nfigures \n \nxxxii, 360pgs \n7 Number of \nReferences \n \n- \n8 Author (s) \n \nMembers of Expedition No. 14th, RR No. 12 \nEdited by- Dr. S.D. Sharma, NPL, New Delhi \n& DOD, New Delhi \n9 Originating Unit \n \nNCAOR, Project (Antarctic Science) \n10 Abstract (100 words) \n \nThis Scientific Publication consists of various \nArticles from different disciplines of Polar \nScience. The data used for the report was \ncollected during the Fourteenth Indian \nScientific Expedition to Antarctica. \n11 Key words  \n \nAtmospheric Sciences, Earth Sciences, Bio- \nSciences, Engineering, Medical Sciences, \nLogistics. \n12 Security \nclassification \n \nOpen \n13 Distribution  \n \nUnrestricted",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 1
+  },
+  "taxonomy": {
+    "category": "Document Control Data Sheet",
+    "subcategory": null,
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:27.331264Z"
+  }
+}

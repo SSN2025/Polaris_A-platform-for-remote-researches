@@ -1,0 +1,72 @@
+{
+  "id": "article_4_1",
+  "document_id": "NCPOR-811581",
+  "source_file": "ARTICLE+4_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/375/3/ARTICLE+4_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+4_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 43-53 \nInteresting Features of Infrasonic Pressure Variations at Maitri,\nAntarctica\nA.K.HANJURA AND R.VENKATACHARI\nNational Physical Laboratory, New Delhi\nAbstract\nA microbarograph, set up by NPL, was used to study the features of the infrasonic pressure\nvariations at Maitri, Antarctica. A few interesting features are described and possible linkage of\ninfrasonic pressure variations with temperature changes in the stratosphere is suggested.\nIntroduction\nThe tenth Indian Antarctic expedition (1990-92) carried out various experiments\nwith ground based instruments at Maitri (70° 46'S, 11° 44'E). One of the ground\nbased instruments was a microbarograph set up by National Physical Laboratory\nprimarily to study the coupling between different layers of the atmosphere. The\nmicrobarograph is a condenser microphone type having a frequency response 0.001\nto 2 Hz. This is the first time that microbarograph data for Antarctica was available\nfor one full year. Based on limited data of the earlier expeditions, some features of\nthe infrasonic pressure variations at Antarctica have already been reported\n(Venkatachari et al.,1984; 1987).\nIn this paper we are reporting the general features of infrasonics that are observed\nat Antarctica with special emphasis on wave motions observed there, especially in\nthe month of October 1991, which may bear indirect evidence of temperature\nchanges in the stratosphere.\nGeneral Features\n1. Based on an annual temperature variation, there are only two main seasons in\nAntarctica viz., summer and winter (though one can interpose 4 seasons due to\ntransition periods between these two main seasons). During summer (December to\nFebruary), the highest temperature recorded at ground was 8.2°C and the lowest\n-20.7°C while during winter maximum recorded temperature was 1.4°C and the\nminimum was -30.6°C (Hanjura, 1992). During summer the infrasonic pressure\n44 A.K. Hanjura et al. \nvariations show larger amplitude due to convective heating as is found in tropics. In\nwinter, due to lack of heating the amplitudes are small (Figs. 1 & 2).\n2. Over Maitri, wind speeds were of a variable nature. Prolonged spells of light\nwinds were interposed with the spells of high winds. Windy records were observed\ncontinuously on many days in Maitri.\n3. Blizzards were not observed during the months of January, February, August\nand December 1991. The maximum wind speed observed during a blizzard was 74\nkts. (Hanjura, op cit.).\n4. In conformity with our earlier results (Venkatachari et al.,1987 & Srivastava\net al.,1982) the infrasonic records are normally agitated on magnetically disturbed\ndays, especially in summer. Since this aspect was discussed earlier, it is not found\nnecessary to elaborate it.\n5. Infrasonic wave motion was seen on many occasions throughout the year. A \ncareful scrutiny of records shows that these waves were mostly observed in April\n(before the onset of Antarctic winter), sometimes during the winter seasons and\nafter the winter as well. Some representative diagrams are shown in Figs. 3 & 4. It\nappears that a change in temperature was responsible for generating these waves in\nApril 1991. The possibility of a sub-storm triggering the wave motion is also there\nbut in the absence of a detailed data on daily temperature variation or sub-storm\nactivity at Antarctica, it is difficult to say as to why these wave motions are observed\nonly on some days and not on other. Perhaps a sub-storm would have triggered the\nwave motion in winter (Fig. 4) when the change of temperature is not considerable.\nInteresting Features\nA very interesting feature was seen in the infrasonic records during October\n1991. This is a time when sunshine is increasing (0200 to 2200 hrs) after winter.\nAfter October 25, there was sunshine round the clock. Throughout this month wave\nmotion is seen in infrasonic records unless they are modified by winds.\nIn Fig. 5, it can be seen that around 2000 hrs. UT (3rd October '91), a wave\nmotion is triggered apparently by a shock wave and then goes on with reduced\namplitude.\nThe stratospheric (100 mb, 15 km) temperature starts decreasing rapidly from the\nend of April and maintains at -80°C from June to September. When the Antarctic\nsummer starts by the end of September, chemical reaction takes place and the ozone\nhole is formed (W.M.O, 1989) around first week of October. In 1991, it was around\n5th October (Chandra, 1992). With the increase in temperature, when the strato-\nspheric clouds disappear, ozone hole recovery starts and the whole process\n(formation to recovery) takes only 15 days.\nInteresting features of Infrasonic Pressure ... 45\nFig.1, Infrasonic pressure variations at Maitr i during summer (5 .1.1992\n46 A.K. Hanjura et al. \nFig. 2. Infrasanic pressure variations at Maitri during winter (24.6.1992). \nInteresting features of lnfrasonic Pressure... 47\nFig. 3. I nfrasonic p",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Interesting Features of Infrasonic Pressure Variations at Maitri,Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:51.506127Z"
+  }
+}

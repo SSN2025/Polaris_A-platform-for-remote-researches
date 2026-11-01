@@ -1,0 +1,72 @@
+{
+  "id": "article_4",
+  "document_id": "NCPOR-6B3218",
+  "source_file": "ARTICLE+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/567/3/ARTICLE+4.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 33-40 \nReconstruction of Palaeoclimate from\nHolocene Sequences of Lake Sediment\nSchirmacher Oasis, East Antarctica\nS. K. Bera\nBirbal Salmi Institute of Palaeobotany, Lucknow- 226007\nAbstract\nPollen analysis of twenty  moss turfs and Antarctic soil samples collected in and\naround Schumacher Oasis, East Antarctica has been carried out in order to elucidate the\ninterplay of pollen and spores deposited in the sediments. The occurrence of different\npollen-spore types reflects their long distance transport ranging from tropical to temperate\nfloristic regions around Antarctic mainland. The palynological study of a 60 cm sediment\nprofile from Priyadarshini lake under 6 meter water column reflects three-fold climatic\noscillations viz., arid, warm & humid and warm & more humid since last 8000 years BP.\nThe maiden palynologica l data has provided an insight into the  potential of the further\npalaeoclimatic work in the region.\nIntroduction\nThe study area, Schumacher Oasis, is one of the small ice-free polar\nrocky hill near the shore of East Antarctica with a maximum width of 2 \nkm and a length of about 18 km in east-west direction. Its size is\napproximately 35 sq km. The lakes, ponds and pools cover a large area\nrepresenting essentially part of the surface water. The elevation of the oasis\nranges between 0-228 m with an average of about 100 m above the msI..\nThe gentle slopes and plains are covered with a thin blanket of morainal\ndebris.\nThe continent's hostile climate precludes most terrestrial life: mosses\nand lichens are the most widespread vegetation where the ground is exposed\nand moisture is available. In the Schirmacher Oasis the Precambrian\ncrystalline basement of East Antarctic platform is exposed over an area of\nabout 30 sq km. The poly-metamorphic rock sequence consisting\ndominantly of biotite-garnet gneiss and pyroxene bearing granulites with\nminor intercalation of marbles and calc-silicate rocks, ultramafics,\namphibolites and other metabasites is traversed by a number of distinctly\n34\nS.  K.  Bera\nyounger amphibolite/dolerite dykes. The rocks have undergone multiple\nepisodes of metamorphism, migmatization and deformation.\nFloristically Antarctica is almost barren and is restricted to only two\nexisting known vascular plant spp. Deschampsia antarctica (Fam. Poaceae\n50%) and Colobanthus quitensis (Fam. Caryophyllaceae 10%), apart from\nMosses Polytrichum alpinum (20%), Drepanocladus uncinatus  (10 %),\npreponderance of aquatic algae and luxuriant growth of various lichens\non exposed rocky stratum. The main objective of the present work is to\nunderstand the distribution of palynodebris through the study of various\nAntarctic surface sediment in the first phase and subsequently t h e\ntransmitted proxy data could be used in deciphering Early Holocene climatic\nchanges in lake sediments. Hitherto no palynological studies were reported\nfrom the region so far. Moreover, transport of exotic palynomorps into\nthe Antarctic region has been investigated by Kappen and Straka (1988),\nSmith (1991), and Wynn Williams (1991). First pollen diagram w a s\npublished from Antarctica (King George Island, South Shetland Island) b y\nVan der Knaap et al. (1993).\nMaterials and Methods\nTo achieve the target many potential areas were explored to procure\npalynological samples including moss turfs, frozen soil samples e t c . from\ndifferent lake sites, valleys, in and around Schirmacher Oasis of East\nAntarctica (Fig.l). Two sediment profiles (50-60cm) were collected from\n\"Priyadarshini Lake\" (70°45'39.4\"S : 11°44'48.6\"E ) during t h e 19\nth\nexpedition forpalynostratigraphical studies. Sediment profile samples were\ncollected in the interval of 5 cm in each case, using a HYDROBIOS gravity\ncorer (Kiel, Germany) for palynological studies; and for the radiometric\nFig- 1: Site of sampling in Schirmacher oasis East Antarctica \nReconstruction of Palaeoclimate from Holocene Sequences of Lake Sediment... 35\ndates the same were collected in the interval of 10 cm. The corer with a 1 \nmeter long core tube was dropped into the lake at specific sites with some\nadditional weights attached to it and was allowed to sink to the lake bottom.\nAfter about 5 minutes, it was pulled back, sealed and brought back to the\nbase camp and cut into pieces of 5 cm each and stored in double polythene\nbags and kept in frozen condition. After draining the excess water by\nsiphoning through rubber tube from the top, to avoid contamination, the\ntotal core recovery become about 50-60 cm. The various other samples\nlike moss turf, soil and moraines are stored properly in double polythene\nbags for palynological as well as other chemical analysis in the laboratory.\nDaily air sampling was done by exposing glycerine smeared glass\nslides using Burkard personal air sampler (U.K) starting from 40\n0\n-S of Cape\nTown to Antarctica mainland through Southern Ocea",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "2]Earth Sciences",
+    "subcategory": "Reconstruction of Palaeoclimate from Holocene Sequences of Lake Sediment Schirmacher Oasis, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:11.951309Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article20",
+  "document_id": "NCPOR-20DA5B",
+  "source_file": "article20.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/279/3/article20.pdf",
+  "bibliographic": {
+    "title": "article20",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 289-297 \nAutomatic Weather Station at Dakshin Gangotri,\nAntarctica\nN.Y.  APTE AND  T.V.P.  BHASKARA RAO\nIndia Meteorological Department\nNew Delhi-110003\nAbstract\nRegular observations of the weather parameters are very important for the understanding\nof Antarctic  meteorology. Main difficulty in the collection of continuous weather data\nover this ice covered continent is the extremly adverse weather condition experienced.\nIn order to collect continuous weather data, automatic weather stations are established\nby various countries with the help of satellites. The India Meteorological Department has\nset up an  automatic weather station popularly know as Data Collection Platform (DCP)\nat Dakshin Gangotri, Antarctica, during the Fifth Indian Scientific Expedition. The weather\nparameters at each GMT hour are sensed by the system and transmitted to the Meteorological\nData Utilisation Centre at New Delhi on real time basis, through Indian National Satellite\n(INSAT-1B).\nIn this paper a detailed description of the data collection platform system, the sensors\nused in the system and the difficulties experienced during installation of thi s system are\nhighlighted. The. data received from Data Collection Platform is compared with manual\nobservations recorded at permanent observatory, Dakshin Gangotri, Antarctica. The results\nwere found to be encouraging. The difficulties arising in maintaining the system in extreme\nweather have also been  discussed.\nIntroduction\nCurrent understanding of Antarctic atmospheric processes and dynamics\nsuffers from a shortage of meteorological observations from the southern sea\nice-belt and the continent itself. Automatic measurement of surface meteorological\nparameters is, therefore, of particular importance for increasing sparse data\ncoverage in th e vast desolate areas of  Antarctica, where a well distributed network\nof manned meteorological stations does not appear practicable. In the last decade,\nattempts for automatic weather stations were aimed for on-site recording of the\ndata, which could be  retrieved from the station during the subsequent summer\nseason. India made similar efforts in the First Expedition itself, when indigenously\ndesigned Automatic Recording Weather Station was installed at the Indian Station\n(Desa  et al,  1983).\n290 N. Y. Apte and T. V. P. Bhaskara Rao \nThe deployment of satellites with on-board data collection and relay system\nand the continuing development of low powered digital electronics has made\nreal time monitoring of weather of the  remote areas, where manned observations\nare not possible, easier. Setting up of Automatic Weather Station at higher\nlatitudes was, however, facilitated by the launching of ARGOS  Data Collection\nand Locating Systems (DCLS) on polar  orbiting satellites. First satellite with the\nabove system was TIROS-N which was put in the orbit in October, 1978.\nAccording to a report of the Scientific Committee on Antarctica Research, there\nare now more than thirty Automatic Weather Stations operating year-round in\nAntarctica which is almost as many as the number of manned stations. Many\nof these stations contribute to specific research programme and data from stations\nis exchanged over the World Meteorological Organisation (WMO) and Global\nTelecommunication Network (GTN).\nIndian National Satellite (INSAT-1B) launched in August,1983 is  a multipur-\npose geostationary satellite. It is  equipped with facility to interrogate and receive\nsignals from Data Collection Platforms (DCP's) located within its Data Relay\nTransponder (DRT) range, which extends UD to 70° latitude (Fig, 1).Indian\n1\nAutomatic Weather Station. 291\nStation at  Antarctica being at the fringe of the above limit, initial trials to explore\nthe feasibility of real time reception of surface meteorological observations from\nAntarctica through INSAT-1B were made by installing a DCP on-board the\nship which carried the Fourth Indian Scientific Expedition Team to Antarctica.\nDuring the anchorage of the ship off-Antarctic coast, the DCP data signals\nwere successfully received at the Meteorological Data Utilisation Center (MDUC)\nat New Delhi., Consequently, during the Fifth Expedition, a DCP was installed\nat Dakshin Gangotri by the India Meteorological Department (IMD) team.\nBrief Description of  DCP System\nThe Data Collection Platform System of INSAT-lB comprises of  three\ncomponents; viz,\n(a) Data  Collection Platform (DCP) consisting of environmental sensors, sensor\nelectronics, data conversion, storage and  transmitting system and a tapered\nhelical antenna.\n(b) Data Relay Transponder (DRT) on-board  INSAT-1B Satellite.\n(c) Ground receiving and data processing system.\nThe DCP transmits data to the satellite at a frequency of 402.75 MHz\nwithin the frequency band of 402.65 to 402.85 MHz (Band width 200 KHz).\nEach DCP automatically records the environmental observ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "4]Meteorolgy",
+    "subcategory": "Automatic Weather Station at Dakshin Gangotri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:28.802168Z"
+  }
+}

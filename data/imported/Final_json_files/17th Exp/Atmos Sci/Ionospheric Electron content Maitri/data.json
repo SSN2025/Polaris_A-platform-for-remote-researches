@@ -1,0 +1,72 @@
+{
+  "id": "article_4",
+  "document_id": "NCPOR-264BAA",
+  "source_file": "ARTICLE+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/514/3/ARTICLE+4.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. 15. PP 43-49 \nOBSERVATIONS OF IONOSPHERIC ELECTRON\nCONTENT AT MAITRI ANTARCTICA\nLakha Singh\nNational Physical Laboratory, New Delhi\nand\nWilfried Korth\nInstitut fur Planetare Geodasie, Germany\nAbstract\nObeservations of Total Eectron Content (TEC) of the ionosphere\nwere carried out at the Indian station MAITRI, Antarctica from Jan.\n12, 1998 to Feb. 6, 1998 during the 17th I ndian Scientific E xpedition\nto Antarctica. For this Purpose signals from Global Positioning System\n(GPS) satellites were monitored. Diurnal range in variation of TEC is\nfound to be much less than that at low latitudes. Signatures of large\nscale disturbances are seen superposed on the Diurnal variation of TEC\nIntroduction\nGlobal Positioning System satellites are the available satellites\nof opportunity which can be made use of to monitor Total Electron\nContent (TEC) of the Ionosphere. The 24 US Navigational satellites\norbit the earth at a height of 20000 km with a 12 hour period. At\nany instant four or more satellites  are visible any  where on the\nglobe. They transmit at two harmonically related frequencies at\n1575.42 MHz. (called L1) and  1227.60 MHz. (called L2). These\nfrequencies are modulated by Pseudo Random Noise (PRN) codes\nwhich enable the receiver to measure the arrival time of each bit of\ncode. As the transmitted signal also contains information about the\n44\nLakha Singh & Wilfried Korth \nclock and the time of tr ansmission of the signal, the receiver can\nmeasure the time taken by the  signal to travel the distance between\nthe satellite and receiver and hence the pseudo range. This is given\nthe name pseudo range  because time of travel is biased by the delay\nintroduced by the medium through which the signal tr avels, the\nsatellite transmitter and receiver clock offsets, and satellite\ntransmitter and receiver bias. Differenital group delay and carrier\nphase advance at the two frequencies is made use of to derive the\ntotal electron content f the Ionosphere.\nAs the satellites are orbiting, at any instant the receiver\nmeasures the slant TEC in different directions depending upon the\nposition of the satillites visible. However, we need IEC in the\nvertical direction at the observation point to get the diurnal\nvariation.\nLanyi and Roth (1988) and Coco et al (1991) removed the\nbiases and determined vertical TEC (VTEC) by representing the\nvertical TEC by a polynomial. Wilson et al (1995) used data from\na global network  of stations to model vertical TEC by spherical\nharmonics. Sardon et al (1994) employed the Kalman filter\ntechnique.\nData and Method of Analysis\nGlobal Positioning System satellite observations were\nrecorded at the Indian station MAITRI, in Antarctica from Jan. 12,\n1998 to Feb. 6, 1998 during the 17th Indian Scientific Expedition\nto Antarctica. A method similar to that used by Sardon et al.\n(1994) has  been developed to derive the total electron conten. A \nGPS receiver measures P code pseudo range and carrier phase from\nsignals transmitted by th e satellites at both the frequencies L1 and\nL2. The observations are modeled as (Blewitt 1989)\np\ni\nkj\n. = p\ni\n. + dion\ni\nkj\n + dt\ni\nk\n + dr\nkj\n.\nL\ni\nkj\n = P\ni\nj\n + dion\ni\nkj\n + λ\nk\n N\ni\nkj\n + λ\nk\n dtt\ni\nk\n + λ\nk\n drr\nkj\nP\ni\nkj\n L\ni\nkj\n represent P code range and carrier phase range\nObservations of lonospheroc Electron content At Maitri Antarctica \n45\nrespectively in cycles between satellite i and receiver j for frequency\nk.\np\ni\nj\n is the pseudo range consisting of geometrical r ange and\nthe biases introduced by the troposphere and transmitter and receiver\nclock biases.\ndion\ni\nkj\n. is ionospheric delay\ndt\ni\nk\n , dr\nkj\n are satellit e transmitter and  receiver instrumental\ngroup delay biases at, frequency represented by index k having\nwavelength λ\nk\ndtt\ni\nk\n , drr\nkj\n are satellite transmitter and receiver instrumental\nphase delay biases at frequency represented by index k having\nwavelength λ\nk\nN\ni\nk\n. is the number of complete phase cycles (undergone by\nthe wave during its travel between s atellite i and receiver j).\nCarrier Phase ambiguity is removed using Blewit (1989)  approach.\nThen using P code pseudo range data\nIgps = ( P\ni\n2j\n - P\ni\n1j\n. +  dt\ni\n2\n - dt\ni\n2\n +  dr\n1j\n. - dr\n2j\n ) *f\n1\n2\n*f\n2\n2\n/\n(40.3(f\n1\n2\n-f\n2\n2\n))\nUsing carrier phase data\nIn both cases Igps be written as\nIgps = Islant + bias\nP code pseudo range is used to adjust the carrier phase ambiguity.\nThen the Igps obtained from the carrier phase data is utilised for\nfurther analysis.\nIslant is related to vertical TEC (VTEC) as  (Wilson et al 1995)\n46\nLakha Singh & Wilfried Korth \nIslant = VTEC*M(E) where M(E) = (l-( cos E/ (1.+ h/\nR))\n2\n)\n-1/2\nWhere E is satellite elevation, R the Earth radius and h the sub\nionospheric height usually taken as 400 km. VTEC was modeled\neither as polynomial  in latitude and longitude (Lanyi and Roth\n1988, Sardon et al 1994).\nResults\nA sample of the diurnal varia",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Observations of Ionospheric Electron content at Maitri Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:07.342763Z"
+  }
+}

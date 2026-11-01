@@ -1,0 +1,72 @@
+{
+  "id": "article_3",
+  "document_id": "NCPOR-6D251B",
+  "source_file": "ARTICLE+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/512/3/ARTICLE+3.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \ndepartment of Ocean Development, Technical Publication No. 15, PP 29-42 \nSOLAR UV-B ATMOSPHERIC AEROSOL\nSTUDIES AT ANTARCTICA\nShambhu Nath, Risal Singh and  Manoj K. Srivastava\nNational Physical laboratory, New Delhi - 110012\nAbstract\nSolar radiation intensities in the wavelength range of UV-B,\nvisible and near Infra red (280-800 nm) were monitored over Indian\nAntarctic Station Maitri during the 17 th Indian Antarctic Scientific\nExpedition. From the solar radiation intensity measurements in LIV-\nES range the erythemal Doses in the units of predefined Minimum\nErythemal Doses per hour (MED/Hr) are derived and their\ncharacteristics are studied during  this period. It is found that\nmaximum MED values reached during the month of December 1998\nwith its magnitude 4.00MED/Hr at local noon of l st December\n1998. The solar radiation intensities in the VIS-NIR range are used\nto derive and study the aerosol optical depths  over Antarctica.\nFrom these studies it is found that the representative optical depths\nat 368, 500, 675 and 778 nm wavelengths, the corresponding optical\ndepths are 0.75, 0.25, 0.097 and 0.048 respectively, which shows\nthat at Antarctica the optical depth increases with decreasing\nwavelength. It is also seen from these studies that the aerosol\noptical depth has increased in comparison to the corresponding\nvalues during the previous years.\n30 Shambhu Nath. Risal Singh and Manoj K. Srivastava \nIntroduction\nThe present human concern about the  environment is inciting\nthe scientific community to probe and characterise the different\naspects of environment. The multifaceted involvement of the solar\nradiation in affecting the environment makes the solar radiation as\nan important environmental parameter. The  solar radiation passes\nthrough the earth's atmosphere before reaching the earth surface.\nAny observation of solar radiation at earth s urface will be having\nthe signatures of  the processes involved between the solar radiation\nand earth atmosphere. The Ultra-Violet solar radiations, which are\nsensitive to their interactions with the ozone gas present in the\nstratosphere, carry to the ground the signatures of the variabilities in\nthe concentrations of  ozone gas in the stratosphere. After the\ndiscovery of the ozone hole over Antarctica, the study of these\nultraviolet radiations over Antar ctica was recommended very\nstrongly. In view of these recommendations National Physical\nLaboratory started an observational programme on UV-B radiations\nover Antarctica. The initial phase of these obs ervations was carried\nout with a NPL built UV filter photometer (Srivastava and Sharma,\n1979, Hanjura et al., 1988, Singh et al., 1992), but later on a new\nequipment called UV-Biometer was added to these observations. This\nequipment is designed to measure the UV-B intensities directly\napplicable to Erythema action studies. The NPL programme on\naerosol optical depth studies is continuing with the sun-photometer.\nIn the present communication the results on Erythemal dose, UV-B\nintensities and aerosol optical depths are presented.\nExperimental Set up and Data Recording\nUV-Biometer\nThe UV-Biometer measures ultraviolet radiation (both direct\nand diffuse) in the wavelength range of 280-340 ran using a wide\nband interference filter. This instrument uses fluorescent phosphor to\nconvert UV-B radiation into visible light and then detect it using a \nsolid state (Ga As) detector. The dc output from the detector is\namplified and recorded. The detector's spectral response is designed\nto closely approximate the erythemal action  spectra maximising\napproximately at the same wavelength. The final output from the\nSolar Uv-b Almospherk Aerosol studies at Antaraiva  3 1 \nBiometer is proportional to the convolution of the solar UV\nspectrum H measured at ground, with the response function R, of\nthe instrument such that\nS (χ) = ∫  H (χ,λ). R (λ) d λ (1)\nand the actual Erythemal dose rate D, is the convolution of H with\nthe Erythemal action spectrum E,\ngiven by\nD (χ , λ) = ∫  H (χ , λ). E ( λ) d λ (2)\nCombining (1) and (2)\nD (χ) = F. S (χ) (3)\nWhere F is a function of atmospheric column ozone, total aerosol\nloading, cloud cover and solar zenith angle χ•\nλ is the wavelength of the incoming radiation.\nA computer programme is installed in the data logger which\ncomputes the function F and D for given conditions and matches\nthe shape functions of D and S. The final output of the Biometer is\nconverted and recorded in the units of Minimum Erythemal Dose\nper Hour (MED/Hr). The unit MED/Hr is defined as the UV-B\nenergy of 5.83 microwatts/cm2 received continuously for one hour.\nThe definition is derived after estimating that this amount of\nenergy, falling  continuously for one hour, starts reddening the skin\nof the of the general population in areas of colder regions for\nwhich this definition is devised. The biometer was operated at\nIndian Antarctic Station Maitri throughout the year 1998",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Solar UV-B Atmospheric Aerosol Studies At Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:09.031145Z"
+  }
+}

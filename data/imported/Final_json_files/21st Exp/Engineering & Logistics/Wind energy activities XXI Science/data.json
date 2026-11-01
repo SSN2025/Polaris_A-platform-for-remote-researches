@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_311_317",
+  "document_id": "NCPOR-BF8539",
+  "source_file": "Technical+Publication+No.+19%2C+pp+311-317.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/890/1/Technical+Publication+No.+19%2C+pp+311-317.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+311-317",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 311-317 \nWind Energy Activities During the XXI Indian \nScientific Antarctic Expedition \nI. Rajashekar, B.S. Ashoka and M.P. Ramesh \nWind Energy Programme, National Aerospace Laboratories \nBangalore -560017 \nAbstract \nNational Aerospace Laboratories have been participating in IASE from the XVI \nexpedition in connection with Wind energy related activities. With the successes of last \nfive expeditions it was proposed to employ more machines for various scientific and \nlogistic requirements during this expedition. In this report details of work carried out is \nreported \nIntroduction \nWind energy group of National Aerospace Laboratories had initiated \nthe wind energy activities during XVI Indian Antarctic expedition .The \nmain objective of the program was to determine the wind energy potential \nin Antarctica and to formulate an over all Wind energy utilization plan \nfor Indian Antarctic scientific program. \nDuring XVI expedition \n1. The Wind monitoring station was installed and commissioned. \n2. Wind data has been collected at three levels. \n3. Further a study of terrain features, energy requirement schedules \nand infrastructure available at Maitri was carried out. . \n4. Based on the above studies to pronged strategy to effectively \nimplement a Wind energy program for Indian station at Maitri was \ninitiated. \nDuring XVII expedition \n1. The small Wind battery charger was installed two places. \n312 /. Rajashekar, B.S. Ashoka & M.P. Ramesh \n2. Trail pile foundation test was carried out for large Windmills to \nbe installed in future. \n3. As a part of routine maintenance servicing of Wind sensors, Solid-\nstate data logger was carried out and the Wind monitoring station \nwas recommissioned. \nDuring XVIII expedition \n1. Installation of new Wind battery charger was carried out. \n2. The Wind battery charger installed at Vattiah peak was continued \nover winter period and its performance was observed. \n3. As part of routine maintenance servicing of Wind sensors, Solid \nstate data logger was carried out and the Wind monitoring station \nwas recommissioned \n4. New data retrieval software was installed. \nDuring XIX expedition \n1. Studied the Wind powered battery charger deployed over the winter \nmonths for damage/ performance. \n2. The specially designed viscous damper unit by NAL is added to \nthe existing Wind battery charger and to the new Wind battery \ncharger to smoothen the nozzle oscillation during high wind. \n3. New battery charging control units are added which can charge and \ntwo battery banks. In addition it is provided with LED bar display \nand dump load \n4. New 12V, 340Watt machine was installed near Nanda Devi hut and \nis being used to charge the 630 AH batteries of IIG \n5. The Wind monitoring station, which was installed during XVI \nExpedition was dismantled from the 28mtr mast and the data \nlogging instruments from the Nanda devi hut. \nDuring XX expedition \n1. Installation of portable Wind battery charger on the top of the \nmobile laboratories was carried out to provide power supply to the \ninstruments in the field camps through the battery. \n2. Installation of indigenously developed vertical axis windmill was \ncarried out and the performance, survival of the same was studied \nto the Antarctic condition. \nWind Energy Activities During the XXIIASE 313 \n3. Maintenance of existing windmills was carried out. \n4. Energy audit of Maitri station was carried out. \nThe following activities were undertaken during XXI IASE \nAssignments During the XXI IASE \n1. Installation of indigenously developed improved version Savonious \nwind battery charger at Vattiah peak to supply power to the \nCommunication Repeater Station. \n2. Installation of indigenously developed improved version Savonious \nwind battery charger at the automotives station workshop. \n3. Assess the performance of the Savonious wind battery chargers in \nthe Antarctic environment. \nWorks Carried Out During the XXI IASE \nBased on the observation obtained during the XX expedition the \nSavonious wind battery charger needed some modification. The Savonious \nwind battery charger of 150watts capacity and the Wind Energy Group, \nNAL, had indigenously developed its charge controller unit. Two of these \nmachines were installed during the XX th IASE. According to its \nperformance study it was found that bearings got damaged due to heavy \nwinds during blizzard conditions. \nThe improved version of Savonious wind battery charger of 150 \nwatts capacity of three machines were taken to deploy at Antarctica \nduring XXI st IASE. The first machine with control unit was installed \nat Vattiah peak (7 km away from the Main station) to supply continuous \npower to the communication repeater station, since the batteries are self-\ndischarges very soon due to low temperature in Antarctic conditions. \nIt was found the improved version of this machine working \nsatis",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "5] Engineering & Logistics",
+    "subcategory": "Wind energy activities during the XXI Indian Science Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:04.538469Z"
+  }
+}

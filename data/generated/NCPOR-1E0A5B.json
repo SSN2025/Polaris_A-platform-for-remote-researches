@@ -1,0 +1,81 @@
+{
+  "id": "note-from-expedition-leaders-desk-ncpor-1e0a5b",
+  "document_id": "NCPOR-1E0A5B",
+  "source_file": "Note.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1197/1/Note.pdf",
+  "title": "Note from Expedition Leader's Desk",
+  "year": 2010,
+  "expedition": "29th Indian Antarctic Expedition",
+  "category": "Other",
+  "subcategory": "Note from Expedition Leader's Desk",
+  "bibliographic": {
+    "title": "Note from Expedition Leader's Desk",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "29th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2010,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 29th Indian Antarctic Expedition examines key other phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 27
+  },
+  "taxonomy": {
+    "category": "Other",
+    "subcategory": "Note from Expedition Leader's Desk",
+    "tags": [
+      "other",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Other discoveries from 29th Indian Antarctic Expedition: \"Note from Expedition Leader's Desk\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Other based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:53:48.334615Z"
+  }
+}

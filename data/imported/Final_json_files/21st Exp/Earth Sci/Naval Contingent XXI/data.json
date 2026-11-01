@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_211_213",
+  "document_id": "NCPOR-39F2EB",
+  "source_file": "Technical+Publication+No.+19%2C+pp+211-213.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/882/1/Technical+Publication+No.+19%2C+pp+211-213.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+211-213",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 211-213 \nReport of Naval Contingent-XXI \nIndian Antarctic Expedition \nN Thapliyal and SK Rai \nNaval Hydrographic Office, Dehradun \nt \nIntroduction \nThe Hydrographic Survey of Antarctica during the XXI Indian \nAntarctic Expedition was undertaken by the Survey Team in accordance \nwith the National Hydrographic Office directives. A Hydrographic Survey \nteam consisting of Lieutenant Commander Neeraj Thapliyal and SK Rai \nPetty Officer was deputed to the National Center for Antarctic and Ocean \nResearch, Goa to participate in the XXI Indian Scientific Antarctic \nExpedition. \nActivities in Antarctica \nOn arriving at Antarctica equipments were checked by the respective \nexpedition members. The GPS 200, Current meter and other \nmeteorological equipment sent in the container were received and checked \nby the survey team on 16 Jan 2002. \nThe survey was carried out on a scale of 1:2,00,000 within the area \nbounded by following limits:-\nLatitude 69° 24' 00\". 0 Sto 70° 4V.00.0 S \nLongitude 11° 00' 00\". 0 Eto 14° 00'. 00\" E \nThe ship sounding was conducted on 16, 18, 25, 26, 27 and 30 Jan \n2002, during the time the ship was waiting for weather to improve so \nthat helo operations could be planned and ship be berthed alongside. \nMeteorological and Oceanographic observations were carried out during \nthe entire period continuously. The various specifications of the survey \nundertaken by the team are enumerated in the succeeding paragraphs. \n212 N Thapliyal and SK Rai \nGeodetic Control \nHorizontal control for the entire survey was established in WGS 84 \nDatum and plotted on Mercator projection with scale true at 66° S. For \nease of plotting, the area was divided in two sheets, Northern sheet from \n69° 24' S to 70° 20' S and Southern Sheet from 70° S to 70° 47' S. GPS \ncoordinates directly obtained from the ship fitted GPS \"Trimble Navtrac \nXL\" were used for sounding. No control was established for this purpose. \nDigital Surveying System \nThe ship fitted Trimble GPS system NAVTRAC XL was used for \nsounding. \nNavaid \nThe ship fitted Trimble GPS system Navtrac XL was used for \nposition fixing while sounding, for the entire survey. The performance of \nthe system was satisfactory and reliable throughout the survey. The \ninstrument had digital output port, but the same was already connected to \nthe radars. \nBathymetry \nTwo Russian made echo sounders were available on board, model \nM4, designed for measuring depth up to 50 meters and model Nel M3B \ndesigned to measure depth up to 500 meters. With an average depth of \n100 to 200 meters at Antarctica near India bay, the only option was to \nuse to echo sounder model NEL M3B. 8.2. The sounding lines were run \napproximately 1 cm apart on the scale of survey perpendicular to the depth \ncontours. Sounding density was not changed for delineation of the shoals, \nwhich was considered adequate to meet the desired standards of accuracy \nand thoroughness on scale of the survey. When the ship was not following \nany particular course, spot soundings were also taken. \nThe observed depths were corrected for index error of the echo \nsounder, ship's draught and sound velocity. The accuracy of sounding was \nwell within stipulated accuracy standards. \nAchievements During XXI Antarctica Expedition \n(a) During the Expedition a total of 200 Nautical Miles of sounding \nwas completed. \nReport of Naval Contingent-XXI Indian Antarctic Expedition 213 \n(b) During the Expedition 100 Nautical Miles of ice shelf was \ndelineated. \n(c) Valuable Oceanographic and Meteorological data was collected. \n(d) Sound Velocity and Current observation were undertaken at various \nlocations. \n(e) Approximately 500 Nautical Miles of Passage Sounding was \nundertaken. \n(f) The relevent data of Antarctica Region was collected for inclusion \nin sailing direction. \n(g) The team gained valuable experience in operation of various survey \nequipments/systems in Polar Areas. \n(h) Data collected during previous expeditions was validated by the \ndata collected during this expedition.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "4] Earth Sciences",
+    "subcategory": "Report of Naval Contingent- XXI Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:30:01.174141Z"
+  }
+}

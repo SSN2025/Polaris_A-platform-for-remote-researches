@@ -1,0 +1,72 @@
+{
+  "id": "chapter_4",
+  "document_id": "NCPOR-DCD6DD",
+  "source_file": "Chapter+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/993/1/Chapter+4.pdf",
+  "bibliographic": {
+    "title": "Chapter+4",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 107-117\nA New Approach for Bathymetric Survey \nin Antarctic Lake: A pilot study\nS.K. Chaturvedi\nNational Centre for Antarctic and Ocean Research, Goa \n(Presently at Centre for Advanced Research in Environment (CARE)\nSchool of Civil Engineering, SASTRA University, Thanajavur - 613 401)\nABSTRACT\nIn order to assess the feasibility of carrying out the underwater geophysical \nsurvey in Antarctic lakes, a pilot study of the bathymetric survey in Priyadarshini \nLake was launched using ‘HydroBox’-a portable high resolution shallow water \necho sounder, during the Silver Jubilee Indian Scientific Expedition to Antarctica \n(2005-2006). Shoreline demarcation of Priyadarshini lake was carried out by fixing \na total of 104 closely spaced geodetic positions using Global Positioning System \n(GPS) while moving on the lake shoreline.Bathymetry survey of the lake along \n1800 line meter was carried out and the data in digital and analogue forms were \nrecorded.The data was processed and bathymetric map with three-dimensional \nview of the lake was prepared using ArcMap (version 9.2) software in the \nGeographical Information System environment.The analysis of the bathymetric \nmap of the lake revealed an undulating lake floor with maximum water depth of \n5.9 m recorded in the north-eastern part of the surveyed area of the lake. The \nbathymetric map of the lake further reveals comparatively steep slope towards the \nnorthwest portion of the lake with an average gradient of 1:22.\nINTRODUCTION\nThe lake sedimentsof Antarctica have preserved a long history of \nclimatic change's of this region. However, in order to retrieve the long \nsediment cores for high resolution paleoclimatic studies, the detailed \ninformation of water depths, lakefloor topography, sediments nature, etc., \nis very important. Such information can be retrieved through indirect \nmethods using under water geophysical survey such as bathymetric and \nsub-bottom profiling. While the bathymetric profiling system (Echosounder) \nprovides accurate water depths and topographic profiles of the floor of \nlake, shallow penetration high-resolution seismic systems (Sub-bottom \nprofiler) provide an estimation of the distribution, thickness and stratigraphy\n\n108 S.K. Chaturvedi\nof the sediments on or below the lake floor. These information assume \nsignificance for identifying ideal site for retrieving the long sediment cores \nfrom the lake (Chaturvedi and Khare, 2005). In view of this, during the \nSilver Jubilee Indian Scientific Expedition to Antarctica, a pilot project \nwas launched to carry out detailed bathymetric and sub-bottom profiler \nsurvey and to prepare bathymetric and isopach map of the Antarctic lakes \nin order to identify the suitable locations to retrieve long sediment cores \nfrom these lakes to study paleoclimatic history recorded in subsurface \nsediments.\nCarrying out the geophysical survey of Antarctic lakes in highly \nunpredictable and harsh climatic condition was a challenging task in itself. \nAdventuring in near freezing Antarctic lakes on a small boat with \nsophisticated and sensitive equipment posed a formidable task while \nacquiring data. However, as a modest beginning, the Priyadarshini lake, \nthe largest and one of the deepest lake of Schirmacher Oasis, was selected \nfor the pilot study. This paper presents details of acquisition, processing \nand interpretation of bathymetric survey of the Priyadarshini lake of \nAntarctica.\nStudy Area\nThe Schirmacher oasis in Antarctica is interspersed with more than \nhundred lakes (Ravindra et al., 2001). The permanent Indian Antarctic \nStation “MAITRI” is situated near the Priyadarshini lake in the Schirmacher \nOasis in Antarctica. Priyadarshini lake, trending ENE-WSW direction, is \none of the deepest lake in the Schirmacher Oasis (Figures la &lb). The \nOasis presents a bed rock area elongated in a narrow strip around 17 km \nlong and 3 km wide in west-northwest to east-southeast. Its relief is typically \nhillocky with the absolute marks up to 228 m. The general topography of \nthe oasis is undulating with gentle sloping. The plain regions are covered \nwith glacial moraine debris. The ice cover on the lake persists, in winter \nhowever, the ice melts in same lake during summer. Climate in the oasis is \npredominantly of continental characteristics. Much of the oasis area is \ncharacterized by the absence of continuous ice cover not only in summer \nbut also in winter. The lake is perennially fed by the melting of the polar \nice that stands all along the southern margin of the oasis as a fortress and \ndrain out into smaller lakes in the north and finally onto vast ice shelf \nextending tens of kilometres up to the polynya. Sediments of the lake, \ntherefore, archive the climate history of this lake and are vital for \npaleoclimatic reconstruction.\n\nA New Approach for Bathymetric Survey ...109\nFig. la: A panoramic view of P",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2] Earth Science, Glaciology and Global Change",
+    "subcategory": "A new approach for Bathymetric Survey in Antarctic Lake_ A Pilot study",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:56:59.954890Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "pages_from_achievments",
+  "document_id": "NCPOR-88BFCC",
+  "source_file": "Pages+from+Achievments.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/983/4/Pages+from+Achievments.pdf",
+  "bibliographic": {
+    "title": "Pages+from+Achievments",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Achievements During XXV Indian Scientific \nExpedition to Antarctica\nL. Prem Kishore\nLeader of XXV ISEA\nScientific\n1. Ice core output of 65.04 meters was recovered from the Humbolt \nGlacier, Cape Ice at Lat: 71 deg 20’ 38\"S, 11 deg 35’ 38\" E and \n74.98 meters was recovered from the Shelf at Lat: 70 deg 11’ 57.4\" \nS, 12 deg 27’ 25.1\" E.\n2. Acquired the depth profiles with coordinate tags for three fourth of \nPriyadarshani Lake. Crevasse detection on way to establishing the \nIce Core drilling camp about 70 Km south of Maitri by using GPR \nmeasurements.\n3. Carried out bathymetric survey of Priyadarshini Lake using Echo \nsounder.\n4. Magnetotelluric investigations were carried out in 8 selected sites in \nand around Schirmacher Oasis.\n5. Concurrent/non-concurrent ground truth data collection over cap ice \nwith respect to IRS P6 satellite passes, with the indigenously \ndeveloped radio meters which will be used for the onboard radiometric \ncalculation of IRS P6 AWiFS sensor.\n6. Construction of Seismometer Pier inside the Vault for the Installation \nof Seismometers and up gradation of the Broad Band Seismic \nSystem with Geotech KS2000M sensor and Smart24R Digital \nacquisition system.\n7. Continuous operation of the Seismological Observatory without any \ninterruption. 440 Earthquake Events recorded during the year 2006.\n8. Turbo Rouge GPS receiver was in operation on a continuous basis \nthroughout a permanent marker at Maitri.\n9. Continuous operation of the following systems through out the year.\ni. Two flux gate magnetometers, one at Maitri and one at shelf.\nii. Digital Proton Precession Magnetometer operation at Maitri to \nmeasure the total magnetic field with sampling rate of 5 seconds.\niii. 30 MHz Riometer at Maitri for D-region absorption studies and \nthe data sampled for every second with an averaging of one \nminute and one hour.\n\n2 L. Prem Kishore\niv. For GEC studies an electrometer with a 500 second atmospheric \nrelaxation time was in operation to measure the Air-Earth \ncurrent. A Field mill to measure the vertical potential and a \nPassive Antenna electrometer to measure the electric potential \nat one meter height was also in operation.\nv. Installed and operation of GPS (Leica system 1200 with MET \ntower) at Maitri, with a data sampling of 30 seconds, tor TEC \nstudies.\n10. A newly fabricated Gerdian Condenser is operational from December \n2006 to measure the atmospheric conductivity, both positive and \nnegative, with a sampling rate of 4 seconds.\n11. Observation and recording on a continuous basis various metrological \nparameters for the whole year.\ni. 3 hourly synoptic observations at Maitri and 6 hourly synoptic \nobservations for GTS (Global Communication System).\nii. Surface Pressure, D.B. Temperature, Wind Speed, Wind direction, \nCloud Coverage, Surface Ozone and Diffused & Direct Solar \nRadiation through self recording instruments and their \ncomputation and tabulation has been done for the whole year.\n12. 42 Ozone Sonde ascents for vertical profile for the study of ozone.\n13. Operation of Brewer Spectrophotometer for measurement of total \nOzone, UVB, S02 and N02 on all the days of clear sky conditions.\n14. Installed New APT (Automatic Picture Transmission) System for \nreception of low resolution cloud imageries from satellites and made \nfully operational.\n15. Temporal and Spatial variations of energy balance of different snow \nand ice media in Antarctica using RRTS (Radio based Remote \nTelemetry System) for the whole year.\n16. Provided uninterrupted email and telecommunications services \nthroughout the expedition.\n17. Magnetotelluric investigations were carried out in 8 selected sites in \nand around Schirmacher Oasis.\n18. Carried out the psychological tests for the entire summer members \nof the 25th ISEA during the ship voyage and also few members of \n25th ISEA.\n\nAchievements During 25'h Indian Scientific Expedition to Antarctica 3\n19. Three phases of psychological assessments were conducted during \npre-winter, winter and post-winter period.\n20. Detailed mapping of approximately 2 sq kms area in the Schimarchar \nOasis has been completed.\n21. Identification and Re-observation of 28 GPS stations around \nSchirmacher Oasis.\n22. Ionospheric Scintillation & TEC monitoring permanent station was \nbuild at location 70° 46’ 1.7\" S and 11° 44’ 7.4”.\nLogistics\n1. Overnight unloading of cargo from the ship and loading of the back \nloading containers.\n2. Completion of Cargo and Fuel from the shelf to the Station in Six \nConvoys well before the onset of Polar nights.\n3. Modification of the cooling system of 125 KVA generators which \nhad provided a permanent solution to the age old ‘Over heating \nproblem of these generators. This has given the impetus to \nsynchronize the entire electrical load of the station on one single \ngenerator as against two generators which was in practice till now. \nThus leading to a whopping saving of 75 K1 high cost fuel per year.\n4. Overhaul of all the 12 generators (2 x 125 KVA, 8 x 62.5 KVA, ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "Achievements during the Twenty Fifth Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:55:57.842383Z"
+  }
+}

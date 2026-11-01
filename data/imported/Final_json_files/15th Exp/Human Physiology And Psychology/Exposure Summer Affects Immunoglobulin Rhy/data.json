@@ -1,0 +1,72 @@
+{
+  "id": "article_27",
+  "document_id": "NCPOR-90D7F3",
+  "source_file": "ARTICLE+27.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/471/3/ARTICLE+27.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+27",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 353-359 \nEXPOSURE TO ANTARCTIC SUMMER\nAFFECTS THE IMMUNOGLOBULIN RHYTHM BUT\nNOT THE ORAL TEMPERATURE RHYTHM\nG.Sundaresan, Lakshmikantha A. Karani and Usha Sachdeva\nDepartment of Physiology\nInstitute of Medical Sciences\nAbstract\nEnvironmental light is an important zeitgeber in humans. The long polar days of\nAntarctica during the summer period can disrupt the internal clock thereby desynchronizing\nthe various bodily rhythms, which can have health implications. Hence, in the present study,\nin one group of six volunteers, the immunoglobulin rhythm was assessed by four hourly\nblood sampling. In another group of six volunteers the oral temperature rhythm was\nmeasured. The results reveal disruption of the immunoglobulin rhythm due to the influence\nof exogenous components and possible involvement of neuroendocrine factors. However\nthe oral temperature rhythm was unaffected during or after a short stay in Antarctica during\nthe summer period. The importance of regular sleep-wake cycle and other social cues in\nmaintaining a stable temperature rhythm is implicated.\nIntroduction\nExtreme environmental conditions and psychosocial factors of  living in\nisolation are potentially stressful for a human sojourner in Antarctica. Amongst\nthe environmental conditions existing in Antarctica, the altered photoperiodic-\nity is of particular interest from a chronobiological view. Since there is pro-\nlonged light exposure  during summer in Antarctica, the human circadian\nrhythm is prone to undergo alterations and disruptions.\nBiological rhythms play a definite role in maintaining a normal homeosta-\nsis of humans. Circadian rhythms in humans are a mixture of endogenous and\nexogenous components that are derived from the body clock and the interaction\nbetween our environment and lifestyle. Inherently, the body clock tends to run\nslow (by solar time) with a period of about 25 hours. Under normal circum-\nstances, however, zeitgebers adjust it to run with a period of exactly 24 hours.\nRecent evidences show that the hypothalamic suprachiasmatic nuclei (SCN) is\nboth necessary and sufficient for th e generation of circadian rhythmicity in\n354 G. Sundaresan et al. \nmammals (Klein et al, 1991), though other sites, including the pineal gland,\nmight also play some role. The important zeitgebers in humans appea to be a \nmixture of bright light and social factors. Orcadian rhythms not only enable us\nto adjust better to our rhythmic environment but also influence our responses\nto disease processes and drugs.\nCircadian rhythm of various immunological parameters such as, total\nleukocyte count (Haus et al., 1983), phagocytic cells (Knyzynski and Fischer,\n1981), natural killer cell activity (Gatti et al, 1987), Lymphocyte proliferation\n(Tavadia et al, 1975) have been reported. In conditions of altered photoperio-\ndicity, it is possible that there could be a disruption in the circadian rhythm of\nimmune parameters, which could lead to an impairment of the immune func-\ntion. Hence in the present study the circadian rhythm of oral temperature and\nimmunoglobulins (IgG & IgM) was measured so as to assess whether the\ndisruption of circadian parameters is associated with immune parameters.\nMaterials and Methods\nSubjects\nThe study was conducted on two groups of volunteers, who were members\nof the summer team of the 14\nth\n Indian Scientific Expedition to Antarctica. In\nGroup-I there were 6 subjects with a mean age of 35.5 ± 5.32 years. In these\nsubjects the oral temperature rhythm was measured in three phases. In Group-II\nthere were 6 subjects with mean age of 33.45 ± 3.48 years. Four hourly blood\nsampling was done on these subjects to estimate the circadian rhythm of IgG\nand IgM, in two phases before and after exposure to Antarctic summer.\nExperimental Phases \nThe Oral temperature rhythm was recorded in three phases. First on board\nship while in the warm waters, which forms the basal (23 °T S, 56°5' E, L/D\n13:11, 24 ± 2 °C). Second, at summer camp of Maitri, after three weeks of\nAntarctica stay during the austral summer (70°5' S, 11 °4 E, L/D 23:01, -10.5\n°C). Third, on board ship during the return voyage after the ship left Antarctic\ncold waters and moved into warmer latitudes (26°5' S, 54°6' E, L/D 13:11, 26\n±\n 3\n °C).\nThe Immunoglobulin rhythm was assessed in two phases. First, on board\nship, under basal conditions before exposure to Antarctic conditions (23° S, 56°\nE, L/D 13:11, 24 ± 2 °C). Second, on board ship during the return voyage, after\nexposure to Antarctic summer conditions (26° S, 54° E, L/D 13:11, 26 ± 3 °C).\nExposure to Antarctic-Summer Affects the Immunoglobulin  355\nProcedures\nTemperature Rhythm, \nSelf-measurement of the oral temperature rhythm (autorhythmometry) was\ndone using the clinical thermometer (Doctor, India). The readings were noted\nin two hourly intervals at every even hour. Self-measurements of oral te",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "5]Human Physiology And Psychology",
+    "subcategory": "Exposure to Antarctic Summer Affects the Immunoglobulin Rhythm but not the Oral Temperature Rhythm",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:05.507140Z"
+  }
+}

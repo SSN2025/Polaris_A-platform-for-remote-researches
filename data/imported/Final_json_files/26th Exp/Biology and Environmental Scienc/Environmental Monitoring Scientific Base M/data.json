@@ -1,0 +1,72 @@
+{
+  "id": "411_430_pg",
+  "document_id": "NCPOR-8475D5",
+  "source_file": "411-430+pg.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1067/1/411-430+pg.pdf",
+  "bibliographic": {
+    "title": "411-430+pg",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "26] Scientific Report of Twenty Sixth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "411\nTwenty Sixth Indian Antarctic Expedition 2006-2008\nMinistry of Earth Sciences, Technical Publication No. 24, pp 411-430\nEnvironmental Monitoring Studies at Indian Scientific\nBase, Maitri, East Antarctica\nR. K. Singh*, Khwairakpam Gajananda, Bhupesh Sharma, Narendra\nPal, V . K. Verma and R. K. Khandal\nShriram Institute For Industrial Research, 19 University Road\nDelhi – 110 007 (India)\nABSTRACT\nDuring the austral Antarctic summer (November 2006 - February  2007),\nvital environmental data  the Indian Scientific Base, Maitri in east Antarctica\nhave been assessed. Extensive monitoring of air, surface water bodies and waste\nmaterials located in the proximity of Maitri station in particular and in the\nSchirmacher Oasis region in general was undertaken. The identified outputs\nfrom the activity include emissions to air, soil and ice hazardous and non-\nhazardous waste generations, mechanical actions, obstructions etc. A number of\nunavoidable impacts have been identified through the assessment, mainly of low\nand medium intensity.  The impacts with both high probability and high intensity\nhave also been identified and merit prioritisation in further mitigation effects.\nSampling of water and wastewater emanating from different locations in and\naround Maitri was undertaken. Around~80 samples were collected so far.\nSampling of waste oils emanating from Maitri Station and Novo Station was\nalso done. Sampling of soil, sediments, oil spilled soils from Maitri and Novo\nStation was also undertaken. Air exhaust emissions, hazardous and non-hazardous\nwaste generation and oil spillage were also studied. The present paper attempts\nto highlight the environmental parameters observed during austral Antarctica\nsummer from November 2006 to February 2007.\nINTRODUCTION\nAntarctica is the coldest continent on the earth. The Indian Ocean,\nPacific Ocean and Atlantic Ocean surround the continent. Antarctic\ncontinent covers 10% of the earth surface and has a surface area of\nnearly 14 million square kilometres. It also has 70% of the world‘s fresh\nwater resources in the form of ice sheets. Thick ice sheets cover the\nwhole continent (almost) 98%. As a result of the environmental conditions,\n412\nthe remaining (~2%) portion without ice cover is basically the barren\nsoil and rocks 1, 2 .\nThe Antarctica Conservation Act (ACA) was made by USA in the\nyear 1978 and is intended to conserve and protect the natural environment\nof Antarctica. It also addresses the proper material management especially\nof waste generated due to the interest by several countries to explore the\npotential of Antarctica in the wake of rising human activity. Further, the\n“Protocol on Environmental Protection to the Antarctica Treaty” made in\nyear 1961, prohibits any industrial activity at Antarctica other than\nscientific research investigations. It also intends to conserve natural\nfauna and flora, managing wastes and preventing marine pollution.\nAntarctica which is the last heritage of human kind and the\ncontinents of extremes has come to be known as the “Continent of\nScience”. Even though it is difficult to survive in Antarctica, still\nscientists from all over the world have been engaged in the pursuit of\nscientific research in various fields. The investigations are essential not\nfor the exploitation of natural resources buried under the region but for\npreservation of environment and ecology on earth; especially in the light\nof climate change. Countries that have set up scientific research stations\ninclude Australia, New Zealand, Argentina, Germany, United Kingdom,\nUSA, Russia, etc. There are currently about 65 scientific research\nstations in summer and 30 research stations in winter, which are currently\noperating for carrying out scientific research. Around 4000 Scientists in\nsummer and 1000 in winter from various countries are working in the\nharshest climate in Antarctica for scientific investigations. The major\nareas of investigations include earth sciences, communications,\nbiosciences, atmospheric sciences, logistics, environmental studies,\nmeteorological, seismic activity, etc.\nThe activities, which have minor and major impacts on the Antarctic\nenvironment are: operations of existing research stations, construction of\nnew research stations, science projects operated from permanent research\nstations, rock or sediment drilling using drilling fluids, major deep ice\ncore drilling projects, aviation and automobile operations.\nOil and fuel storage drums, gaseous emissions from operation of\nexisting research station affect the Antarctic environment. Other main\nsources of waste materials in the environment at Antarctica may include\nemissions of carbon monoxide, oxides of nitrogen (NO\nX), sulphur dioxide,\nR. K. Singh, Khwairakpam Gajananda et al.,\n413\nsuspended particulate matter (SPM), waste incineration of research\nstations i.e. metals, aluminium cans plastic rubber waste etc; hazardous,\nnon-hazardous, biodegradable and non-biodegradable waste generation\netc. Further, the hu",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 20
+  },
+  "taxonomy": {
+    "category": "4] Biology and Environmental Sciences",
+    "subcategory": "Environmental Monitoring Studies at Indian Scientific Base, Maitri, East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:07:06.640043Z"
+  }
+}

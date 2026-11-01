@@ -1,0 +1,72 @@
+{
+  "id": "article_20",
+  "document_id": "NCPOR-DD95AD",
+  "source_file": "ARTICLE+20.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/396/3/ARTICLE+20.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+20",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 293-297 \nReport on R&DE(E) Tasks during Tenth Antarctic Expedition\nS. BHATIA\nR&DE (Engrs), Pune\nIntroduction\nThe R&DE (Engrs) has been associated with the Indian Scientific Expeditions to\nAntarctica since Third Expedition. It has contributed towards the logistic/scientific\nprogramme by designing and fabricating the DRDO complex, Dobson Hut, sledges\nand the systems for Dakshin Gangotri Complex at Antarctica. In continuation of the\nsupport, R&DE (Engrs) has designed and fabricated the entire Maitri station which\nstands today majestically as a totally indigenous station.\nThree representatives of this establishment were nominated as members of Tenth\nAntarctic Expedition to provide technical assistance to the team in construction and\nrepair/setting up of refrigeration systems.\nTasks/Additional Facilities\nAs a part of the expansion programme of Maitri station, certain additional\nfacilities have been planned to be provided in a phased manner. The following\nadditional facilities were planned:-\n(a) Generating set accommodation.\n(b) Housing for Effluent Treatment Plant.\n(c) Structure for National Physical Laboratory's sodar experiment.\n(d) Dome type structure as experimental Green House.\n(e) Walk-in-type cold storage.\n(f) Cargo handling.\nIn addition to above, following tasks were allotted to the members:-\n(a) Providing Technical Assistance in erection of the above mentioned new\nfacilities and maintenance of Maitri station.\n(b) Repair of defective refrigeration units and setting up of new units for\nwalk-in type cold storages.\n(c) Study the environmental pollution and control aspects at the station.\n294 S. Bhatia \n(d) Study the effect of snow loading on the buried Dakshin Gangotri Station\nstructures and the possibility of retrieving costly equipment from within the\nstructure.\n(e) Study the ground configuration around the main station and recommend\nareas suitable for future expansion, especially locations of laboratory com-\nplex and garrage-cum-workshop.\nPersonnel\nThe following personnel represented the R&DE(Engrs) during this expedition:-\n(a) Lt. Col. S Bhatia\n(b) Shri V S Shinde, Scientist\n(c) Shri S V Gowd, Scientist\nDetails of Additional Facilities\nGenerating set accommodation \nThis structure was given priority for the expedition. The stores were transported\nfrom the ship as per the sequence of construction. The accommodation was com-\npleted by 17th Feb 1991, as per the schedule.\nFig. 1. Generating set accommodation. \nR & DE(E) Tasks \n295\nHousing for Effluent Treatment Plant \nThe proposed site for housing the Effluent Treatment Plant was discussed with\nthe Leader,  Station Commander and the Army team representatives. After many\ndeliberations, gravity flow of the effluent from the station was found advantageous\nthan pumping. Hence the alternative site adjacent to the lounge of the main station \nwas selected. It was, however, decided to construct a modified housing, using old \nfoundation beams and certain items of the ETP such as wall panels, runners etc. to \nhouse the new B-3 Klargester. Extension of this housing would be carried out \nsubsequently.\nNPL Structure \nConstruction of the structure for National Physical Laboratory's Sodar experi-\nment was undertaken simultaneously with the generating set accommodation. It was\ncompleted well in  time.\nDome Structure \nThe experimental Green House in the shape of a dome was erected by members\nof the DRDO summer team, assisted by scientists and members of the ITBP and\nother expedition members. In spite of inclement weather the work was completed\nin six days. This structure has been constructed adjacent to generating set accom-\nmodation. (Fig. 2)\nFig. 2. Dome structure.\nFig. 3. Extension of 'A' Block. \nWalk-in-Type Cold Storage \nTwo walk-in-type cold storages were planned to enhance the storage capacity of\nfrozen food for wintering teams at Maitri. Two bays of 'A' block were extended to\nhouse this cold storage. After the concreting of the floor, the erection of the cold\nstorage was completed by scheduled time. The commissioning of the refrigeration\nunits for the cold storages was done to the satisfaction of the entire wintering team.\nHowever one refrigeration unit had to be sent back due to leakage of gas.\nDetails of Tasks\nBesides providing technical assistance to Expedition for erection of new struc-\ntures, guidance was also provided to them on certain maintenance tasks such as\nprovision of steel bracings below the Green House and Block 'B'. The southern\ncorner of the Main Block and Block 'B' was strengthened by providing steel section\nin the corridor to support the walls against maximum wind turbulence. Rewelding\nof some of the broken joints below the Main Block was also carried out. The old\nGreen House was provided with an external polythene cladding for protection\nagainst direct UV radiation.\nRepairs to six defective deep-freezer units and one re",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "6]Logistics",
+    "subcategory": "Report on R&DE(E) Tasks during Tenth Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:15.251013Z"
+  }
+}

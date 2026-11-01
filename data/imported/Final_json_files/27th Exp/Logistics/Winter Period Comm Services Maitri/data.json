@@ -1,0 +1,72 @@
+{
+  "id": "chapter_3",
+  "document_id": "NCPOR-26990B",
+  "source_file": "Chapter+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1103/1/Chapter+3.pdf",
+  "bibliographic": {
+    "title": "Chapter+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Winter Period Communication Services at Maitri\nHemant Kumar Gaur and Ramesh Kothiyal\nDefence Electronics Applications Laboratory, Dehradun\nABSTRACT\nA team from DEAL, (DRDO), Dehradun provided real-time communication to the\n27th Indian Antarctic Expedition. The continuous communication with the rest of the world\nhas been extended in the form of voice, as well as data, communication. A great milestone\nwas reached in the expedition by SAC and ECIL after commissioning of the Earth Station\nat Maitri; the team from DEAL interacted with SAC and ECIL teams for operating of the\nEarth Station link with NCAOR, Goa. This report describes the details of DEAL\ncommunication support at Maitri during the winter period.\nKeywords: Antarctica, Maitri, Communication, Winter Expedition.\n1.0  INTRODUCTION\nReal-time communication is required in this fast growing scientific\nera. Telephone, Fax, Mail, HF and VHF communication were lagging at\nIndian station Maitri. Installation of Earth Station at Maitri has provided\nfacilities like video-conferencing, high band rate Internet, live reception\nof Indian TVs etc. But maintenance of all the existing communication\nfacilities is a challenging job in the presence of the windiest and coldest\nworking conditions, as well as magnetic storms and static currents. DEAL,\nDehradun has been entrusted with the responsibilities to carry-out the\ncommunication and the related arduous maintenance requirement for all\nthe communication equipment at Maitri.\nThe 27th Indian Antarctic Expedition, under the Leadership of Shri\nArun Chaturvedi, sailed off from Goa on 06 Dec. 2007 by chartered Vessel\nM/V Emerald Sea. The expedition members reached Maitri, Antarctica in\nfour phases; by ship and flights from Cape Town.\nDuring the sea-voyage phone, fax and email facilities were provided\nto the members by DEAL team, using the system available onboard ship.\nMessages for logistic/scientific support and other information were\nregularly exchanged between Ship, Maitri, Goa and various participating\ninstitutions.\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 301-306\n302                              Hemant Kumar Gaur and Ramesh Kothiyal\nDEAL's participation in the Indian Antarctic programme had started\nin 1991, with participation of one member to carry out experiments in HF\npropagation for V oice and Data services. Since 1995 (i.e. the 15 th\nexpedition), DEAL has been entrusted with the total responsibility of\nommunication support to the Indian Antarctic Expedition.\n2.0 OBJECTIVES\nThe main objective of DEAL Team during the 27th expedition was to\nprovide communication support to the expedition members. It was also\np l a n n e d t o a c t i v a te t h e Re p e a t e r S t a t i o n , w h i c h w a s i n s t a l l e d e a r l i e r b y\nprevious DEAL contingents. Another important task was to provide\nLAN /Internet nodes in all rooms and summer labs.\n3.0   EXECUTION OF TASKS\n1. Operation of Earth Station for Video conferencing, Internet and TV\nreception\n2. HF/VHF communication\n3. Scientific data transmission\n4. Reception of Contour Chart from South Africa (Pretoria) on HF\n5. Aviation Band Communication\n6. Phone, Fax service through  SATCOM Terminal\n7. Operation of E-mail, Picture transmission and miscellaneous work\n3.1  LAN / Internet\nFor the first time in Maitri, DEAL team completed all wiring of\nLocal Area Network, including Summer Labs, with the help of new DEAL\nteam and the NCAOR representative. UTPCat-6 cable was used inside\nMaitri Station; and connectivity from Maitri to Summer Labs was given\nby STP cable. A total of 31 nodes were provided in Maitri station and 04\nnodes in the Summer Labs. All nodes were tested and were working\nsatisfactorily; but as per NCAOR directives, only 05 nodes were initially\nactivated. Shri Arun Chaturvedi and Dr. Pradeep Malhotra, Leaders of the\n27th and 28 th expeditions, inaugurated the new high band rate E-mails\nthrough these nodes, on 13 Dec 2008, by sending the first emails to NCAOR,\nGoa. Wiring diagram is submitted in Maitri station and RJ-45 connector\ndetails are given in Table.\n          303 Winter Period Communication Services at Maitri\nPin # Wire Colour Purpose\n1 White Orange Data\n2 Orange Data\n3 Whi te Green Data\n4 Blue Voi ce\n5 White Blue                             Voi ce\n6 Green Data\n7 Whi te Brown Vi deo\n8 Brown Vi deo\n3.2  HF/VHF Communication\nIn Maitri station, VHF communication is very vital for the daily\nroutines like Summer Camp, galley duty, generator operations, power\nchangeover, boiler operations, communication with pump house during\np u m p i n g o f w a t e r f r o m l a k e , e l e c t ri c al p ro b l e m s, w o r k s h o p a re a\ncommunication and nearby field duty operations.\nAnother vital area of VHF communication is the Convoy team\ncommunication. It is mentioned that whole convoy team uses Channel-1\nand DEAL team was regularly in touch with convoys for support up to\nmark C-07. Beyond this mark, witho",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "7] Logistics",
+    "subcategory": "Winter Period Communication Services at Maitri",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:16:13.691933Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_24",
+  "document_id": "NCPOR-34EB7E",
+  "source_file": "ARTICLE+24.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/432/3/ARTICLE+24.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+24",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 343-346 \nFlying Operations — XIV Antarctica E xpedition\n(1994-95)\nG S SEKHON\nIndian Navy\nHying operations in this Antarctica region has been the main role of the\nIndian Navy, ever since the first expedition was launched in 1981. The Naval\npilots have been flying the indigenously built single engine Chetak helicopters\nduring every Antarctic summer, to the machine's limits. Till the onset of the\nXIV Antarctic expedition in 1994, the pilots of the Fleet Air Arm had logged\nover 3000 hrs of accident free flying, over Antarctica, displaying a high degree\nof professionalism,\nTwo Chetak helicopters with four pilots and a maintenance team of five,\nformed the backbone of the team. The helicopters were fitted with special\nequipment like Decca Doppler, Gyro Gimp CG 512, TANS computer and HF\n618. During the sea journey the helicopters were embarked into the tight fit\nhold along with two containers of associated spares.\nBoth helicopters were prepared for flying operations on 13 Jan' 95, and\ncheck test flights were carried out thereafter. Both helicopters were launched\nfor Maitri the same afternoon with expedition leader Dr. S.D. Sharma, Army\nContingent Leader Maj PM Meena, and a few other expedition member. From\nthen onwards the helicopters were ranged on deck for the purpose of flying\nirrespective of the weather condition.\nFlying for Induction of Scientific Team\nThe induction of the scientific team to Maitri was started from 14 Jan, 95,\nand was completed by 19 Jan' 95. A total of 38 sorties aggregating to 57:30 hrs\nwere flown. A total of 40 passengers and a load of 5.5 tons were carried during\nthis flying effort.\nFlying for GSI\nA fuel dump of 20 barrels was setup at Maitri by the flight for use thereafter\nto proceed to Conrad mountains for dropping GSI scientists at distances ranging\n344 G. S. Sekhon \nbetween 75 to 95 NMs from Maitri. Due to late arrival of the ship in Antarctica\nand first preference being given to the induction of summer scientific compo-\nnent followed by the transportation of the XII Winter Over Team to Maitri,\nflying for GSI only commenced in the first week of February. It was seen that\nthe weather conditions in the month of February were not as good as that in\nJanuary resulting in difficulties in meeting the most difficult of all tasks because\nof the great distances and inaccessibility. Hence, both helos flew in company\nfrom Maitri to Conrad and back. The wind pattern at Conrad was most\nunpredictable causing considerable difficulties in meeting this challenging task.\nA total of 75:00 hrs of flying was carried out for GSI, out for which 30:00 hrs\nwere for creating the fuel dump at Maitri.\nFlying for HG/Osmania University\nThe IIG had a requirement of setting up two observation posts as part of\ntheir study with a minimum distance of 110 NMs between them. Hence one\nobservation post was setup at Dakshin Gangotri, and the other at Conrad\nMountains. The DG observation post was regularly supported to collect/replen-\nish data capsules, and Conrad post was supported for the same during flying\nfor GSI in the same area. However, one full day's flying was dedicated for IIG\nscientists at Conrad mountains. Along with IIG scientist, two scientists from\nOsmania University were also ferried to collect samples for their study. A total\nof 25:15 hrs were flown, out of which 06:00 hrs were flown to create a fuel\ndump at Maitri.\nFlying for Wildlife Institute and ZSI\nThe requirements of Wildlife Institute were discussed with their scientist\nand it was planned to fly aerial recce sorties for counting the species of wildlife\nand their number, both in easterly and westerly direction along the shelf upto\na distance of 50 NM. The aircraft flew for such sorties at less than 500 ft for\nbetter observation, thus unable to maintain R/T contact with ship on VHF, but\nalways remained in R/T contact with the other helo flying between shelf and\nMaitri. Hence the position reporting was maintained throughout. Whenever\nthere was no simultaneous flying for wildlife and to Maitri, both aircraft flew\nin company for mutual SAR. ZSI scientist was also carried in these sorties and\ndropped at various rookrics for his study. A total of 18:30 hrs were flown\ntowards this effort.\nFlying for Rescue\nThe IIG scientists were regularly dropped at DG for collection of data and\npicked up the same day, or the following day, depending on their requirements.\nFlying Operations - XIVAntarctica Expedition  345\nOn 03 Feb' 95, two scientists were dropped in the evening to be picked up the\nnext day. The weathe r deteriorated on the night of 03/04 Feb' 95, and by\nmorning, blizzard condition had set in, which continued until 12 Feb' 95.\nHowever, on 08 Feb' 95, there was a slight improvement for a very short\nduration, and since it involved human lives, a sortie was flown under extreme\nmarginal conditions to rescue the stranded scientist",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "7]Logistics",
+    "subcategory": "Flying Operations—XIV Antarctic Expedition (1994-95)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:26.563023Z"
+  }
+}

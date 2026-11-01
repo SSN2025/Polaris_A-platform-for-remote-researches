@@ -1,0 +1,81 @@
+{
+  "id": "ecobiological-studies-of-the-freshwater-lakes-ncpor-b8f7e3",
+  "document_id": "NCPOR-B8F7E3",
+  "source_file": "pg+233-257.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1173/1/pg+233-257.pdf",
+  "title": "Ecobiological Studies of the Freshwater Lakes at Schirmacher Oasis, Antarctica",
+  "year": 1993,
+  "expedition": "12th Indian Antarctic Expedition",
+  "category": "Biology / Microbiology",
+  "subcategory": "Ecobiological Studies of the Freshwater Lakes at Schirmacher Oasis, Antarctica",
+  "bibliographic": {
+    "title": "Ecobiological Studies of the Freshwater Lakes at Schirmacher Oasis, Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "12th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1993,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 12th Indian Antarctic Expedition examines key biology / microbiology phenomena in polar terrain around Schirmacher Oasis. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Schirmacher Oasis"
+    ],
+    "research_sites": [
+      "Schirmacher Oasis"
+    ],
+    "num_pages": 25
+  },
+  "taxonomy": {
+    "category": "Biology / Microbiology",
+    "subcategory": "Ecobiological Studies of the Freshwater Lakes at Schirmacher Oasis, Antarctica",
+    "tags": [
+      "biology-microbiology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Biology / Microbiology discoveries from 12th Indian Antarctic Expedition: \"Ecobiological Studies of the Freshwater Lakes at Schirmacher Oasis, Antarctica\". Learn how Indian scientists studied Schirmacher Oasis on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Biology / Microbiology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:20:28.544445Z"
+  }
+}

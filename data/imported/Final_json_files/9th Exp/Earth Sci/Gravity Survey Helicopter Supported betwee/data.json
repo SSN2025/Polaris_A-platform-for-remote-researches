@@ -1,0 +1,72 @@
+{
+  "id": "article_15",
+  "document_id": "NCPOR-1DE3AA",
+  "source_file": "ARTICLE+15.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/356/3/ARTICLE+15.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+15",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 209-217 \nGravity Survey (Helicopter Supported) between Schirmacher\nOasis and Wohlthat Mountains, Dronning Maud Land,\nAntarctica\nS.K. VERMA, M.B.S. VYAGHRESWARA RAO AND B.V. GOPAL\nNational Geophysical Research Institute, Hyderabad\nAbstract\nThe helicopter-borne magnetic survey conducted between the Schirmacher Oasis (SO) and the\nWohlthat Mountains (WM) during the Seventh Indian Antarctic Expedition (IAE) revealed a number\nof interesting anomaly zones in the region. To study some of these features in detail, a helicopter\nsupported gravity survey was conducted during the Ninth IAE. Details of the logistics planning, data\nacquisition, processing and interpretation relating to this survey are described,\nIntroduction\nThe need to conduct gravity survey around SO and in the region between SO and WM\nwas realized when a number of interesting features were revealed by the helicopter-borne\nmagnetic survey done during the seventh IAE. While the nunataks between the SO and WM\nshowed high magnetic anomalies, the SO was found to be associated with a magnetic low\n(Fig. 1). Also a strong magnetic high was observed just northwest of SO. In  order to further\nstudy this strong magnetic anomaly of more than 600 nT associated with the SO, a gravity\nsurvey was carried out during th e Ninth IAE and measurements were taken along 4 profiles\nin the vicinity of SO. One of these profiles was extended upto  Humboldt mountains while\nanother (fifth profile) was taken between th e eastern margin of SO and the foot-hills of the\nGruber massif. After the standard data reduction and processing, the observed gravity values\nwere interpreted considering available geological and geophysical infor mation in the region.\nSelection of  Profiles\nAs shown in Fig. 2, four profiles in the N-S direction  were selected for gr avity measure-\nments in the vicinity of SO. Two of these profiles of about 30 km length lie on the ice shelf\nwest of SO. The  third profile of about 90 km length runs from the western tip of SO to the\nfoot-hills of the Humboldt mountain. This profile coincides with the aeromagnetic profile\n(taken during the seventh IAE) for which detailed interpretation is provided by Mital and\nVerma (1989). The fourth profile of about 30 km runs in N-S direction, passing close to the\n'Maitri' station. In addition, a fifth profile of about 60 km length was taken  from the\neasternmost margin of SO to the foot-hills of Gruber massif, The initial and final coordinates\nof the five measured profiles are given below:\n210 S.K. Verma et al. \nFig. 1. Total intensity magnetic anomaly contour map around Schumacher Oasis region. \nProfile 1: 70° 42'S, 11° 10'E to 70° 57'S, 11° 10'E with station interval of 2.8 km\nProfile 2: 70° 42'S, 11° 20'E to 70° 57'S, 11° 20' E with station interval of 2.8 km\nProfile 3: 70° 40'S, 11° 30'E to 7r30'S, 1l°30'E with station interval of 2.8 km\nProfile 4: 70° 46'S, 11° 40'E to 70°57'S, 11°40'E with station interval of 2.8 km\nProfile 5: 70° 47'S, 11°48'E to 71°1 l'S, 12°59'E with station interval of 2.6 km\nOperational Logistics\nThe gravity measurements along the above mentioned profiles were taken with t h e\nsupport of helicopters. The average station interval varied from 2.6 to 2.8 km. After each\nmeasurement the distance to the next station was covered by helicopter. For position\nlocation, the  TANS-71 Doppler Navigation system, Fitted in the  Chetak  Helicopter w a s\nused. It may be mentioned here that such a type of 'helicopter supported gravity survey'\nshould not be confused with  'airborne gravity survey' in which the gravity measuring\nsystem itself is installed on a gyro-stabilized base inside the craft.\nGravity Survey 211 \nBOUGUER  GRAVITY  PROFILES (IN MILLIGALS)  WITH  TOPOGRAPHY  IN SCHIRMACHER  WOHL  THAT  REGION\nFig. 2. Location of the five gravity profiles along with Bouguer anomaly plots \nA special type of wooden tripod was fabricated to keep the base plate. This was found to\nbe very useful in overcoming the problem of levelling variations on ice during the period\nrequired for measurements.\nIn Antarctic  environs, strong wind conditions are a common feature. This may lead to\noscillations of the beam in  the gravimeter. It was found that this problem could be avoided\nby wrapping blankets around the gravimeter while taking readings.\nEquipment Used & the Survey Procedure\nThe following instruments were used in the survey:\n1. Lacoste Romberg gravity meter (G-954 model  with electronic levelling)\n2. Paulin Altimeter\n3. Doppler navigation system for position location\nFREE AIR ANOMALY\n212\nFig. 3. Free air anomaly contour map around Schirmacher Oasis region.\nS.K. V erma et al.\nBOUGUER ANOMALY (2.67g/cc)\nFig. 4. Bouguer anomaly contour map around Schirmacher Oasis region. \n213\nGravity Survey... \n214\nS.K. Verma et al. \nGravimeter\nFor gravity measurements LACOSTE ROMBERG (MODEL-G) gravimeter was used.\nThis ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "5]Earth Sciences",
+    "subcategory": "Gravity Survey (Helicopter Supported) between Schirmacher Oasis and Wohlthat Mountains, Dronning Maud Land, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:24.476348Z"
+  }
+}

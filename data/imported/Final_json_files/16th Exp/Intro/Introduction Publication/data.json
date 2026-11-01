@@ -1,0 +1,72 @@
+{
+  "id": "introduction",
+  "document_id": "NCPOR-0F32D1",
+  "source_file": "INTRODUCTION.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/513/3/INTRODUCTION.pdf",
+  "bibliographic": {
+    "title": "INTRODUCTION",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SCIENTIFIC REPORT\nSIXTEENTH INDIAN EXPEDITION\nTO ANTARCTICA\nTECHNICAL PUBLICATION NO -14\nDEPARTMENT OF OCEAN DEVELOPMENT\nCGO COMPLEX, LODHI ROAD\nNEW DELHI-110 003\nINDIA\n2000\nPrepared by: Dr. A. L. Koppar\nMeteorological Centre\nIndia Meteorological Department\nPalace Road,\nBangalore-560 001\nand\nNational Centre for\nAntarctic and Ocean Research\nDepartment of Ocean Development\nHeadland sada\nVasco-da-Gama\nGoa -\n 403\n 804\nTypesetting by FONTECH PRE PRESS\n#464,1st Floor, 12th Cross,\nWilson Garden, Bangalore - 560 027\nPh: 2294456\ne-mail:fontechprepress@usa.net\nPrinted at: EXECUTIVE PRINT GROUP\n# 20, 5th Cross, Sudhamanagar, Bangalore - 560 027\nPh: 2293452 Pager No.: 9624-279741 (R) 3310517\nDR. A.E. MUTHUNAYAGAM\nSecretary GOVERNMENT OF INDIA\nDEPARTMENT OF OCEAN DEVELOPMENT\n'MAHASAGAR BHAVAN', BLOCK-12, C.G.O, COMPLEX,\nLODHI ROAD, NEW DELHI-110 003\nFOREWORD\nThere are significant advances in the understanding of Antarctica continent\nby man since the late 1950s, however the process is far from complete. Likewise,\nscience and technology may have made living in this frozen continent more\ncomfortable, but the risks and challenges still galore. These factors prompt us\nto continue our sustained participation in the global effort to understand this\ndesolate yet vital continent, better.\nThe XVI India n Scientific Antarctic Expedition (1996-1998) was a step\nfurther in this direction. A salient feature of this expedition was the installation \nof bust size bronz e statue of Mahatma Gandhi in Maitri station, to mark the\ngolden jubilee of  country's independence. The inaugural (video) pictures of\ninstallation of the statue were transmitted in near real-time to the Prime Minister\nof India by establishing the first ever digital picture transmission link between\nAntaractica and India via INMARSAT satellite. This was a commendable\nachievement. Other highlights of this expedition are the initiation of studies in\nnew areas viz, Seismic activity; Hydro-geochemistry, Thermal structure and\nSedimentology of lakes; Electrical conductivity and Aerosol particle distribution\nin the atmosphere; Taxonomical survey of Bryophyte vegetation and Wind energy\nutilisation. These are in addition to other ongoing studies.\nIn this report the findings and results of investigation of various scientists\nfrom different organisations who participated in the expediton have been\ndocumented. Dr. A.L. Koppar, leader of the expedition deserves appreciation\nfor his efforts in bringing out this scientific report.\n(A.E.Muthunayagam)\nPREFACE\nDepartment of Ocean Development customarily publishes a scientific\nreport on each of its scientific expeditions to Antarctica in order to document\nthe results of studies conducted by scientists of various organisations. This\nreport of XVI Indian Scientific Expedition to Antarctica is a r ecord of\nexperiments/investigations conducted during the expedition and the results\nobtained.\nIn its endeavour to broaden the spectrum of scientific enquiry about this\nrelatively less known continent, the Department initiated some new studies\nin the XVI Expedition. Notable among these is the setting up of a seismograph\nto monitor seismic activity round-the-year thus forming an integral component\nof the international programme, near real-time digital picture transmission\nbetween Antarctica and India, via satellite, was successfully done and was a \ntechnological feat. It is a matter of satisfaction that a large number of scientific\ninstitutions in the country have shown sustained interest in pursuing science\nin Antarctica which forms the backbone of the expeditions.\nIn the hostile environment of Antarctica, logistics of the expedition, such\nas maintenance of the station, becomes as important as the pursuit of science.\nLikewise, considering the ecological fragility of this continent, environmental\nprotection is a serious concern. In both these areas, the efforts put in by the\n60 member team of this expedition, under the leadership of Dr. A.L.Koppar,\ndeserves fullest appreciation.\nNATIONAL CENTRE FOR\nANTARCTIC & OCEAN RESEARCH\nDepartment of Ocean Development\n(Government of India)\nHeadland Sada, Vasco-Da-Gama,\nGoa - 403 804, India\nP.C.PANDEY\nCONTENTS\nForeward\nPreface\nThe Team\nAddress of Participating Organisations\nThe Sixteenth Indian Scientific Expedition to Antarctica\nAn Introduction to the Expedition and Achievements\n(Leader's Report)\nPages\n1\nA.L.. Koppar \nATMOSPHERIC SCIENCES\nA Report on Meteorological studies carried out during XVI Indian\nAntarctic Expeditions Winter period 41\nS. Venkateswarulu and U.P. Singh \nStudies of Local Time Characteristics in Magnetometer and Riometer\nvariations at the Indian Antarctic station, Maitri 75\nA.Dhar, A.L.Gudade, S. Sankaran and Girija Rajaram\nVelocity of small-scale Auroral Current systems over Maitri,\nAntarctica in Jan 1997 93\nP. Elango, A.L.Gudade, S. Sankaran, A. Dhar and G. Rajaram\nMonitoring of Ozone, Water vapour etc during the\nvoyage to Antarctica 103\nS.L.Jain\nMeasurement of Water vapour at Maitri, Antarctic",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Introduction Of Publication",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:17.050007Z"
+  }
+}

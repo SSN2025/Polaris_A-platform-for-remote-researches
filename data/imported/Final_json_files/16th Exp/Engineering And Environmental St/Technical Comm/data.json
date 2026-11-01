@@ -1,0 +1,72 @@
+{
+  "id": "article_25",
+  "document_id": "NCPOR-070703",
+  "source_file": "ARTICLE+25.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/630/3/ARTICLE+25.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+25",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nTechnical Report on  Antarctic Communication\nKAL RAM AND JAGDISH KUMAR\nDEAL Raipur Road, Dehradun\nCommunication is a vital need of human being in modern society. The\nsignificance of communication is enhanced further in Antarctica due to its\nhostile weather conditions and isolation from rest of the world. DEAL Dehradun\nhas been responsible for providing total communication facilities viz., convey\ncommunication, HF/VHF communication to the field parties, flight operations,\ncommunication with ship and communication between Maitri Antarctica and\nIndia. The DEAL team is also responsible for maintaining the satellite terminals\nfor telephone, telex, fax and E-mail services from 15\nth\n expedition onward. Since\nthen the communication scenario has changed drastically and state of the art\nequipment have been introduced for providing HF/VHF and satellite communi-\ncation. High gain log periodic antennae were installed for better performance of\nHF link. Experimental HF voice/data communication trials have been conducted\nto get the new communication window for data transfer between India (DEAL)\nand Maitri. The facility of digital picture transmission was also introduced first\ntime at Maitri. In continuation of this specific programme, the following tasks\nwere carried out during the XVIIAE.\nHF communication during Voyage\nThe XVI Antarctic expedition comparising of 61 members sailed on 12\nth\n Dec,\n1996 from Mormugao port, Goa, under the leadership of Dr. A.L. Koppar of\nIMD. The 100 watt HF Yeasu set was installed in the living cabin and a dipole\nantenna was erected at deck of the ship. The expedition members were in regular\ncontact with DEAL and Maitri. The ship was very well in contact up to Antarctic\nregion during voyage. The first courtesy sortee reached Maitri on 3\nrd\n Jan 97. The\nVHF communication was installed next day at ship for flight operation.\nInstallation of VHF repeater\nVHF communication is highly reliable and dependable due to line of sight com-\nmunication. Aerial survey was done for proper selection of site for installation of\nVHF repeater. The peak of  Vitehia hill 300 meter above Maitri level, was se-\nlected for the purpose. The repeater was housed in a wooden box and installed at\nthe said site. The solar pannel was kept fo r continuous charging of lead acid\nbattery and a ground plane antenna was installed with proper guy wires. Excel-\nlent VHF communication range was achieved up to 120 km and we were able to\nmaintain good contact with ship. The communication between Maitri and field\n412 Kal Ram and Jagdish Kumar \ncamps within range was also through VHF.\nHF communication\nLong haul HF communication can reach any corner of the world depend-\ni ng upon the propagation conditions. Regular HF communication was maintained\nwith India using 100 watts HF Yaesu cascaded with a linear amplifier of 1000\nwatts PEP. The broad band log periodic antenna (6.2 to 30 MHz) was used. The\ncommunication window in HF band is available during 1900 hrs to 2200 hrs IST.\nThere is no communication for couple of days during high magnetic storms. Lot\nof fading has been observed at Maitri which sustain even up to 03 minutes, due\nto sudden ionospheric changes. The data communication was tried in RTTY,\nFEC, AMTOR and PACKET mode at different buad rates. Different frequencies\nwere tired for the purpose at different times to find out a new communication\nwindow. HF set 100 watt was also installed at ship, DG and GSI field camp for\nproviding communication support to the scientific experiments conducted by\nSASE, GSI and IIG.\nWeather Fax on HF\nMulticom software was installed first time during XVI-IAE for receiving\nweather fax over HF. Better technique has been used for receiving of weather\ncharts on HF. It has replaced the old technique of chart recording. There is no\nneed of any special paper for the hard copy. Received fax can be aligned and\nedited as per our requirement. About 150 numbers of weather fax were received\nfrom Pretoria, South Africa for IMD use. These charts were found very useful\nfor forecasting of Antarctic weather for planning the work, out side Maitri and\nparticularly convoy to DG.\nSatellite Communication\nThere are two satellite terminals at Maitri, one terminal is installed inside\nMaitri. It is being used as main terminal for telephone/fax/telex. The second\nterminal installed outside Maitri and being used exclusively for E-Mail services.\nTelex was used on a regular basis for sending IMD weather data every 06 hour.\nThese calls were originated from IMD office at New Delhi. Weather data were\nstored in memory beforehand and when IMD was on line the date were transmit-\nted from Maitri.\nE-mail\nE-mail terminal was maintained and more than 1000 E-Mails were trans-\nmitted from Maitri and 800 mails were received. Maitri was in continuous con0-\ntact with India News Network, and regular news were r",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "6]Engineering And Environmental Studies",
+    "subcategory": "Technical report on Antarctica communication",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:46.641261Z"
+  }
+}

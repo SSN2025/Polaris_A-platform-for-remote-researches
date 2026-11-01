@@ -1,0 +1,72 @@
+{
+  "id": "article_10",
+  "document_id": "NCPOR-AB0182",
+  "source_file": "ARTICLE+10.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/614/3/ARTICLE+10.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+10",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth Indian Expendition to Antarctica. Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nLaser heterodyne system at Maitri, Antarctica\nS.L. JAIN AND O.P. TRIPATHI\nRadio and Atmospheric Sciences Division National Physical Laboratory\nNew Delhi - i 10 012 (India) Fax: 091 11 575 2678 / 091 11 576 4189\nE-mail:sljain@csnpl.ren.nic.in\nAbstract\nThe ozone depletion in general and ozone hole phenomenon over\nAntarctica during spring in particular has generated a surge of  interest in the\nmeasurement of ozone using various techniques. A High-Tech Laser Hetero-\ndyne System using a 1 GHz Acousto-optic spectrometer as back end has been\ndesigned and developed at National Physical Laboratory, New Delhi to monitor\nozone and other trace species in the atmosphere. The Laser Heterodyne System\nhas been successfully operated at Maitri (70\no\n46'S, 11\no\n44'E) an Indian Antarctic\nstation during 1996-98 Lo obtain ozone line spectra at 1043.1775 cm with an\nultra high spectral resolution. The line spectra thus obtained with high spectral\nresolution in trun has been used to get vertical profiles of ozone in the atmo-\nsphere using inversion technique developed at NPL for  Antarctic conditions. A \nliquid nitrogen plant was also installed at Maitri. In the present communication the\nsalient feature of the Laser Heterodyne System, Acousto-optic spectrometer,\nliquid nitrogen plant and results obtained are discussed in detail.\n1. Introduction\nThe study of minor constituents in the atmosphere is of vital interest to\nunderstand the structure of troposhere and stratosphere. The evidence of cata-\nlytic destruction of ozone by NOx and CIOx in early seventies Johnstkon [1971]\nand reporting of \"ozone hole\" Farman et al [1985] at Antarctica in spring time\nhas generataed an unprecedented surge of interest in the measurement of ozone\nusing various techniques. A tunable C0\n2\n laser heterodyne system has been de-\nsigned, developed and set up at NPL, New Delhi, Jain et al [1988] to monitor\nvarious trace species in the atmosphere.\nThe laser heterodyne system with one GH acousto-optic spectrometer (AOS)\nas backend, was also set up at Maitri, an Indian Antarctic station (70\no\n 46S 11\no\n44'E) during 1993-94 and 1994-95 Antarctic summer to obtain ozone profiles\nand is first of its kind over Antarctic region. However the system was brought\nback that time due to non-availability of liquid nitrogen during winter. Again in\nthe sixteenth expedition the system has been set-up al Maitr i and made  opera-\ntional in summer as well as winter. The liquid nitrogen plant which was brought\nduring 1993-94 Indian Scientific Antarctic Expedition for producing liquid ni-\ntrogen for the laser heterodyne system was also made operational, In the present\n126\nS.L Jain and O.P. Tripathi \ncommunication the salient features of laser heterodyne system. Acousto-Optic\nSpectrometer, liquid nitrogen plant and results obtained are discussed.\n2. Laser Heterodyne System (LHS) \nInfrared laser heterodyne spectroscopy provides a powerful tool for identi-\nfication of week molecular and atomic species Menzies [1976], The advantages\nof the laser heterodyne system over other techniques are its ultra high spectral\nresolutions, high spatial resolution, high quantum detection efficiency and very\ngood signal to noise ratio. The high resolution makes the system very selective\nas the interference problem due to overlapping lines or bands are minimized and\nthe lines can be resolved completely. The block diagram of the system is de-\npicted in Fig. 1. The CO, laser used as a local oscillator is tuned on a line corre-\nsponding to the absorption line of the minor constituent of interest. The chopped\nsolar radiation and CO, laser beam are coaligned and focused on the high speed\nliquid nitrogen cooled Hg Cd Te detector. The detected IF signal is further ampli-\nfied in low noise wide band (5-1200 MHz) RF amplifiers.\n3. Principles of Operation of Laser Heterodyne System \nThe laser heterodyne system is a passive technique in which CO, laser\n(local oscillator) or semiconductor tunable diode laser is tuned on or near the\nabsorption line of the constituent of interest say ozone and is mixed with a \nchopped solar radiation. The two signals are focused on very high speed (1000\nMHz) liquid nitrogen cooled Hg Cd Te detector. The beat signal thus obtained is\namplified in a wide band RF amplifier (5-1000 MHz). This beat signal is fed to\na HI_TECH I GHz acousto-optic sectrometer to record the frequency power\nspectra (line profile) by PC based data acquistition. The signals on the various\nchannels is synchronously detected.\nThe pressure broadened (Lorenlz broadening) absorption line width varies\nwith altitude which is being exploited to get  height profiles. The absorption at\nline centre is strongly influenced by the upper altitude molecules while absorp-\ntion a filter channels in the wing of the line will be mainly influenced by the\nlower altitude ones. Thus the measureme",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Laser Heterodyne System at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:24.566904Z"
+  }
+}

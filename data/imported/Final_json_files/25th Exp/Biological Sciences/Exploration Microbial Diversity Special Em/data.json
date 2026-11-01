@@ -1,0 +1,72 @@
+{
+  "id": "chapter_3",
+  "document_id": "NCPOR-9FF981",
+  "source_file": "Chapter+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1004/1/Chapter+3.pdf",
+  "bibliographic": {
+    "title": "Chapter+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 223-234\nExploration of Microbial Diversity from Antarctica \nwith Special Emphasis on Biotechnological Potential\nShailendra Sonawane, Girish Mahajan, Saji George,\nP. Giridharan, Asha Almeida and P. D. Mishra\nPiramal Life Sciences Limited, Nirlon Complex,\nGoregaon, Mumbai 400063, India\nABSTRACT\nDuring the XXV expedition 60 soil samples were collected from different \nlocalities of Schirmacher Oasis, Antarctica. It includes mosses, lichen and sediment \nsamples. The soil samples were processed to isolate microbes. These microbes \nwere further fermented in different media and metabolite extract library was \nprepared. The metabolite extracts were evaluated for their biological activity in \ntherapeutic areas such as anti-infective, anticancer and anti-inflammation. The \npromising extracts were subjected for chemical investigation to isolate bioactive \nprinciples.\nINTRODUCTION\nActinomycetes, myxobacteria and certain other eubacteria of the genus \nbacillus have always been a major source of bioactive compounds. \nEspecially actinomycetes are always in the frontline as a source of novel \nbioactive molecules. The redundancy level in the compounds isolated from \nthe microbesVas been increasing over the period. To reduce this one of the \nsmart way is to look for microbes from unexplored natural resources. \nMicrobes with tailored metabolism in these extreme geographic locations \ndo display a different secondary metabolism, which enhances the prospect \nof yielding novel compounds with altered mechanism of actions in living \ncells.\nDuring the past 2-3 decades, interest in glacier microflora increased \ndue to the investigation of novel bioactive compounds, especially antibiotics \nand enzymes activate in low temperatures. Due to severe environmental \nconditions (low temperature, low humidity, high radiation etc). Antarctica \nis a representation of a unique resource of microbes with distorted \nmetabolism. The continent of Antarctica is a major cold habitat, covering\n\n224 Shailandra Sonawane et at.\nabout 14 million square kilometers of which all but 2% is covered by ice \nand snow. Nonetheless, it is far from uniform and has environmental niches, \nincluding different soil types, sediments, rocks and melt waters, as well as \nsnow and ice, that vary in the constancy of their thermal regime, nutrient \nstatus, water activity and salinity. These factors are important in nourishing \ncertain selected micro flora in those areas. It is also reflected in the wide \ndiversity of cold adapted micro-organisms that include bacteria, archaea, \nyeast, fungi and micro algae. While exploring the continental glacial samples \nand those of shelves and icebergs, a lot of sporulating and non-sporulating \nbacteria, some yeasts species, fungi and Actinomycetes were found. New \nmicrobial species are being reported more frequently from Antarctic region. \nThis is illustrated by reports of new actinomyces species like Friedmanella \nAntarctica,Friedmanella lacustris,Nocardiopsis aurantiacus, and \nModestobacterium multiseptatum.\nIn the present study we are presenting the work done at Piramal Life \nScience limited for the resource samples collected from Antarctic region \nin XXV expedition in collaboration with National Center for Antarctic \nand Ocean Research. Microbes isolated from different habitat from \nAntarctica were cultured in the laboratory conditions. Microbial studies \nwere carried out with the purified isolates. These microbial isolates were \nexplored for their therapeutic potentials.\nSample Collection\nDetailed survey of various geographical regions was conducted at \nSchirmacher Oasis, Antarctica with the purpose of tapping novel microbial \nbiodiversity on the basis of literature search (Annexure I). During the \nexpedition we collected 60 different soil samples from 30 different identified \nlocations. All these identified soil samples were collected in aseptic \nconditions and transferred to sterile plastic bags which later were stored at \n-20°C until it reached the laboratory for further processing.\nMATERIALS AND METHODS\nSoil Sample Maintenance\nThe soil samples collected from Antarctic regions were maintained \nat -20°C to avoid any deterioration or decay of the samples.\nIsolation of Actinomycetes and other Eubacteria\nThe soil samples were taken out from -20°C deep freezer and \nmaintained on ice bath (0-2°C) for slow thawing. All the samples were\n\nExploration of Microbial Diversity from Antarctica ....225\nthen diluted with artificial sea water to get approximate lgram per Litre \n(g/L) concentration. They were further diluted to 0.1 g/L in the same way. \n100 pi of both these samples were spread on various specific agarified \nmedium. One set was incubated at 2-4°C, the second was at 8-10°C and \nthe third set was at 24-26°C. Amphotericin— B (at 50 pg/ml) was incorporated \nin all the media to avoid growth of any fungal strains in it. All the plat",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "4] Biological Sciences",
+    "subcategory": "Exploration of Microbial Diversity from Antarctica with Special Emphasis on Biotechnological Potential",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:58:53.118933Z"
+  }
+}

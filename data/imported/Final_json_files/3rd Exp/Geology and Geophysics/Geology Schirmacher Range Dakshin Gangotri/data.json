@@ -1,0 +1,72 @@
+{
+  "id": "article_14",
+  "document_id": "NCPOR-8FC0B9",
+  "source_file": "ARTICLE+14.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/216/3/ARTICLE+14.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+14",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian Expedition to Antarctica, Scientific Report, 1986\nDepartment of Ocean Development Technical Publication No 3 pp 187 217 \nGeology of Schirmacher Range (Dakshin Gangotri),\nEast Antarctica\nSudipta Sengupta 1\nABSTRACT\nAn area of 35 sq km in the Schirmacher Range of Queen Maud Land East Antarctica was geo-\nlogically mapped on scale 1 25 000. Six major lithological u nits (a) banded gneiss (b) alas\nkite (c) garnet biotite gneiss (d) calc gneiss khondalites and a ssociated migmatites (e) augen\ngneiss and (f) streaky gneiss are delineated. The rocks have suffered an early metamorphism under\ngranulite facies conditions and an early migmatization leading to the development of charnockitic rocks.\nOver a large part of the area the granulite facies assemblages have suffered complete or partial diaptho-\nresis under amphibolite facies conditions. This was contemporaneous with extensive granitisation.\nThe rocks have undergone an early deformation during the development of the charnockitic rocks and\nhave subsequently suffered four generations of superposed f olding. Two sets of second generation\nfolds F 2A and F2B are isoclinal and approximately coaxial in most places. In addition there are two\ngenerations of open upright folds (F3 and F4) with northerly and easterly striking steep axial surfaces.\nOpen recumbent folds (F5) have developed only locally. The major part of granitisation was broadly\nsynchronous with the F2 folding since the dominant gneissic foliation is axial planar to F2 folds. Narrow\nductile shear zones are distributed throughout the area. The ea rliest shear zones are parallel to the\ndominant gneissic foliation the mylonitic foliat ion and lineation being parallel respectively to F2 axial\nplanes and F2 hinges in neighbouring unsheared rocks. The late shear zones and discrete shear sur-\nfaces cut across the F2 axial surfaces.\nINTRODUCTION\nThe Precambrian basement of the East Antarctic shield is mostly covered with ice and out crops\nare restricted along the narrow coastal zone. The Schirmacher Range emerges as a rock oasis bet-\nween the continental ice sheet and the coastal ice shelf occupying an area of 35 sq km between 77° 44\n30 - 70°46 30 south latitudes and 11°22 4 - 11°54 00 east longitudes. The major mountain\nsystem of Queen Maud Land runs for about a thousand kilometres approximately parallel to the coast\nline and has been studied by several workers (Roots 195 3 Autenboer et al 1964 Craddock 1972,\nJuckes 1972 Ravich 1972 1982 Kamenev 1972 Ravich and Kamenev 1975). The Schirmacher\nRange is  situated approximately half way between the main mountain range and the present coast line.\nUnlike the main mountain range the Schirmacher Range forms a group of low lying hills of\nabout 50 to 200 m high interspersed with a few glacial lakes. To the north of the range there are frozen\nake in aleds on the ice surface with dendritic water channels cutting into the ice. On the south side\nthe continental ice cap extends upto the main mountain range and beyond. The approximate thickness\nof this ice cap ranges from 500m to 3 km. A prominent glacial tongue of this ice sheet over rides the\nsouthern face of the range in the eastern part (Fig 1). The northern face is generally steep (Fig 2).\nThe rocks of Schirmacher Range show extensive glacial erosion with prominent U-shaped valleys glacial\nstriations (Fig 3)  on the rock surface with thick moraine cover in the lower altitudes. Frost shattering\nin the rocks is evident in a few places. Wind erosion is dominant at high altitudes where the rocks exhi-\nbit pitted surface (Fig 4).\n1Department of Geological Sciences, Jadavpur University, Calcutta\n187\nGEOLOGY OF SCHIRMACHER RANGE (DAKSHIN GANGOTRI) EAS T ANTARCTICA\nFig 1 Glacial tongue overriding the southern face of Schirmacher Range\nThe Schirmacher Range belongs to the East Antarctica Charnockite Province (Klimov et al\n1964 Ravich 1972 1982 Kamenev 1972 1982 Ravich & Kamenev 1975) the largest area of granu-\nlite facies rocks in the world. The rocks have undergone multiple episodes of metamorphism mig-\nmatization and deformation (Grew 1978 1982 Hofmann 1982 Oliver et al 1972 Tingey 1982).\nThe compositional variation of gneisses is due to the non uniformity of the metamorphic rocks and the\nselective nature of granitisation and ultra metamorphism (Klimov et al 1964 Ravich 1972 a b 1982\nKamenev 1972 a b).\nGEOLOGICAL MAPPING\nThe main lithological varieties are charnockites granite gneisses gneissose migmatites of\ndifferent varieties relicts of metabasic rocks calc-silicates and aluminous gneiss. The area can be\nmapped out into six major lithological units (a) banded gneiss (b) alaskite (c) garnet biotite gneiss\n(d) calc gneiss khondalite and associated migmatites (e) augen gneiss and (f) streaky gneiss. The\nrelicts of metabasic rocks aluminous gneiss and charnockite are small to be mapped separately on the\npresent scale of mapping which is 1 25 000. The Schirmacher range runs roughly E-W. The six\nlithological units have an ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 31
+  },
+  "taxonomy": {
+    "category": "4]Geology and Geophysics",
+    "subcategory": "Geology of Schirmacher Range (Dakshin Gangotri) East Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:59.173848Z"
+  }
+}

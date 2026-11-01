@@ -1,0 +1,72 @@
+{
+  "id": "article_8_2",
+  "document_id": "NCPOR-09F029",
+  "source_file": "ARTICLE+8_2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/572/3/ARTICLE+8_2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8_2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp. 89-97 \nThe Geospace Event on the Night of 11 August 2000:\nResults of Ground Geomagnetic Field Measurements\nFrom Maitri, Antarctica\nK. Jeeva\n1\n, S. Gurubaran\n1\n, A. Dhar\n2\n and G. Rajaram\n2\n1\n Equatorial Geophysical Research Laboratory, Indian Institute of Geomagnetism,\nTirunelveli-627 011\n2\n Indian Institute of Geomagnetism, Mumbai- 400 005\nAbstract\nIntense bursts of magnetic field variations were recorded on the night of 11 August\n2000 by the fluxgate magnetometer installed at the Indian Antarctic Station Maitri (70.8\"S,\n11.8°E). These variations are ascribed to the southward turnings of the interplanetary\nmagnetic field (IMF) and enhancements in solar wind particle pressure. With an L-value\nof 4.8, these records track the geospace processes occurring on the night sector of the\nmagnetosphere-ionosphere system.\nIntroduction\nThe geographical location of Maitri is unique in that under quiet\nconditions the station is under the influence of the mid-latitude Sq current\nsystem. As the magn etic disturbances grow due to the enhanced solar\nwind-magnetosphere interaction, Maitri comes increasingly under the\nauroral oval. The auroral oval expands under such conditions to envelop\nthe sky over Maitri.\nPast experiments conducted at the Indian Antarctic Station clearly\ndistinguished the disturbed time behaviour of the geomagnetic field\nvariation from their quiet-time characteristics (Kalra et at, 1995). Many\nimportant processes occur on the night side of the Earth wherein the\ngeomagnetic field is stretched to form a long 'tail' by the streaming charged\nparticle flow from the Sun. The field lines forming the tail are 'energized'\nwherever the interplanetary magnetic field turns southward as this favours\nmagnetic field reconnection on the dayside of the Earth. The reconnected\nfield is swept across towards the night side. The magnetic field ultimately\nreleases the energy in the form of sporadic bursts in the tail region that\nmanifest as substorms in the ground geomagnetic data. The channel in\n90 K. Jeeva, et al. \nwhich this energy is routed through is the substorm current wedge that\ntakes a westward path in the high latitude ionosphere. Field-aligned currents\nconstitute the edges of this current pattern (Kisabeth and Rosotoker, 1974).\nControversies still persist as to whether this loading-unloading process\nis solely responsible for the substorm phenomenon or the directly driven\nprocess plays an equally important role in causing the substorm signatures\n(Rostoker,1987). The storm-substorm relationship is another area that is\ngathering increasing attention in recent times.\nIn this report we have made qualitative assessment of how the\ngeomagnetic field variations as measured on the ground r espond to the\nchanging solar wind conditions. Though the results are not new, they\nprovide justification for continuing such studies.\nSelection of Data\nA fluxgate magnetometer is operated by the Indian Institute of\nGeomagnetism round the year at Maitri. The magn etometer records daily\nvariations in the X, Y and Z vector components of the geomagnetic field,\nas well as the pulsations in the same. The data are recorded in both analog\n(on chart-recorders) and digital (on solid state data loggers) form. Further,,\nthe absorption level of the radio noise at 30 MHz as recorded by the riometer\nis also monitored continuously. A decrease in the r adio intensity at this\nfrequency or an increase in the absorption level would correspond to an\nincrease in the D-region ionization density caused by th e precipitation of\ncharged particles along the geomagnetic field lines. These changes would\ncorrespond to a field-aligned current that can be detected in the Y-\ncomponent of the magnetic field.\nDuring the year 2000, the solar activity has reached its peak and many\nintense solar geophysical events took place then. In this report we focus\nupon the geomagnetic conditions that prevailed on the night of 11 August\n2000. Fig. 1 s hows the B\nx\n, B\ny\n, and B\nz\n components of the interplanetary\nmagnetic field (IMF) in the GSM coordinates measured by the WIND\nsatellite during the period commending at 1800 UT on 11 August and ending\nat 1200 UT on 12 August. We show in Fig. 2 the solar wind particle\nvelocities along with the particle density and pressure for the same period,\nthe velocities reached a high of ˜650 km/s at 2300 UT and remained at this\nlevel till the end of the observation period (1200 UT on 12 August). The\nion density and ion pressure showed two peaks at 01.00 UT and 0500 UT\non 12 August. The B\nz\n, component of IMF showed swings to southward\nvalues at least on six occasions during the period 1800-0600 UT. The first\nsouthward turning occurred at 1930 UT and the last event took place at\n0530 UT.\nThe Geospace Event on the Night of 11 August 2000.... 91 \nWIND MF>Magnetic Fields Investigation K0>Key Parameter\nTIME RANGE = 2000/8/11 ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "3]Atmospheric Sciences",
+    "subcategory": "The Geospace Event on the Night of 11 August 2000_ Results of Ground Geomagnetic Field Measurements From Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:26.621901Z"
+  }
+}

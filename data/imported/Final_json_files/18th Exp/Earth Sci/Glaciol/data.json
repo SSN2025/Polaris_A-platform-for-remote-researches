@@ -1,0 +1,72 @@
+{
+  "id": "article_5",
+  "document_id": "NCPOR-7EBAE0",
+  "source_file": "ARTICLE+5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/545/3/ARTICLE+5.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "R. Asthana, M.P.Gaur, Amit Dharwadkar\nAntarctica Division, Geological Survey of India\nNH-5P,N.I.T.,FARIDABAD- 121 001\n95\nEighteenth Indian Expedition to Antarctica, Scientific Report, 2002 \nDepartment of Ocean Development, Technical Publication No. 16, pp 95-109 \nGLACIOLOGICAL STUDIES DURING THE\nEXPEDITION\nABSTRACT\nGeological studies on shelf ice, polar ice tongue and icebergs were carried out\non a routine basis as part of a long term programme of these elements. Some variations\nin the accumulation/ablation pattern over shelf ice are noticed during 1999 austral\nsummer. A near steady state of recession of the snout of Dakshin Gangotri Glacier is\nindicated. The monitoring of icebergs in southern ocean was carried out between 45°\nand 70° south latitude on way to Antarctica and also during return voyage. The\nobservations revealed that the maximum concentration of icebergs lies in two distinct\nzones separated by a less frequented area.\nINTRODUCTION\nThe dynamics of ice shelves surrounding the Antarctic continent has a global\nsignificance particularly in connection with global warming, climatic circulation and\nchanges on global sea level. A warming trend has been observed in retreat of ice\nshelves to a variable degree in different areas of the continent. This has kindled the\ninterest of glaciologists world over in the dynamics of ice shelves surrounding the\nAntarctic continent. Keeping this in view Geological Survey of India is continuously\nmonitoring the ice shelf in the Indian sector since the first Indian Antarctic Expedition.\nThe studies carried out during the XVIII expedition involved\n1. Monitoring of icebergs during onward and return journey.\n2. Accumulation on th e ice shelfthrough a network of stakes.\n3. Glaciological studies along the shelf margin.\n4. Monitoring of snout of Dakshin - Gangotri glacier.\nPattern Icebergs in the Indian sector\nIcebergs constitute one of the important physical forms of ice around the Ant-\narctic continent. The occurrence and distribution of icebergs influence the sea-water\ntemperature which regulates the ocean circulation and indirectly affect global climate.\nThus long term iceberg monitoring gives significant clues to monitor changes in global\nclimate. Geological Survey of India has been monitoring the icebergs in the Indian\nR. Asthana et al. \n96\nsector since 1985 under the International Iceberg Monitoring Programme. Observa-\ntions on the occurrence, location, size and shape of the icebergs encountered along the\nonward and return journey are made following the guidelines prescribed by Norwegian\nPolar Research Institute. Table no.1 gives the details of observations made during the\npresent expedition.\nTable 1 Details of icebergs observed during XVIII Indian Antarctic\nExpedition.\nJourney\nOnward\nReturn\nTotal no.\nof ice bergs\n213\n447\nSize\n<\n50m\n50m\n to\n200\n m \n200m to\n500m\n500m to\n1km\n32 65 74 32\n57 183 145 60\n>1km\nto\n2\nDistribution (S latitude)\n50° to\n55°\n50° to\n60°\n60° to\n65°\n65° to\n70\n0\n1 35 88 89 \n0 29 65 353\nFirst iceberg was sighted on 5\nth\n Jan 1999 at 53\n0\n 51.06S latitude and 32° 24'.21 E \nlongitude. The icebergs encountered during the expedition are calved from the shelf ice\nunder the influence of dynamic ice-flow processes operating in the shelf region. Two\nwell defined zones of concentration of icebergs were observed with a distinct iceberg\nfree area in between (Fig la). The northern zone occurs between 57°S and 64°S while the\nsouthern zone lies between 67'S and 70°S. As soon as they are generated the icebergs\nstart moving westward due to the Antarctic coastal current. This journey reverses at\nthe convergence zone and the icebergs start drifting east due to the Southern Ocean\nCurrent (Fig lb).\nIcebergs vary in size from few meters to few km in length. About 8/9\nth\n portion of\nthe iceberg remains submerged below the water level and the remaining projects above.\nMost of the icebergs project 15 to 30m above the water line. The size usually decreases\naway from the coast mainly due to melting and disintegration of the iceberg. Icebergs\nnear the coast are usually tabular having flat tops and vertical walls (Fig. 2). Away from\nthe coast, weathered icebergs showing varied shapes are more common (Fig. 3 and 4),\nOccasionally uneven in tilted icebergs, melting, wave erosion and wind cutting may\ndestabilize an iceberg resulting in tilted icebergs.\nSnow accumulation and ablation on ice shelf.\nAntarctic ice shelves, covering an area of about 1.3-million sq.km act as an\nexoskeleton of the main continent. They not only protect but also bind and shape the\ncontinental ice sheet. Ice shelves are extension of continental ice, which is floating\nover the sea after crossing the main land. Ice shelves are floating slabs of land ice that\nGlaciological Studies. \n97\nrise and fall with the ocean tide. The critical boundaries of an ice shelf are the ground-\ning tine or hinge, where the glacier or ice sheet begins to float and the ice front where the\nshelf disintegrates in to ice bergs. There is a c",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 14
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "Glaciological studies during the Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:09.432094Z"
+  }
+}

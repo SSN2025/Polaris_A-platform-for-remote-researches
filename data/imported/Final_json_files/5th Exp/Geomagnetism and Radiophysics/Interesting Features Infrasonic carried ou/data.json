@@ -1,0 +1,72 @@
+{
+  "id": "article_28_1",
+  "document_id": "NCPOR-086F79",
+  "source_file": "ARTICLE+28_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/288/3/ARTICLE+28_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+28_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 363-366 \nSome Interesting Features of the Infrasonic Observation carried \nout during the Fifth Indian Antarctic Expedition (1985-86) \nR. VENKATACHARI, A.K. SAHA AND D.R. NAKRA \nNational Physical Laboratory, New Delhi-110012 \nand \nB.J. SRIVASTAVA \nNational Geophysical Research Institute, Hyderabad-500007 \nAbstract \nMicrobarograph observations taken at Antarctica in conjunction with the other \nobservations there, as well as in India, have been reported. One significant feature noted \nduring this Expedition, in a sunspot minimum year, as compared to the Second Indian \nExpedition when the sunspot activity was higher is that the generation of infrasonic waves \nin the sub-storm and their propagation to the lower latitude were inhibited. \nIntroduction \nThe Fifth Indian Scientific Expedition team to Antarctica (1985-86) set up \na base camp at 70° 06'S, 12° 00'E and carried out various experiments with \nground based instruments for a period of nearly sixty days from 29 Dec, 1985 \nto 27 Feb., 1986. One microbarograph station was set up by National Physical \nLaboratory (NPL) group primarily for studying magnetic disturbance effects near \nthe auroral zone. Some salient features on Antarctic observations have been \nreported earlier (Venkatachari et al., 1984). \nSome interesting infrasonic features observed at Antarctica during the Expedi-\ntion are reported here. \nObservations and Discussion \n(a) During the period of observation, blizzard was observed nearly 10 times. \nOn 26 Feb., 1986 there was a blizzard with a wind speed of 80 km gusting to \n100 km (Fig. 1). Blizzards continued for several hours. The figure shows only \na part of it. This is completely different from a. mid-latitude wind variation \npattern where blizzards are not observed. \n(b) Qn 17 Feb., 1986 (Fig. 2) infrasonic record showed a pattern with \nR. Venkatachari et al. 364 \nFig. 1. Infrasonic pressure variations at Antarctica during a blizzard (26 Feb. 1986) \nFig. 2, Violent infrasonic pressure variation \n(17 Feb. 1986). \nSome Interesting Features of the Infrasonic Observation... 365 \nviolent variation (as in a mid latitude station). The temperature was high on \nthat day compared to other days. That was the only day where such pattern \nwas observed. \n(c) Fig. 3 shows an interesting record on 21 Feb., 1986, where an impulsive \nvariation (of nearly 1000 microbars) is seen. Scientists from National Geophysical \nResearch Institute, Hyderabad (NGRI) were conducting some experiments with \nexplosive devices for elastic wave generation at the same site. This impulsive \nvariation coincided with the timing of one of these explosions. But on careful \nscrutiny, it was concluded that this variation was not an effect of this explosion \nfor the following reasons. NGRI conducted such experiments on three days \nexploding number of devices on each day. Except for one coincidence, none of \nthem has produced any effect. Secondly, the experiment was conducted in an \nice-shelf (and not in the Ocean) and as such the coupling between this and the \natmosphere was weak. The possibility of infrasonic wave generation is ruled out. \n+1000 \n1220 1320 1020 1120 \nUT(hrs) \nFig. 3. Impulsive infrasonic pressure variation \n(21 Feb. 1986). \nDuring the period of observation, impulsive record was seen on one more \noccasion. Perhaps, this was the effect of some explosion conducted in the Ocean \nby some other country. In the absence of any reliable data, it is difficult to \nmake any definite conclusion. \n(d) The microbarograph records were studied in conjunction with the details \n(on X-ray activity, electric field etc. obtained through balloon experiments) given \nby Prof. Edgar A. Bearing III, a member of SCAR Working Group on Upper \nAtmospheric Physics. As expected, no effect was observed in infrasonic pressure \nvariations since the given parameters affect only the ionosphere. \n(e) Antarctic microbarograph records were examined in conjunction with \nthe magnetic records taken at Hyderabad, to find out the characteristic signatures \n+600 \n+ 200 \n0 \n-200 PRESSURE CHANGE (μbar) \n366 R. Venkatachari et al. \nassociated with magnetic sub-storms (bays). During the period of observation, \na number of bays were observed in the magnetic records. It was surprising to \nnote that the 'bays' did not produce any effect in infrasonic pressure variations \nat Antarctica as well as in Hyderabad. The generation and propagation of \ninfrasonic waves appear to be inhibited. Perhaps, this has a bearing on sunspot \nactivity; 1986 being a year of minimum sunspot activity. \nA big 'bay' was observed at 2050 hrs. U.T. on 7 Feb., 1986 in the Hyderabad \nmagnetic records where change in the horizontal field (H) was more than 100 \nnT. Even though sinusoidal variation was observed in Antarctic microbarograph \nrecords (Fig. 4) from 2100 hrs (in confirmity with Srivastava et al, 1982), this \nwas not ve",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "6]Geomagnetism and Radiophysics",
+    "subcategory": "Some Interesting Features of the Infrasonic Observation carried out during the Fifth Indian Antarctic Expedition (1985-86)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:42.735700Z"
+  }
+}

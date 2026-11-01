@@ -1,0 +1,72 @@
+{
+  "id": "article_11",
+  "document_id": "NCPOR-0A62F0",
+  "source_file": "ARTICLE+11.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/577/3/ARTICLE+11.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+11",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 115-146 \nMeteorological Observations and Ozone Hole\nInvestigation during 2000\nat Indian Antarctic Station, Maitri\nE. Kulandaivelu and S.Venkateshwara Rao\nIndia Meteorological Department, New Delhi-110003\nAbstract\nIndia Meteorological Department (IMD) has been participating in Indian Antarctic\nExpeditions since the first expedition. During the year 2000, climatological data at Maitri,\nhas been analyzed and the results are discussed along with the significant weather\nphenomenon. Ozone sonde ascents were taken once a week and the ozone concentration\nand atmospheric temperature were also measured. Ozone depletion in the stratosphere\nduring Antarctic spring months, its recovery and stratospheric wanning are discussed.\nRadiometer sonde ascents were released in the winter period to study the net radiation\nbalance. Global and diffused radiation has also been measured and discussed in the present\npaper.\nIntroduction\nTo understand the climatic variation of a station, we require at least\n30 years of meteorological data. For this purpose, a manned permanent\nmeteorological observatory was set up at Antarctica. The permanent Indian\nScientific Station at Maitri has been functioning since January 1990. Various\nmeteorological parameters are collected every year. Weather conditions\nat Maitri vary every year depending on the global variation of atmospheric\nsystems and exchange of air masses between the poles and the tropics.\nDuring the year 2000, various meteorological parameters affecting the\nstation and the associated low-pressure systems have been analyzed and\ndiscussed. In addition, radiometer sonde ascents were taken to understand\nthe radiation budget. The whole world is now concerned about the \"Ozone\nHole\" phenomenon which is seen during the spring months (August\nOctober) at Antarctica every year. To understand the depletion of ozone\nconcentration in the stratosphere and its recovery to normal values in\nsummer, ozone sonde ascents have been used and Brewer\nSpectrophotometer has been operated throughout the year.\n116 E. Kulandaivelu and S. Venkateshwara Rao \nScientific Objectives\nThe scientific objectives of the meteorological programme during\nthe 19\nth\n expedition included the study of Antarctic meteorology in general.\nThe following programmes, in particular, have been conducted:\n(a) The daily, seasonal and annual variations of atmospheric pres-\nsure, surface wind, surface air temperature and cloud.\n(b) The radiation budget studies: Diffuse radiation observation in\naddition to direct solar radiation observations as well as\nradiometersonde (RMS) ascents.\n(c) Balloon borne measurements of ozone for its vertical profile\nover Maitri, for the study of the occurrence of ozone hole over\nAntarctica during Antarctic spring months. In addition surface\nozone measurements are to be made throughout the year at Maitri.\n(d) Monitoring weather systems affecting the Antarctic continent\nusing the Polar satellite pictures and the analyzed weather charts,\ntransmitted from Cape Town, South Africa.\n(e) Measurement of atmospheric turbidity in Antarctica.\n(f) Study of total ozone, D-UV, S0\n2\n and N0\n2\n using Brewer Spec-\ntrophotometer.\nObservational Programme\nThe following routine observations were taken at Maitri:\n(a) Surface observations: Every three hourly synoptic observations\nwere taken everyday and six hourly data (0000, 0600, 1200 and\n1800 UTC) have been transmitted on real time basis to the IMD-\nHQ, New Delhi. Due to breakdown in communication system\n(Sat .Com. terminal at Maitri), surface observation data could\nnot be to transmitted since the 2\nnd\n week of May 2000.\n(b) Continuous recording of surface pressure, air temperature, wind\n(direction & speed) and surface ozone have been made. Due to\nsome technical problem continuous recording of temperature\ncould not be made since 2\nnd\n week of August.\n(c) Continuous recording of total solar radiation and diffused\nradiation have been collected in the presence of sunlight. During\npolar night period, these instruments were switched off.\n(d) Balloon ascents: 50 sonde ascents were taken at the rate of one\nascent per week to monitor the ozone concentration and\ntemperature profile in the upper atmosphere. And 15\nradiometersonde (RMS) ascents were taken for radiation studies\nduring the year 2000.\nMeteorological Observations and Ozone Hole Investigation....  117\nResults and Discussion\nClimatological data of pressure, temperature and wind speed for each\nmonth during the year 2000 are shown in Table-IA.\nSurface Observations\n( a ) Atmospheric pressure: The extra-tropical low-pressure systems are\nalways moving round the icy continent in the clockwise direction between\n50°S and 70°S. The centers of the systems depend on the boundary of the\nt w o air masses, (i) warm moist air from the mid-latitudes and (ii) the cold\nd r y air from the polar icy continent. Hence the value ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 32
+  },
+  "taxonomy": {
+    "category": "3]Atmospheric Sciences",
+    "subcategory": "Meteorological Observations and Ozone Hole Investigation during 2000 at Indian Antarctic Station,Maitri.",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:20.322090Z"
+  }
+}

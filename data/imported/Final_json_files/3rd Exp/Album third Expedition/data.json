@@ -1,0 +1,72 @@
+{
+  "id": "v3_t_album",
+  "document_id": "NCPOR-B54532",
+  "source_file": "V3+T+ALBUM.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/670/1/V3+T+ALBUM.pdf",
+  "bibliographic": {
+    "title": "V3+T+ALBUM",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian \nAntarctic Expedition 1983-84 \nEXPEDITION ALBUM \nThird Indian \nAntarctic Expedition 1983-84 \nEXPEDITION ALBUM \nPRINT NUMBER \nPRINTED 400 NUMBERED ALBUMS ONLY \nEDITED BY \nPEKKA PERIVIITA \nLAYOUT & COVER \nPEKKA PERIVIITA \nPHOTOGRAPHS BY \nSTIG MALMBERG \nPEKKA PERIVIITA \nPRINTED BY \nJALKANEN KY \nAHTARI FINLAND \n1984 \nForeword \nThis Album has been published to present in words and pictures \nthe Third Indian Antarctic Expedition. The expedition was quite an \nexperience for everyone of its members. It was time for hard work \nand difficult conditions. It was time for blizzards and sunshine. It \nbrought many pleasant memories, never to be forgotten. It \nbrought many new friends. \nThe purpose of this Album is to collect all essential facts and \nthe addresses of the expedition members in one place where they \ncan be found also in the future. \nThe Album doesn't include the pictures of all the particulars \nhappened but the main features are mentioned in the diary. The \nphotographs are partly technically very poor because of the bad \nquality of the negatives. The films were developed mainly under \nrather difficult conditions during the expedition. However, I hope \nthat this Album will bring You good feeling and pleasant \nmemories. And don't forget to keep in touch with the friends you \ncame to know during the expedition! \nThis is your personal copy of the Album. It is not available in \nextra copies. All Albums are numbered from 1 to 400 which is \nthe total amount of the print. \nHereby I send my warmest thanks and appreciation for all the \nexpedition members who participated in the work to achieve this \nAlbum. Also I like to thank WARTSILA Helsinki Shipyard for \nmaking the publishing of this album possible. \nAhtari, Finland July 11 1984 \nDAKSHIN GANGOTRI STATION \nDR QASIM \nThe Third Indian Scientific Expedition to Antarctica was able to \nachieve all the objectives set out for it including its main task of \nerecting a permanent building for the Indian Station. Thus, \n'Dakshin Gangotri', a permanent station was built, named and \ncommissioned within one summer season. Considerable scientific \nwork and investigations were carried out in different disciplines of \nscience during the period of stay of the team in Antarctica. \nThis was possible only because of the utmost cooperation \nshown by all the members of the team including the officers and \ncrew of 'Finnpolaris' which carried the team to its destination. \nI am very glad a commemorative album is being brought out \non the various aspects of expedition. This will be very valuable \npossession for all members. I congratulate the authors for their \nvery fine effort. \nS.Z. Qasim \nSecretary \nDepartment of Ocean Development \nMS FINNPOLARIS AND PENGUINS \nDR HARSH GUPTA \nHaving successfully laid down the foundation of scientific research \nin Antarctica during the maiden expedition in 1981-82, and \nhaving continued this effort during the 1982-83 expedition, the \nDepartment of Ocean Development, Government of India, decided \nto launch the third expedition during the Antarctic summer of \n1983-84. To sustain continued scientific work during the winter \nmonths, it was decided to set up a Permanent Station during this \nexpedition, and this major responsibility was given to the Indian \nArmy Engineers. For other countries, which have established \nPermanent Stations in Antarctica, the construction job was \nhandled by personnel in uniform. The logistic support, in terms of \nflying was provided by the Indian Air Force and the Indian Navy. \nThere were fifteen scientists, including two lady members, drawn \nfrom some ten different Government Departments, Research \nInstitutes and Universities. The scientific programme included \nstudies in the field of meteorology, radiowave propagation, \ngeology, geophysics, oceanography, marine biology, \nmicrobiology, upper atmosphere, chemistry and glaciology. \nThis expedition had a total strength of 83 members. The ship \nchartered for the expedition, M.S. Finnpolaris, from Finnlines of \nFinland is of 'Ice Class 1A Super'. It can cut upto 70 cm thick \n'fast ice'. This 159 m long, 12.385 gross tonnage ship had been \nsuitably modified for storing and operation of the helicopters, \naccommodation of 83 team members, etc. The ship had 28 \nofficers/crew members. \nThe expedition left Goa on December 3, 1983 and returned on \nMarch 29, 1984. The stay at Antarctica was from December 26, \nHarsh K. Gupta \nLeader \n83 through March 1, 1984. Inspite of the severe weather \ncondition, and several other problems, all the aims and objectives \nof the mission were successfully completed. \nThis document, aided with a few articles, is a pictorial \ndepiction of the expedition. Photographs and addresses of the \nmembers of the expedition and officers/crew of the ship are \nuseful for future contacts. \nI would like to place on record, my appreciation and thanks to \nall who helped in successfully completing this prestigeous and \nambitious project. \nCROSSING THE LINE CELEBRATIONS",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 59
+  },
+  "taxonomy": {
+    "category": "Album of third Expedition",
+    "subcategory": null,
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:14.606817Z"
+  }
+}

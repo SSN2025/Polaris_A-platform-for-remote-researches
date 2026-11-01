@@ -1,0 +1,72 @@
+{
+  "id": "article_23",
+  "document_id": "NCPOR-0E5F6E",
+  "source_file": "ARTICLE+23.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/431/3/ARTICLE+23.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+23",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica , Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 333-341 \nMental  Distress among  Winter-over  Personnel  in\nAntarctica\nARUN JOSHI, RACHNA BHARGAVA and U. SACHDEVA\nDepartment of Physiology\nAll India Institute of Medical Sciences\nNew Delhi-110 029\nAbstract\nIsolation and extreme environment act as significant stressors in Antarctica. The study\nwas carried out to assess the level of mental distress experienced by winter-over personnel\nof Thirteenth Indian Scientific Expedition to Antarctica, during the course of stay at Maitri\nstation. The role of coping resources in handling stress is discussed.\nIntroduction\nOver the past decade, there has been a great upsurge of research on seasonal\nvariation in  emotional state (Kasper  et al.,  1989a; Rosen  et al.,  1990; Schlager\net al., 1993). Many individuals do not meet criteria for major affective disorder\nnor seek treatment for their symptoms but appear to experience mild seaonal\nmood swings that interfere with their productivity and well-being (Kasper  et\nal., 1989b). In recognition of these developments, Diagnostic an d Statistical\nManual-Fourth Edition (DSM-IV; APA, 1994) includes seasonal subtypes of\naffective disorders.\nPlaces at high altitude like Antarctica provide an ideal opportunity to\nprospectively examine impact of seasons on  asymptomatic nonclinical popu-\nlation where the variations in daylight through the seasons are extreme. Al-\nthough technological advancement has reduced hardships and danger, but\nwinter-over team continues to be exposed to constant darkness. Psychological\ndisturbances like sadness, irritability, insomnia are often reported by polar\nexpedition members.\nDespite these findings, most s tudies do not provide independent baseline\nassessment, or assessment of the changes in mood over the course of one year\n(Palinkas  et  al., 1995).\n334\nArun Joshi et al. \nA study was carried out to examine the  psychological profile of Indian\npersonnel on winte r-over duty at the Maitri station during the 13th Indian\nScientific Expedition.\nMethodology\nSample: The s ubjects for this study were 23 men who were members of\nthe Thirteenth Indian Scientific Expeidtion in 1993 and stayed for winter-over\nduty. All the subjects were screened for  sufficient emotional stability and\nintellectual capacity by psychiatrist and clinical psychologist. Beside s the group\ntesting procedure, each individual was also assessed by an unstructured psy-\nchological interview.\nInstruments\nThe following measures were used:\n(1) Sociodemographic data sheet\n(2) Self-rating Depression Scale\n(3) State-trait Anxiety I nventory (Form Y)\n(4) Coping Resources Inventory\nSelf-rating Depression Scale (SDS) (Zung, 1965)\nIt is a standard screening instrument that pr ovides a quantitativ e assessment\nof depressive symptomatology. The  scale consists of twenty items— ten\nworded symptomatically positive and ten s ymptomatically negative. The sub-\nject is required to rate each of the items as to how it applied to him in the\nfollowing four quantitative terms: None or little of the time, some of the time,\ngood part of the time, most or all of the time. Each item was scored on a 4-point\nrating scale. An index for the SDS was derived by dividing the sum of the raw\nscores obtained on the twenty items by 80, and was converted to a whole number\nwhich ranged from 25 to 100. Low score reflects less depression and vice-versa.\nState-trait Anxiety Inventory (STAI) (Form Y) (Speilberger  et al ., 1983)\nThe scale consisting of 40 items is intended to  measure state (i.e. level of\nanxiety at the time of testing) and trait anxiety (i.e. level of anxiety that is\nrelatively enduring in nature). Ten S-Anxiety items and nine T-Anxiety are\nnegatively worded. To obtain scores for S-Anxiety and T-Anxiety scales, the\nweighted scores for the twenty items that make up each scale are added.\nReliability and validity of the scale has been established in the Indian population\nalso.\nMental Distress among Winter-over Personnel...  335\nFig.1: Coping Resources in First & Fourth Assessments \nCoping Resources Inventory (CRI) (Hammer and Marting, 1988)\nCoping Resources I nventory is a well standardized instr ument to measure\ncoping resources that are currently available to  individuals for managing stress.\nIt consists of sixty items, measuring r esources in five domains, viz.- cognitive,\nsocial, emotional, spiritual and physical.\nThe cognitive domain refers to th e extent to which individual maintains a \npositive sense of self-worth, a positive outlook toward others, and optimism\nabout life in general. Social resources refers to the degree to which individuals\nare embedded in social networks that are able to provide support in times of\nstress. Emotional r esources refer to the degree to which individuals are able to\naccept and express a range of affect. The spiritual domain refers to the degree\nto which actions of individuals are guided by stable an",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "6]Medical Sciences",
+    "subcategory": "Mental Distress among Winter-over Personnel in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:21.903310Z"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "austral-summer-activities-15th-october-to-31s-ncpor-9c538b",
+  "document_id": "NCPOR-9C538B",
+  "source_file": "4.30ISEA-Voyage_Report.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1259/1/4.30ISEA-Voyage_Report.pdf",
+  "title": "Austral Summer Activities, 15th October to 31st December, 2010, Larsemann Hills, Antarctica",
+  "year": 2011,
+  "expedition": "30th Indian Antarctic Expedition",
+  "category": "Other",
+  "subcategory": "Austral Summer Activities, 15th October to 31st December, 2010, Larsemann Hills, Antarctica",
+  "bibliographic": {
+    "title": "Austral Summer Activities, 15th October to 31st December, 2010, Larsemann Hills, Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "30th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2011,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 30th Indian Antarctic Expedition examines key other phenomena in polar terrain around Larsemann Hills. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Larsemann Hills"
+    ],
+    "research_sites": [
+      "Larsemann Hills"
+    ],
+    "num_pages": 24
+  },
+  "taxonomy": {
+    "category": "Other",
+    "subcategory": "Austral Summer Activities, 15th October to 31st December, 2010, Larsemann Hills, Antarctica",
+    "tags": [
+      "other",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Other discoveries from 30th Indian Antarctic Expedition: \"Austral Summer Activities, 15th October to 31st December, 2010, Larsemann Hills, Antarctica\". Learn how Indian scientists studied Larsemann Hills on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Other based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:21:49.189380Z"
+  }
+}

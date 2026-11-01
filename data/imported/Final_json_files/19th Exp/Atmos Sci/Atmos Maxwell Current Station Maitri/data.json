@@ -1,0 +1,72 @@
+{
+  "id": "article_9",
+  "document_id": "NCPOR-1C1D7A",
+  "source_file": "ARTICLE+9.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/573/3/ARTICLE+9.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+9",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 99-105 \nObservations of Atmospheric Maxwell Current\nat Indian Antarctic Station, Maitri\nC. Panneerselvam\n1\n, K. Jeeva\n1\n, K. U. Nair\n1\n,\nS. Gurubaran\n1\n, R. Rajaram\n2\n, Ajay Dhar\n2\n and G. Rajaram\n2\n1\n Equatorial Geophysical Research Laboratory, Indian Institute of Geomagnetism,\nTirunelveli-627 Oil.\n2\n Indian Institute of Geomagnetism, Mumbai - 400 005.\nAbstract\nMeasurements of atmospheric Maxwell current, the fundamental parameter of the\nglobal electric circuit was commissioned at Indian Antarctic Station, Maitri, in December\n1999. The horizontal long wire antenna is used as a sensor for picking up charges that\nconstitute various currents collectively called the Maxwell current. The objective of the\npresent work is to understand the response of the experimental setup to various atmospheric\nelectrical and meteorological conditions and to explore the possibilities of detecting the\nglobal DC component believed to be the result of global thunderstorm activity. During the\nfairweather conditions i.e. days with low or moderate winds, no snowfall or snowdrift, no\nclouds and no fog effects, the diurnal variation of air-Earth Maxwell current has single\nperiodic with a minimum at 0300 UT and a maximum at 1900 UT. The diurnal variation\nclosely follows the trend of the Carnegie curve.\nIntroduction\nThe study of global electric circuit (GEC) provides a platform for\nunderstanding the solar-terrestrial relationship and offers possibilities for\nexploring one of the traditional scientific problems of mankind in the last\nfew centuries, namely, that of associating changes in lower atmospheric\nweather with the solar output (Herman and Goldberg, 1978). In spite of\nseveral mechanisms having been proposed there still lie uncertainties in\nidentifying the actual physical processes that govern the envisioned\nrelationship between the sun and the changes in weather. Continuous\nmeasurements of atmospheric electrical parameters, namely, the vertical\nelectric field, the conductivity and the air-earth current density, that\ncharacterize the GEC, are considered useful in any study aiming towards\nunderstanding fully the electrical environment of the Earth. Further, since\nthe global circuital path links the lower troposphere, the ionosphere and\n100 C. Panneerselvam, et al. \nthe magnetosphere, the measurements of atmospheric electrical parameters\nwill be handy in any integrated approach that involve all these regions.\nLong-term measurements would be considered useful for addressing some\nof the problems associated with global change.\nThe classical model of GEC proposed by Wilson (1920) considers\nthe thunderstorm as the only generator and operates the GEC and neglects\nother sources. It is also hypothesized that the ionosphere is an equipotential\nsurface and that the thunderstorm electric field cannot go beyond\nionosphere. According to the new GEC model, the solar wind/\nmagnetosphere dynamo, the ionosphere dynamo and thunderstorms are\nthe three main generators that operate the global electric circuit (GEC).\nDue to the variability of thunderstorm activity there are diurnal, seasonal,\ninterannual variations in the potential differences and currents, as well  a s\nsolar influences on the properties of the circuit (Israel, 1973; Marks  on,\n1986; Roble and Tzur 1986).\nThe Antarctic station has been chosen as our instrument site for several\nreasons. Most importantly, the station sits on the Antarctica plateau; a region\nwhere the atmosphere is more suited for making measurements of G E C\n(Park, 1976). It is a desert-like climate with clear skies, very low atmospheric\naerosol content. The prevailing wind which are light, flow in a constant\ndirection, and are relatively free of turbulent and convective motions\n(Dalrymple, 1966). The continent is free of thunderstorm activity. Hence,\natmospheric electrical measurements made at Antarctica are expected to\nbe relatively unperturbed by local meteorological conditions. The ice surface\nis flat and void of obstructions, the electrical conductivity of the surface\nice is several orders of magnitude higher than that of the air. In the present\nwork, vertical air-Earth current measurements made at Maitri, Antarctica,\nare made use of to examine the possibility of detecting global signatures.\nExperimental Technique\nThe Maxwell current in the air is the most informative parameter of\nthe global atmospheric electric circuit (Ruhnke, 1969). Different m e t h o d s\nfor measuring the vertical electric current in the atmosphere were attempted\nin the past. Disturbances of local origin are unwanted signals for any method\nattempting to detect global signatures. The long-wire antenna is considered\nas a good alternative since it allows for the suppression of local disturbances\nby averaging the vertical current over a large area (Ruhnke, 1969). T h e\nhorizontal antenna, if placed in the atmosphere, wil",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "3]Atmospheric Sciences",
+    "subcategory": "Observations of Atmospheric Maxwell Current at Indian Antarctic Station, Maitri",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:24.563538Z"
+  }
+}

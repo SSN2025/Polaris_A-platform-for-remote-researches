@@ -1,0 +1,72 @@
+{
+  "id": "article_16",
+  "document_id": "NCPOR-9C3E01",
+  "source_file": "ARTICLE+16.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/392/4/ARTICLE+16.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+16",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 8, pp. 251-259 \nHormonal Profile of Human Subjects Exposed to Antarctic\nSummer\nU. SACHDEVA, M. NAIDU, B. CHHAJER, M.G. KARMARKAR* AND G. SUNDARESAN\n*Department of Physiology & Department of Laboratory Medicine\nAll India Institute of Medical Sciences, Ansari Nagar, New Delhi-110 029\nAbstract\nThe harsh challenging and extreme photoperiodic environment of Antarctica provides an ideal\nsetting for studies of many human physiological and psychological variables. Of particular interest is\nthe possibility of hormonal changes as one of the causative factors for these variations. A pilot study\nwas conducted on summer expedition members to determine the hormonal profile of peripheral blood.\nThe data suggest increased levels of prolactin and growth hormone, and decreased levels of Cortisol,\ntriiodothyronine and thyroxine.\nIntroduction\nAntarctica has been considered a natural laboratory for studying the effect of\nstresses on human health and behaviour. The Antarctic environment presents\nextremes of environmental stress to sojourners to this land. Above all, the continu-\nous day or night plays a major role in adaptation of members of Antarctic\nexpedition, who spend either summer or winter months in Antarctica. Besides these\nthere are other psychoemotional stresses like social isolation, small close commu-\nnity living, hypo and hyperkinesia and sexual deprivation which complicate the\nnormal activity and adaptation at polar station.\nAssessment of hormonal profile is an important physiological index of adapta-\ntion to various stresses. Some studies have suggested a significant alteration in the\nthyroid and Cortisol levels during acclimatization to conditions in Antarctica (Lester\net al, 1990; Kennaway and Van Dorp, 1991). Hormones play an important role in\nacclimatization to extreme conditions and it was thus thought useful to investigate\nblood levels of wide range of hormones before and after completion of 8 weeks stay\nduring summer in Antarctica. The data obtained were specifically studied to deter-\nmine the role of hormones in adaptation of expedition members to the combined\nimpact of physical, psychological, geomagnetic and cosmic factors characteristic of\nAntarctica. These were pilot studies and based on these results further studies will\nbe planned for subsequent expeditions.\n252 U. Sachdevu el al. \nThe primary objective of our study was to evaluate the hormonal profile of periph-\neral blood on exposure of Indian men to Antarctic summer environment so that the\nunderlying mechanisms of physiological and behavioural changes could be identified.\nMaterials and Methods\nThe investigations were conducted on 23 members of Tenth Indian Scientific\nExpedition to Antarctica. Nearly 40 members initially volunteered for the study; but\ndue to non-availability of subjects on the days of experiment, 17 subjects were\neliminated from the study. The study was conducted in three phases, Phase 1— the\nbase line study was done on the ship. However, some have questioned how far (he\nbase line data obtained during sea voyage are representative of initial status of the\nmember, considering the psychological stress experienced during initial period of\nsea voyage. Therefore it has been planned that in future base line hormonal data will\nbe obtained at AIIMS laboratory at New Delhi. Phase II— study was after 1 week\nof stay in the summer camp at \"Maitri\", the Indian Antarctic Station (70o S, 12' E)\nand Phase III— after 8 weeks of stay at Maitri (8 days before departure).\nBlood samples were collected in the fasting state at 0730 AM after 8 hours of\nsleep. The baseline (Phase I) sample collection was done in the ship in a temperature\ncontrolled room 25±2°C, whereas at Antarctica it was in the non-heated summer hut\nwith the ambient temperature ranging between 0-l0°C. There was 24 hours light\nduring the period of study. The subjects were instructed to abstain from alcohol for\n24 hours prior to test. The venous blood sample was obtained from antecubital vein.\nTheir body weight, abdominal girth, midarm circumference were also measured. A \ncentrifuge was used to separate the plasma and all the specimens were stored at\n-2()°C and brought back to AIIMS for analysis. The standard RIA (Radio Immuno\nAssay) technique was used. The commercially available kits from Diagnostic\nSystem Laboratories Inc., Texas were utilized to measure the levels of Cortisol\n(CRT), prolactin (PRL), leutinizing hormone (LH), thyroid stimulating hormone\n(TSH), thyroxin (T4), tri-iodo thyroxine (T3), insulin (INS) and growth hormone\n(GH). The radioactivity was measured using a gamma automatic counting system.\nStatistical analysis was performed using one way analysis of variance for com-\nparison of different time periods. Paired 't' test was used for comparing where only\ntwo readings were available.\nResults\nFor ease of comparison between baseline hormonal levels and af",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "5]Medical Sciences",
+    "subcategory": "Hormonal Profile of Human Subjects Exposed to Antarctic Summer",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:13.860958Z"
+  }
+}

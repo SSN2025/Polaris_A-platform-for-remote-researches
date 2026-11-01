@@ -1,0 +1,72 @@
+{
+  "id": "introduction_2",
+  "document_id": "NCPOR-483858",
+  "source_file": "INTRODUCTION_2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/677/1/INTRODUCTION_2.pdf",
+  "bibliographic": {
+    "title": "INTRODUCTION_2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "XXV\nEighteenth Indian Expedition to Antarctica Scientific Report 2002 \nDepartment of Ocean Development. Technical Publication No. 16 pp XXV-XXXX \nSUMMARY\nAjay Dhar \nExpedition Leader & Station Commander \nThe XVIII Indian Antarctic Expedition was flagged off from Marmugao Port,\nGoa on board ship MV Polar Bird on 14\nth\n Dec 1998. The ceremony was presided over by\nthe Hon'ble Chief Minister of Goa in the presence of Chief Secretary, Govt, of Goa,\nSecretary, Department Of Ocean Development, besides various other dignitaries. The\nteam comprising of 56 members, included 39 scientist, 2 doctors from Indian Railways\nand 15 members from Indian Army and Indo-Tibetan Border Police. Twenty-six mem-\nbers of this team stayed for Polar winters to conduct various scientific experiments and\nmaintain the Station and its life support equipment. The Pawan Hans Helicopters were\nchartered for the first time to operate with the Indian Antarctic Expedition. The scien-\ntists were drawn from 17 Institutions across the country and a participating scientist\nfrom Iran, and each organization had a specific program. Three lady scientists were also\nparticipating in this expedition, the highest number in any expedition so far. This was\nthe last of the Indian Antarctic Expeditions to be flagged off from Goa, as the subse-\nquent expeditions were flagged off from Cape Town, South Africa.\nImmediately after sailing from Goa, heavy rolling/pitching was encountered by\nthe expedition vessel, which kept on increasing day after day. Members were briefed\nabout dos and don'ts during the voyage and expedition. Various committees were\nformed for smooth functioning during the voyage. Various scientific lectures were\narranged for the members every day to discuss the scientific programs of the participat-\ning Institutions/members. The ship crossed equator on the morning of 19\nth\n Dec and the\nequator crossing ceremony provided a little fun on board. Some problems were de-\ntected in the ships engine and air-conditioning system over the next few days. There\nwas some relief from rolling/pitching as the vessel reached Port Louise, Mauritius on\nthe morning of 24* Dec. A minor accident took place onboard, when one of the expedi-\ntion members slipped while walking on ships deck and needed X-ray and medical atten-\ntion at Mauritius. The staff at Indian High Commission, Port Louise, Mauritius were\nkind enough to provide all the necessary help during our short stay and arranging for\nthe necessary foodstuff and green vegetables. Some of the clothing items were also\nreceived during our stay. The halt at Mauritius was fully utilized to carry out the neces-\nsary repairs to Ship's engine and air-conditioning system. The ship sailed from Mauri-\ntius on the morning of 26\nth\n Dec. Immediately after sailing, while taking a stock of the\nclothing items received at Mauritius, it was noticed that some of the vital clothing items\nwere missing and not. delivered at Mauritius. The items included solar/snow\nXXVI\nAjay Dhar. \ngoggles, gloves, polar socks, woolen inners etc. The authorities at NCAOR  (DOD) were\nimmediately informed ofthese lapses and the team members made aware of these short-\nages and the expected problems to be faced in the absence of such items. A fax was\nimmediately sent to Indian Antarctic Station, Maitri to know the stock position ofthese\nitems available with them and possible distribution ofthese items on arrival at Antarc-\ntica. The credit goes to all the members who understood the grave situation and contin-\nued with their normal work till such items were received from Maitri. The sea continued\nto be rough after our sailing from Mauritius and members had to bear with heavy\nrolling/pitching, which became quite unbearable at times. Various programs and indoor\ngames (in addition to the ongoing scientific programs) were started to keep the mem-\nbers busy and occupied. After a few days of sailing, the Captain informed that the\nrepairs carried out to the ships engines at Mauritius proved to be a failure and the ship\nneeds to be stopped in mid-sea for carrying out repairs. The authorities at NCAOR\n(DOD) were duly informed about these developments and members also taken into\nconfidence at the same time. I must admit that the thought struck me to sail the ship to\none of the nearby ports (either South Africa or Mauritius) for carrying out the neces-\nsary repairs and not to take the chances in mid-sea. After a dialogue with the Ships\nCaptain, he assured me that it is not going to affect the ships safety and the crew is\ncompetent enough to carry out these repairs. The necessary repairs were carried out\nand the Ship sailed within 24 hours.\nThe vessel crossed 40° S on 1\nst\n Jan 1999. New year was celebrated on board.\nWhales were sighted on 05 Jan 1999 and the first Iceberg also sighted the same day. The\nvessel entered Antarctic waters on 7\nth\n Jan 1999 and touched pack ice at 68° 22' S on 9\nth\nJan 1999 and finally parked the ship at 69\" 41'.7 S, as the pack ice was too thick",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 23
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "INDRODUCTION- Summary",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:44.042565Z"
+  }
+}

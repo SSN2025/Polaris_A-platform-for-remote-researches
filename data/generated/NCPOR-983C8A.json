@@ -1,0 +1,81 @@
+{
+  "id": "operation-of-broadband-seismograph-at-maitri--ncpor-983c8a",
+  "document_id": "NCPOR-983C8A",
+  "source_file": "Pages118-125.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1247/1/Pages118-125.pdf",
+  "title": "Operation of Broadband Seismograph at Maitri during the 30th Indian Antarctica Expedition",
+  "year": 2011,
+  "expedition": "30th Indian Antarctic Expedition",
+  "category": "Glaciology",
+  "subcategory": "Operation of Broadband Seismograph at Maitri during the 30th Indian Antarctica Expedition",
+  "bibliographic": {
+    "title": "Operation of Broadband Seismograph at Maitri during the 30th Indian Antarctica Expedition",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "30th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2011,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 30th Indian Antarctic Expedition examines key glaciology phenomena in polar terrain around Maitri. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Glaciology",
+    "subcategory": "Operation of Broadband Seismograph at Maitri during the 30th Indian Antarctica Expedition",
+    "tags": [
+      "glaciology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Glaciology discoveries from 30th Indian Antarctic Expedition: \"Operation of Broadband Seismograph at Maitri during the 30th Indian Antarctica Expedition\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Glaciology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:30:37.973531Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "chapter_6",
+  "document_id": "NCPOR-CA00C4",
+  "source_file": "Chapter+6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/995/1/Chapter+6.pdf",
+  "bibliographic": {
+    "title": "Chapter+6",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 139-149\nStudies on the Increase in Seismicity in the Antarctic \nPlate: Observations from BB Seismological \nObservatory (MAIT) at Maitri, Antarctica \nduring 25th IAE\nS.V.R. Ramachandra Rao, N. Ravi Kumar and E.C. Malaimani\nCSIR-National Geophysical Research Institute, Hyderabad, India \nABSTRACT\nThe permanent Seismological Observatory was established in 1997 at Maitri \nin Central Dronning Maud Land, East Antarctica (70°45’ south 1T43' east) \nprimarily to monitor the seismicity in and around Antarctica, the space and time \ndistribution of earthquake occurrences and obtain hypo central parameters, \nmagnitudes of earthquakes, velocity inversion for underground structure and \nearthquake source mechanism. The observatory has been upgraded during 25th \nIndian Silver Jubilee Scientific Expedition to Antarctica (December 2005 to \nFebruary 2007). Uninterrupted good quality digital Broad Band Seismic data is \ncontinuously being acquired. The SEISAN 8.1 software was used for final \nprocessing and analysis of about 306 earthquakes recorded. The tele-seismic events, \nand quite a number of regional earthquakes of the order of 4 to 6.0 magnitude \nwithin Antarctic Plate, 23 in South Sandwich Islands, 7 in Scotia Sea, 2 in Macqurie \nIslands and 23 in Mid Oceanic Ridges in the Indian Ocean were recorded. 48 \nearthquakes of the magnitude above 4.5 from the nearby South Indian Ocean, South \nof South Africa, Chile, Argentina, Bolivia and about 40 earthquakes of the \nmagnitude above 5.0 from the Indonesian Region were analyzed. An earthquake \nof magnitude Ms-7.3 from the seismically active region of South Sandwich Islands \nA=16.5°, Mb=7.8 earthquake from Tonga Islands and Mb=7.2 earthquake from \nJava were the large earthquakes that were recorded. All the analyzed monthly data \nwas reported to the I.S.C., U.K., Global Data Centre for the final processing and \ninclusion in the yearly ISC Seismic Bulletin. The increasing seismic activity in and \naround Antarctic plate and along the oceanic ridges in the Indian Ocean confirms \nthe emerging deforming zone in the Indian Ocean between India and Antarctica \nand gives an insight into the spreading rates of the ridges and reorganization of \nPlate Boundaries.\nKeywords: SEISAN, Local Seismicity, Mid-Oceanic Ridges\n\n140 S. V.R. Ramachandra Rao, N. Ravi Kumar and E. C. Malaimani \nINTRODUCTION\nThe classic Triple junction in the Indian Ocean named as Rodrigues \nTriple junction (RTJ) where the three plates Somalia-Antarctica-Indo- \nAustralia diffuse plate boundary meet makes an interesting study of sources \nof seismicity in the Indian Ocean and hence the Indian Plate Kinematics. \nThe three mid-ocean ridge (MOR) systems that form the Triple junction \nare (i) South West Indian Ridge (SWIR), (ii) South East Indian Ridge \n(SEIR), and (iii) Central Indian Ridge (CIR) and its northwestern \ncontinuation Carlsberg Ridge (CR) and they strikingly illustrate the \ncomplexities of applying ideal rigid plate tectonics to ocean plates. Many \nearthquakes of magnitude 6 or 7 have occurred in this century near the \nNinety East Ridge (90ER) and give a rate of seismic moment release \ncomparable to that along the San Andreas Fault in California1. The history \nof earthquakes and their seismic fault plane solution analysis reveal that \nmost of the faults in the Indian Ocean are strike-slip faults and a few are \nthrust faults near the Indo-Australia diffuse plate boundary. Surprisingly \nno normal fault solution has been reported. Earlier plate motion models \ntreated the area as containing oceanic lithosphere from African, Indo- \nAustralian, and Antarctic plates interacting with neighboring Eurasian and \nArabian plates. However, it was recognized that the true picture was more \ncomplex. Although much has been learned using marine geophysical and \nseismological data and described by geologic plate motion models based \non magnetic anomalies, transform azimuths, and earthquake slip vectors, \nthe kinematics are poorly characterized compared to simpler regions, which \ninhibits understanding of the regional dynamics.\nSeismic Data Acquisition and Analysis\nThe seismological observatory has a state-of-the-art Broad Band \nSeismic System with Guralp CMG-3ESP Sensor and High Resolution \nDigital Data Acquisition System RT 72A 121-03 from Refraction \nTechnology Inc., USA till 2005 and the observatory was upgraded during \nXXV Indian Antarctic Expedition (IAE) (January 2006) with the new \nBroadband Seismometer, Geotech KS-2000M with Geotech- Smart 24R \nDigitizer as shown in Figure 1. The 3-Component short-period seismometers \nhave also been installed by making use of the RT 121 System with the \nRefltech DAS unit. The observatory has recorded all the global seismic \nevents that occurred during 2006. Totally 306 earthquakes were recorded \nalong with some events in the nearby regions. Nearest event recorded was\n\nStudies on the Inc",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2] Earth Science, Glaciology and Global Change",
+    "subcategory": "Studies on the Increase in Seismicity in the Antarctic Plate_ Observations from Broad Band Seismological Observatory (MAIT) at Maitri, Antarctica during XXV IAE",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:56:27.324452Z"
+  }
+}

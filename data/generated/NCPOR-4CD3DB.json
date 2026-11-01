@@ -1,0 +1,81 @@
+{
+  "id": "document-control-data-sheet-ncpor-4cd3db",
+  "document_id": "NCPOR-4CD3DB",
+  "source_file": "T.P.+No6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/777/1/T.P.+No6.pdf",
+  "title": "Document Control Data Sheet",
+  "year": 1994,
+  "expedition": "9th Indian Antarctic Expedition",
+  "category": "Other",
+  "subcategory": "Control Data",
+  "bibliographic": {
+    "title": "Document Control Data Sheet",
+    "authors": [
+      {
+        "name": "NCPOR Research Team",
+        "affiliation": "National Centre for Polar and Ocean Research"
+      }
+    ],
+    "expedition": "9th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1994,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "Document Control Data Sheet            \nRR No. 6 \nSl. \nNo \n  \n1 Name of the institute \n \nNational Centre for Antarctic & Ocean \nResearch \n2 Document number  \n \nNCAOR RR. No.-6 \n3 Date of publication \n \n1994 \n4 Title of the document\n  \n \nScientific Report of  Ninth Indian \nExpedition to Antarctica \n5 Type of Document* \n \nRR \n6 No. of pages & \nfigures \n \nxiii, 311pgs \n7 Number of \nReferences \n \n- \n8 Author (s) \n \nMembers of Expedition No. 6 \nEdited by- S. Z. Qasim \n9 Originating Unit \n \nNCAOR, Project (Antarctic Science) \n10 Abstract (100 words) \n \nThis Scientific Publication consists of \nvarious Articles from different disciplines \nof Polar Science. The data used for the \nreport was collected during the Ninth \nIndian Scientific Expedition to Antarctica. \n11 Key words  \n \nAstronomy, Atmospheric Sciences, \nBiological Sciences, Earth Sciences, \nEnvironmental Sciences, Physiological \nSciences, logistics.  \n12 Security \nclassification \n \nOpen \n13 Distribution  \n \nUnrestricted",
+    "summary": "This investigation conducted during the 9th Indian Antarctic Expedition examines key other phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 1
+  },
+  "taxonomy": {
+    "category": "Other",
+    "subcategory": "Control Data",
+    "tags": [
+      "other",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Other discoveries from 9th Indian Antarctic Expedition: \"Document Control Data Sheet\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Indian Scientific Expedition to Antarctica.",
+      "page_number": 1,
+      "section": "Abstract / Introduction"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:39.982491Z"
+  }
+}

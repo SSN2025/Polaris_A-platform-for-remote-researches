@@ -1,0 +1,72 @@
+{
+  "id": "article_12",
+  "document_id": "NCPOR-3DA3CB",
+  "source_file": "ARTICLE+12.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/419/3/ARTICLE+12.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+12",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 153-157 \nA  Brief  Report  on  the  Activities  of  Survey  of  India  Team\nduring  Fourteenth  Indian  Scientific Expedition  to\nAntarctica\nBACHI RAM and N MOHANDAS\nSurvey of India, Dehradun\nIntroduction\nIn continuity with the successful survey activities carried out by the Survey\nof India Teams from 10th expedition to 13th expedition the following tasks\nwere assigned to the Survey of India Team of 14th expedition:\na) Control for mapping of an area of 0.5 km x 0.5km on 1:1,000 scale with\n1 metre contour interval and its detail and contour survey (immediately west of\nthe area surveyed by the 13th expedition).\nb) Determination of deflection of vertical at Maitri from as tronomic\nobservation.\nc) Monitoring of Dynamic Movement of Dakshin Gangotri Glacier.\n(a) Control for Detail Survey and Contouring\ni) Control for detail survey:  Control for detail and contour survey was\nestablished by E D M Taverse which commenced from Maitri 'S'fixed by 10th\nexpedition and closed on T.S.-3  of 13th expedition, fixing 5 traverse stations\nand 96 Offsets. The data used is tabulated below:\nSI No.\n01\n02\nName of the Station\nMaitri 'S'\nT\n S\n No.3\nEasting metres\n10,00,000.00\n9,99,874.00\nNorthing metres\n5,00,000.00\n4,99,583.36\nHeight metres\n117.00\n133.00\nINSTRUMENTS USED:\nThe following ins truments were used for the job:\nWild T-2 Theodolite No.286501\n154 Bachi Ram and N Mohandas \nAuto Ranger No. 6J7106\nPsychrometer\nPaulin Barometer\nii) Detail and contour survey:  Detail survey was carried out as per depart-\nmental pr ocedures. The offsets were used for sur veying detail s and contours.\nContours were chased with clino pole.\nArea surveyed was 0.25sq. km.\n(b) Determination of Deflection of Vertical\nWe have a station named Maitri 'S' fixed by GPS during 10th expedition.\nWith the help of this station a new station named Astro. 'S' was established by\nmeasuring distance of this station from Maitri 'S' with EDM and deriving true\nbearing from observation made to sun.\nAstronomic observations were carried out on ASTRO 'S' for determina-\ntion of deflection of  vertical in  Maitri area at Antarctica.\nThe data, used for preparation of observation programm e and doing\ncalculation, is tabulated below:\nSI No. Name of the Station Latitude Longitud e Distance metres\no ' \" o ' \" \n01 Maitri'S' 704551.73 114402.57 156.237\n02 Astro'S' 70 45 56.62 1144 06.31 ° ' \" \n03 Azimuth at Maitri 'S' of Astro 'S'= 345 51 31\n04 Azimuth at Astro 'S' of Trisul HS = 288 20 29\nINSTRUMENTS USED:\nThe following instruments were used for the job:\nWild T-2 Theodolite No.286501\nAuto Ranger No. 6J7106\nPsychrometer\nPaulin Barometer\nSidereal Chronometer\nStop Watch\n4 Band Philips Transistor\nA Brief Report on the Activities of Survey of India Team 155\nMethod of Observation\nPreliminaries\n1) A list of stars was prepared in advance keeping the following points in\nmind:\ni) Magnitude of the stars to be between 2.0 to 7.0\nii) Meridian Z D to be between 35 deg. to 60 deg.\niii) Star should have its upper (in case of north stars) or lower (in case\nof south stars) transit after 17hrs GMT.\n2) For setting the instrument in meridian true bearing at Astro. 'S' ofTrisul\nHS was determined by observing the sun.\n3) Chronometer was compared against time signals emmited from Mos-\ncow on 10MHz before starting observation. But the clock could not be\ncompared immediately after completion of observations as the signal\nwas not audible after 20hrs and hence it could be done next day only.\nObservation\nLatitude Observation:  For determination of  latitude 16 stars were observed\non 10 sets, five before crossing and five after crossing meridian, recordingtime,\naltitude, temperature and atmospheric pressure.\nwhere, t = ( LST - RA) X 15, LST = GMTx (366.2422/365.2422) + GST\nat 0 hr UT + longitude of the station in time.\nGST = Greenwich Sidereal Time,\nLST = Local Sidereal Time,\nUT = Universal Time coordinated,\nThe altitudes wer e reduced to the meridian with the for mulae given below:\nhm = h +2.sin\n-1\n [cos(\n . cos(δ). sin\n2\n (t/2). sec(h)] (for north stars)\nhm = h - 2.sin\n-1\n [cos\n . cos(δ). sin\n2\n (t/2). s ec(h)] (for south stars)\nwhere,\n = (90-hm) + δ (for north stars)\n= (90-δ) + hm (for south stars)\nh = Altitude of the star corrected for atmospheric refraction.\nhm = Altitude reduced to the meridian.\n= Astronomic latitude.\nδ = Declination of  the star.\nt = Hour angle of the star at the time of intersection,\n156 Bachi Ram and N Mohandas \nRA = Right Ascension of the star.\nAstro. L atitude =\n = 70°  45 54.58\" S \nGeodetic Latitude =\n = 70° 4 5 ' 56. 62\" S \nDetermination of  Longitude\nAs for determination of  longitude, East-West Stars could not be observed\ndue to bad weather, the only possible method left was recording time of transit\nof stars. So time of crossing of upper transit of 10 north stars and time of crossing\nof lower transit of 10 south stars were recorded and longitude wa",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "3]Earth Sciences",
+    "subcategory": "A Brief Report on the Activities of Survey of India Team during Fourteenth Indian Scientific Expedition to Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:00.958662Z"
+  }
+}

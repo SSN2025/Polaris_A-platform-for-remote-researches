@@ -1,0 +1,72 @@
+{
+  "id": "article_8",
+  "document_id": "NCPOR-64FF1C",
+  "source_file": "ARTICLE+8.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/238/3/ARTICLE+8.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "107\nMeteorological Studies During the Fourth Indian Scientific Expedition\nto Antarctica: December 1984 to March 1986\nBhukan Lal\nIndia Meteorological Department, Lodi Road \nNew Delhi - 110 003. \nABSTRACT\nDuring the Fourth Indian Scientific Antarctic Expedition, meteorological observations were car-\nried out to obtain information on the Antarctic weather and to find out its possible effect on different\nweather systems influencing the lower latitudes of Southern/Northern Hemisphere, if any. In addition\nvast amount of data was collected in order to study the radiation balance, radiation flux in the upper\natmosphere, the heat transfer in various layers, the temperature inversion in the lower levels of the\nAntarctic atmosphere and its role in causing blizzards. Further, studies on thermal structure of the\nAntarctic atmosphere and the atmospheric electricity over Antarctica were also carried out.\nThe studies were planned and executed in three different phases. In the present paper, on the\nbasis of the data collected, during the expedition one year climatology of the station (Dakshin Gangotri)\nhas been prepared. In addition daily/monthly variation of various meteorological parameters and some\nimportant weather phenomenon observed like blizzard etc. have also been discussed.\nINTRODUCTION\nThe Fourth Indian Scientific Antarctic Expedition comprising of 82 members from various\nscientific institutions, viz., India Meteorological Department, National Institute of Oceanography,\nNational Physical Laboratory, Bharat Heavy Electricals Limited, Geological Survey of India, Air\nForce, Navy and Army set out for Antarctica on 4th December, 1984 and arrived there on 28th\nDecember, 1984. After carrying out a lot of useful scientific studies/experiments the expedition\nmembers returned to India leaving behind 13 persons in Antarctica as the second wintering party.\nDuring this period, a lot of vital information/data have been gathered, so as to get an insight into the\nvarious meteorological phenomena which engulfed the icy continent.\nAs a matter of fact there is unlimited scope for exploration/investigation in various fields of sci-\nence in Antarctica. As suc h Antarctica has attracted a great deal of attention of large number of\nexplorers and scientists since long time. Subsequently a number of expeditions went to Antarctica\nfrom time to time from different countries. The outstanding scientific events of the pre International\nGeophysical Year (IGY-1987) period are the Byrd Antarctic Expeditions 1928-1930, 1933-1935 and\n1939-41, mainly with respect to Ross Sea; the Norwegian-British-Swedish Expeditions 1949-52 in\nthe Maudheim Area and the French Expeditions to Adelie Land 1949-52. Naturally in the post IGY\nperiod there is a long list of Antarctic expeditions and the  Fourth Indian Scientific Expedition to\nAntarctica is of course one of them.\nSo far as the meteorological disturbances are concerned, they do not obey any political bounda-\nries. Therefore, to know and predict the behaviour of atmosphere of a place one ought to know the\ndifferent weather elements and their spatial/temporal changes of a much larger area irrespective of\npolitical boundaries. In short, the knowledge of global meteorology is utmost essential for a proper\nunderstanding of various weather phenomena encountered on our earth. In the present paper\nvarious meteorological programmes undertaken at Antarctica are presented. Moreover, from the\nMetorological Studies \nobserved meteorological data, one year climatology of Dakshin Gangotri (India's Antarctic Research\nstation) has been presented. In addition daily/annual variation of different meteorological parame-\nters and some important weather phenomenon observed at Antarctica like blizzards etc. have also\nbeen discussed.\nMeteorological studies by the Indian Scientists have been carried out in all the three earlier\nexpeditions. Published accounts include Katyal and Upadhyay (1983); Desa et al., (1983); Sreedha-\nran and Sharma (1985); Singh et al. (1986) and Rizvi (1986a). The report on the meteorological stu-\ndies undertaken during the first wintering period (1984-85) and the second wintering period (1985-\n86) at the manned station Dakshin Gangotri have been published by Rizvi (1986b) and Lal (1987)\nrespectively.\nMAIN OBJECTIVES OF METEOROLOGICAL PROGRAMME\nIf one wants to correlate the Antarctic weather with any other part of the globe, it is very much\ndesirable, in the first instance, to study the Antarctic weather itself in great detail, keeping this in\nview, meteorological programme was carefully planned. In the following few paragraphs, the main\nobjectives of the meteorological programmes as well as its planning and execution are presented.\nSome of the main objectives of the programme were as follows:\n(i) Installation of new equipment.\n(ii) Maintenance of meteorological equipment already installed.\n(iii) Issue of meteorological forecasts for day to day activities of Air Force, Navy and other parties of\nexpedition.\n(i",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 30
+  },
+  "taxonomy": {
+    "category": "3]Meteorology",
+    "subcategory": "Meteorological studies during the fourth Indian scientific expedition to Antarctica_ December 1984 to March 1986",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:30.532007Z"
+  }
+}

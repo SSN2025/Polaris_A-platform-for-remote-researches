@@ -1,0 +1,72 @@
+{
+  "id": "chapter_5",
+  "document_id": "NCPOR-B31590",
+  "source_file": "Chapter+5.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1119/1/Chapter+5.pdf",
+  "bibliographic": {
+    "title": "Chapter+5",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "ABSTRACT\nAerosol optical depth (AOD), Aerosol black carbon (BC) mass concentrations\n(MB) and total mass concentration (M T) were measured over two Antarctic locations\nMaitri (70°45'52\" S & 11°44'03\" E, 123 m MSL) and Bharati (69° 24.41' S, 76° 11.72' E\napproximately at 35 m above sea level.) as a part of the 28th Indian Scientific Expedition\nto Antarctica during the southern hemispheric summer of 2008-2009. Our study showed\nrelatively high values of MB and mass mixing ratio (FBC) over Maitri (~ 75 ng m -3 and 2 %)\ncompared to that over Bharati (~ 13 ng m -3 and 0.2 %). At both locations, M B fall abruptly\nafter the blizzard where the values reduces to as low as half of the pre-blizzard values. This\nBC scavenging by snow can leads to change in snow albedo and will have strong climate\nimplications. The Angstrom exponent (abs) estimated from the spectral values of absorption\ncoefficients (abs) are found to vary from 0.5 to 1 indicating that the BC over Antarctic\nregion is mainly originating from fossil fuel burning.\nKeywords: Black Carbon, Antarctic aerosol, Indian Scientific Expedition\n1. INTRODUCTION\nOver the past few decades, the global scale of the impact of atmo-\nspheric aerosols on climate and clouds is at the focus of investigation of the\nclimate science community [IPCC, 2007]. Despite these efforts, climate\nforcing of aerosols remains largely uncertain primarily due to their large\nspatio-temporal heterogeneity and inadequate representation in climate\nmodels (Satheesh and Moorthy, 2005; Bates et al., 2006; Remer et al.,\n2009; Smirnov et al., 2011). One of the important reasons for this uncer-\ntainty is the lack of information on the regional distribution of aerosols from\ndistinct environments, including pristine marine environments and Polar re-\ngions and there still is a need for extensive observational data.\nAntarctica is a unique continent at the extreme south, separated from\nthe other populated continental masses by oceanic regions, making it one of\nthe most pristine places on the Earth (Wall, 2005). Due to the pristine char-\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences. Technical Publication No. 26, pp 45-60\nCharacterization of Atmospheric aerosols over\nIndian Antarctic station during the Southern\nHemispheric summer of 2008-2009\nS Suresh Babu, Jai Prakash Chaubey, Vijayakumar S Nair,\nand K Krishna Moorthy\nSpace Physics Laboratory, Vikram Sarabhai Space Centre, Trivandrum-695022\n46                                          S Suresh Babu, et al.\nacteristics, it provides an excellent environment to examine the natural and\nbackground aerosols in the atmosphere over snow and ice. Not only that,\nthe large ice sheet of the Antarctic continent affects atmospheric circula-\ntion patterns over this region, which affects the transport and removal of\nthe aerosols particles (Shaw, 1979). The earlier studies over Antarctica\nhave also pointed out the importance of assimilating analogous data from in\nsitu measurements on physical and optical parameters of aerosols for com-\nplete characterization of the polar aerosols on the spatial and temporal scales.\nAmongst all the aerosols, black carbon (BC) aerosols influence the\nsnow cover by warming the atmosphere (by light absorption), reducing\nsurface incident solar energy (dimming) and reducing the snow reflectance\nor darkening due to deposition [Flanner et al., 2009]. Radiative effects of\ncarbonaceous particles are the largest sources of uncertainty in the assess-\nment of the climate forcing due to atmospheric aerosols because of their\npotential to absorb solar radiation over a wide band [Bond and Bergstrom,\n2006], burn off of the clouds if present within them [Ackerman 2000] and\nchange the albedo of the snow [Hansen and Nazarenko, 2004]. As such\nmost of the BC resides in the lower troposphere and it significantly aug-\nments the climate warming as recently highlighted by Ramanathan and\nCarmichael [2008] who estimated that BC emissions are currently the sec-\nond strongest contributor to the global warming after CO2. The major prob-\nlem in assessing the climate impact of BC is the large uncertainty associ-\nated with the atmospheric residence time of these particles, and scarcity of\nmeasurements with adequate regional representation. The warming effect\nof BC in snow can affect the snow effective radius, besides darkening the\nsnow itself [Flanner and Zender, 2006]. Although BC is known to show a\nseasonal variation in Antarctica with a minimum in the southern hemisphere\nwinter [Bodhaine et al., 1995; Hansen et al., 1988], the above effects be-\ncome pronounced during the summer season due to the availability of the\nshort wave radiation and the high albedo. The long-range transportion of\nBC from the north is more during the Antarctic spring and the removal\nmechanisms being weaker in comparison to winter result in a higher con-\ncentration of BC in summer. Viewed in the light of the above, the Antarctic\nregion with its vast snow cover assumes signifi",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Characterization of Atmospheric aerosols over Indian Antarctic station during the Southern Hemispheric summer of 2008-2009",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:20:32.988487Z"
+  }
+}

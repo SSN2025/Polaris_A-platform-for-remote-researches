@@ -1,0 +1,72 @@
+{
+  "id": "leader_27s_report_overview",
+  "document_id": "NCPOR-D84335",
+  "source_file": "Leader%27s+Report-+Overview.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/984/1/Leader%27s+Report-+Overview.pdf",
+  "bibliographic": {
+    "title": "Leader%27s+Report-+Overview",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Leader’s Report on XXV Indian Scientific \nExpedition to Antarctica—An Overview\nL. Prem Kishore\nLeader XXV ISEA\n“Antarctica is suspended between two ages -  those of competitive \nnationalism and cooperative internationalism — Alan K. Herikson.\nAntarctica continent, comprising almost 10% of the land surface of \nthe globe, is linked to the vast extent of the Southern Ocean surrounding it. \nRemote from all centers of population it has no indigenous people living \nthere. Antarctica the last heritage of mankind and the continent of extremes, \nhas come to be known as the “Continent of Science”. The white desert \nAntarctica is a pristine and natural laboratory, enabling the scientists to \nstudy, detect and monitor global phenomena, such as those related to \natmospheric, meteorological parameter, oceanographic and glaciological, \ngeological and geophysical research which may provide clue to the \nevolutionary history of the continents and the Paleo-climate of the earth.\nPatterns of Antarctica Science and Adventure had been set in the \nearly eighties in the context of Indian Antarctic Programme. Our continuous \npursuance of science has been the driving force for the successful launching \nof the annual scientific expeditions to Antarctica every year since 1981 \nand the maintenance of year round permanent station Maitri is the testimony \nto the India’s commitment to Antarctic Research. Indian Antarctic \nProgramme has marched towards the Silver Jubilee expedition and it is a \nmatter of happy coincidence that the silver jubilee celebrations of Indian \nAntarctic programme coincides with the International Polar Year Campaign.\nIndian Antarctic Programme is multi-disciplinary and multi- \ninstitutional involving major themes focused on Meteorology and \nAtmospheric Sciences, Earth Sciences and Glaciology, Biology and \nEnvironmental Sciences, Human Physiology and Medicines and \nEngineering and Communications and Polar Logistics.\nHumans do not belong to Antarctica. They go there like Astronauts \nentering deep space, taking with them everything needed for survival, i.e. \naccommodation, food and fuel. Every visitor is a transient, staying for \nlimited periods, a few weeks or months, or wintering for a whole year. No\n\n6 L. Prem Kishore\none lives indefinitely in Antarctica. Each expedition not only works in and \ncopes with a mercilessly hostile environment but has to endure raw realities \nof human interaction in isolation, with attendant passions, personal \nidiosyncrasies, occasional medical emergencies and some grinding routine. \nThe evolving importance of Antarctic Science is the changing emphasis \nfrom exploiting resources to conservation and new awareness ot the \nimportance of Antarctica in assessing global climate change.\nLaunching\nThe members of the 25th Silver Jubilee Indian Scientific Expedition \nto Antarctica assembled at National Centre for Antarctica & Ocean \nResearch (NCAOR), Goa on 16th December 2005. A hearty and warm \nwelcome was given by Dr S. Rajan, Dr M. Sudhakar, and Dr N. Khare. The \nteam comprised of few experienced members of the past expeditions, \nbudding enthusiastic youngsters and a contingent of Officers and other \nranks from the Indian Army with the spirit of the expedition, zeal and \nenthusiasm. The same day the Insurance and other formalities were \ncompleted and the next four days up to 20th December 2005 were very \nhectic for the members with many activities, orientation lecturers and the \nLaunching. A chronology of the happenings, activities and events till the \nsailing is briefly given below.\nA visit to M/s Sea Scan Marine Services Pvt. Ltd. Panaji was organized \nfor giving essential training in Fire Fighting, Fire Prevention and Personal \nSurvival Techniques. Both theories as well as practical demonstrations were \ngiven. This is very important for the members who venture out for an \nexpedition to Antarctica where fire hazards are the foremost concern and \nprincipal danger at all Antarctic stations. There are detailed established \nprocedures for fire prevention and fire fighting in Antarctica which every \nparticipating member should be well versed with.\nOrientation lectures by eminent personalities on various topics were \norganized. Lectures on Utilities and up-keep of Maitri Station by \nDr. S. Mukerji, Medical care by Dr. S.C. Tiwari, Environmental protocols \nby Shri Rasik Ravindra and Psychological aspects by Dr. Manju Mehta \nwere action-packed and informative. These lectures provided the members \nthe required knowledge, the inspiration and confidence to take up the \nchallenges and tasks ahead of them.\n\nLeader’ s Report—An Overview! 7\nNecessary instructions were given by Dr. N. Khare and Mr. P. Shetkar \non various aspects of the submission of data acquired during the expedition \nat Antarctica to the National Antarctica Data Centre.\n19th Dec. 2005 was the most memorable day for everybody present in \nthe premises of NCAOR as the momentous Silver Jubilee Expedition of \n25th ISEA was launched by Rear Adm",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 29
+  },
+  "taxonomy": {
+    "category": "1] Introduction",
+    "subcategory": "Leader's Report on XXV ISEA_ An overview",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:55:55.280368Z"
+  }
+}

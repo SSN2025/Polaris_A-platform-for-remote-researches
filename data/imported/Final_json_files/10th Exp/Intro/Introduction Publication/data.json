@@ -1,0 +1,72 @@
+{
+  "id": "introduction",
+  "document_id": "NCPOR-732D47",
+  "source_file": "INTRODUCTION.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/346/3/INTRODUCTION.pdf",
+  "bibliographic": {
+    "title": "INTRODUCTION",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "SCIENTIFIC REPORT\nTENTH INDIAN EXPEDITION TO\nANTARCTICA\nSCIENTIFIC REPORT\nTENTH INDIAN EXPEDITION TO\nANTARCTICA\nTECHNICAL PUBLICATION NO. 8 \nDEPARTMENT OF OCEAN DEVELOPMENT\nCGO COMPLEX, LODI ROAD\nNEW DELHI 110003\nINDIA\n1995\nManuscript processed \nfor publication by: Dr A.K. Hanjura\nNational Physical Laboratory\nDr K.S. Krishnan Marg, New Delhi-12\nand\nRasik Ravindra\nAntarctica Division\nGeological Survey of India\nNH-5P, NIT, Faridabad\nPrinted at: Publications & Information Directorate\nDr K.S. Krishnan Marg; New Delhi-110 012\nFOREWORD\nProgress in science is a result of sustained effort in its pursuit. The polar science\nin India has come of age through the tireless efforts of our scientists and thus the\nTenth Indian Expedition to Antarctica marks a decade of a magnificent endeavour.\nThe country has shown immense capabilities by now in the diverse disciplines of\nPolar Science where  dedication and a sense of purpose have been the guiding light.\nIt is in this context that the expedition was able to install and operate the state-of-art\nexperiment on Acoustic Sounder for studies in atmospheric sciences. The scientific\npapers incorporated in this issue covering atmospheric science, bio-science, earth\nscience, human physiology, oceanography and polar horticulture  speak of the\nmultidisciplinary and multiinstitutional nature of the Indian expedition. The hazards\nand uncertainties of weather notwithstanding, this expedition is credited with\nestablishing a farsoutherly camp at Lat. 71°53'S; Long. 11°30'E, where the G.S.I.\nteam braved the uncertainties of weather and terrain and accomplished their tasks.\nI appreciate the  painstaking efforts of National Physical Laboratory, New Delhi\nand Antarctica Division of  Geological Survey of India, Faridabad in bringing out\nthis publication.\nJune, 1995 Dr A.E. Muthunayagam\nSecretary\nDepartment of Ocean Development\nNew Delhi\nPREFACE\nThe 100-member team of the Tenth Indian Antarctic Expedition sailed off Marma-\ngao on 27th November 1990 on-board M.V.Thuleland, the Swedish ship, chartered for\nthe expedition. The team was a combination of members drawn from various defence\nservices and scientific organisations. The tasks, as in every expedition, were enormous,\ncritical and time bound.\nSoon after sailing, the members were thoroughly briefed about the tasks of the\nexpedition and the ways in which these were planned to be accomplished. The members\nstarted sharing various responsibilities and tasks straightaway. We landed in Antarctica\nas early as 20th December, mainly due to some excellent sea condition. Throughout the\nsummer period, the weather remained good and all the scientific and logistic tasks\nscheduled for that period were accomplished as per programme. The summer compo-\nnent of the Tenth Expedition sailed back in the begining of March 1991, leaving behind\nthe wintering component of 25 members including 5 scientists.\nAll through the expedition, there was a lot of moral encouragement from various\npersonalities back in India. We had the blessings of the then H'ble Prime Minister, Sh.\nChandra Shekhar.I was constantly encouraged and guided in our endeavours by Prof.\nV.K.Gaur, then Secretary, Department of Ocean Development, who was closely moni-\ntoring our activities with interest. I and my team members thank him for his tremendous\ncontribution to our expedition. This interest was continued by the present Secretary,\nProf. P.Rama Rao and the Joint Secretary, Sh. J.V.R.Prasada Rao. We are grateful to\nthem for their encouragement. My previous acquaintance with Sh. H.P.Rajan, Director,\nDeptt. of Ocean Development, resulted in a very fruitful interaction with him for few\nmonths before the departure of the expedition. He continued to be in constant touch with\nus throughout the sixteen month duration of the expedition. I sincerely thank him for\nhis contribution to the expedition.\nDuring the course of our expedition we also received messages of greetings and good\nwishes from Chief of the Army Staff, Chief of the Naval Staff and Chief of the Air Staff.\nWe also received greetings from Director Generals of Geological Survey of India,\nSurvey of India, Indo-Tibetan Border Police and EME, Directors of National Physical\nLaboratory, Geological Survey of India, National Geophysical Research Institute,\nNational Institute of Oceanography, India Meteorological Department, Indian Institute\nof Geomagnetism and many others. We are extremely grateful to them. Our expedition\ntasks started on a healthy note due to the healthy co-operation we got from the members\nof the previous wintering team led by Sh.RasikRavindra of Geological Survey of India.\nWe thank all of them.\nThe members from three Services played important role in the  execution of the\nlogistic tasks. Their co-operation, skill and dedication to the tasks was exemplary. The\nfact that we established a summer camp for earth scientists in the hitherto southern most\npart of Wohlthat mountains and touched new southern latitudes in search of meteorites,\nA. K",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Introduction of Publication",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:43.947047Z"
+  }
+}

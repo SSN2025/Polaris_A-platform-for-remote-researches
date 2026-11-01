@@ -1,0 +1,72 @@
+{
+  "id": "article_3_1",
+  "document_id": "NCPOR-B7129A",
+  "source_file": "ARTICLE+3_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/542/3/ARTICLE+3_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+3_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "51\nEighteenth Indian Expediton to Antarctica. Scientific Report 2002 \nELF-VLF emissions observed on the Ground at Maitri, Antarctica\nSushil Kumar*, Sunil K. Singh** and A. K. Gwal**\n* Department of Physics, Faculty of Science, Agra College,\nAgra-282 002\n**Space Science Laboratory, Institute of Physics & Electronics,\nBarkatullah University, Bhopal-462 026\nAbstract\nGround based observations of extremely low frequency (ELF) and very low\nfrequency (VLF) emissions, at the Indian station Maitri in Antarctica have been re-\nported here. The ELF-VLF recording experiment was successfully installed during the\n1 8\nth\n Indian Scientific Expedition to Antarctica (ISEA) and observations were carried out\nduring the Jan-Feb., 1999 using the T-type antenna installed during the 17\nth\n ISEA. The\nspectrograms of analyzed data have revealed the occurrence of various events like,\ndiscrete chorus emissions, emissions of rising type, falling emissions of hook type,\nmultiple emissions, periodic and quasi-periodic emissions.\nIntroduction\nThe wave and wave particle interactions occurring in the magnetosphere gener-\nate a wide variety of emissions in the ELF-VLF range. The ELF-VLF emissions are\nbasically a mid- and high-latitude phenomena. These emissions over the past decade\nhave become a very important diagnostic tool for proving the plasmasphere and be-\nyond. These emissions although less well understood than whistlers are believed to\nnave origin in the ionosphere-magnetosphere coupled system and may be due to plasma\ninstabilities or in-situ electromagnetic radiation from high energy particles. Helliwell\n(1965) has classified these emissions in to hiss, chorus, hook, periodic, quasi-periodic\nand triggered emissions etc. The group of ELF-VLF emissions is further divided into\ntwo groups: (I) continuous emissions in both the time and frequency which tend to\nmaintain a study state such as hiss, resonance bands, noise band near the ion-cyclo-\ntron frequency, (II) discrete emissions often with periodic and quasi-periodic nature.\nAn extensive survey of whistler and VLF phenomena was carried immediately following\nthe International Geophysical Year (IGY) 1957-58 with some more 50 monitoring sta-\ntions extending from equator to poles. It soon became clear that Antarctica is an ideal\nplace for VLF research. Further favorable factors in Antarctica include low levels of\nboth man made and natural electromagnetic noise. In 1992, a well-calibrated long term\nDepartment of Ocean Development. Technical Publication No. 16 pp 51-58 \nSushil Kumar el al. \n52\nELF/VLF monitoring equipment called VELOX (Smith, 1995) was set up at Helley, and\nfew of results from this experiment have been reported by Smith and Jenkins (1998).\nPeriodic and quasi-periodic emissions, chorus and various other transient discrete\nemissions such as VLF risers, falters and hooks have been reported at Antarctica\n(Morrison et al., 1994. Smith et al.. 1998, Smith and Nunn, 1998). Smith et al. (1998) have\nreported periodic and quasi-periodic ELF-VLF emissions observed at Halley and south\npole stations which lie approximately in the same meridian and geomagnetic latitude of\n61°and 74° respectively.\nIn this report, we present some events of ELF-VLF emissions observed at ln-\ndianAntarcticgroundwavestation Maitri (70°46'S, 11° 44'E)duhngJan-Feb. 1999 as\na summer part of the 18\nth\n Indian Scientific Expedition to Antarctica.\nExperimental Setup\nA new ground based station was setup at Maitri, Antarctica, during the XVII\nexpedition in the year 1998 with the same set of equipments as that required for the\nobservations of whistlers. This consists of T-type antenna, transistorised audio fre-\nquency amplifiers and Digital Audio Tape Recorder (DAT) model PCM 300.The ELF-\nVLF emissions were recorded with this setup during summer part of this expedition. The\nemissions received, as usual by T-type antenna, were amplified by pre-amplifier kept at\nthe bottom of the pole at which the antenna is installed. The output of the pre-amplifier\nwas further amplified by main amplifier and recorded using the DAT  on magnetic tapes.\nA simplified block diagram of VLF experiment is shown in Fig I. The data recorded on\nmagnetic tapes were analyzed at Central Electronics Engineering Research Institute\n(CEERI),New Delhi.\nResults and Discussion\nThe ELF/VLF emissions for decades, and have been widely used for investigat-\ning the magnetospheric processes of wave generation and propagation, wave-particle\ninteractions, wave-induced particle precipitation and for probing of magnetospheric\nplasma structures and motions (Carpenter, 1978). From the detailed analysis of the data\ncollected during the expedition, it is reported here that ELF-VLF emissions of different\ntypes such as discrete chorus emissions, periodic and quasi-periodic emissions, rising\nand falling emissions of hook type, rising emissions, hiss etc. frequently occur at Maitri,\nwith a maximum occurrence of discrete chorus type emissions. In Fig. 2, we show the\nfrequenc",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "ELF-VLF emission observed on the ground at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:51.853341Z"
+  }
+}

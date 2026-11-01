@@ -1,0 +1,72 @@
+{
+  "id": "chapter_2",
+  "document_id": "NCPOR-FE457D",
+  "source_file": "Chapter+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1116/1/Chapter+2.pdf",
+  "bibliographic": {
+    "title": "Chapter+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "28] Scientific Report of Twenty Eighth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Surface measurements of atmospheric electrical\nparameters at Maitri, Antarctica: Preliminary results\nC. Panneerselvam1*, N. Jeni Victor1, P .Elango1, K. U. Nair1,\nC. Selvaraj1, and Ajay Dhar2\n1. Equatorial Geophysical Research Laboratory, Indian Institute of\nGeomagnetism, Krishnapuram, Tirunelveli 627 011, India\n2. Indian Institute of Geomagnetism, New Panvel, Navi Mumbai, India.\nEmail: panneer.iig@gmail.com, panneer@iigs.iigm.res.in,\nABSTRACT\n            We are operating atmospheric electrical instruments like long wire antenna, electric \nfield meter, wire antenna and passive antenna for atmospheric Maxwell current, \nelectric field, conduction current and atmospheric potential gradient. This year \n(December 2008) we have installed Electric Field Meter (EFM-100) and wire antenna \nfor measuring the atmospheric electric field and conduction current. This instrument \nis deployed at Maitri, Antarctica and will be operated under any weather conditions \nlike snow fall and strong blizzard etc., The study has been carried out during austral \nsummer for the period of 2008 and 2009 at the Indian station, Maitri (70.75° S, \n11.75° E, 117 m above mean sea level). The present work has been to understand the \nnew instrument system in response to different meteorological  conditions and on \nfairweather days. The measured electric field from the Passive antenna and EFM-100 \ncompared and is behaving similar variation.\nKeywords: conduction current, electric field, Maxwell current, fairweather day, \nglobal electric circuit, displacement current.\nINTRODUCTION\n The global electrical circuit (GEC) is a large scale current system, \nformed by an aggregate of geophysical shells and electrical sources. Con-\nsequently, the GEC  has the properties determinable by physical  state  of \nthe magnetosphere, ionosphere, atmosphere and lithosphere. Atmospheric \nelectricity is an integral part of the global electrical circuit . In this way, \nthe global thunderstorm activity is able to maintain a time varying electric \npotential difference of ~ 300 kV, directed downward between the equipo-\ntential surfaces of the ionosphere and the ground (Adlerman and Williams\nTwenty Eighth Indian Antarctic Expedition 2008\nMinistry of Earth Sciences, Technical Publication No. 26, pp 11-19\n12 C. Panneerselvam,  et al.\n1996). The variations of vertical electric field and current are direct evi-\ndence for GEC action. The periodic electric 2 field variations, measured\nby Carnegie expedition over ocean, are considered as display of world-\nwide thunderstorm activity and are the classical standard of electrical glo-\nbal variations. The study of global electric circuit (GEC) can help in un-\nderstanding the electrical environment of the earth's atmosphere. This ap-\nproach can provide a good framework for exploring interconnections and\ncoupling of various regions of the atmosphere (Rycroft 2006). The mea-\nsuring site needs to be free of atmospheric aerosols and convective activ-\nity, otherwise these would obscure the weak signatures representing the\nglobal thunderstorm activity (Israel 1973). Measurements from Antarctica\nalso allow us to investigate meteorological effects, such as blizzards, wind\nturbulence, snowfall and clouds, on local electrical processes and enable\nus to understand the electrical climate of the Antarctic plateau (Cobb 1977).\nThe global circuit involves lower atmosphere generators and upper atmo-\nsphere generators, the latter being significant over the polar caps. The\nAntarctic plateau supports a desert-like climate with clear skies and very\nlow atmospheric aerosol content (Tinsley B., A., and L. Zhou, 2006). In\nsummer, the prevailing winds are light, moving in a nearly constant direc-\ntion and the atmosphere is relatively free of turbulent and convective mo-\ntions (Byrne et al 1993). The downward air-Earth current being delivered\nto the surface of the Antarctic plateau is larger than the global average\nowing to its location in high latitudes. Therefore, because of its orography,\nthe Antarctica plateau is strongly coupled to the GEC.\n1. Description of the instruments:\n The most widely used ground-based sensors for the air-Earth current\nmeasurements are: Wilson plate (Israel 1973), the horizontal long-wire\nantenna (Ruhnke 1969), horizontal passive antenna (Harrison 1996) and\nspherical shell in the form of two hollow hemispheres (Burke and Few\n1978). The horizontal long wire antenna, if placed in the atmosphere, will\nclosely follow the electrical current variations of the atmosphere after the\ninitial net charge on the antenna leaks off. When the antenna is shorted to\nthe ground through a resistor, it will generate a voltage that is proportional\nto the air-Earth current. In the present experimental setup, a long wire of\nlength 41.5m and thickness 3mm is kept horizontally stretched parallel to\nthe ground at a height of 1.2 m. The wire is mechanically supported by\nmeans of masts. By using teflon rods at their ends it is ensured that the\nantenna wire is e",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Surface measurements of atmospheric electrical parameters at Maitri, Antarctica_ Preliminary results",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:20:56.538787Z"
+  }
+}

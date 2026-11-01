@@ -1,0 +1,72 @@
+{
+  "id": "article_21",
+  "document_id": "NCPOR-8ACD64",
+  "source_file": "ARTICLE+21.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/532/3/ARTICLE+21.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+21",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. /J, PP 233-245 \nSCIENTIFIC AND ENGINEERING\nACTIVITIES OF R&DE (ENGRS)\nA Prasad Goud and K R Sivan\nResearch & Development Establishment (Engrs), Pune\nAbstract\nResearch & Development Establishment (Engrs), Pune one of the\npioneering scientific laboratory under Def ence Research & Development\nOrganisation ( DRDO) has been actively involved with Indian Scientific\nExpeditions to Antarctica since 1983, III Indian Antarctic Expedition.\nState -of- the art Polymer Electrolyte Fuel Cell experiments were carried\nout during 1997-99 for the first time in  Antarctica to study the\nfeasibility and perfor mance at sub-zero temperatures. Condition\nmonitoring of Gensets based on Vibration measurements using\nCOMPASS Machine Monitoring Software implemented successfully.\nCollection of strain data experienced by 28 m Mast to study and\nanalyze the effect of high winds, intense blizzards and sub zero\ntemperatures. Laying out of new water supply system with electrical\ntrace heating, construction of underground Seismic Vault and Medical\nComplex were the major engineering tasks of XVII Indian Scientific\nexpedition to Antarctica and XV Winter Over Team. Installation of the\nWater s upply System and construction of  Underground Seismic Vault\nwere completed by the end of 1998 summer. After the  preliminary\nwork during summer period, the construction of Medical Complex\nstarted on 15 Oct 98 and  completed by 17 Nov 98.\nIntroduction\nResearch & Development Establishment (Engrs), Pune, one\nof the DRDO lab associated with Indian Scientific Expeditions\nsince 1983. During III  Expedition indigenously designed and\ndeveloped structures and equipment were sent to Dakshin Gangotri,\nIndia's first wintering station for trials in the extreme conditions of\nAntarctic winter and to develop the suitable Antarctic habitant.\n234 A.  Prasad Goud and K R Sivan \nBased on the experience since then and with continuous efforts,\nR&DE (Engrs) designed and developed India's second permanent\nstation Maitri with indigenous materials and equipment. Maitri was\nconstructed during 1987-89 where in twenty six members can\ncomfortably stay and pursue their studies in harsh conditions of\nAntarctica.\nIn continuation of studies at Antarctica, following members\nfrom R&DE (Engrs) participated in the XVII ISEA:\ni) Shri. KR Sivan - Winter\nii) Shri. Prasad Goud - Winter\niii) Shri. Kulbhushan Rai - Summer\niv) Shri. S Sen - Summer\nv) Shri. BM Shaligram - Summer\nThe assignments, Scientific and Engineering activities, for\nthe members during summer and winter period are given below:\nScientific Activities : \n1. Polymer Electrolyte Fuel cell ( PEFC ) Experiments.\n2. Condition Monitoring of Gensets.\n3. Measurement of Strains experienced by 28 m Mast.\nEngineering Activities : \nApart form the Scientific activities, R&DE (Engrs) was\nentrusted to provide the technical assistance to the logistic team in\nvarious engineering activities that include:\n1. Installation of Water Supply System.\n2. Construction of Underground Seismic Vault.\n3. Construction of Medical Complex.\nScientific and Engineering Activities of R&DE (Engrs)  235 \nScientific Activities\nFuel Cell (Polymer Electrolyte Fuel Cell - PEFC) \nExperiments\nFuel Cells are electrochemical devices with no moving parts\nthat convert chemical energy into electrical energy. There are\nvarious types of fuel cells and they are normally named for their\nelectrolyte. The most advanced fuel cells include Phosphoric acid.\nmolten carbonate, solid oxide, proton exchange membrane and\nAlkaline. World wide experiments are going on to develop Fuel\nCells for various applications to counter the air pollution.\nAt present, electricity is produced by thermal generation\nusing diesel engine driven Gensets to cater the needs of Maitri. The\nmajor draw backs with the existing system are air  pollution by\ngaseous exhaust, fuel cost, availability in the near future and\ndifficult transportability from shelf to Maitri. Fuel cells as power\ngenerators could be a better alternative at Maitri because of their\nhigh eff iciency high power - to - weight and volume ratios, their\nreliability, purity of energy, noiselessness etc. PEFCs are expected\nto operate at low temperatures and are more reliable. A 500 watt\nPEFC stack with Hydrogen gas as fuel and Oxygen as an oxidant\nexperimented during 1997-99 to study the performance at sub zero\ntemperatures experienced at Maitri and to study the performance of\nstack with various commercially available Hydrogen.\nDuring the  transportation of PEFC 500 Watt stack from\nMV Polar Bird to Maitri by helicopter, underslung mechanisms\nfoiled and load crashed on the pack ice. The flowmeters, humidifier\nbottles and other external cir cuitry was completely damaged though\nthe cell assembly does not sustain much damage. After thorough\ninspection of the stack, it was revealed that if  flowmeters can be\nmanaged the stack can be made opera",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "5]Engineering And Communication",
+    "subcategory": "Scientific and Engineering Activities of R&DE (Engrs)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:35.068524Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article25",
+  "document_id": "NCPOR-B133AC",
+  "source_file": "article25.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/285/3/article25.pdf",
+  "bibliographic": {
+    "title": "article25",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "05] Scientific Report Of Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifth Indian Expedition to Antarctica, Scientific Report, 1988 \nDepartment of Ocean Development, Technical Publication No. 5, pp. 331-339 \nSeasonal Variation in Particulate Organic Matter and its Constituent \nFractions under the Ice covered sea near the Shelf, Antarctica \nV.K. DHARGALKAR \nNational In stitute of Oceanography \nDona Paula, Goa 403 004 \nAbstract \nParticulate organic matter (POM) collected at a single station in the shelf waters of \nPrincess Astrid coast (70°S : 11°E), Antarctica from May to December, 1986 was analyzed \nfor chl a, POC  and other constituent fractions at three discrete depths. Chl a concentration \nat all the 3 depths varied from 0.026 to 0.253 μ g l\n-1\n showing minimum values during \nAugust - September. POC values varied from 280 to 1058 μgl\n-1\n while its constituent \nfractions such as particulate carbohydrates (PCHO), particulate proteins (PP) and particulate \nlipids (PL) varied from 14 to 193, 6 to 200 and 8 to 174 μ g l\n-1\n, respectively. Significant \ncorrelation existed between POC and chl a, PP and PL at 10m depth. This was in \ncontrast to PCHO and chl a. The components studied showed seasonal variation suggesting \nthat the sea ice microalgae and planktonic organisms contribute substantially to particulate \norganic carbon. \nIntroduction \nVery little information is available on the biology of ice covered sea around \nthe Antarctic  continent (Bunt, i960; Littlepage, 1965; Wakatsuchi, 1982). In spite \nof this the Antarctic Ocean is considered most productive oceans in the world \n(Nienhuis, 1981) not only from the chlorophyll data but also from the compounds \npresent in the water column (Bolter and Dawson, 1982). These compounds are \nof primary im portance to maintain chemical and biological processes in the \noceans (Leventer and Dunbar, 1985). \nThe particulate organic matter (POM) is an important source of food for \nthe micro-organisms, filter feeders and deep water animals  (McCave, 1975; Hanjo, \n1978). The composition and concentrations  of particulate organic matter reflects \ndynamic processes in water column such as primary pro duction in surface waters, \ndissolution and degradation at depths and vertical and lateral transport of the \nparticulate matter (Lal and Lerman, 1973; Biscaye and Eittreim, 1977; Bishop \net al.,  1977, Bodungen  et al.,  1986; Nelson  et al.,  1987). \nHigh particulate concentration under the ice covered water during early \n332 V.  K. Dhargalkar \naustral spring in the McMurdo sound has been related to the development of \nmicroalgal communities (Sullivan et al.,  1982). Tanoue et  al.,  (1982) reported that \nthe average con centration of POM in the Pacific Sector of the Antarctic Ocean \nwas half of those reported in the Northern Pacific Sea and Bering Sea. \nIn the present investigation seasonal changes in particulate matter and its \nconstituent fractions such as carbohydrates, proteins and lipids have been described \nin relation to  the organisms present in the water column and in the sea ice. \nMaterials and Methods \nMonthly sampling was carried out from May to December, 1986 at a single \nstation near the ice shelf (70°S, 11°E) at Princess Astrid coast, Dronning Maud \nLand, An tarctica. \nThe surface water in this part of Antarctica started to freeze by the middle \nof March forming thin layered sea ice that increased through winter with \nmaximum thickness in November. Monthly sea ice  and snow thicknesses have \nbeen recorded. \nA bore hole water sampler having 1 litre capacity with thermometer installed \nin it was used through the drilled ice hole to collect water samples from the \nthree discrete depths (namely 0, 10 and 30m). The water samples were filtered \nthrough pre-ignited Whatman glass fiber filter paper (4 mm dia., 1.2μm pore \nsize). Th e suspended matter left on the filter paper was analyzed  in triplicate \nfor particulate organic carbon (POC), particulate carbohydrates (PCHO), particu-\nlate p roteins (PP) , particulate lipids (PL) and chlorophyll a (chl a). The POC, \nPL and chl a were analysed following the methods  of Parsons et  al.  (1984). The \nPCHO  a n d  PP  were  determined as suggested by Hitchcock (1977) and Lowry \net al.  (1951) respectively. \nThe samples for phytoplankton, zooplankton and ice algae have been collected \nand analysed by using standard procedures. The details of these will be dealt \nwith separately. How ever, part of this data has been used in the present study \nto correlate possible contribution from these parameters to th e particulate organic \ncarbon. \nResults and discussion \nThe temperature of the seawater at all  the three depths ranged from 1.5 to \n2.4°C with minimum temperature in the month of August. The sea ice and snow \nthickness from May to December, 1986 ranged from 56 to 241 cm (maximum \nsea ice thickness during December) and from 5 to 103 cm (maximum snow \ncover during August) respectively (Fig. 1). \nThe phytoplankton population in the seawater during June to September \nwas dominated by a unicellular blue",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "5]Biology and Oceanography",
+    "subcategory": "Seasonal Variation in Particulate Organic Matter and its Constituent Fractions under the Ice covered sea near the Shelf, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:15:35.068078Z"
+  }
+}

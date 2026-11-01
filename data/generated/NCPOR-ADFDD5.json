@@ -1,0 +1,81 @@
+{
+  "id": "meteorological-operations-in-weddell-sea-anta-ncpor-adfdd5",
+  "document_id": "NCPOR-ADFDD5",
+  "source_file": "ARTICLE+4.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/603/3/ARTICLE+4.pdf",
+  "title": "Meteorological Operations in Weddell Sea, Antarctica, 1989-90",
+  "year": 2000,
+  "expedition": "B]Scientific Report Of Indian Expedition To Weddell Sea",
+  "category": "Atmospheric Science / Meteorology",
+  "subcategory": "Meteorological Operations in Weddell Sea, Antarctica, 1989-90",
+  "bibliographic": {
+    "title": "Meteorological Operations in Weddell Sea, Antarctica, 1989-90",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "B]Scientific Report Of Indian Expedition To Weddell Sea",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2000,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the B]Scientific Report Of Indian Expedition To Weddell Sea examines key atmospheric science / meteorology phenomena in polar terrain around Weddell Sea. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Weddell Sea"
+    ],
+    "research_sites": [
+      "Weddell Sea"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Atmospheric Science / Meteorology",
+    "subcategory": "Meteorological Operations in Weddell Sea, Antarctica, 1989-90",
+    "tags": [
+      "atmospheric-science-meteorology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Atmospheric Science / Meteorology discoveries from B]Scientific Report Of Indian Expedition To Weddell Sea: \"Meteorological Operations in Weddell Sea, Antarctica, 1989-90\". Learn how Indian scientists studied Weddell Sea on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Atmospheric Science / Meteorology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:34:41.086978Z"
+  }
+}

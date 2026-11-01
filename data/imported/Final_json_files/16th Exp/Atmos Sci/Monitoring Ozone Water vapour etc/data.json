@@ -1,0 +1,72 @@
+{
+  "id": "article_6",
+  "document_id": "NCPOR-B0A741",
+  "source_file": "ARTICLE+6.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/609/3/ARTICLE+6.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+6",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "16] Scientific Report Of Sixteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Sixteenth INdian Expendition to Antarctica, Scientific Report, 2000 \nDepartment of Ocean Development, Technical Publication No. 14 pp. 1 to 36 \nMonitoring of ozone, water vapour etc during the voyage to\nAntarctica\nS.L. JAIN AND O.P. TRIPATHI\nRaido & Atmospheric Sciences Division National Physical Laboratory\nNew Delhi-110012, India.\nAbstract\nThe monitoring of trace species such as water vapour, ozone etc. is of great\nsignificance for understanding the Physics, Chemistry and radiation budget of\nthe atmosphere. The water vapour being highly variable constituent in the atmo-\nsphere with temperature, space and time, its measurement plays a great role in\nthe study of many atmospheric processes, such as weather, climate, infrared as-\ntronomy, cloud physics communication, etc. A highly sophisticated and micro-\nprocessor based compact sun  photometer consisting of five filter channels at\n300, 305, 312, 940 and 1020 nm was used to measure water vapour and ozone in\naddition to various other parameters such as UV-B radiation, near IR radiation,\naerosol optical depth etc. The measurements were made on the way from Goa,\nIndia (15°24' N, 73° 42'E) to Maitri, Antarctica (70 deg 46' S, 11 deg45' E)on\nPolar Bird (Norwegian ship) during December 1996- March 1997. It was found\nthat water vapour decreased while total ozone increased as the ship moved to-\nwards the coldest, the windiest and the largest icy continent i.e. Antarctica. In the\npresent communciation the salient features of the instrument and results obtained\nare discussed in detail.\n1. Introduction\nThe monitoring of total ozone and green house gases like water vapour in\nthe atmosphere plays an important role the understanding of global change. The\nreporting of catalytic depletion of ozone by CIO x and NO x by Johnston [1] in\ngeneral and ozone hole over Antarctica during spring time by Farman [2] and\nStolarski [3] in particular witnessed an unprecedented surge of interest in the\nmonitoring of various trace species. Ozone is an important constituent in the\nstratosphere for the very existence of any living organism on this planet as it acts\nas a shield for us and protects us from the harmful UV-B radiation coming form\nthe sun. Also ground based observations are mainly on land areas, there are oc-\ncasional shipboard observations and are not part of the routine network. Also\nmost of the measurements are in the  Northern hemisphere, as a result of the\ndistribution of observing stations, there is a potential for a strong geographic\nbias in the averaged total ozone amounts (zonal, hemispheric and global) as cal-\nculated for the observed station values. In view of the above, measurements of\n104 S.L. Jain and O.P. Tripathi \nUV-B/IR radiation at 300, 305, 312, 940 & 1020 nm using a micro processor\nbased hand held compact system, have been made which in turn also provides\nozone, water vapour and optical depth etc. The measurements were made on the\nway from Goa, India (15 deg 24' N, 73 deg 42' E) to Maitri, Antarctica (70 deg\n6' S, 11 deg 45' E) on Polar Bird (Norwegian Ship) to study the latitudinal distri-\nbution or these parameters during December 1996- January 1997. The measure-\nments were also made at Goa, Mauritius and Maitri. In the present communica-\ntion the salient features of the instrument and results obtained are discussed in\ndetail.\n2. Experimental  Set-up\nA highly sophisticated and hand held microprocessor based sun photom-\neter has been used to measure the solar radiation at 300, 305, 312, 940 and 1020\nnm. The block diagram of the sun photometer is shown in Fig.l. The optical\nblock is shaping the field of view of the instrument, filtering the incoming solar\nradiation, detecting it and facilitatting targeting at the sun. The electrical signals\nform the photodetectors are amplified, conveted to digital form and numerically\nprocessed in the signal processing block. The first three exceptionally narrow\nbandwidth filter channels are used to derive atmospheric total ozone while latter\ntwo channels are used for water vapour and aerosol optical depth. The field of\nview of the each optical channel is 2.5 deg. The system needs input parameters\nsuch a latitude, longitude and altitude of the place of observation which were\nobtained form GPS receiver of the ship. On board clock and calendar keeps track\nof the time necessary for astronomical calculations. A built-in barometer pro-\nvides atmospheric pressure for the Rayleigh scattering correction and best of all,\nboth raw data and calculated results from upto 800measurements are stored in an\non-board non-volatile memory and can be both viewed on the instrument's LCD\nand transferred to a PC. All the data are arranged in a tabular form convenient for\nprocessing and interpretation. The instrument was used successfully at Goa, on\nboard ship, Mauritius on the way to Antarctica and finally at Maitri. The system\nis presently being used to measure ozone etc. at Maitri, Antarctica and it well\nprovide first hand information to us for \"Ozo",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Monitoring of Ozone, Water vapour etc during the voyage to Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:25:26.887610Z"
+  }
+}

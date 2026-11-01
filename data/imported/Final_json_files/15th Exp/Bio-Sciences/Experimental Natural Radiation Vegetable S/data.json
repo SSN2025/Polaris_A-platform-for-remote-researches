@@ -1,0 +1,72 @@
+{
+  "id": "article_10_2",
+  "document_id": "NCPOR-5B656D",
+  "source_file": "ARTICLE+10_2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/455/3/ARTICLE+10_2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+10_2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13. pp 129-130 \nA NOTE ON EXPERIMENTAL STUDY OF NATURAL\nRADIATION ON THE VEGETABLE SEEDS IN\nANTARCTICA\nM.K. Pant\nDefence Agricultural Research Laboratory\nAntarctic environment, in addition to extreme cold, is also full of ultravio-\nlet rays during the day time. These two factors, coupled with others, make\nAntarctic environment a harsh stressful condition, which makes lives very\ndifficult in the region. However, the prevailing environmental stress leaves\nmany facts to be assessed in academic interest in plant sciences. During the 15 th\nIndian expedition to Antarctica, an experiment  was therefore, formulated with\ndifferent varieties of  vegetables seeds. In this experiment, tomato, capsicum,\nchilli, bean, squash lettuce and cabbage produced under normal environment\nwere exposed for 7 to 20 days to natural conditions of Antarctica  (Fig.1).  The\nminimum and maximum average temperatures were -1.8°C to +3.0°C and\nFig. 1: Treatment of natural radiation on materials of different vegetables \n130 M .K. Pant \naverage sun intensity varied from 159.10 to 171.69 cal/cm2/day during the\nperiod.of exposure (Table-1).\nTable 1: Meteorological observations at Maitri\nCrop/variety Exposed date Total Av. Temperature°C Av.Sun\nFrom T o days  M a x M i n intensity\nCal/cm 2 /\nday\nPusa Ruby\nHT-8\nHT-6\nBest of all\nCapsicum\nHC-201\nHC-202\nChilli\nPusa Jwala\nChilli Pant\nC-1\nBean\nPusa\nContender\nPusa Parvati\nVL-Bauni\nSquash\nAustralian green\nDARL Sel\nLettuce\nCabbage\nCross type\n03.01.96\n23.01.96\n02.02.96\n04.01.96\n23.01.96\n02.02.96\n03.01.96\n23.01.96\n02.02.96\n03.01.96\n23.01.96\n02.02.96\n03.01.96\n23.01.96\n02.02.96\n03.01.96\n25.01.96\n02.02.96\n03.01.96\n01.02.96\n-\n-\n-\n03.01.96\n01.02.96\n05.01.96\n01.02.96\n21.01.96\n31.01.96\n20.02.96\n21.01.96\n31.01.96\n20.02.96\n21.01.96\n31.01.96\n20.02.96\n21.01.96\n31.01.96\n20.02.96\n21.01.96\n31.01.96\n20.02.96\n21.01.96\n31.01.96\n20.02.96\n21.01.96\n22.02.96\n-\n-\n-\n21.01.96\n21.02.96\n23.01.96\n21.01.96\n17\n08\n19\n16\n09\n19\n16\n09\n19\n17\n08\n19\n17\n08\n19\n17\n07\n19\n17\n20\n-\n-\n-\n17\n20\n19\n20\n+3\n+2.5\n+3.5\n+3\n+2.5\n+3.5\n+3\n+2.5\n+3.5\n+3\n+2.5\n+3.5\n+3\n+2.5\n+3.5\n+2.7\n+2.5\n+3.5\n+3\n+3.5\n-\n-\n-\n+3\n+3.5\n+2.1\n+3.5\n-1.7\n-1.2\n1.9\n-1.7\n-1.2\n-1.2\n-1.7\n-1.2\n-1.9\n-1.7\n-1.2\n-1.9\n-1.7\n-1.2\n-1.4\n-1.9\n-1.2\n-1.9\n-1.7\n-1.9\n_-\n-\n-\n-1.7\n-1.9\n-1.8\n-1.9\n168.70\n666.20\n174.20\n168.70\n166.20\n174.20\n168.70\n166.20\n174.20\n168.70\n166.20\n174.20\n171.69\n166.20\n174.20\n170.10\n166.20\n174.20\n168.70\n174.20\n-\n-\n-\n168.70\n174.20\n159.10\n174.20\nThe objectives of the experiment were:\n1. To assess the effect of ultraviolet irradiation on genetic properties of\ndifferent vegetables.\n2. To assess the effect of cold treatment on various physiological proc-\nesses.\n3. To develop the lines for different desirable traits specially cold toler-\nance, disease resistance and field-adaptability.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "3]Bio-Sciences",
+    "subcategory": "A Note on Experimental Study of Natural Radiation on the Vegetable Seeds in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:50.696004Z"
+  }
+}

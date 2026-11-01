@@ -1,0 +1,72 @@
+{
+  "id": "article_2",
+  "document_id": "NCPOR-7D4B49",
+  "source_file": "ARTICLE+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/510/3/ARTICLE+2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "17] Scientific Report Of Seventeenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Seventeenth Indian Expedition to Antarctica, Scientific Report 2000 \nDepartment of Ocean Development, Technical Publication No. 15, PP 1-28 \nRESPONSE OF THE 30MHz AND THE FLUXGATE\nMAGNETOMETER AT MAITRI TO ONSET OF\nGEOMAGNETIC DISTURBANCE\nP. Elango, S. S. Bist, D. K. Meshram and Giriraj Rajaram\nIndian Institute of Geomagnetism, Colaba, Mumbai 400 005.\nAbstract\nAn attempt has been made to understand th e physical processes\nin the auroral ionosphere over MAITRI (geog. coord. 70.75\no\nS,\n52.8°E) and their response to geomagnetic disturbances. After\nobserving the signatures of auroral ionospheric current systems on the\nground magnetograms of fluxgate magnetometer, we trie d to correlate\nthese with the auroral absorption events recorded by a 30 MHz\nRiometer. The radio noise absorption is caused by the charged,\nparticle precipitation in the auroral ionosphere i.e. by the secondary\nionisation created in the lower ionosphere over M aitri. While passing\nthrough the region of enhanced electron density the cosmic radio\nnoise suffers increased absorption resulting in a decrease in s ignal\nstrength received by Riometer on the ground absorption events are\ncategorized into the dawn, daytime, dusk and nighttime events and\ncorresponding variations in the ionospheric current systems are\npresented here.\nThe X, Y and Z variations recorded by the magnetometer give\nclues to the direction, intensity and extent of overhead auroral currents\nsystems.\n2 P. Elango, S.S. Bist, D. K. Meshram and Giriraj Rajaram \nIntroduction\nThe Indian Institute of Geomagnetism has been operating\nFluxgate M agnetometers at MAITRI (MAI with geog. coord\n?0.75\no\nS, 11.75\no\nE, geomagnetic 62.8\no\nS, 52.8\no\nE coord) over the past\ntwo decades. These Fluxgate Magnetometers (FM) have been\nrecording variations in the three orthogonal components of the\nsurface geomagnetic field, X (north- south direction), Y (east-west)\nand Z (vertical), in other words known as Daily Variations (DV).\nA Riometer  (Radio Ionospheric Opacity Meter) recording the radio\nsignal strength at ground of the natural omnidirectional 30 MHz\ncosmic radio noise from the Universe, was added as an experiment\nin 1995, but due to faulty earthing at MAI, could not yield good\ndata for a couple of years. With the rectification of the earthing\nproblem, the data from the Riometer (RIO) improved considerably\nin 1997, and by 1998 attained great reliability. The purpose of this\nwork is to show the considerable insight into auroral physics which\none obtains when the FM an d RIO experiments are operated\ntogether at MAI. What the two instruments together clarify without\nambiguity is that during times of magnetic Quiet (Q) MAI is a sub-\nauroral station which 1) experiences the magnetic effect of the\nsouthern Sq. current system and 2) does not experience any charged\nparticle pr ecipitation along magnetic field lines from the outer\nmagnetosphere. With the onset of electromagnetic disturbance is\ngeospace (caused by the arrival of energised solar wind particles in\nthe Earth's magnetosphere), the FM and RIO signatures show\ndramatic change signifying 1) that the auroral zone is slowly\nmoving over MAI  in equatorward direction and 2) that MAI starts\nexperiencing the effect of field-aligned current (fac) which as\ndescribed earlier, are caused by the precipitation. of energetic\ncharged particles from the magnetosphere to the ionosphere. The\nIndian Antarctic station MAI is thus very suitably located for\nsensing Space Weather i.e. the onset of electromagnetic disturbance\nin Geospace, following disturbance in the interplanetary medium\ncaused by solar disturbance. This is due to its location just outside\nthe normal quiet-time auroral oval.\nA magnetometer records the effects of integrated currents in\na volume of space around the instrumets, ranging from the nearby\nionosphere to the distant magnetopause. At an auroral location,\nResponse of the 30mhz and the Fluxgate Magnetometer at Maitri  3 \nmost of the effects originate in the auroral electrojet (AE)\ncurrents in the ionospheric E region, an d in field-aligned currents\n(fac) which flow along the geomagnetic f ield lines linking the\nionosphere with the magnetosphere. A fluxgate magnetometer at\nMAI records geomagnetic field variations along the three geographic\naxes, X (north-south) Y (east-west) and Z (vertical). T hese however\ndo not uniquely define the direction of the causative current system,\nbecause a deflection in any one direction can be due to either of\ntwo currents in two different dir ections. It is from the known\nphysics that one infers the most  probable direction of the current\ncausing the magnetic disturbance. Thus in the case of the east-west\nmagnetic variation. Y, the causative current at  auroral region could\nbe in the north-south direction, or in the  vertical as a field-aligned\ncurrent.\nThe advantage of a Riometer is that at  auroral locations it gives\nfurther clues on the most likely current direction. A large decrease\nin signal s trength indicates increase",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 28
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Response of the 30Mhz and the Fluxgate Magnetometer At Maitri to onset of Geomagnetic Disturbance",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:26:11.155431Z"
+  }
+}

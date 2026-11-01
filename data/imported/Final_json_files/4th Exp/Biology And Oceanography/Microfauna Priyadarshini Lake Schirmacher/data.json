@@ -1,0 +1,72 @@
+{
+  "id": "article_10",
+  "document_id": "NCPOR-748117",
+  "source_file": "ARTICLE+10.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/240/3/ARTICLE+10.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+10",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Microfauna of Priyadarshini Lake, Schirmacher Oasis, Antarctica\nB.S. Ingole, X.N. Verlencar and A.H. Parulekar\nNational Institute of Oceanography, Dona Paula, Goa 403 004 \nABSTRACT\nBenthos of Priyadarshini Lake, Schirmacher Oasis, Antarctica was investigated during the austral\nsummer (1984-85). Resting eggs of micro-invertebrates dominated the total fauna. These were signifi-\ncantly high in the lake bottom. Nematodes, turbellarians and tardigrades were abundant in the supra-lit-\ntoral sediment covered with vegetation. Salinity and dissolved nutrients in the surface water column\nshowed very low concentrations and the values fluctuated with the weather conditions.\nINTRODUCTION\nFresh-water lakes on the Antarctic continent are closed aquatic ecosystems which provide an\nunique habitat for basic biological studies (Heywood, 1984). A com prehensive knowledge of the\nflora and fauna of such lakes is a prerequisite for further ecological studies. Most of the studies on the\nfresh water fauna of the Antarctic lakes have emphasized the physico-chemical aspects (Harris et a1.,\n1981; Hawes, 1983), primary productivity (Light et al., 1981) and microbial activities (Ellis-Evans,\n1982). Very little is known about the benthic fauna of such water bodies (Opalinski, 1972; Heywood,\n1984). Qualitative and quantitative aspects of the benthic fauna, from undescribed Priyadarshini\nLake (Schirmacher Oasis, Antarctica), were investigated during the austral summer of 1984-85.\nThese have been reported in the present communication.\nMATERIAL AND METHODS\nStudy area: Priyadarshini lake is situated very close to the Second Indian base station, Maitri in\nthe Schirmacher Oasis, Antarctica (70°45'S; 11°44'E). The lake is irregular in outline with an area of\n0.297 sq. km. A mat of blue green algae and moss, characterizes the supralittoral margin of the lake.\nThe melt water from the adjacent glaciers and snow-fields runs into the lake. The lake was visited\ntwice during the fourth Indian scientific expedition's summer programme in Antarctica (1984-85).\nFour stations were established along the margin periphery of the lake (Stns. A,B,C, D) and four sta-\ntions (1-4) were s ampled inside the lake using a rubber raft.\nSampling: Water samples were collected by 5 litre Niskin sampler and the benthos samples\nusing a Van Veen Grab (0.04 m2 area). Primary productivity was measured by the in situ 14C method\n(Steemann-Nielsen, 1952) and dissolved nutrients (nitrate-N, phosphate-P, silicate-Si), oxygen and\nsalinity were analysed following the methods described by Grasshoff (1976). Temperature (air, water\nand sediment surface) was recorded by mercury thermometer (0.1°C accuracy).\nTriplicate sub-samples of microfauna were taken from each station using a hand held plastic\ncorer (4.5 cm inner diameter) to a sediment depth of 6 cm. Faunal samples were immediately pre-\nserved in 4% formaldehyde solution to which rose-bengal (0.2 g/1) was previously added. Samples\nwere also collected separately for estimating organic carbon content and sediment characteristics.\nDuring February 1985, the lake was partly frozen and hence samples were collected by drilling a hole\nthrough the 12 cm thick ice sheet with a hand drill. A Van Veen Grab of 0.04 m2 area was lowered\nthrough the hole to collect the bottom deposit.\n149\nMicrofauna of Priyadarshini Lake \nFaunal samples were analysed following the procedure given by Parulekar, Nair, Harkantra and\nAnsari (1976). Biomass (dry wt.) was determined according to Dye and Furstenberg (1977) and dry\nmass of protozoa, rotifers and cysts (resting stages) was calculated following the method of Sarojini\nand Nagabhushanam (1967). Organic content of the sediment was estimated by the method of El\nWakeel and Riley (1956).\nRESULTS AND DISCUSSION\nPhysical and chemical parameters recorded at the Priyadarshini lake during January and Febru-\nary 1985 are given in Table I. Mean temperatures in the upper layer of sediments and in the overlying\nwater were 4.7°C and 2.2°C respectively. The water was clear throughout the sampling period with a \nsurface temperature of 2.3°C. Maximum temperature of 3.5°C was recorded at the station 3, perhaps\nbecause of the absorption of radiation energy by the biota (Goldman et al., 1972). The station 3 was\nfixed at the lake centre where a thick layer of benthic alga was recorded at the bottom. The pH at all\nthe stations ranged from 7.6 to 8.6 (mean 8.1). The pH values are higher than those (5 to 6.8) reported\nearlier by Bardin and Leflat (1965) in an ice covered lake in the Schirmacher Oasis. This suggests an\nalkaline condition of the water. Since the lake is fed by the adjoining glacial melt water, the higher pH\nrecorded in the present observation may indicate dissolution of the alkaline rock in the glacial waters.\nDissolved oxygen content varied between 6.9 to 8.6 (\n = 8.0) mg/1. Salinity and dissolved nutrients\nshowed very low concentrations. Mean values of 0.009% salinity, 0.3 μg at 1\n-1\n nitrate, 0.11 μg at 1\n-1\nphosphat",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 6
+  },
+  "taxonomy": {
+    "category": "4]Biology And Oceanography",
+    "subcategory": "Microfauna of Priyadarshini Lake, Schirmacher Oasis, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:35.240663Z"
+  }
+}

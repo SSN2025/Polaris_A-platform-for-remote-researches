@@ -1,0 +1,81 @@
+{
+  "id": "oxygen-isotope-studies-in-an-ice-wall-near-ma-ncpor-fb5283",
+  "document_id": "NCPOR-FB5283",
+  "source_file": "ARTICLE+7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/650/3/ARTICLE+7.pdf",
+  "title": "Oxygen Isotope Studies in an Ice Wall Near Maitri, Indian Antarctic Station",
+  "year": 1983,
+  "expedition": "2nd Indian Antarctic Expedition",
+  "category": "Glaciology",
+  "subcategory": "Oxygen Isotope Studies in an Ice Wall Near Maitri, Indian Antarctic Station",
+  "bibliographic": {
+    "title": "Oxygen Isotope Studies in an Ice Wall Near Maitri, Indian Antarctic Station",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "2nd Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1983,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 2nd Indian Antarctic Expedition examines key glaciology phenomena in polar terrain around Maitri. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 12
+  },
+  "taxonomy": {
+    "category": "Glaciology",
+    "subcategory": "Oxygen Isotope Studies in an Ice Wall Near Maitri, Indian Antarctic Station",
+    "tags": [
+      "glaciology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Glaciology discoveries from 2nd Indian Antarctic Expedition: \"Oxygen Isotope Studies in an Ice Wall Near Maitri, Indian Antarctic Station\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Glaciology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:33:34.526925Z"
+  }
+}

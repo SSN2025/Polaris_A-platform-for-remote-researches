@@ -1,0 +1,72 @@
+{
+  "id": "article_18",
+  "document_id": "NCPOR-78BD65",
+  "source_file": "ARTICLE+18.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/559/3/ARTICLE+18.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+18",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eighteenth Indian Expedition to Antarctica, Scientific Report, 2002 \nDepartment of Ocean Development, Technical Publication No. 16, 363 to 371 \n363\nStudies on Wind Energy applications during\nXVIII Indian Antarctic Expedition\nT.Ramesh & M.P.Ramesh \nNational Aerospace Laboratories, Bangalore \n1.0 Introduction\nWind Energy is one of the most viable alternative energy source to produce\nElectricity. Different types of wind energy converters are available to harvest wind\nenergy. The converter selection mainly depends on the type of application,\nenvironmental conditions energy requirement and other factors. Since Antarctica is\none of the windiest continent, various scientific communities from different\ncountries have attempted harvesting wind for production of heat and electricity in\ndifferent parts of the Antarctic continent.\nIn line with Prof. U R Rao's expert committee recommendations on\nAntarctic Research, studies on wind energy conversion in the Indian station were\ninitiated during the XVI expedition. With encouraging results reported, Department\nof Ocean Development encouraged N A L to pursue wind energy related work in\nAntarctica.\n2.0 Background\nNational Aerospace Laboratories has been involved in the following wind\nenergy related activities in Antarctica.\n1. Resource estimation\n2. Studies on energy consumption patterns\n3. Infrastructure availability for installation of wind machines.\n2.1 Resource Assessment\nDuring XVI expedition, wind monitoring station was deployed and 3 level\n(28mts, 22mts and 12mts agl) monitoring was carried out using sophisticated\nmicroprocessor based instruments and sensors. An idea of energy requirements in\nthe station was obtained.\nWhile discussing the application of wind energy converters with former\nteam members and leaders, it was found that there was a need to provide small\ngenerators for battery charging in location far away from the station. This was\noriginally done by physically transporting charged batteries to the site. Sometimes\nWind Energy Program, \n364\nT Ramesh and M P Ramesh \na small generator was also sent to the site. This type of power requirements can be\nadequately met with by deploying small wind power battery chargers.\n2.2 Wind Machine Installation\nDuring XVII Indian Antarctic expedition, two machines were deployed on\nan experimental basis. These two machines were installed to determine the\neffectiveness of such sites in remote areas and to study their performance. The aim\nwas also to study the performance of the machines in the Antarctic environment.\nThe machines performed reasonably well for some time and subsequently they\ndeveloped various faults.\nDuring the XVIII Expedition some of the problems were addressed and\nsolutions provided.\n3.0 Assignments during XVIII IASE\nDuring our XVIII expedition, the following tasks were undertaken successfully.\n1. Studying the wind powered battery charger deployed over the winter months\nfor damage/performance.\n2. Installation ofnew wind powered battery charger\n3. Replacement of sintered bearings in the wind sensors and installation of new\ndata retrieval software.\n4.\n Servicing of datalogging instruments.\n3.1 Wind Powered Battery Charger\nOne Wind powered battery charger of 12V, 72 Watts capacity was installed\nat Maitri Automotive workshop for charging batteries used for vehicles during\nwinter months. The machine was giving uniformly good service until August 98.\nAfter eight months of operation it was reported that the rotor got jammed. The\nmachine was subsequently inspected and it was found that the main bearings were\ncompletely damaged.\n3.1.1 Electronics related problems\nDuring X V H expedition it was noticed that there were some difficulties\nwith regulation of output power from the machine. A specially designed voltage\nregulator that would take care of over voltage and over charging of batteries was\ndesigned, deployed and tested in XVIII expedition. Figure 1 shows the block\ndiagram of the controller circuit and figure 2 shows the controller deployment near\nautomobile workshop at Maitri.\n365\nWind Energy applications \nFig.l\n2.1.2 Performance and Failure of W T G\nOn return the WTG  was inspected thoroughly and it was found that,\nThe rotor blades, Yaw bearings, furling mechanism and its bearing were intact.\nThe main bearings of the generator, which also support the rotor blades,\nwere completely damaged. The steel balls had come off pushing away the seals and\nhad caused severe damage to the windings and it was also found that the femte\nmagnets were fragmented. The generator was beyond repair. Figure 3 shows the\ndamaged generator parts.\nBased on the available wind data the bearing life was estimated and it was\nfound that the bearing failure was to be expected 8 to 9 months of operation in the\nwind environment at Maitri.\nTo calculate the life of ball bearings used in the wind Generators, the\nfollowing assumptions have been made:\n1. The machine achieves a Tip Speed Ratio of 4 at all wind speeds.\n2.\n The total number of revolutions in ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "6]Engineering & Communication",
+    "subcategory": "Studies on wind energy applications during XVIII Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:50.176236Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_8_2",
+  "document_id": "NCPOR-EF62EA",
+  "source_file": "ARTICLE+8-2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/415/3/ARTICLE+8-2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+8-2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 99-107 \nAtmospheric  Water  Vapour  Measurement\nat  Maitri,  Antarctica\nB.C. ARYA and S.L. JAIN\nNational Physical Laboratory,\nDr. K.S. Krishnan Road New Delhi-110 012, India\nAbstract\nAtmospheric water vapour content has been measured during 14th Indian Antarctic\nExpedition at Maitri (70° 46'S, ll°45'E), Antarctica. The measurements were carried out\non clear sunny days during Jan.-Feb. 1995. The average precipitate water vapour at zenith\nwas in the range 1.7- 2.4 mm.\nIntroduction\nThe measurement of atmospheric water vapour plays an important role in\nunderstanding meteorology, climatology, infrared astronomy and cloud phys-\nics. The amount of atmospheric water vapour varies considerably with the\ntemperature and  relative humidity unlike other gases of the atmosphere. Water\nvapour is the primary absorber of thermal and  near infrared radiation in the\nearth atmosphere and has considerable effect on radiation field, radiative albedo\nand the energy balance of the earth/atmospheric system.\nThe integrated water vapour content in the vertical column of the atmos-\nphere can be obtained from ground with sun photometer (Volz, 1974) or\nmicrowave radiometer (Hogg  et al,  1983). For estimation of water vapour\nusing sun photometer the solar radiation is measured at two wave length\nregions; one at the centre of an absorption band and other within atmospheric\nwindow just outside the absorption band which is assumed as reference. The\nmethod has already been  successfully used by Tomasi and Guzzi, 1974; Greve,\n1978; Kondratyev  et al, 1965; Robson  et al., 1979; Martin  et al., 1981; Buscher\nand Lemke, 1980; Symthe and Jackson, 1977. Bo-Cai Gao and Goetz, 1990\nhave derived high spatial resolution column atmospheric water vapour contents\nfrom spectra obtained from air borne visible-infrare d imaging s pectrometer.\nIn the present paper we report measurements of water vapour during 14th\nIndian Scientific Expedition in 1994-95 at  Maitri (70°46'S 11°45'E) an Indian\n100 B.  C. Arya et al. \nAntarctic station. The total water vapour content was measured with  sun\nphotometer using infrared grating monochromator designed and developed.  at\nNational Physical Laboratory, Ne w Delhi.\nExperimental Set-up\nThe block diagram of I.R. grating spectrometer designed, developed  at\nN.P.L., New Delhi is depicted in Fig. 1. A Polar Heliostat stationed outside  t h e\nLaser Heterodyne hut at Maitri, Antarctica is used to get solar image in a fixed\ndirection in the  laboratory. The incoming chopped solar radiation is focussed\nby ZnSe lenses of focal lengths of 10\" and 2.5\" on the entrance slit of the\nmonochromator. The signal is detected with the hel p of pyroelectric detector.\nThe signal output from detector is fed to the lock-in-amplifier for synchronous\ndetection and is directly recorded on a strip chart recorder and also stored  on\nfloppy diskette. The details of monochromator and pyroelectric detector  a r e\ngiven below:\nSpecifications of high res olution grating monochromator\nThe monochromator used is a Czerny-Turner scanning type with  focal\nlength 240 mm having two gratings coverin g wavelength region from 800-3100\nnm and 3500-12500 nm r espectively. The resolution of monochromator  is\nbetter than 0.1 nm with 600g/mm and 20 micron slit. The monochromator  is\ncontrolled by an onboard microprocessor, and the connection between  the\ncontrol module and the monochromator body is through RS-232C serial  port.\nAlternately it can  also be controlled by PC through RS-232C serial port.  The\nwavelength selection, slit width, sca n speed etc. are controlled by microproc-\nessor.\nCharacteristics of pyroelectric detector\n1. Wavelength range 0.001 to 1000 μm\n2. Maximum input average power 0.05 watt\n3. Current  responsibility 0.5μA/watt\n4. NEP(632.8 nm, 15 Hz,  1Hz, BW) 15 xl0\n-9\n W/Hz\n1/2\n5. Active diameter 2 mm\nAtmospheric Water Vapour Measurement 101\nTHE BLOCK DIAGRAM OF INFRARED GRATING SPECTROMETER\nFig. 1: Block diagram of the experiment \n102 B. C. Arya et al.\nDiscussion and Results\nThe solar radiation absorption spectra were monitored using IR. grating\nspectrometer from 0.75 am to 1.6 μm spectra range at various zenith angles of\nthe sun. The bandwidth of the monochromator during the present work was set\nat 1.5 nm. Extra care was taken so that solar image was accurately focussed\nand aligned on the entrance slit of the monochromator. The  measurements were\ncarried out on clear sunny days of Jan 20, '95, Jan 21, '95, Jan 23, '95 and F e b\n4, '95. The visibility was very good at Maitri during the time of observation.\nThe typical solar absorption spectra taken at Maitri, Antarctica is shown in Fig.\n2. The signature of  absorption of water vapour bands centred at  0.94 μm, 1.14\nμm and 1.38 μm are clearly seen.\nFig. 2: Typical solar absorption spectra taken at Maitri \nSPECTRA TAKEN BY IR GRATING\nSPECTROMETER OVER MAITRI (ANTARC",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Atmospheric Water Vapour Measurement at Maitri, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:50.957912Z"
+  }
+}

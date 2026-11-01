@@ -1,0 +1,72 @@
+{
+  "id": "article_1",
+  "document_id": "NCPOR-7881BA",
+  "source_file": "ARTICLE+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/336/3/ARTICLE+1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "09] Scientific Report Of Ninth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Ninth Indian Expedition to Antarctica, Scientific Report, 1994 \nDepartment of Ocean Development, Technical Publication No. 6, pp. 1-20 \nThe Ninth Indian Scientific Expedition to Antarctica — \nEvents & Achievements\nRASIK RAVINDRA\nExpedition Leader\nExploration is the physical expression of the intellectual passion. If you have the desire for the\nknowledge and the power to give it physical expression, go out and explore. If you march your Winter\njourneys, so long as all you want is a penguin egg, you will have your reward.\n(Cherry Garrard in Worst Journey in the World) \nIntroduction\nIndia launched its Ninth Scientific Expedition to Antarctica on 30th November 1989 as\nits continued effort to further the advancements made in multidisciplinary fields of science\nand technology in this icy continent by previous eight expeditions. The Ninth Expedition\nwas successful in  achieving all its set goals and objectives, inspite of s everal hardships\nforced on to it by nature and destiny. Among the major achievements of the expedition were\nsetting up of a modern meteorological observatory and a Green house at Maitri, exploration\nof deep interior mountains of s outhern Humboldt, es tablishment of a surface route to\nnorthern Humboldt and carrying out geological, glaciological, geophysical and meteoro-\nlogical investigations in this area during winter. Year long studies on human adaptations and\nphysiological changes under extreme cold conditions and astrophysical studies were initi-\nated for the first time. Record surface transportation of 250 kilo litre fuel from Dakshin\nGangotri (DG) to Maitri, smooth decommissioning of DG and transfer  of stores from DG\nsupply base to  Maitri were additional landmarks.\nAssignments\nBased on the long-term objectives of Indian Antarctic Programme, the  following tasks\nwere identified for the Ninth Expedition and its wintering component (Seventh Wintering\nTeam):\nA. Scientific tasks \ni) Geoscientific studies:\nEarth science programme included geological, structural, geochemical and radio-\nmetric studies in Schirmacher and Wohlthat mountains, geological mapping during\nwinter in Wohlthat mountain and continuation of ongoing glaciological pro-\ngramme.\n2 Rasik Ravindra\nii) Atmospheric  studies:\nMeasurement of total ozone, atmospheric gases and extent of UV radiation;\nsynoptic observations of  routine meteorological parameters; launching of\nozonesonde and ra diosonde balloon ascents, VLF and boundary layer experiments.\niii) Astrophysical studies;\nObservations of supergranulation and its relationship with Sun's magnetic field.\niv) Biologica l studies:\nEcological and physiological aspects of the invertebrate fauna, studies on their\nadaptation to the  Antarctic environment wit h special reference to population\ncycles, respiratory metabolism and cold tolerance etc.\nv) Microbiological investigations:\nStudy on primitive microorganisms in the lakes of Schirmacher Oasis.\nvi) Polar medicine:\nStudies on polar medicine particularly on physiological and psychological changes\nin humans under extreme cold conditions.\nB. Logistic tasks \ni) Establishment of meteorological observatory at Maitri.\nii) Construction of a Green House.\niii) C onversion of DG Station into a supply base for use in Summer and periodic use\nin Winter.\niv) Maintenance of the Maitri Station and all its services.\nv) Maintenance of all vehicles at DG and Maitri.\nvi) Logistic support to s cientific activities.\nvii) Transportation of stores and fuel from DG to Maitri.\nThe Voyage\nThe expedition was flagged off with 81 members onboard M .V. Thuleland  on 30th\nNovember 1989 for Antarctica. The ship crossed equator on 4th December 1989. It had to\nhalt at the outer anchorage of Port Louis for a few hours to replenish some of the life saving\ndrugs requisitioned by the Sixth Wintering team from Maitri. The voyage was smooth with\nits normal share of minor turbulent sea through the 'forties' and 'fifties'. Ship received\nregular facsimile charts, up-to-date cloud picture on APT and other charts on weather\nconditions from Pretoria and Molodezhnaya, which warned us about incoming depressions\nand associated storms.\nOn 17th December 1989, the expedition got the news of Lt. Attar Singh, a member of\nSixth Wintering team at Maitri, having suffered a heart attack. From then on, it was a race\nagainst time in  trying to reach Antarctica as quickly as possible to provide much needed\nsupply of medicines. The nature played against us. We faced the  worstever pack ice\nThe Ninth Indian Scientific Expedition .... 3\nconditions experienced by any Indian expedition so far, reducing our  progress to one\nnautical mile per hour and even less.\nThe voyage period was fruitfully utilized in planning the execution of scientific tasks and\nfixing the priorities for cargo handling. A core group, drawing representatives from three\nservices and scientific organisations, constituted for this purpose, helped immensely.\nChristmas brought hopes with opening of a narrow passage. On 26th December, ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 20
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "The Ninth Indian Scientific Expedition to Antarctica-Events & Achievements",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:16:02.668711Z"
+  }
+}

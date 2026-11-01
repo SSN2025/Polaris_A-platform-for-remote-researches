@@ -1,0 +1,72 @@
+{
+  "id": "article_1",
+  "document_id": "NCPOR-C0CCA7",
+  "source_file": "ARTICLE+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/445/3/ARTICLE+1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13 pp 1-20 \nTHREE-STATION MAGNETOMETER EXPERIMENT\nAT ANTARCTICA DURING JAN-1996\nTO DETERMINE THE VELOCITY OF\n. DISTURBED-TIME OVERHEAD AURORAL\nCURRENT SYSTEMS\nAjay Dhar, Arun Patil, S. Sankaran and Girija Rajaram\nIndian Institute of Geomagnetism, Mumbai\nAbstract\nThree fluxgate magnetometers were operated simultaneously at the Antarctic locations\nMaitri (70\no\n45' S lat., 1 l°45'Elong.), Dakshin Gangotri (70°08' S lat., 12°Elong.) and Orvin\nMountains (71\no\n56.20' S lat., 08°45.79' E long.) in Jan 1996. The three stations form the\nvertices of a triangle with sides ranging from 76 km to 233 km. Using appropriate electronic\nfilters to retain pulsation's with periods between 30 sec (f = 33 MHz) and 3000 sec (f = 0.33\nMHz), pulsations in X, Y and Z components of the geomagnetic field were recorded.\nPulsations during disturbed conditions are interpreted in terms of the mobile auroral current\nsystems which drift over the stations and leave signatures in ground based magnetometers.\nFrom the time-lags in similar pulsations at the three stations, the drift velocities of the\noverhead small-scale ionospheric current systems are estimated. The values during Jan 1996\nare found to lie between 0.94 km/sec and 3.44 km/sec, and these tally well with observations\nof 0.6 to 2 km/sec made for the northern auroral hemisphere.\nIntroduction\nIndia operates a permanent s tation Maitri (MAI) at Antarctica in the\nSchirmacher Oasis, r ound the year. In addition, two summer stations were\noperated at  Dakshin Gangotri (DG) and Orvin Mountains (OR). The geomag-\nnetic co-ordinates calculated from the IGRF 1995model for these three stations\nare MAI (66°53' S, 56°42' E), AE (66°22' S, 57°36' E) and OR (67° 42 ' S,\n52°65 'E). DG Station is on the Queen Maud Land ice-shelf at a distance of 76\nkm from MAI, whereas OR is situated to the west of the Wohlthat mountain\nrange at a distance of 233 km from MAI (see Fig.l  for an area of the\ntopography). The three stations were operated simultaneously from 16 Jan\n1996, and were expected to run for about a month. OR camp recording however\nhad to be stopped on 31 Jan, when following a very severe blizzard with wind\nAjay Dhar et al. 2\nDEGREES LONGITUDE EAST\nFig. I: Contour map of the area showing the three locations Maitri (MAI), Dakshin \nGangotri (DG) and Orvin Mountains (OR), where three fluxgate magnetometers were \nsimultaneously operated over Jan 16-31, 1996. It may be noticed that OR lies in the deep \ninterior mountains where high wind speeds during blizzards created very difficult \noperating conditions. \nThree-Station Magnetometer Experiment at Antarctica  3 \nspeeds of more than 1.50  km/hr, two of the three MFC type tents used for\nhousing the members and the instruments, were torn and damaged. One of the\ntents was blown to more than 50 m along with its two occupants. The five\nmembers at the camp had to take refuge in the lone, surviving, partially-dam-\naged tent, and hold on to its sides and corners to prevent it from collapsing.\nTemperatures of -30°C were recorded at the OR camp and the instruments had\nto be covered with thermally insulated sleeping-bags to keep them functioning\nat such low temperatures. In spite of all these measures taken, there were still\nseveral days when recording at one or the other of the three stations was\ndisrupted for various reasons. Two examples are rapid draining of batteries\nunder sub-zero temperatures, and mechanical problems with the analog re-\ncorders, again because of very low temperatures.\nRegular monitoring of the geomagnetic field and magnetic pulsations have\nbeen carried out at MAI station by IIG (Indian Institute of Geomagnetism) since\n1991. Daily variation (DV) and magnetic pulsations (MP), are recorded in\nanalog and digital modes using a fluxgate magnetometer. MAI during quiet\nmagnetic conditions lies equatorward of the auroral electroject current system,\nand experiences the effect of the southern limp of the southern hemisphere Sq\ncurrent system. With increasing magnetic activity, the auroral electroject cur-\nrent system moves equatorwards and MAI starts recording the magnetic signa-\ntures of auroral electroject currents as well as field-aligned currents, and other\nmobile current systems associated with substorms (Hanchinal et al.  1995,\nBanola and Rajaram, 1996). This would also be true of DG and OR stations\ndue to their proximity to MAI. With increasing disturbance, OR station then\nshould enter the auroral oval first followed by MAI and then by DG stations.\nThe field-aligned currents (fac) discussed above should cause sharp\nchanges in the amplitudes of the X and Y components, and this indeed was\nobserved in the data. Since the fac are caused by energetic electrons precipitat-\ning from the magnetosphere, they are subject to E x B drift in the auroral\nionosphere. They drift in the geomagnetic east-west direction and give rise to\nloc",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 20
+  },
+  "taxonomy": {
+    "category": "2]Atmospheric Sciences",
+    "subcategory": "Three-Station Magnetometer Experiment at Antarctica During Jan-1996 to Determine the Velocity of Disturbed-Time Overhead Auroral Current Systems",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:41.617808Z"
+  }
+}

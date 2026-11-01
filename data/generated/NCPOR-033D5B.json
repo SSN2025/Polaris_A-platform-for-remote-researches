@@ -1,0 +1,91 @@
+{
+  "id": "logistic-activities-of-12th-wintering-team-ncpor-033d5b",
+  "document_id": "NCPOR-033D5B",
+  "source_file": "ARTICLE+26-2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/435/3/ARTICLE+26-2.pdf",
+  "title": "Logistic Activities of 12th Wintering Team",
+  "year": 1998,
+  "expedition": "14th Indian Antarctic Expedition",
+  "category": "Logistics / Expedition Operations",
+  "subcategory": "Logistic Activities of 12th Wintering Team",
+  "bibliographic": {
+    "title": "Logistic Activities of 12th Wintering Team",
+    "authors": [
+      {
+        "name": "Fourteenth Indian Expedition to Antarctica",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      },
+      {
+        "name": "Scientific Report",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      }
+    ],
+    "expedition": "14th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1998,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica, Scientific Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 361 \nLogistic Activities of 12th Wintering Team\nP.M. MEENA\n1. All the logistic tasks assigned as per the DOD guidelines have been\ncompleted successfully like, completion of double layer roofing and\nflooring of the garage-cum-workshop for vehicle maintenance; Proper\nearthing of Maitri complex etc.\nIn addition, the following works undertaken and completed:\n(a) Painting of the station\n(b) Renovation of summer camp\n(c) Creation of Gen B .C. Joshi recreation hall in summer camp\n(d) Improvement of Roads from Maitri to Ice point and Maitri to\nNovolazarevskaya station\n(e) Painting of 50 KL tank\n(f) Backloading of\n(i) Forklift (Godrej)\n(ii) Crawler Tractor D50 A15\n(iii) Snow Cutter\n(g) Extensive ecological work in and around Maitri station\n(h) Erection of Hindi Signboard of Maitri over the station\n2. All kind of assistance was provided to all other departments as and when\nasked for/required.",
+    "summary": "This investigation conducted during the 14th Indian Antarctic Expedition examines key logistics / expedition operations phenomena in polar terrain around Maitri. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 1
+  },
+  "taxonomy": {
+    "category": "Logistics / Expedition Operations",
+    "subcategory": "Logistic Activities of 12th Wintering Team",
+    "tags": [
+      "logistics-expedition-operations",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Logistics / Expedition Operations discoveries from 14th Indian Antarctic Expedition: \"Logistic Activities of 12th Wintering Team\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Department of Ocean Development, Technical Publication No.",
+      "page_number": 1,
+      "section": "Abstract / Introduction"
+    },
+    {
+      "field": "research_sites",
+      "source_text": "earthing of Maitri complex etc.",
+      "page_number": 1,
+      "section": "Study Area / Observations"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:22.925798Z"
+  }
+}

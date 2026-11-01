@@ -1,0 +1,72 @@
+{
+  "id": "pages_from_13_th_indian_expendition384_385",
+  "document_id": "NCPOR-628234",
+  "source_file": "Pages+from+13+TH+INDIAN+EXPENDITION384-385.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/728/1/Pages+from+13+TH+INDIAN+EXPENDITION384-385.pdf",
+  "bibliographic": {
+    "title": "Pages+from+13+TH+INDIAN+EXPENDITION384-385",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "13] Scientific Report Of Thirteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "team. \nThirteenth Indian Expedition to Antarctica, Scientific Report, 1997 \nDepartment of Ocean Development, Technical Publication No. 11, pp.383-384 \nHelo Maintenance \nM RAVINDRAN \nIndian Navy \nTwo Chetak helicopters indigenously manufactured at M/S HAL(Banga-\nlore) were selected for flying operations during XIII Antarctica Expedition. The \nhelos were fitted with special equipment like Decca Doppler, Gyro compass \nCG 512, TAN8 Computer, HF 618, Emergency Flotation Gear (EGF), rescue \nwinch and under slung cargo hoist. \nOne Air Engineer Officer assisted by four technical crew comprised the \nmaintenance team to represent all trades for electrical, electronics, radio com-\nmunication and mechanical engineering repair and servicing of helos. This team \nhad worked round the clock to accomplish maximum flying hours on clear \nweather days as they are to be deployed at landing/take off sites during flying \nand to come back to the base camps for routine servicing when air crew retire \nfor the rest. \nThe helo operations were carried out from on board expedition ship M.V. \nStepan Krashanennikov, ice shelf at India Bay, Indian Station, \"Maitri\" and \nadjacent base Sankalp point, Orwin mountain ranges and many helo pick up \npoints on the ice shelf selected for the scientific works. \nThe helo starting up in sub-zero Antarctica temperature need extra capacity \nbatteries. Additional batteries are rigged up for this and round the clock battery \ncharging facility was set up. Due to extreme cold weather, rate of discharge is \nincreased,hence the heavy duty chargers are recommended. Refueling of helos \nwere done by use of battery operated portable pumps. \nThe helo maintenance team had undertaken the task of testing of aviation \nfuel to monitor fungal growth, probably, first time by any Indian expedition \nIn the absence of microbiological test facilities the aviation fuel held in \nsealed epicoated drums in Antarctica was not used by the new expedition teams \nwhen they arrive. The valuable flying hours were therefore expended in the \ninitial phase of expedition for transferring of fuel drums causing delay for the \nscientific activities and also restricted the availability of the flying hours for \nImportant tasks. \nquality. \n384 M. Ravindran \nThe microbiological growth in the aviation fuel causing serious mainte-\nnance problems is now well known fact. The presence of water in fuel during \ntransportation induces growth of the fungus which will in turn lead to blockage \nof aircraft fuel filters. \nThe fuel samples were drawn in sterilized glass bottles from fuel barrels of \nXII Expedition, kept at Sankalp transshipment point and Maitri helipad in bulk \nstorage tanks. One sample was taken from the refueling nozzle of ship's bulk \nstorage tank. \nOne liter of fuel sample each was passed through 0.45 micron membrane \nfilter to retain fungal spores, The filter membranes were transferred to petri \nplates containing growth medium under aseptic conditions. A plate free from \nfuel sample was also maintained as a control. The petri plates were incubated \nfor germination and growth of spores for 96 hours at 32 deg C. The count of \nspores/fungi is made under microscope. \nNo fungal growth was noticed in any of the five petri plates subjected to \nthe tests. The testing apparatus and chemicals were brought by the Naval team. \nThe vacuum pump for filtration of fuel and incubation facilities were arranged \nfrom the ship. \nThe microbiological analysis results indicate that about 20 kl of aviation \nfuel in epicoated drums available now could be earmarked for the next year \nflying operations. Similar test can be undertaken by the next expedition team \non their arrival and the fuel stock certified fit for use. This would save lot of \ntime and flying hours otherwise needed to transfer the fuel to various fueling \npoints at the initial phase of the expedition. In case the fuel is not used for \naircraft, it is still worth conducting these tests to know about the stability of fuel \nThe helo operations in Antarctica demands dedicated logistics support. \nHighly qualified technical team had physical and mental tenacity to undertake \nthe tasks right from the time the expedition ship left Goa and from the first \nreconnaissance sortie when ship approached polynia till the last sortie flown to \nbid farewell to the wintering members.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "7]Logistics",
+    "subcategory": "Helo Maintenance",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:40.431750Z"
+  }
+}

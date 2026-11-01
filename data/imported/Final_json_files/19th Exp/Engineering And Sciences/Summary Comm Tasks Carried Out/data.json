@@ -1,0 +1,72 @@
+{
+  "id": "article_21",
+  "document_id": "NCPOR-AF5506",
+  "source_file": "ARTICLE+21.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/587/3/ARTICLE+21.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+21",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "19] Scientific Report Of Nineteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Nineteenth Indian Expedition to Antarctica, Scientific Report, 2004 \nDepartment of Ocean Development, Technical Publication No. 17, pp 267-271 \nA Summary of the Communication Tasks\nCarried Out During the Wintering\nof the 19\nth\n Expedition\nRaj Pal Singh and M. Yunus\nDefence Electronics Applications Laboratory, Dehradun\nObjectives\n1. Operation of communication links through following modes:\na) Satellite communication\nb) HF communication\nc) Mobile radio communication\n2. Installation of: Antennas for HF and Mobile radio communication.\n3. Maintenance of:\na) INMARSAT 'A', INMARSAT 'M' terminals.\nb) HF and Mobile Radio communication\nWork Done\n1. Daily Routine Jobs:\na) Operation and maintenance of INMARSAT 'A' terminal round\nthe clock.\nb) HF Contac t with Novolazarevskaya (Russian Station)\nc) Receiving weather fax transmitted by Cape Naval Radio, Cape\nTown (South Africa).\nd) VHF communication within Maitri complex such as between\nworkshop, summer huts, generator room, pump house round the\nclock.\ne) HF Contact with DEAL, Dehradun.\nf) Record keeping for various activities such  as telephone, fax,\nweather fax.\ng) Operation and maintenanc e of a xerox machine.\n268 Raj Pal Singh and M. Yunus \n2. Installations:\n(a) Installed YA 30 wide band HF dipole antenna (two Nos) in the\nmonth' of March 2000 for communication with Novolazarevskaya\n(Russian Station) daily at 2.525, 4.030 and 6.100 MHz USB.\nAlso made contact with BLUE 1 Polar Logistics team (UK) in\nthe month of December 2000.\n(b) Installed two VHF(GM 300) 25w sets and four VHF (GP 340)\n4w sets with battery charger (GP 680) in vehicles, in the month\nof March 2000 for communication with Maitri and for intra-\nconvoy communication.\n(c) Installed Repeater at Veteheia hill in the month of September\n2000 for communication with convoys.\n(d) Installed a ground plane antenna at Veteheia hill for the repeater.\nThe old antenna was damaged in a blizzard in the month of\nNovember 2000. Now it  is working satisfactorily.\n(e) Installation of Trumped W insock (dialing software) fo r e-mail,\nonce in every 30 days, from March to May 2000.\n(f) Installed solar panel with battery charger at \"Sankalp Point\" for\nthe automatic weather  station of Snow & Avalanche Study\nEstablishment (SASE).\n3. Maintenance:\n(a) Log periodic antenna, which is used for HF communication and\nreceiving weather faxes, was handed over to us with the problem\nof high VSWE (the VSWR of LPA was 4.5:1 where as the\nspecific value is 2:1). We have repaired it in the month of April\n2000. This log periodic antenna was damaged due to a blizzard\nin the month  of November 2000. It was  immediately repaired\nwith the help of a crane. Now it is working satisfactorily.\n(b) The INMARSAT 'A'- terminal  started malfunctioning and\nbecame nonfunctional from 12\nth\n May 2000. As this was the\nonly terminal available for telephone, fax and e-mail\ncommunications for the expedition, the morale of  the entire team\ncould have been affected, had this condition lasted for a long\nperiod. We started working on it immediately. According to\nthe LED indications on  the R/T (Receive Transmit) board,\nchanged the 5 MHz crystal oscillator. Then the LED indication\nwere correct and the SELF TEST was  showing the fault in TDM\nreceiver. We changed processor board and also R/T board one\nby one but could not get any result. The third step was that the\nsignal was not coming from RF processor unit but since this unit\nA Summary of the Communication Tasks....  269\nis housed within an enclosed SATCOM Dome, there was no\naccess to it. We discussed this problem with the Station\nCommander and he gave the instructions to the Station Engineer\nto cut through the roof of the station, to make an access passage\nto the hatch of the dome. Finally, we changed the RF processor\nboard and got the results as the terminal started getting\nSATLOCK. This means that:\ni. The antenna power supply was outputting the required\nvoltage.\nii. The receiver down conversion path in the RF processor\nwas working.\niii. The diplexer and feed horn were working.\niv. The TDM receiver was working.\nv. The 5 MHz oscillator was working.\nWe initiated the phone call but could not succeed. Then we\nchanged the HPA (high power amplifier) and got success in\nrestoring the communication. Thus, the terminal was repaired\nsuccessfully. Now it is fully functional and working satisfactorily.\n(c) Rectified the problem of the mobile SATCOM terminal\n(INMARSAT M). Reactivation of this terminal every month\n(within 30 days) is absolutely necessary, Because if a terminal is\nnot used or switched off for more than 30 days, the stored Bulletin\nBoard information is no longer valid and the data is automatically\nerased from the memory. If this condition exists, a call release\ncode 1777 will be displayed on the LCD display. Then it becomes\nnecessary to re-acquire the Bulletin and update Satellite and Land\nEarth Station data. This task was successfully completed in July\n2000. After that, a new site has been located, tested and marked\nwithi",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "7]Engineering And Sciences",
+    "subcategory": "A Summary of the Communication Tasks Carried Out During the Wintering of the 19th Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:40.531119Z"
+  }
+}

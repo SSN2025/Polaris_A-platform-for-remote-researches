@@ -1,0 +1,72 @@
+{
+  "id": "article_18",
+  "document_id": "NCPOR-30A8F1",
+  "source_file": "ARTICLE+18.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/426/3/ARTICLE+18.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+18",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "14] Scientific Report Of Fourteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fourteenth Indian Expedition to Antarctica,Scientiflc Report, 1998 \nDepartment of Ocean Development, Technical Publication No. 12, pp. 221-243 \nStudies on Phylum  Tardigrada  and  Other Associated\nFauna,  South  Polar  Skua  and  Bird  and  Mammal  Logging\nDuring  1994 -1995  Expedition\nK. VENKATARAMAN\nZoological Survey of India\nCalcutta - 700 053\nAbstract\nSchirmacher Oasis is situated on the Princess Astrid coas tin a distance of about 80-100\nkm from the open sea. The area is about 34 km\n2\n . The low lying bills in the oasis is interspersed\nby a few glacial lakes (70°44'33\"S to70°46'30\"Sand ll°22'40\"Eto ll°54'00\"E). The Zub\nlake (Priyadarshini lake) and other four different lakes with moss turf, situated around the\nIndian summer station Maitri were studied for their f aunal density, diversity and distribution\nas well as a few physicochemical parameters. Two species of tradigrades, two species of\nnematodes and one species of rotifer were recorded in the present study. Because of the\nisolated position of the areas, the animals are poor in species and individual as well.\nStudies on South polar skuas were conducted in and around Schirmacher Oasis. Their\nnesting sites, breeding success were studied and compared with observations over several\nyears. Out of six breeding pairs only one could succeed. One Adelie penguin and six skua\n(one chick and five adult) were ringed to study the population density and (he migratory\npattern, A total of 10 nests were sighted during the present study.\nLogging of sea birds and mammals were done during the to and fro voyage. A total of\n21 birds and five marrimals were sighted. A total of 400 Adelie penguin, 13 emperor penguin\nand 93 crabeater seals: were sighted at the pack ice zone and especially during the outward\njourny the number was more.\nIntroduction\nThe harsh combination of rapidly changing temperatures, strong drying\nwinds,  irregular water and nutrient supply, frequent snow falls and frosts and\ncontinental soil movement due to freezing and thawing, means that only a few\nplants and invertebrates can survive on the ice-free land (such as Schirmacher\nOasis) of Antarctica. These areas are capable of supporting life, mostly microin-\nvertebrates in the Soil and in moss-water or in the water bodies. They range\nfrom  Protozoa,'rotifers, tardigrades and  nematodes to  arthropods.\n222 K. Venkataraman \nSomme (1985) has pointed out that our knowledge on Antartic inverte-\nbrates is still fragmentary and more works on  their taxonomy, zoogeography,\npopulation and physiology are needed. So far, very little work has been\nconducted on  these aspects in the accessible areas. Especially in Schirmacher\nOasis Matondkar and Gomes (1983) were the first Indians to conduct biological\nstudies on  lakes. Ingole and Parulekar (1987) conducted studies on the micro-\nfauna of moss-water area and concluded that more study is necessary. A review\nof the biological studies from 1st to 6th Indian scientific expeditions to\nAntarctic waters (Dhargalkar, 1988) shows that the data collected so far during\nsummer do not show continuity and lacunae that exist are required to be filled\nin by taking up systematic and biological programmes. Hence, the present study\nwas undertaken on the Schirmacher Oasis.\nStudies on phylum Tardigrada and other associated fauna\nTardigrades ar e commonly called as 'water bears' s ince they are strictly\naquatic animals. They are minute in size (about 1 mm long) and have a \ncharacteristic external and internal structure. The body is flattened or  slightly\narched and carries ventrally four pairs of stubby leggs bearin g claws. This gives\nthe animal the appearence of miniature bear hence they are referred to as water\nbears. The body surface is covered with variously or namented plates which\nsometimes bear spines or hairs. Many species have eyes. The mouth is terminal\nor ventroterminal. Sexes are separate and  the females are oviparous. Develop-\nment is direct, the cuticle being moulted.\nTardigrades are not planktonic organisms but they are collected in aquatic\nmosses and algae,  on rooted aquatic weeds, or in mu d and debris of puddles,\nponds and lakes. Active tardigrades are found only in droplets and film of water\non terrestrial we t mosses, liverworts and certain angiosperms with a rosette\ngrowth form. They are capable of with standing very cold condition (-90°C) by\npassing into a state of very lo w metabolic activity. This phenomenon is  refered\nto as anabiosis (Cryptobiosis).\nA perusal of the literature shows that out of the fif teen species of\nTardigrada recorded from Antartica, seven species are available in high altitude\nHimalaya ( Ramazotti, 1972). So far very little work has been done on Tardi-\ngrada diversity in the  continental Antarctica ( Morikawa, 1951) as well as other\nmicrofauna (Dougherty and Harris, 1963; Sudzuki, 1964; Sudzuki and Shi-\nmoizumi, 1967). Hence, th e present study was undertaken to understand the\nbiodiversity of these microfauna present on th e moss-water ar",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 23
+  },
+  "taxonomy": {
+    "category": "4]Bio - Sciences",
+    "subcategory": "Studies on Phylum Tardigrada and Other Associated Fauna, South Polar Skua and Bird and Mammal Logging during 1994- 1995 Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:10.146475Z"
+  }
+}

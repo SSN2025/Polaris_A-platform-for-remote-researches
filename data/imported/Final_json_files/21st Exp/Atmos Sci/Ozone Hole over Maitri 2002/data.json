@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_19_2c_pp_103_110",
+  "document_id": "NCPOR-F12800",
+  "source_file": "Technical+Publication+No.+19%2C+pp+103-110.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/838/1/Technical+Publication+No.+19%2C+pp+103-110.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+19%2C+pp+103-110",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "21] Scientific Report Of Twenty First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty First Indian Expedition to Antarctica, Scientific Report, 2007 \nMinistry of Earth Sciences, Technical Publication No. 19, pp 103-110 \nStudy of Ozone Hole Over Maitri, \nAntarctica During 2002 \nSachin D. Ghude, S. L. Jain and B. C. Arya \nRadio and Atmospheric Sciences Division \nNational Physical Laboratory, New Delhi-110012 (India) \nAbstract \nTotal column ozone has been measured using Microtop Sunphotometer at Maitri \n(70° 45'S, 11° 44'E), Antarctica, during 21st Indian Antarctic Scientific Expedition (2002-\n2003). The Maitri observations were also compared with TOMs data as well as nearby \nRussian station data and were found to be in good agreement. The water vapor has also \nbeen measured on the way from Goa, India (15.24° N, 73.42° E) to Maitri, Antarctica \n(70.44° S, 11.45° E) on the ship Magdalena Oldendroff. The ozone hole during spring \nof 2002 over Maitri did something unusual reflecting the unusual behavior of the planetary \nwaves in the Southern Hemisphere, which confirmed the roll of capricious weather in \nthe opining and closing of ozone hole. The observation shows that the ozone hole in the \nyear 2002 was not as deep as that of the previous years. The minimum value of total \nozone of about 185 DU was observed in the last week of September during 2002 and \nexceptionally high values of about 420 DU were observed during the ozone hole period. \nThe observation also reveals the early recovery of ozone hole during 2002 as compared \nto 1997. \nKeywords: Ozone Hole, Polar Vortex, Planetary Waves. \nIntroduction \nOzone is one of the most important constituents in the atmosphere \nand in spite of its low concentration, a few ppmv, it plays an important \nrole not only in the chemistry of this region but also it affects dynamics \nand biological activity near the surface. The amount of ozone over any \nparticular place depends not only on photochemical balance, but also on \nthe stratospheric climate, the winds that transport the ozone1. The \nstratosphere itself is dependent on ozone for its existence. The energy \nabsorbed by ozone in the course of creation and destruction of its layer \nwarms the surrounding atmosphere creating temperature inversion. This \ninverted layer, which is the stratosphere, is very resistant to vertical \n104 Sachin D. Ghude, S.L. Jain and B.C. Arya \nmovements of air and acts as a cap on the turbulent weather processes in \nthe troposphere below. Ozone is also one of the most important \nconstituents in the troposphere and acts as a green house gas trapping the \nlong wave radiation in 9.6 |0,m band and thus affects the energy budget of \nthe earth - atmosphere system. Stratospheric ozone protects the Earth's \nsurface from harmful solar ultraviolet radiation (especially UV-B) and \nplays an important role in controlling the temperature structure of the \nstratosphere by absorbing both incoming solar ultraviolet radiation and \noutgoing \nThe reporting of catalytic depletion of ozone by C10x and NOx by \nJohnston2 (1971) in general and ozone hole over Antarctica in particular \nby Farman3 has generated an unprecedented surge of interest in the \nscientific community in monitoring of ozone. Very low temperature during \nwinter leads to the formation of polar stratospheric clouds (PSCs) 4. The \nheterogeneous chemical reactions take place on the surface of polar \nstratospheric clouds, which is responsible for the ozone hole phenomenon \nduring springtime over Antarctica4. After the the discovery of ozone hole \nand innovative research efforts, it become clear that at low temperature \n(<-80°C) in the lowest stratosphere, chemical reactions were taking place \nwhich needed the presence of liquid or ice particles either as ice or nitric \nacid trihydrate, or other mixture. They lead to the conversion of chlorine \ncompounds, which normally are present as HC1 and C10N02 in the \nstratosphere. Normally these gases do not react with ozone. However, in \nthe presence of ice particles, HC1 and Chlorine Nitrate are converted into \nCl2 and HN03, and if UV-Solar radiation is available then C12 is converted \ninto CI atoms, which then react with ozone to form CIO. Thereafter, a new \nchemical scheme, involving C1202 as intermediate, comes into action, \nwhich destroys ozone very efficiently.5\"9 However, planetary waves work \nagainst CFC-induced ozone destruction. These vast pressure waves \ninfluence ozone destruction in several ways and can have relevant impact \non the size and stability of the massive jet stream encircling Antarctica \ncalled the \"Antarctic vortex\"10-11. Ozone has been found to be strongly \naffected by the dynamical behavior of the polar vortex12. When the strength \nof planetary waves picks up, they exert a force on the vortex, which blow \nit apart. As the vortex breaks down, the surrounding warm, ozone-rich air \nmixes with the cold air over Antarctica, raising ozone concentration \nobserved in Antarctica during ozone hole period13. \nIn view of the above a hand held microprocessor based sun \nphotometer, i.",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Study of Ozone Hole over Maitri Antarctica during 2002",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:38.323653Z"
+  }
+}

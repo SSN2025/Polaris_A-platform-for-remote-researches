@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_18_2c_pp_53_63",
+  "document_id": "NCPOR-29AF32",
+  "source_file": "Technical+Publication+No.+18%2C+pp+53-63.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/809/1/Technical+Publication+No.+18%2C+pp+53-63.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+18%2C+pp+53-63",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twentieth Indian Expedition to Antarctica, Scientific Report, 2006 \nMinistry of Earth Sciences, Technical Publication No. 18, pp 53-63 \nVery Low Frequency Wave Observation at \nMaitri During the Summer Period of \n20th Indian Antarctic Expedition \nR.P. Patel, R.P. Singh and A.K. Gwal* \nAtmospheric Research Lab., Physics Department, Banaras Hindu University, \nVaranasi-221 005. E-mail:rppatel 123@rediffmail.com \n'Space Plasma Laboratory, Department of Physics, \nBarkatullah University, Bhopal-462 026 \nAbstract \nGround based observation of very low frequency (VLF) signals were carried out \nat Indian Antarctic Station Maitri (S Lat. 70° 46' E Long. 11° 44'). The extremely low \nfrequency and very low frequency ELF/VLF recording system was successfully installed \nduring the 20Ih Indian Scientific Expedition and data were collected from January 12, \n2001 to February 24, 2001. VLF emissions including hiss and rising type of discrete events \nhave been observed. Whistlers could not be detected in the partly analyzed data, although \na large number of atmospherics have been observed. To explain the VLF emissions, we \nhave considered Cerenkov radiation as the generation mechanism. \nKeywords: VLF Hiss emission, riser emission, generation mechanism of VLF Hiss, \nCerenkov radiation. \nIntroduction \nThe study of wave phenomena during quiet and disturbed periods \nof solar activity serves as useful diagnostic tool for detailed probing of \nmicrostructures and microphysical processes taking place in the Earth's \nionosphere and magnetosphere. The frequency spectrum from natural \nsources covers a wide variety of electromagnetic phenomena such as \nmicropulsations, gyromagnetic resonances, solar whistlers, different types \nof VLF emissions, terrestrial whistlers and sferics. A general survey of \nthe whistler research published so far indicates that the whistler \nobservations at low latitudes are very meager in comparison with middle \nand high latitudes. This is due to the extremely low occurrence rate of \nwhistlers at low latitudes. Whistlers in large number observed during \nperiods of high geomagnetic activity. The main contributions to the ground \n54 R.P Patel, R.P. Singh and A.K. Gwal \nobservations of whistlers at low latitudes have been made by Japanese \nand Indian Scientists. The whistler research in India was initiated by Prof. \nTantry at Banaras Hindu University, Varanasi when Somayajulu et al. \n(1965) reported for the first time whistlers recorded at Gulmarg, J & K \nState, India (N lat. 24° 10). Since then whistler observations have been \nextended to still lower latitudes such as Nainital, Agra, Bhopal and \nVaranasi. The return strokes of lightning discharges radiate copious amount \nof energy spread over wide band of electromagnetic spectrum (102 Hz < \nf < 107 Hz). The radiated spectrum intensity peaks at some frequency in \nthe very low frequency (VLF) range and decrease either side as f\"n, where \nn >1, and varies with frequency ranges. Kawasaki et al. (1987) have \nobtained the Fourier spectra of positive lightning fields during winter \nthunderstorms, which show an f1 dependence from 100 kHz to 400 kHz, \nand f2 dependence between 400 kHz and 2 MHz. \nWhistler wave is an audio frequency electromagnetic signal, which \nwhen heard aurally resembles a gliding tone usually descending in \nfrequency (ascending tones are also observed sometimes) and lasting for \nabout a second. These are right hand polarized electromagnetic waves. The \nnatural whistlers find their origin in lightning discharges. The dispersion \nin the signal is produced during propagation of the wave from source to \nthe observation point. The fact that the return stroke of the lightning flash \nfrom which the whistler originates usually lasts for 10\"14 second only, \nshows that pulse radiated by the return stroke has to traverse very long \ndistances through a dispersive medium in order to transform itself in to a \ndispersed wave form. Short whistler propagates through the magnetosphere \nonly once, which is also called as one-hope whistler. The long whistler \nmay traverse the magnetosphere two times or more. If it travels two times \nthen it is called as two-hope whistler. A whistler is called an n-hope if it \ntraverses the magnetosphere n times. \nVLF emissions are also important because of their dynamic spectrum \nand sensitiveness toward the magneto-plasma present in the ionosphere \nand magnetosphere. These are a class of naturally occurring audio­\nfrequency, electromagnetic back-ground radiations which propagate in the \nwhistler mode and are readily detectable at middle and high latitudes by \nmeans of equipments which are almost similar to those used in whistler \nobservations. VLF emissions can be broadly divided in to six characteristic \ntypes (i) Hiss (ii) discrete emissions (iii) periodic emissions (iv) chorus \nemissions (v) quasi-periodic emissions and (vi) triggered emissions. In \norder to understand the mechanism by which the natural VLF emissions \nare generated, sev",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "2] Atmospheric Sciences",
+    "subcategory": "Very Low Frequencey Wave Observation at Maitri During the Summer Period of 20th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:28:57.218153Z"
+  }
+}

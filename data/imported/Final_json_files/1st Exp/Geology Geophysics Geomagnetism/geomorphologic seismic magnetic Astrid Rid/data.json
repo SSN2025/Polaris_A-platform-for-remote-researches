@@ -1,0 +1,72 @@
+{
+  "id": "article_19",
+  "document_id": "NCPOR-72B41B",
+  "source_file": "ARTICLE+19.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/190/3/ARTICLE+19.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+19",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "01] Scientific Report Of First Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "A Geomorphologic, Seismic and  Magnetic Study of\nthe Astrid Ridge , Dronning Maud Land, Antarctica\nH. N. Siddiquie 1, D. Gopala Rao 1 and M. V. Ramana 1\nABSTRACT\nAstrid ridge rising from a depth of about 4000 m to 1000 m is a prominent feature on the continental margin of Dronning Maud\nLand. The ridge was studied by a six E-W and one N-S tracks comprising 458 1km of echosounding, 405 Ikm of seismic profiling and\n452 Ikm of magnetics. The crest of the ridge in the area surveyed trends N-S in the south but veers to NNW-SSE afabout 68°S Lat.\nand is reported to change to NNE-SSW at about 67°S Lat. The crest of the ridge in the south is marked by a flat area at about 1500 m \nwhich deepens to 1700 to 1900 at about 68° Lat. The western flanks of the ridge in the south are gently sloping while the eastern flanks\nare marked by NNE-SSW trending scarps of about 80-280 m. The northern area is marked by a NW to NNW-SE to SSE trending\nvalley about 5-15 km wide and 240-380 m deep. The seismic profiles of the ridge show a top transparent or layered sediments (50 ms\nto 0.4 s) underlain by a prominent reflector (50 to 100 ms) and the acoustic basement between 0.4 to 0.6 s. The sediments dip away\nfrom thecrest.of the ridge to the flanks. The magnetic data indicate.that the basement in the.area occurs at a depth of 3.0 to 3.4 km.\nThe seismic profiles indicate that the NNE-SSW trending scarps on the eastern flanks represent faults which affect only the younger\nsediments and are not reflected in the magnetics and thus are not deeper structures. The major NNE-SSW trending fracture reported\nby earlier workers is not conspicous in the area and perhaps occurs further to the east. The NW-NNW to SE-SSE trending narrow\nvalleys are grabens where the basement and associated sediments have been faulted down. The grabens are marked by a series of\nmagnetic anomalies of about 100 to 400 nannoteslasuperimposed over the peak of a broad high amplitude anomaly which indicates\nan uplift of the magnetic basement and appears to be a deep crustal feature. The graben appears to be a major tectonic feature of the\narea and marks a change in the trend of the ridge at about 68°S Lat.\nINTRODUCTION\nThe Internationa] Indian Ocean Expedition in the early 1960s considerably enhanced the knowledge\nof the marine geology and geophysics of the Indian Ocean and to a large extent of the continental margins.\nThe expedition provided an impetus to marine geological and geophysical studies of the continental\nmargins of the countries bordering the Indian Ocean. However, because of the ice cover and hostile\nenvironment, the continental margins of Antarctica still remain poorly studied. The study of the marine\ngeology and geophysics of the Antarctic continental margins is of considerable value in the breaking, drift\nand reconstruction of the Indian, Antarctic and Australian plates.\nA large volume of the work on the geology and geophysics of the Antarctic continental margin was\ncarried out during the various oceanographic expeditions to the Antarctica as a part of International\nGeophysical Year. The results of these studies have been summarized in the Soviet Atlas of the\nAntarctica (Bakaiv, 1966). Bergh (1977) identified the Mesozoic anomalies Ml to M9, the Mesozpic\nseafloof and a major NNE-SSW trending fault scarp which is popolar to the fault scarp in the Mozambique\nbasin. Hinz (1978) carried out seismic profiling on the Astrid Ridge and observed a buried fault scarp on\nthe eastern margin and over 1 sec. thick sediments on the ridge. Johnson, Vanney, Elverhoi and La\nBrecque (1981) synthesized the available data on the morphology of the Weddell Sea and the South West\nIndian Ocean which included the continental margin of Dronning Maud Land and the Astrid Ridge. They\nconcluded that the eastern flanks of the Maud bank, Astrid Ridge and the Gunners Ridge represent a \nfracture zone; Most of the workers place the Maud bank adjacenet to Agulhas plateau and Astrid Ridge to\nMozambique'Ridge (Bergh, 1977; Norton andScalter, 1979; Veevers, Powels and Johnson, 1980; Goslin,\nSegoufin, Schlich and Fisher 1980; Johnson, Vanney, Elverhoi, and La Breque 1981).\nThe First India n Expedition to the Antarctica carried out an extensive marine geological and\ngeophysical survey'of the Antarctic continental margin comprising echosounding-(3509 km), magnetics\n(2900 km) and seismics (450 km) and 7 seabed samples. The areas covered by the expedition included the\n166\nFig. 1. Map showing the positions of the lines surveyed on the Astrid Ridge, Dronning Maud Land,\nAntarctica.\n167\nH.N. Siddiquie, D. Gopal Rao and M. V. Ramana\nGunners Ridge, approaches to Rui Boudin station, Astrid Ridge and the approaches to the Indian\nStation,  Dakshin Gangotri.  Since the processing of the large volume of data would take some time, the\nprocessing of the data for some areas of scientific interest was assigned a priority and this included the\nAstrid Ridge. The surveys on the Astrid Ridge comprised (Fig. 1) echosounding ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 16
+  },
+  "taxonomy": {
+    "category": "5]Geology,Geophysics,Geomagnetism & Glaciology",
+    "subcategory": "A geomorphologic, seismic and magnetic study of the Astrid Ridge, Dronning Maud Land, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:12:41.427608Z"
+  }
+}

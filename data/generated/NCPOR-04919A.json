@@ -1,0 +1,81 @@
+{
+  "id": "report-on-the-work-done-in-it-infrastructure--ncpor-04919a",
+  "document_id": "NCPOR-04919A",
+  "source_file": "183-184.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1216/1/183-184.pdf",
+  "title": "Report on the work done in IT infrastructure at Maitri during 29th ISEA (2009-10)",
+  "year": 2010,
+  "expedition": "29th Indian Antarctic Expedition",
+  "category": "Logistics / Expedition Operations",
+  "subcategory": "Report on the work done in IT infrastructure at Maitri during 29th ISEA (2009-10)",
+  "bibliographic": {
+    "title": "Report on the work done in IT infrastructure at Maitri during 29th ISEA (2009-10)",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "29th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2010,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 29th Indian Antarctic Expedition examines key logistics / expedition operations phenomena in polar terrain around Maitri. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 2
+  },
+  "taxonomy": {
+    "category": "Logistics / Expedition Operations",
+    "subcategory": "Report on the work done in IT infrastructure at Maitri during 29th ISEA (2009-10)",
+    "tags": [
+      "logistics-expedition-operations",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Logistics / Expedition Operations discoveries from 29th Indian Antarctic Expedition: \"Report on the work done in IT infrastructure at Maitri during 29th ISEA (2009-10)\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Logistics / Expedition Operations based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:13:39.060710Z"
+  }
+}

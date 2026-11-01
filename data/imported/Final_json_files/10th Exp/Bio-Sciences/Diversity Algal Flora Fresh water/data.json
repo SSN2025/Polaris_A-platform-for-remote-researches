@@ -1,0 +1,72 @@
+{
+  "id": "article_14",
+  "document_id": "NCPOR-DAA435",
+  "source_file": "ARTICLE+14.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/390/3/ARTICLE+14.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+14",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "10] Scientific Report Of Tenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Tenth Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No, 8, pp. 219-229 \nDiversity of Algal Flora in Six Fresh Water Streams of\nSchirmacher Oasis, Antarctica\nK.D. PANDEY AND A.K. KASHYAP\nCentre of Advanced Study in Botany, Banaras Hindu University, Varanasi\nAbstract\nAlgae and cy anobacteria (blue-green algae) flora of six fresh water streams of Schirmacher Oasis\nwas investigated. Over 30 species of algae predominantly belonging to cyanobacteria were recorded.\nAmong the cyanobacteria contribution by N2-flxing species (both heterocystous and unicellular\naerobic diazotrophs) was more than 50% and their distribution was abundant in the middle region of\nthe stream. Composition of cyanobacteria and algae flora varied in different stream, and species\ndiversity was maximum in stream which supported the highest number of species. Based on the\ndiversity of the species, streams could be classified into two clusters.\nIntroduction\nIt is generally agreed that Antarctica provides a harsh environment for growth\nand survival of organisms. Nutrient pool is low in Antarctica, limiting the distribu-\ntion of microflora in terrestrial and aquatic ecosystem. Following pioneering\ninvestigations on algal flora of Victoria Land by West and West (1911) and Fritsch\n(1912) several investigations have been conducted to study the pattern of distribu-\ntion and taxonomic evaluation of aquatic algae (Hirano, 1979; Parker et al, 1972;\nKarasawa and Fukushima, 1979; Pridle and Belcher, 1982, Broady, 1989; Hawes,\n1988; Howard Williams et al,  1986). Although most studies document on the\nproductivity of fresh water lakes and/or their microflora (Goes et al, 1990; Verlen-\ncar et al., 1990;Heywood et al., 1980; Howard Williams et al, 1986) little is known\nabout fresh water streams. Most of the studies are limited to taxonomic evaluation\nonly.\nIn the present report the results on the distribution of algae and cyanobacteria\nflora of fresh water streams of Oasis have been described. Although Alesinskaja and\nBardin (1965) and Pankow et al (1987) have described the algal flora of this region,\nto the best of our knowledge no attempt has been made to examine the cyanobacteria\nand algae species diversity in fresh water streams of the Oasis.\nK.D. Pandey & A.K. Kashyap \n220\nFig. 1. Schumacher Oasis, Antarctica showing approximate position of different streams. \nStudy Site\nThe Schirmacher Oasis, oriented in east-west direction, lies between two types\nof large ice bodies (a) glacier in the south and (b) ice shelf at the north of the Oasis.\nDuring the polar summer the ice melts and water flows in the form of stream often\nadding water to the lakes. Depending on the origin, two types of streams could be\nobserved (i) glacier-melt water streams which are formed as a result of melting of\nglacier. In this case water accumulates at the edge of glacier often forming small\npool which eventually overflows forming a stream (Fig. 2) and (ii) the stream\nformed from the melt water received from the snow drift accumulated on the hill\ntops.\nThe upper reach of a stream passes through well defined channel in which stream\nruns steeply over stones and boulders. The middle portion, nearly one third of t h e\ntotal length, is flattened and steepness is comparatively less. Stream flows over\ngravel and fine material as well as stones and rate of flow is slow. The lower reach,\nwhich is shorter in length, consists of fast flowing flattened section near the meeting\npoint of the lake.\nExamination of algae and cyanobacteria was conducted in three glacier-melt\nwater streams; west of Navolazarveskaya (WN), south east of Maitri (SEM) and\nsouth of Trishul peak (ST), which vary approximately 500-1000 meter in length.\nThe snow drift/melt water streams, east of George Foster (EGF), east of Maitri\n(EM) and north of Sheoling peak (NS) were rather short in length (ca. 200- 400m).\nDiversity of Algal Flora... \n221\nFig. 2a. Schematic representation of vertical profile of a stream, originating from glacier and meet-\ning in lake. The number represents different sites: water coming from glacier (J), pond (2), upper \nstream (3), lower stream (4) and pond (5). \nFig. 2b. Diagrammatic representation of different habitats of algae and cyanobacteria growing in \nstream from where samples were removed. \n222 K.D. Pandey & A.K. Kashyap \nMethods\nAlgal and cyanobacterial samples were examined microscopically. Identification\nwas made by consulting pertinent literature (Bourrelley, 1966,1968, 1970; Geitler,\n1932; Desikachary, 1959). Relative frequency and density (RF, RD and RFD) of a \nspecies was determined as follows:\nRelative frequency(RF) = \nRelative density(RD) = \nNumber of samples in which species is present × lOO\nTotal number of samples\nNumber of individuals of a species in microscopic field\nTotal number of individuals in micr oscopic field × lOO\nWhere microscopic field represents an area of 1.31 mm . \nThe average between relative frequency and de",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 11
+  },
+  "taxonomy": {
+    "category": "4]Bio-Sciences",
+    "subcategory": "Diversity of Algal Flora in Six Fresh water Streams of Schirmacher Oasis, Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:17:05.308194Z"
+  }
+}

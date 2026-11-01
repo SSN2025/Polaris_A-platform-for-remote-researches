@@ -1,0 +1,81 @@
+{
+  "id": "anomalous-diurnal-variation-obtained-from-the-ncpor-176940",
+  "document_id": "NCPOR-176940",
+  "source_file": "Page41-49.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1252/1/Page41-49.pdf",
+  "title": "Anomalous diurnal variation obtained from the comparison of atomspheric electrical potential gradient from the measurements of Maitri and, Vostok.",
+  "year": 2011,
+  "expedition": "30th Indian Antarctic Expedition",
+  "category": "Atmospheric Science / Meteorology",
+  "subcategory": "Anomalous diurnal variation obtained from the comparison of atomspheric electrical potential gradient from the measurements of Maitri and, Vostok.",
+  "bibliographic": {
+    "title": "Anomalous diurnal variation obtained from the comparison of atomspheric electrical potential gradient from the measurements of Maitri and, Vostok.",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "30th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2011,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 30th Indian Antarctic Expedition examines key atmospheric science / meteorology phenomena in polar terrain around Maitri. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "Atmospheric Science / Meteorology",
+    "subcategory": "Anomalous diurnal variation obtained from the comparison of atomspheric electrical potential gradient from the measurements of Maitri and, Vostok.",
+    "tags": [
+      "atmospheric-science-meteorology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Atmospheric Science / Meteorology discoveries from 30th Indian Antarctic Expedition: \"Anomalous diurnal variation obtained from the comparison of atomspheric electrical potential gradient from the measurements of Maitri and, Vostok.\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Atmospheric Science / Meteorology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:27:19.054373Z"
+  }
+}

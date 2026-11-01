@@ -1,0 +1,72 @@
+{
+  "id": "article_16_2",
+  "document_id": "NCPOR-C4B916",
+  "source_file": "ARTICLE+16_2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/557/3/ARTICLE+16_2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+16_2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "18] Scientific Report Of Eighteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "337\nEighteenth Indian Expedition to Antarctica, Scientific Report, 2002 \nDepartment of Ocean Development. Technical Publication No. 16, pp 337 to 353 \nScientific & Engineering Activities of R&DE (Engrs), Pune\nat Maitri, Antarctica, XVIII ISAE (16\" WOT)\nVS Shinde, RK Pandkar, G Velayutham & N D Angal\nABSTRACT\nResearch and Development Establishment (Engrs) Pune, one of the premier lab\nunder DRDO, has been actively participating in Indian Antarctic Program since 1983.\nThe lab has shouldered the expeditions, both on scientific and logistic fronts from time to\ntime, thus enabling, achieving the goals and targets set by Expedition Leaders and\nDepartment of Ocean Development.\nExperiments on Pollution free Polymer Electrolyte Membrane Fuel Cells were\ncontinued in order to explore the possibility of developing environmental friendly source\nof power for futuristic use. Health Monitoring of Generating sets was continued being,\nlifeline for the Maitrians. The prestigious \"Spectrophotometer\" one of the costliest\nequipment of IMD was housed in a special shelter developed by R&DE. Health\nMonitoring of Maitri Foundation and 28 m Mast was carried out. New, plate type,\nthermostat controlled Radiators were provided in the rooms which enhanced the comfort\nlevels. New bathing modules were installed and commissioned.\nINTRODUCTION\nResearch & Development Establishment (Engineers). Pune, is one of the\nPremier Laboratory under Defence Research & Development Organisation (DRDO)\ninvolved in Indian Antarctic Programme since 1983. During the period ofXVIII ISAE,\nExperiments on PEMFC Fuel Cell, which were commenced in 199.7, were further\ncontinued. Condition Monitoring of the Generating Sets using Compass Software and\nHealth Monitoring of 28 m Mast using Strain Gauges were also continued. Further\na new study on Health Monitoring of Maitri Foundation was taken up by XVIII ISAE. In\naddition to the Scientific Activities, the tasks of Erection of Spectrophotometer Shelter\nfor IMD & New Bathing Modules in Maitri were successfully completed. The team has\nrendered its best help in the activities related to the Maintenance of the Station and other\nactivities for the benefit & success of the expedition.\nThe following Scientific Programmes and Engineering/ Technical tasks were taken\nup and successfully completed.\n338\nV S Shinde et al. \n1. Experiments on PEMFC Fuel Cell\n2.\n Condition monitoring of Generating Sets\n3. Health monitoring of Maitri Foundation\n4. Health monitoring of28m Mast\n5. Erection & Commissioning of Spectrophotometer\nShelter for IMD\n6. Erection & Commissioning of New Bathing Modules in\nMaitri (Type'A')\n7. Installation of New Radiators\n1. EXPERIMENTS ON POLYMER ELECTROLYTE\nMEMBRANE FUEL CELL\nAIM\nTo study the Polymer Electrolyte Membrane Fuel Cell (PEMFC) in the\nCold Region & its application as futuristic Power Supply source.\nINTRODUCTION\nFuel cells are electro-chemical devices that produce electricity by reacting\nhydrogen and oxygen together electro-chemically rather than combustion. The\nexhaust from this process is water and there are no noxious pollutants such as\ncarbon monoxide and oxides of nitrogen. Fuel cell power source thus could play a \nsignificant role in preserving the pristine nature of Antarctica. With this objective in\nmind R&DE  (Engrs) has developed Proton Exchange / Polymer Electrolyte\nMembrane Fuel Cell (PEMFC) stacks of 500 watts, 12 volts in association with\nSPIC Science Foundation, Chennai, for scientific studies and experimentation in\ncold climatic conditions of Antarctica.\nPEMFC  h a s  been chosen in preference to Phosphoric Acid Fuel Cell\n(PAFC) because there is a possibility of crystallizing phosphoric acid below -5 deg.\nC which will effect the electrode structure and destroy the performance. Moreover\ntoday PEMFC  is  t h e  most promising technology to compete with diesel power\ngenerators because of its high power density.\nPEMFC  fuel cell stack developed contains 18 cells with two humidifiers\nfor humidification of oxygen and hydrogen. The temperature of the stack is\nmaintained by circulation of water through it. A temperature indicator is provided to\nindicate fuel cell stack temperature. It has also been provided with voltmeter and\nammeter for monitoring voltage and current.\nScientific & engineering Activities of R&DE (Engrs). \n339\nFuel Celt power source has successfully undergone experiments at Antarctica\nduring XVII Expedition for lighting a bank of incandescent lamps and charging of 12 V \nlead acid batteries which get discharged rapidly at low temperatures. Moreover study\nhas been conducted for behavior and performance of dc-dc converter at low\ntemperature and over a range of loads and efficiency of charging lead storage batteries.\nScientific experiments were conducted during XV1I1 Indian\nAntarctic Scientific Expedition, covering safe storage of hydrogen fuel, internally\nhumidified electrolyte membrane, optimization of humidification temperature of\nhydrogen and oxygen and air cooling system and experim",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 17
+  },
+  "taxonomy": {
+    "category": "6]Engineering & Communication",
+    "subcategory": "Report on Scientific & Engineering activities of R & DE (Engrs),Pune at Maitri, Antarctica-XVIII ISEA (16th WOT)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:27:53.553411Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "article_14",
+  "document_id": "NCPOR-F7E870",
+  "source_file": "ARTICLE+14.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/458/3/ARTICLE+14.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+14",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999\nDepartment of Ocean Development, Technical Publication No. 13, pp 183-185 \nA NOTE ON BIRD SURVEYS AT VARIOUS\nNESTING SITES\n! Yash Veer Bhatnagar\ni\nWildlife Institute of India\nMonitoring selected sites and Rookery survey \nAn emperor penguin rookery/moulting site and seal resting site was sur-\nveyed to collect data on the age structure and breeding success. One visit was\nmade to an emperor penguin rookery/moulting aggregation in the Russian bay\non 23.1.96 (70° 02' S & 11° 35' E). Over 500 Emperors were present in 4 \ndifferent groups near two stranded icebergs. In the two groups closely surveyed,\n293 individuals were present, of which, 234 adults and 59 juveniles and chicks\ni.e. 25 young to every 100 adults of both sexes were present. Twenty four Adelie\npenguins and 12 Weddell seals were also present near a crack in the fast ice.\nThe site was in an area where the fast ice broke up late, around 26.1.96 and\nafforded protection against wind because of the stranded ice bergs. This may\nbe the reason for the selection of the site by the moulting emperor penguins.\nNo Adelie  penguins used the Lazarev Russian dump rookery (69°56' S & 11°\n57\" E) whereas in 1995 ca 9 pairs were using it (Sathyakumar, 1995).\nBird survey in Orvin mountains \nThe Geological Survey of India team identified some nesting sites of the\nSnow petrels in the Orvin mountains, more than 180 km from the sea and ca.\n90 km south-west of  Maitri. Two such sites were surveyed. A total of two and\nsix snow petrels, and one skua each, in both areas, were observed. From the site\nnear the GSI camp, mummified remains of one adult and two  snow  petrel\nhatchlings were collected by members of the GSI team.\nBird survey in Schirmacher Oasis \nSchirmacher area (ca. 17 km x 2 km) was surveyed for birds. During the\nseven days spent at  Maitri and surrounding areas, south polar skua was seen\nmost often. An aggregation of 13 adult skuas was observed on two occasions\nat the Maitri station. A large group of ca. 80 snow petrels was seen once, south\n184 Yash Veer Bhatnagar\nof Maitri and the Wilson's storm petrel was seen twice in the crags north of\nMaitri. Three mummified remains and over 20 skulls and bones of snow petrel\nwere spotted within an approx. area of 4 km . Two mummified skulls of skua\nwere also found from the same area. The mummified remains from these areas\nsuggest death probably due to bad weather but the many bones spotted may be\nthe remains of birds preyed upon by the skua.\nSecondary data on the Adelie penguin 'straying' into Schirmacher Oasis\nwas also collected by interviewing some members of the 14th expedition's\nwintering team. Adelie penguins were seen on 18.10.95 (3 individuals),\n25.10.95 (1), 27.10.95 (1) and 2.1.96 (11), totalling to 16 within two km of\nMaitri. Courtship, pair bond and aggregation were observed on all occasions.\nIt has been widely accepted by most members of the Indian Expeditions that\nthese occurrences of penguins so far off inland are 'strayings,' possibly due to\ntheir losing direction in bad weather. There is however, a strong possibility that\nthese are actually breeding pairs, out to prospect for nesting areas. Adelie\npenguins are known to regularly travel 30 to 300 km to their nesting areas,\nwhich are usually on land as they require pebbles for making their nests\n(Watson, 1975). Schirmacher oasis can fit this criterion. However, the breeding\nsuccess of the individuals may not be high due to the distance of travel involved\nafter hatching in December and the probably increasing skua numbers (see\nbelow) resulting in increased predation on nests. Skuas are important predators\nof Adelie penguin eggs and chicks and cause considerable harassment to the\nparents at an isolated nest (Young, 1994). Snow petrels were found nesting ca.\n180 km inland, in the Orvin mountains, but none were observed or reported to\nbe nesting in the much closer, Schirmacher oasis (90 km) where similar nesting\nsites were available. This also may be a result of increasing skua numbers and\nsubsequent predation on the nests. Studies have also shown that Adelie penguin\nbreeding success can be severely reduced by human activities, especially so, in\nthe smaller colonies (Giese, 1996).\nApproximately four nesting pairs of skuas were recorded in ca. 4 km 2\naround Maitri (Mitra, B.) and a single days intensive total count in roughly the\nsame region yielded 14 skua adults and young. Earlier, during the 14th expedi-\ntion, a total of 12 skuas were estimated in and around Maitri (Sathyakumar,\n1995). This indicates a density of roughly 3 skua/km2, which does seem to be\na high density figure. It is hypothesised that the skua population at the Oasis is\nincreasing or may have increased since abundant food was made available from\nthe waste of the three stations (since 1996, two stations) for the adult and young\nskuas, whereas, before the stations came up the only food available for them\nwould have been nestlings and a",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 3
+  },
+  "taxonomy": {
+    "category": "3]Bio-Sciences",
+    "subcategory": "A Note on Bird Surveys at Various Nesting Sites",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:45.399022Z"
+  }
+}

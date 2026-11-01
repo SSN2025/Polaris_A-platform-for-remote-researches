@@ -1,0 +1,72 @@
+{
+  "id": "article_9_1",
+  "document_id": "NCPOR-6114C3",
+  "source_file": "ARTICLE+9_1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/210/3/ARTICLE+9_1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+9_1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian Expedition to Antarctica Scientific Report 1986 \nDepartment of Ocean Development Technical publication No 3 pp 1 29 132 \nPrimnoisis Spicata  (Hickson) (Order Gorgonacea Lmx\nFamily Isididae Lmx) From the Antarctic Sea\nABSTRACT\nPrimnoisis spicata (Hickson) collected from the Antarctic sea (69°54 S and 12°49 E) during\nthe Third Indian Antarctic Research Expedition is described and illustrated. This species was first\nrecorded from Mc Murdo Bay and is here reported from another locality which considerably widens\nits distribution in the Antarctic Ocean.\nINTRODUCTION\nDuring the Third Indian Antarctic Research Expedition (December 1983 to March 1984) the\nsecond author had the opportunity to collect a few specimens of gorgonids from the Antarctic Sea.\nThese specimens were accidently caught in a plankton net (Indian Ocean Standard Net) during a vertical\nhaul from a depth of 200 m on 1st January 1984 at 1900 hrs in the area 69°54 S and 12°49 E. It was\nlater ascertained from a bathymetric survey that the area where the plankton net was lowered was in a \nwell-like formation and the scraping by the rim of the net across the lateral wall of the well-like depres-\nsion while hauling has resulted in the accidental inclusion of a wide variety of sedentary organisms\ngrowing luxuriantly along its vertical surface. The material collected had a total weight of 6 1 kg (wet\nweight) and was composed mainly of bits of shells, sponge spicules etc harbouring a rich assem-\nblage of both epi and infauna. The various groups of animals represented were sorted out and it was\nfound from their numerical abundance that bryozoans enjoyed wide distribution along such vertical\nsurfaces. The other groups which shared this habitat to their advantage included sponges\ngorgonids, tubiculous polychaetes and echinoderms. One species of cephalopod was also included in\nthe collection.\nMATERIAL AND  METHODS\nMany bits of gorgonids were present in the sample but on examination all the bits were found\nto belong to the same species - Primnoisis spicata (Hickson). The cortical zone of the specimens was\nnot preserved in any of the bits examined but a careful study revealed the presence of a small bit with\na few polyps preserved intact. This bit was used in the extraction of spicules. Microscopic examina-\ntion revealed that the spicules were eroded to the maximum, obviously due to the effect of strong formalin\nused in the preservation.\nThe axial skeleton in the family Isididae to which this species belongs, is very peculiar in that it\ncontains both calcareous and horny regions (internode and node respectively) and hence the axial ske-\nleton is liable to break off easily at the horny nodes when even minimum pressure is exerted. Coupled\n129\nP A Thomas 1 and K J Mathew 1\n1Central Marine Fisheries Research Institute Cochin\nwith this inherent character of the family stron g formalin might have accelerated the process of erosion\nboth at the nodal and internodal regions. However the structure of the axial skeleton of two larger bits\nmeasuring 30 mm and 25 mm in height is illustrated in the text of this paper as it indicated the general\npattern of branching so characteristic and is essential in identifying the various species of the genus\nPrimnoisis Studer.\nGeneric characters \nColonies often divide in a bottle brush like pattern axis devoid of spicules and divisible into cal-\ncareous internodes and horny nodes internodes shorter in the older part of the specimen branches\noriginate from internodes and have both nodes and internodes as in the main axis. Polyps cylindrical\nor club shaped and arranged vertically on all sides or at an  angle to the axis. Polyps with plate like\nspicules in eight longitudinal rows alternating with slender spicules tentacles with two to three trans-\nverse rows of small plates which converge to the tips. Cortex thin and armoured with closely packed\nplates crosses etc.\nType specimen lsis antarctica Studer\nPrimnoisis spicata  (Hickson)\n(Fig 1 a-h)\nPrimnoisis spicata Kukenthal 1919 p 613 (synonymy)\nKukenthal 1924 p 433 (synonymy)\nMaterial Several bits probably parts of one or two complete specimens Biggest of the lot has a \nheight of 30 mm\nDescription General morphology of the specimen could not be studied as no specimen was preserved\nintact and hence the present description is based on a few bits examined. Internodes are white in\ncolour and are striated longitudinally nodes dark brown and constricted often situated at an interval of\n6-18 mm diameter of internode of main branch about 1 mm while that in branches a little less. Bran-\nches arise from the internode just at or near its middle portion and are set roughly at right angle to the\nmain axis. Branches arise in all directions and seldom divide.\nPolyps cylindrical 1-2 mm long and placed at right angle to the axis scattered irregularly at a \ndistance of 1 2 mm and are armoured distally with three transverse rows of long spicules so characteristic\nto this species. These spicules have c",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 4
+  },
+  "taxonomy": {
+    "category": "3]Oceanography and Biology",
+    "subcategory": "Primnoisis Spicata (Hickson) (Order Gargonacea Lmx. Family Isididae Lmx.) from the Antarctic Sea",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:52.503635Z"
+  }
+}

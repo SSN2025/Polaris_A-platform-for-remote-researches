@@ -1,0 +1,72 @@
+{
+  "id": "chapter_7",
+  "document_id": "NCPOR-06D93A",
+  "source_file": "Chapter+7.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1085/1/Chapter+7.pdf",
+  "bibliographic": {
+    "title": "Chapter+7",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "27] Scientific Report of Twenty Seventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Scientific Activities of National Geophysical Research\nInstitute at Maitri Station during 27th Indian\nAntarctic Expedition\nM.Venkatrayudu, E.C.Malaimani, N.Ravikumar, A.Akilan and\nS.V.R.Ramachandra Rao\nNational Geophysical Research Institute, Hyderabad\nABSTRACT\nNational Geophysical Research Institute is carrying out two long- term ongoing\nscientific projects at Maitri, Indian Research Base Station in Antarctica. (1) Sophisticated\nSeismological Observatory and (2). Permanent GPS Tracking Station. These research\nactivities at Antarctica were successfully carried out during 27th Indian Antarctic\nExpedition. The GPS station continues to contribute to Scientific Committee on Antarctic\nResearch (SCAR) and International Earth Rotation Service (IERS), the seismological\nobservatory continues to contribute to NEIC (USGS) and ISC (UK) and plays a pivotal\nrole in the Global Seismographic Network. Global positioning system (GPS) measurements\nat Maitri, Indian Antarctic station have been carried out from 1997 till date. The International\nGPS Service for Geodynamics (IGS) stations, in different plates, such as Casey, Davis,\nKerguelen, Seychelles, Coco, Hartebeesthoek, Yaragadee, and Tidbinbilla have been chosen\nin the global network. The GPS data from 1997 to 2010 from all these IGS stations in and\naround Antarctica, along with Maitri, were used to estimate the time series, baseline lengths\nand velocity vectors of individual sites. The results have enabled to obtain a deeper insight\ninto the driving mechanism and the causative factors for Indian plate kinematics. During\nthe 27th expedition continuous seismic data has been recorded and the same has been\narchived and stored in DVDs for further processing and analysis. Using SEISAN software,\nthe final analysis work of this data has been completed and reported to International\nSeismological Centre, United Kingdom as per their time schedule.\nKeywords: Antarctica, Maitri, Seismic Observatory , GPS Tracking.\n1.0  INTRODUCTION\nThe India–Eurasia collision zone has been the focus of intense studies\nby the Space Geodetic community for Indian Plate Motion. So far space\ngeodetic studies by GPS have been made in southern and central India that\nbears on the rigidity of the Indian plate, whose velocity data for 2 sites fit\nthe rigid plate model within uncertainties, estimated at about 3.7 cm/yr. for\nHyderabad and 3.9 cm/yr. for Bangalore, respectively. Since Space geodesy\nTwenty Seventh Indian Antarctic Expedition 2007-2009\nMinistry of Earth Sciences. Technical Publication No. 25, pp 103-111\n104                                         M.V enkatrayudu, et al.\ncan test many otherwise untestable predictions and boundary conditions,\nGPS-Geodesy is extended to envelop the large Indian Ocean lithosphere\nand observations are extended to the Indian Ocean and Antarctica. Despite\nthe extensive studies to date, major issues remain unresolved. Motions\nacross some of the plate boundaries seem well constrained, as implied by\ngood agreement between space geodetic and geologic models. In others,\napparent discrepancies exist. Very few studies have been conducted on the\nlarger oceanic part of the Indian plate using space geodesy. To holistically\ndetermine the kinematics of the Indian Ocean Basin between Antarctica\nand India, the data available are very sparse and characterization and the\ndelineation of the plate boundaries, especially in the Indian Ocean, are\npoor. This study addresses several of these issues mentioned as follows:\n(1) How rigid is the Indian Plate and Indian Ocean Basin?\n(2) Does relatively high level of intraplate seismicity on the oceanic\npart of the Indian Plate indicate internal deformation in excess\nof other plates? and,\n(3) Is this related to Indo-Eurasian collision and the uplift of\nHimalayas?\nTherefore, GPS geodesy is used to improve the understanding of the\ncomplex plate motions, diffuse and poorly located plate boundaries, and\nstriking intraplate deformation that characterize the Indian Ocean basin.\n1.1  Work carried out during the Expedition\nDuring this 27th expedition, the new  TOPCON  System was installed,\nthe existing Astech X-XII GPS Geodetic receiver also simultaneously\nrecording the data with the  sampling rate of one sample per 15 secs. Daily\nabout 5 Mb Topcon data and 4-5 Mb Ashtech data is collected. This is then\nconverted to Rinex format and transferred to CDs in 2 copies. The data\nwas processed using Bernese software at NGRI.\nA new Reftek Broad Band Digital Seismic System was installed. The\nstand by BB system the Geotech Broad Band Seismic Digitizer, Smart-\n24R and KS-2000M Seismometer is also simultaneously recording the data.\nUn-interrupted good quality seismic data acquisition is going on till now\nin this observatory.  The new Reftek Broad Band data is acquired\ncontinuously and the Geotech Broad Band data acquisition is also being\ncontinued in the 27th expedition. It is very useful to provide valuable control\non global Hypo-Central determinations, specifically the",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 9
+  },
+  "taxonomy": {
+    "category": "2] Earth Sciences",
+    "subcategory": "Scientific Activities of National Geophysical Research Institute at Maitri Station during 27th Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T06:12:24.670963Z"
+  }
+}

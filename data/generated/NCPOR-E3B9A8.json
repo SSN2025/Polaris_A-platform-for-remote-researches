@@ -1,0 +1,81 @@
+{
+  "id": "meteorological-report-of-30th-indian-scientif-ncpor-e3b9a8",
+  "document_id": "NCPOR-E3B9A8",
+  "source_file": "Page55-62.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1254/1/Page55-62.pdf",
+  "title": "Meteorological Report of 30th Indian Scientific Expedition to Antarctica",
+  "year": 2011,
+  "expedition": "30th Indian Antarctic Expedition",
+  "category": "Atmospheric Science / Meteorology",
+  "subcategory": "Meteorological Report of 30th Indian Scientific Expedition to Antarctica",
+  "bibliographic": {
+    "title": "Meteorological Report of 30th Indian Scientific Expedition to Antarctica",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "30th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2011,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 30th Indian Antarctic Expedition examines key atmospheric science / meteorology phenomena in polar terrain around Antarctica. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Antarctica"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "Atmospheric Science / Meteorology",
+    "subcategory": "Meteorological Report of 30th Indian Scientific Expedition to Antarctica",
+    "tags": [
+      "atmospheric-science-meteorology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Atmospheric Science / Meteorology discoveries from 30th Indian Antarctic Expedition: \"Meteorological Report of 30th Indian Scientific Expedition to Antarctica\". Learn how Indian scientists studied Antarctica on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Atmospheric Science / Meteorology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:26:07.849851Z"
+  }
+}

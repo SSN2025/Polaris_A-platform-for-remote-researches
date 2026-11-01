@@ -1,0 +1,72 @@
+{
+  "id": "rrchapter_25a",
+  "document_id": "NCPOR-040562",
+  "source_file": "RRChapter-25A.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/967/1/RRChapter-25A.pdf",
+  "bibliographic": {
+    "title": "RRChapter-25A",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "24] Scientific Report of Twenty Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "345Report on the Communication Tasks carried out During 24 th IAE\nTwenty Fourth Indian Antarctic Expedition 2003-2005\nMinistry of Earth Sciences, Technical Publication No. 22, pp 345-354\nReport on the Communication Tasks carried out\nDuring the 24th Indian Antarctic Expedition\n(2004 – 2006)\nBhagwati Prasad Semwal (VU3BPZ) and  Rajesh Dabral\nDefence Electronics Applications Laboratory (DEAL), Dehradun\nINTRODUCTION\nEffective communication is an essential and vital need for successfully\ncarrying out various day-to-day activities in modern life. It is very crucial\nduring any expedition, especially for a remote place like Antarctica,\nproviding link with motherland and rest of the world. Communication not\nonly keeps the morale of expedition members high in this hazardous and\ncoldest working conditions but is also instrumental in passing the  scientific\ndata to the parent organizations in time.\nDEAL, Dehradun, one of the DRDO laboratories, has been involved\nin the total communication support for the Indian Antarctica Expedition\nbesides carrying out some technical studies since 1995-96.\nHonorable Minister of Science & Technology Shri Kapil Sibal along\nwith seven member delegation visited Maitri in February 2005 (Fig.1).\nShri Sibal was appraised about the existing communication facilities\navailable at Maitri and the constraints. He appreciated the problems and\npromised up-gradation in high speed data link from Maitri to Mainland. It\nwas during this ministerial visit that Shri Sibal kindly approved and\nannounced the increase in permitted telephone time to 20 minutes from 12\nminutes for wintering team members.\nTasks Assigned to DEAL Team\nFollowing communication related tasks along with some additional\nwork were assigned to the 24\nth Indian Antarctic Expedition’s DEAL team.\nOne of the DEAL’s team members, Rajesh Dabral, also performed the duties\nof the official Post Master for the expedition as designated by the Leader\nof the expedition.\n346 Bhagwati Prasad Semwal (VU3BPZ) and  Rajesh Dabral\n(a) INMARSAT based Telex, fax and telephone (round the clock).\n(b) INMARSAT based emails service.\n(c) INMARSAT based mobile communication around Maitri, India and\nworld.\n(d) Video conferencing from Maitri to India with High Speed Data option\nof 56/64Kbps using ISDN through INMARSAT.\n(e) HF fixed and mobile services around Maitri and with India.\n(f) HF Weather fax reception.\n(g) Collection of data on HF propagation condition.\nFig.1 : Honorable Minister of Science & Technology, Shri Kapil Sibal in the\nRadio Room at Maitri along with the communication officers\nS/ Shri Bhagwati Prasad and Rajesh Dabral\n\n347Report on the Communication Tasks carried out During 24 th IAE\n(h) Experiments related to adaptive HF communication for improving\nthe present HF communication.\n(i) Ham radio contact in 20 M, 15 M and 40 Meter Band around the\nglobe to world familiarity from Maîtri Station, Maritime Mobile and\ncooperation through Amateur Radio.\n(j) Installation of G P antenna in vehicles and field stations.\n(k) Installation of HF Log periodic wide band 14-30 MHz array antenna\nWork Done by DEAL Team During 24\nth IAE\n1. Provided HF and VHF Communication to field parties, ship, convoys\nand helicopters.\n2. Regular VHF / HF communication with Russian, German, South\nAfrican stations along with all nearby field camps / stations of other\ncountries.\n3. Maintained the Logs of telephone / fax / email / Telex / HAM radio\ncontacts.\n4. Round the clock operation of satellite based (INAMRSAT A, B, C,\nM, Mini) Telex, Fax, Telephone and E-mail services (2 times in a\nday).\n5. Six Hourly synoptic data transmission to IMD Delhi using Telex\nthrough INMARSAT – A & C.\n6. Regularly received (4 times in a day) the HF data Weather Fax\nbroadcast from Pretoria, South Africa.\n7. Installed the Ground Plan / Whip antenna.\n8. Installation of HF Log periodic wide band 14-30 MHz array antenna.\n9. Conducted experiments related to adaptive HF communication for\nimproving the present HF communication (an important Regular /\nStand by system) and to provide HF data service.\n10. Assisted concerned expedition members to acquire scientific data and\nrelated information from other Antarctic stations.\n11. Routine Station duties besides active participation in environmental\ncleaning.\n348 Bhagwati Prasad Semwal (VU3BPZ) and  Rajesh Dabral\nThe Communication Systems\nThe communication systems at Indian Antarctic Base, MAITRI (70º\n045’99\" S - 011º 043' 89\" E) can be broadly classified into following two categories:\n(a)  Long Distance Communication Systems\nIt is supported by the following means:\ni. INMARSAT – A\nii. INMARSAT – B\niii. INMARSAT – C\niv. INMARSAT – M, Mini M\nv. HF Communication System\n(b) Short Distance Communication Systems\nThe short distance communication support is by VHF /HF / Mobile\nradio Communication.\nThe long distance communication systems include following satellite\ncommunication systems.\nINMARSAT System\nThe Indian Antarctic Base, MAITRI (70º 045’99\" South & 011º 043'\n89\" East) is clos",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 10
+  },
+  "taxonomy": {
+    "category": "5] Human Physiology and Medicine",
+    "subcategory": "Report on the Communication Tasks Carried Out During the 24th Indian Antarctic Expedition (2004 - 2006)",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:54:59.723004Z"
+  }
+}

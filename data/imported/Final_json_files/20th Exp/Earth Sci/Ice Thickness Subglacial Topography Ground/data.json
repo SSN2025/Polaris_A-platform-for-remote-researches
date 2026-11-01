@@ -1,0 +1,72 @@
+{
+  "id": "technical_publication_no_18_2c_pp_183_189",
+  "document_id": "NCPOR-BE7FBC",
+  "source_file": "Technical+Publication+No.+18%2C+pp+183-189.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/819/1/Technical+Publication+No.+18%2C+pp+183-189.pdf",
+  "bibliographic": {
+    "title": "Technical+Publication+No.+18%2C+pp+183-189",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "20] Scientific Report Of Twentieth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twentieth Indian Expedition to Antarctica, Scientific Report, 2006 \nMinistry of Earth Sciences, Technical Publication No. 18, pp 183-189 \nIce Thickness and Subglacial Topography \nStudies by Ground Penetrating Radar during \nthe XX Indian Antarctic Expedition \nJ.T. Gergan, Renoj J. Thayyen and D.P. Dobhal \nWadia Institute of Himalayan Geology, Dehradun, Uttaranchal, India \nemail :gerganjtl @rediffmail.com \nAbstract \nGround Penetrating Radar (GPR) has proved to be a versatile tool for mapping of \nglacial ice thickness and related studies over the years. During the XX Indian Antarctic \nExpedition pulse EKKO IV GPR operating at center frequency of 12.5 MHz was used to \nmeasure the ice thickness of polar ice sheet to the south of Schirmarcher Oasis, Queen \nMaund Land in Eastern Antarctica. The GPR profiling of 8.3 km was carried out between \nVetehiea and Tallaksenvardan nunataks. The general bedrock topography is gently \nundulating, 1520 m wide depression in the bed rock is marked by a sudden break in slope \nat 4700m and 6220 m due south of Vetehiea, where the thickness of ice is more than \n440m, indicating a deep graben structure in the bed rock. The extension of southern edge \nof this graben was traced 700m due NW from Tallaksenvardan and two kilometer due \nwest of Vetehiea Tallaksenvardan GPR survey line, with this it is established that the \nalignment of graben is due NE-SW. This alignment is parallel to number of fault \nescarpment and shear zones in Schimarchar Oasis. GPR survey also conducted to estimate \nthe thickness of the shelf ice and snow over the buried Dakshin Gangotri Station. The \nthickness of snow over the Dakshin Gangotri Station is 15 to 20 meters and thickness of \nice in the vicinity of station is 145 to 150 meters. \nKeywords: Antarctica, Ground Penetrating Radar, Ice thickness, Bedrock \nTopography, Graben. \nIntroduction \nGlaciers and Ice sheets play an important role in understanding of \npast and present change in climate as they respond and preserve natural \nand anthropogenic environmental events. National Center for Antarctic and \nOcean Research (NCAOR) in an effort to strengthen their systematic \nstudies of polar environment, invited Wadia Institute of Himalayan \nGeology to conduct Ground Penetrating Radar (GPR) studies of polar ice \nto identify a suitable zone close to the Indian Antarctica Research Station, \nMaitri for detailed further studies. GPR has emerged as a convenient and \n184 J.T. Gergan, Reno) J. Thayyen and D.P. Dobhal \nquick geophysical technique for the study of glacier ice, especially for the \npreparation of glacier ice thickness maps. The first measurements of polar \nice thickness by radar reflections were carried out buy Jiracek and Bentley \nin January 1965 at South Pole Station (Jiracek 1967, Drewry 1971). They \ninvestigated the subglacial topography between the Southern Trans-\nAntarctic Mountains and South Pole. There are three groups of sub glacial \ntopography, one comprising lowland areas, and the other two of highland \nregions. One of these highland regions are with relatively smooth and \nregular topographic surface but dissected by deep valleys, and the other \nshowing a very rugged mountainous terrain (Drewry 1975). In a recent \neffort, all the available ice thickness measurements on Antarctica were \ncompiled into a single database and housed at the British Antarctica Survey \nCambridge UK (Matthew et al., 2001). This database includes over \n1,400,000 km of airborne radar sounding profiles and around 250,000 km \nof ground based radar and seismic traverse. During this expedition GPR \nprofiling was also carried out to estimate the thickness of shelf ice and \nsnow over the buried first Indian Antarctic station, the Dakshin Gangotri. \nGPR profiling of polar ice was carried out between two Nunataks \nfor a distance of 8.3 km. starting from south of Vetehiea (70. 47.85 S, \n11.32.45 E) and ending at north of Tallaksenvardan (70.51.58 S, 11.32.45 \nE). This area is to the south of Schirmarcher Oasis, Queen Maund Land \nin East Antarctica (Fig. 1). Airborne radio echo sounding (RES) of \nFig.l: Location map of GPR survey profiles and the position of subglacial graben \nIce Thickness and Subglacial Topography Studies .... 185 \nDronning Maund Land region was carried out by the Belgian Antarctica \nExpedition during 1968-69 (long.0.57' 58\"to 3.28' 52\" East and \nlat.70.30'8\" and 71.26'58\" South, Van and Decleir 1975). Authors have \nnot been able to access any published account of ground based radar \ntraverses or airborne RES of the area under study, our accessibility to many \nof other published works are limited due to language problem. Survey \nline extending from Vetehiea to Tallaksenvardan, along which GPR survey \nwas carried out almost coincides with a polar ice divide, demarcating two \ndistinct ice flow directions, one flowing due NW and other due NE. One \nof the major objectives of this study was to map the subglacial topography \nbeneath the polar ice, and decipher the tectonic se",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 7
+  },
+  "taxonomy": {
+    "category": "3] Earth Sciences",
+    "subcategory": "Ice Thickness and Subglacial Topography Studies by Ground Penetrating Radar During the XX Indian Antarctic Expedition",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:29:04.866150Z"
+  }
+}

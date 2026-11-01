@@ -1,0 +1,72 @@
+{
+  "id": "article_3",
+  "document_id": "NCPOR-8BAC5B",
+  "source_file": "ARTICLE+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/233/3/ARTICLE+3.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "04] Scientific Report Of Fourth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Magnetic Survey Over the Ice-shelf Around the Indian\nPermanent Station in Antarctica\nS.K. Verma, G.S. Mital, H.V. Rambabu, M. Venkatarayadu\nand K.N. Srinathareddy\nNational Geophysical Research Institute, Hyderabad \nABSTRACT\nThe results presented here relate to the magnetic investigations carried out around the\nIndian permanent station on the ice-shelf during the Fourth Indian Antarctic Expedition. Magnetic\nmeasurements were made along a 33 km long N-S traverse starting right from the northern edge of shelf\nto the region where deep water channels were encountered. The observed profile was interpreted using a \nnumber of geophysical methods. Utilizing the magnetic data obtained in earlier surveys it has been pos-\nsible to delineate sub-shelf trends in the graben or rift-zone like structure of the basement. This structu-\nral pattern is supported by the marine seismic and magnetic work carried out in Lazarev sea during the\nfirst Indian expedition and by the geological studies hypothesizing the existence of extensive grabens.\nINTRODUCTION\nAntarctica provides a unique setting to earth scientists to carry out a number of exciting scien-\ntific experiments. As more than 98%  of the continent is under a cover of ice/snow, geophysics\nassumes great significance by providing the most effective means to study various interesting aspects\nof Antarctica. One of the most popular tools employed by geophysicists in the subglacial geology has\nbeen the magnetic method. Some significant studies in this regard are due to B ehrendt and Wold\n(1963), Hill (1979), Wellman (1982) and Bentley ( 1983).\nThe magnetic study under the  Indian Antarctic research programme was initiated during the\nsecond expedition and the  results of this survey, covering seven profiles and a total of 65 line km,\nover the iceshelf north of the Runway Hut (70°02'00\"S, 12°00'00\"E), are presented by Mittal and\nMishra (1985). They observed a consistent magnetic anomaly of the order of 180-200 nT approxima-\ntely 5-6 km south of the coast which they ascribed to a 3 km wide source lying at a depth of 2.5 km.\nThe source, magnetised with a feeble intensity of 80-100 nT, could either be a metamorphosed basic\nintrusion extending deep into the crust or a depression in the bedrock. A few of the profiles reported\nby Mittal and Mishra (1985) were extended further south during the third expedition (Gupta and\nVarma; 1986) covering a total of 60 line km of observations distributed over four profiles. The lon-\ngest of three profiles extended 28 km south of the Indian permanent station (70°05'37\"S, 12°\n00'00\"E). The salient features of these profiles are the low amplitude, short wavelength magnetic\nanomalies superimposed over a broad anomaly. Gupta and Varma (1986) have interpreted the\nbroad anomaly as being caused by an about 12 km thick body with its top at a depth of about 3.5 km\nand a polarization angle of about 60°.\nThe results presented in this paper pertain to aNS magnetic profile lying 3 km east of the Indian\npermanent station. The profile covered a region starting from the coast in the northern extreme to\nthe deep un-negotiable water channels encountered 33 km south of the coast. The location of this\nprofile as well as of those measured during the second and the third Indian Expeditions are shown in\nFig. 1. In Fig. 1, the present profile is shown as A-B (no. 4) while the magnetic investigations carried\nout during the second and the third Indian Antarctic expeditions are marked as 2 and 3 respectively.\n55\nFig.I . Location of the magnetic profiles obtained during the second and\nthird expeditions.\nSURVEY STRATEGY DATA COLLECTION\nThe laying of the traverse line was greatly simplified because of the availability of a Magnavox\nsystem with the Pisten Bulley (snow mobile) that was used for the survey. The Magnavox system\nuses satellite data for the purpose of accurate navigation in an unknown territory. First we took a few\ngood satellite fixes near the Runway Hut to check whether the Magnavox system is displaying cor-\nrect position. After ensuring the accuracy (within ± 05\") we proceeded 3 km due east from where\nthe Pisten Bulley was driven due north towards the edge of the shelf (Point A, Fig. 1). From this point\nthe Pisten Bulley was driven due south and poles with colour flags were put at every kilometre.\nWhile the N-S direction of the profile was maintained accurately with the help of the continuous digi-\n56\nMagnetic Survey Over Ice-shelf \nVerma, Mital, Rambabu, Venkatarayudu & Srinathareddy \ntal navigational display of position in the Magnavox panel, distances were measured accurately\n(within ± 10 m) with the help of a Ski-doo (snow-scooter fitted with an accurate distance and speed\nmeter).\nThe total intensity of the earth's magnetic field was recorded at 250 m intervals using a G816/\n826 Proton precession magnetometer having a sensitivity of 1 nT. To record the diurnal variations in\nthe magnetic field, a base station was set up about 2 km NE of the Indian permanent station",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 13
+  },
+  "taxonomy": {
+    "category": "2]Geology and Geophysics",
+    "subcategory": "Magnetic survey over the ice-shelf around the Indian permanent station in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:27.644628Z"
+  }
+}

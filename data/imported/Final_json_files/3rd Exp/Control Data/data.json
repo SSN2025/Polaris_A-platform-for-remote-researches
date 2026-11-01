@@ -1,0 +1,72 @@
+{
+  "id": "t_p_no3",
+  "document_id": "NCPOR-78DDD9",
+  "source_file": "T.P.+No3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/771/1/T.P.+No3.pdf",
+  "bibliographic": {
+    "title": "T.P.+No3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Document Control Data Sheet            \nRR No. 3 \nSl. \nNo \n  \n1 Name of the institute \n \nNational Centre for Antarctic & Ocean \nResearch \n2 Document number  \n \nNCAOR RR. No.-3 \n3 Date of publication \n \n1986 \n4 Title of the document\n  \n \nScientific Report of  Third Indian \nExpedition to Antarctica \n5 Type of Document* \n \nRR \n6 No. of pages & \nfigures \n \n266pgs \n7 Number of \nReferences \n \n- \n8 Author (s) \n \nMembers of Expedition No. 3 \nEdited by- S. Z. Qasim \n9 Originating Unit \n \nNCAOR, Project (Antarctic Science) \n10 Abstract (100 words) \n \nThis Scientific Publication consists of \nvarious Articles from different disciplines \nof Polar Science. The data used for the \nreport was collected during the Third \nIndian Scientific Expedition to Antarctica. \n11 Key words  \n \nMeteorology, Biology, Geology, \nEnvironmental Studies. \n12 Security \nclassification \n \nOpen \n13 Distribution  \n \nUnrestricted",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 1
+  },
+  "taxonomy": {
+    "category": "Document Control Data Sheet",
+    "subcategory": null,
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:14:15.592081Z"
+  }
+}

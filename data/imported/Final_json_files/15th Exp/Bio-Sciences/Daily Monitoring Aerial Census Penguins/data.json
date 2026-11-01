@@ -1,0 +1,72 @@
+{
+  "id": "article_13",
+  "document_id": "NCPOR-1E6556",
+  "source_file": "ARTICLE+13.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/457/3/ARTICLE+13.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+13",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "15] Scientific Report Of Fifteenth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Fifteenth Indian Expedition to Antarctica, Scientific Report, 1999 \nDepartment of Ocean Development, Technical Publication No. 13, pp 165-182 \nDAILY MONITORING AND AERIAL CENSUS OF\nPENGUINS AND SEALS IN ANTARCTICA\nYash Veer Bhatnagar and Sathyakumar\nWildlife Institute of India\nAbstract\nIn Antarctica, five aerial census sorties were conducted to record penguin and seal\nabundance, habitat occupancy and distribution in ca. 34 nautical miles (nm) along the west,\nand 35 nm along the east shelf. Six habitat types were identified in relation to the perceived\nvalue to penguins and seals viz. shelf, sastrugi, fast ice, pack ice, ice bergs and polynea (shelf\nwas further classed into two and fast ice, into five habitat types). (Discussion regarding\nhabitat are mainly in reference to visibility during sorties and not to habitat use per say). The\nproportions of fast ice, pack ice and sastrugies were found to be highly dynamic. While the\nproportion of the former two declines as the summer advances, that of the latter increases.\nSpecies abundance trends differed significantly (Chi sq. test, p<0.0001) in the five sorties.\nTaking the lar gest numbers of any species seen during a sortie to the east and west, Adelie\npenguins dominate (597 individuals), followed by Emperor penguins (565), Weddel seals\n(285) and Crabeater seals (140). West shelf areas consistently had higher abundance of\npenguins and seals (Mann Whitney U test, p<0.05), this area also had a greater availability\nof fast ice, pack ice and sastrugies. In the early summer Weddel Seal and Emperor penguin\nwere the most dominant species while later in the season Adelie penguins became most\ndominant. Weddel seals probably migrated out of the region during February with the\ndepletion of fast ice, their preferred habitat while the other species largely shifted to the\nnewly available habitats i.e. sastrugi, eroded shelf and ice bergs. An influx of Adelie\npenguins seems to have occurred during the fourth sortie when their highest numbers were\nrecorded. It is also possible that the high numbers were due to the peak in the moulting, as\nduring that period penguins do not enter water. Hence, the major reason for the variation in\nnumbers of animals seen seems to be the dynamic ice habitat that is used for basking by the\nanimals. The prevailing weather conditions, dial activity pattern, the moulting period and\nthe low sample size (no. of sorties) also affect the number of animals' seen, thus causing\nvariations in counts. Some corrective measures have been suggested and it is stressed that\nthese factors be further investigated to develop, correction factors for abundance estimates.\nIntroduction\n• Antarctica has a unique assemblage of flora and  fauna. These are unique\nin  their  adaptations to the extremes of the polar environment. The Antarctic\n166 Yash Veer Bhatnagar & Sathyakumar \nregion is home to 21 mammal species which include 6 species of seals and 15\nof whales (Bonner, 1985) and about 45 species of birds (Siegfried, 1985). Till\nrecently the Antarctic environment was unspoilt, but now human activity and\ncommercial interest in Antarctica are on the rise. Over 20 nations have their\npermanent stations in Antarctica who invariably pollute their surroundings\n(May, 1988). Instances of oil spills and tourist inflow into the continent in the\nrecent years have increased. These ventures may disturb the ecological balance\nof the area unless special interest is taken in understanding the impacts and\nprotecting wildlife and the environment. The fauna of Antarctica is influenced\nby human activities undertaken in the Antarctic and Sub-Antarctic zones. The\nover-hunting of whales in these waters left penguins and seals as the largest\ngroup of animals feeding on krill and the abundance of some penguin and seal\nspecies is said to have increased (Watson, 1975; Bonner and Walton, 1975;\nBonner, 1985; Laws, 1993). The subsequent ban on whaling in these waters is\nexpected to affect penguin and seal abundance. Interest by countries in com-\nmercial krill harvesting and sealing are matters of direct intervention in the\nAntarctic ecosystem, which may result in changing abundance patterns of\nspecies. In such situations, it becomes difficult to assess the impact on wildlife\nbecause of lack of their baseline status (Goldsmith, 1992).\nIn contrast to studies by other countries, where detailed information on\npopulation status and ecology of Antarctic species is available (Viet and Hunt,\n1991; Miller and Davis, 1993; Chappell, et.al, 1993a; Chappell, et. al 1993b;\nLaws, 1993; Young, 1994) our knowledge of these species is limited. Informa-\ntion on Antarctic wildlife in the region close to the Indian station (henceforth\nreferred to as the India Bay region) is limited, except for some studies by the\nZoological Survey of India from the 1\nst\n and the 11\nth\n Indian expeditions\n(Parulaker, 1982; Chattopadhyaya, 1995). Comparable studies in this region\nwill help in a better understanding of the ecology of the spec",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 18
+  },
+  "taxonomy": {
+    "category": "3]Bio-Sciences",
+    "subcategory": "Daily Monitoring and Aerial Census of Penguins and Seals in Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:24:47.233784Z"
+  }
+}

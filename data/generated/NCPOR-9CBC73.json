@@ -1,0 +1,83 @@
+{
+  "id": "temporal-and-spatial-variation-of-meteorologi-ncpor-9cbc73",
+  "document_id": "NCPOR-9CBC73",
+  "source_file": "93-107.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1209/1/93-107.pdf",
+  "title": "Temporal & Spatial variation of meteorological parameters and Energy Budget of different snow-ice media in Dronning Maud Land (Schirmacher Oasis) East Antarcrica, during 2010",
+  "year": 2010,
+  "expedition": "29th Indian Antarctic Expedition",
+  "category": "Glaciology",
+  "subcategory": "Temporal & Spatial variation of meteorological parameters and Energy Budget of different snow-ice media in Dronning Maud Land (Schirmacher Oasis) East Antarcrica, during 2010",
+  "bibliographic": {
+    "title": "Temporal & Spatial variation of meteorological parameters and Energy Budget of different snow-ice media in Dronning Maud Land (Schirmacher Oasis) East Antarcrica, during 2010",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": "National Centre for Polar and Ocean Research, Goa"
+      }
+    ],
+    "expedition": "29th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 2010,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "",
+    "summary": "This investigation conducted during the 29th Indian Antarctic Expedition examines key glaciology phenomena in polar terrain around Schirmacher Oasis and Dronning Maud Land. The study records baseline scientific parameters and contributes to long-term monitoring of environmental changes in Antarctica.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Schirmacher Oasis",
+      "Dronning Maud Land"
+    ],
+    "research_sites": [
+      "Schirmacher Oasis",
+      "Dronning Maud Land"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "Glaciology",
+    "subcategory": "Temporal & Spatial variation of meteorological parameters and Energy Budget of different snow-ice media in Dronning Maud Land (Schirmacher Oasis) East Antarcrica, during 2010",
+    "tags": [
+      "glaciology",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Glaciology discoveries from 29th Indian Antarctic Expedition: \"Temporal & Spatial variation of meteorological parameters and Energy Budget of different snow-ice media in Dronning Maud Land (Schirmacher Oasis) East Antarcrica, during 2010\". Learn how Indian scientists studied Schirmacher Oasis on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Classified under Glaciology based on research scope and methodology.",
+      "page_number": 1,
+      "section": "Metadata & Classification"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T07:03:32.440923Z"
+  }
+}

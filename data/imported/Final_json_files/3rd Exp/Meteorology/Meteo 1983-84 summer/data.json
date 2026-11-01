@@ -1,0 +1,72 @@
+{
+  "id": "article_2",
+  "document_id": "NCPOR-DF6162",
+  "source_file": "ARTICLE+2.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/203/3/ARTICLE+2.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+2",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian Expedition to Antarctica Scientific Report 1986 \nDepartment of Ocean Development Technical Publication No 3 pp 21-47 \nMeteorological Observations : 1983-'84 Antarctic Summer\nN. P Singh, 1 K 1 Tnvedi, 2 L S Rathore 3 and S R. H.  RIZVI 3\nABSTRACT\nExtensive meteorological observations of surface and upper air parameters were taken from\nship platform during the voyage from Goa to Antarctica and back and also at Sch irmacher hill station\nand at Dakshin Ga ngotri. The important meteorological events encountered during the expedition and\nthe Antarctic weather have been discussed. Variations in observations taken at different locations and\nobservational arrangements made by other countries have also been referred to.\nINTRODUCTION\nThe Third Indian Scientific Expedition to Antarctica 1983-'84  left  Marmugoa  port  on\nDecember 3, 1983 on board  M S Finnpolaris.  The team included two met eorological scientists\nfrom India Meteorologica l Department one meteorological officer from Indian Air Force and one\nmeteorological and oceanographic officer from Indian Navy.\nThe main objective of the meteorological prog ramme of the expedition was to set up a surface\nand upper air observatory at Indian permanent base station in Antarctica for continuous recording of\nmeteorological parameters at the station. This was to facilitate, in the long run, obt aining  meteoro-\nlogical record of the station. Besides, there were other sp ecific objectives of the meteorological\nprogramme for the duration of the v oyage and the stay in Antarctica as mentioned below.\n1 To study synoptic weather systems that affect weather over Antarctica with special refer-\nence to their formation intensification movement and decay by collecting information about\nmeteorological data n et-work  in  Antarctica.\n2  To  study  day-to-day  changes in the  structure of the An tarctic troposphere , tropopause\nand stratosphere by taking 401-MHz  radiosonde and omegasonde ascents at regular time intervals.\n3 To take and record synoptic weather observations during  the  voyage  and  the  stay  in\nAntarctica.\n4 To provide weather forecasts for the purpose of planning and execution of the activities of\nthe expedition in Antarctica.\n5 To provide meteorological report and weather forecasts for helicopter operations in\nAntarctica.\n6 To study sea-ice conditions and the details of sources and  format of such information for\nAntarctic waters.\n1 Naval Oceanology and Meteorology Cochin\n2 Air Head Quarters New Delhi\n3 India Meteorological Department Lodi Road New Delhi\n21\n22\nUpper air soundings\nThe following gives the number of radiosonde and omegasonde ascents taken from ship during\nthe voyage from Goa to Antarctica and back and during the stay in Antarctica\nPilot balloon ascents\nPilot balloon ascents, using optical theodolite, were taken at base camp from January 31, to\nFebruary 17,1984. During this period sixteen pilot balloon ascents were taken. Most of the flights\nlasted for less than 10 minutes as the balloon entered into low clouds which were invariably present\nfor most of the time in the month of February. The highest ascent was tracked for 42 minutes.\nUPPER AIR OBSERVATIONS\n3 Weather observations at Dakshin Gangotri  (70°06'S, 12°00 E)\nWeather observatory at base camp started functioning by taking three hourly surface observa-\ntions from January 12, to February 20, 1984. The observatory was then moved to the nearby perma-\nnent station (Dakshin Gangotri)  where surface and upper air parameters were to be monitored. Regular\nobservations were started from February 24, 1984.\n2 Weather observations at Schirmacher Oasis Field Camp  (70°41 S, 11°46 E)\nA field camp at Schirmacher Oasis was set up on January 13, 1984 at the same place where\nfield camps were set up by the first and second expeditions. The field camp was about 15 km north-\nwest of Novolazarevskaya a Russian station, and in a small valley surrounded by high rocky terrain.\nThree-hourly observations were taken from 12 GMT of January 16, to 00 GMT of February 5,1984.\nThe data of the weather observations are given in Table 4.\nMETEOROLOGICAL DATA\n1 Weather observations made during th e voyage\nRoutine weather observations at three hourly intervals were taken from the ship platform from\n03 GMT of December 4, 1983 to 06 GMT of March 29, 1984 except during the period of stay of the\nship in Port Louis Mauritius from12 GMT of December 10, to12 GMT of December 14, 1983 and from\n12 GMT of March 18, to 12 GMT of March 22,1984. The complete surface weather data taken from\nship platform for the period of stay of the ship south of 60°S at main synoptic hours are given in Table 3.\nIn addition the meteorological instruments fitted on the bridge on board M S Finnpolaris  for\nrecording surface weather observations from the ship were also used during the expedition.\nEQUIPMENT\nThe meteorological equipment and stores were mainly provided by India Meteorological Depart\nmerit and included the following\n1 DR wind vane and anemomet",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 27
+  },
+  "taxonomy": {
+    "category": "2]Meteorology",
+    "subcategory": "Meteorological Observations 1983-84 Antarctic summer",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:44.580242Z"
+  }
+}

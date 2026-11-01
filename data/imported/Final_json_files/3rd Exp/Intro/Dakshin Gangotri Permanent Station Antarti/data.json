@@ -1,0 +1,72 @@
+{
+  "id": "article_1",
+  "document_id": "NCPOR-3BFA56",
+  "source_file": "ARTICLE+1.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/668/3/ARTICLE+1.pdf",
+  "bibliographic": {
+    "title": "ARTICLE+1",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "03] Scientific Report Of Third Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Third Indian Expedition to Antarctica, Scientific Report, 1986 \nDepartment of Ocean Development, Technical publication No. 3, pp. 15-18 \nDakshin Gangotri : The Indian Permanent Station in  Antarctica*\nP. K. Nair 1 and Harsh K. Gupta 2\nABSTRACT\nIn addition to carrying out i nvestigations and observations in diversified scientific disciplines,\none of the major responsibilities of the Third Scientific Expedition was to set up a permanent station at\nAntarctica to sustain continued scientific work during the winter months. This responsibility was given\nto the Corps of Engineers of the Indian Army. The doub le storeyed, two block station built over a raft\nfoundation with a plinth area of 620 sq. m. was completed and facilities commissioned in a record time\nof two months. The first Indian Antarctic wintering team consisting of twelve members started win-\ntering from March 1,1984. At the time of writing this article, two years of wintering have been suc-\ncessfully completed by Indian teams in Antarctica during 198 4 and 1985. This article describes the\nIndian Station, Dakshin Gangotri, at Antarctica.\nINTRODUCTION\nIndia successfully laid down the foundation of scientific research in Antarctica during the first\nexpedition in 1981-'82. The second expedition, during 1982-'83, further strengthened scientific re-\nsearch efforts in Antarctica. However, both these expeditions were restricted to Antarctic summer\nmonths. The necessity of having a permanent base station, where scientific observations and research\ncould be continued  during the winter months, was strongly felt. Therefore, the Department of Ocean\nDevelopment, Government of India, decided that during the third expedition, in  addition to carrying out\ninvestigations and observations in diversified scientific fields, a permanent scientific station should be\nset up. This major responsibility of setting up of  a permanent research station was assigned to the\nCorps of Engineers of Indian Army. For several other countries, which have established permanent\nstations in Antarctica, the construction job has been handled by personnel in uniform. Logistic support\nwas provided by the Indian Navy and Air Force, and wherever necessary, scientists provided a helping\nhand in accomplishing this enormous task.\nThe preparations for the third expedition started soon after the return of the second expedition\nin March 1983. The eighty one members of the team were selected from among the volunteers who\nhad offered their services for the expedition. This was a young team with an average age of 32 years.\nAll members were suitably trained. The details of preparation, structure chosen , ship used, voyage\nand construction etc. are given elsewhere (for example Nair, 1984; Gupta, 1984). In this paper, the\nsalient features of the station are presented.\nTHE LOCATION\nThe possible site for locating the permanent station was debated in detai l during th e voyage to\nAntarctica among the scientists, members of the earlier expedition who were participating in the third\nexpedition, and the officers of the ship. All available material, such as aerial photographs, regional maps\n* Written on behalf of the team members of the Third Indian Scientific Expedition to Antarctica.\n1 Durg Abhiyanta Karyalaya ,Dehra Dun - 248 008, India.\n2 Centre for Earth Science Studies, Trivandrum-695 031, India.\n15\nprepared by the Norsk Polarinstitutt and the recommendations of the Second Indian Antarctic Expedi\ntion were examined in detail. A site at 70°02 S 12°00 E had been recommended by the second\nexpedition for constructing the permanent station (Fig 1). Two grounded ice patches Leningrad\nkollen (shown in Fig 1) and Kurklaken are located in the near vicinity. Grounded ice patches such\nas these tend to develop crevasses on their periphery. The site suggested by the second expedition did\nnot appear to be th e most appropriate one as cracks were found to be developing in its near vicinity.\nThese cracks were also identified on recent aerial photographs. The southern periphery of the grounded\nice patch Leningradkollen was found to have crevasses as revealed by helicopter surveys. Keeping in\nview several logistic factors an area of about 10 km diameter (Fig 1) was considered to be most\nappropriate for locating the permanent station. Detailed survey of this area was carried out and a loca\ntion with coordinates 70°05 S 12°00E was finalized for locating the station. The thickness of\nice shelf is reported to be about 150 metres in this region. The site selected is reasonably close to the\nice shelf edge (Fig 1) is free of crevasses is smooth and has a good view of the Wohlthot Mountain\nrange in the south\nDAKSHIN GANGOTRI STATION\nThe first manned station of India in Antarctica Dakshin Gangotri is located on ice shelf on Princess\nAstrid coast. The load of station is borne by a raft foundation to effect even distribution of the load and\navoid possible sinking. The station consists of two double storey blocks linked by  a narrow passag",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 15
+  },
+  "taxonomy": {
+    "category": "1]Introduction",
+    "subcategory": "Dakshin Gangotri _ The Indian Permanent Station in Antartica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:13:35.067494Z"
+  }
+}

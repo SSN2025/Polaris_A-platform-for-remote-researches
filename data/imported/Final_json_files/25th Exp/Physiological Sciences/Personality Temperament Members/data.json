@@ -1,0 +1,72 @@
+{
+  "id": "chapter_3",
+  "document_id": "NCPOR-91CADC",
+  "source_file": "Chapter+3.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/1009/1/Chapter+3.pdf",
+  "bibliographic": {
+    "title": "Chapter+3",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "25] Scientific Report of Twenty Fifth Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Twenty Fifth Indian Antarctic Expedition 2006-2007\nMinistry of Earth Sciences, Technical Publication No. 23, pp 277-284\nPersonality and Temperament of Indian Antarctic \nExpedition Members\nF. U. John Paul and K. Ramachandran\nDefence Institute of Psychological Research, DRDO, Delhi\nABSTRACT\nPsychological effects in polar environment have been examined from several \nperspectives. Amongst those, personality and temperament traits have been cardinal. \nThis study aims to investigate the personality and the temperament traits of Antarctic \npersonnel, in addition, the correlation of temperament and personality traits. Fifteen \nvolunteers from winter team of 25th Indian Scientific Antarctic Expedition served \nas participants. NEOFFI Personality test was administered at Auli, India and \nretested at pre and post winter season in Antarctica. The TDOT test was administered \nin the last two months of prolonged residence in Antarctica. There was no significant \ndifference in the dimensions of personality from baseline to post winter season. \nThe correlation of personality and temperament traits revealed a significant \nrelationship between neuroticism and placid temperament. Agreeableness was \nsignificantly related with sociable and cheerful dimensions of temperament and \nwith extraversion dimension of personality. Conscientious, while related to \nextraversion, was found to be significantly associated to responsible dimension of \ntemperament.\nKeywords: Personality, Temperament, Antarctica, NEOFFI\nINTRODUCTION\nConsiderable time and effort have been spent to identify personality \ncharacteristics related to good or poor adaptation, social cooperativeness \nversus destructiveness and the like in space flight or polar stations. The \nway in which people react to the environment is conceived of as being to a \ngreat extent personality based. Although much effort has been expended \non research in selection factors for extreme and unusual environments, the \nfindings have been essentially those predicted by common sense. \nIndividuals, who are self-reliant, have high social skills and high autonomy, \nwho are goal-oriented and competent at their tasks, and so on are repeatedly\n\n278 F.U. John Paul andK. Ramachandran\nidentified as the most effective in such environments (Suedfeld, 1987). \nPersonality and situational factors affect the degree to which people are \nwilling to expose themselves to dangerous situations and the ability to take \nsuch experiences in stride largely depend on personality characteristics \n(Klausner, 1968).\nThe personality of polar expedition members indicate that most people \nwho volunteer for this kind of venture have personality characteristics that \nmake them capable of submerging individual needs to reach group goals \n(Sandal et al, 1996). In a study on personality traits, Dutta Roy (1992) \nreported that Indian expeditioners are aloof, objective, intelligent, \nindependent, problem solver, optimistic, cheerful, self sufficient, \nresourceful, careless of social rules and little inhibition to environmental \nthreat. In similar line, Bhargava and colleagues (2000) examining Indian \nAntarctic crew members, found that rapport with other members was \nminimum at the point of maximum isolation in temporal terms (September) \nand decreased satisfaction with work and life situations with continued \nisolation.\nButcher and Ryan (1974) found that volunteers are generally better \nadjusted, more achievement oriented, more self-sufficient and serious \nminded than a control sample of normal males. Also, these investigators \nfound no changes on personality profiles in retesting at midwinter and at \nthe end of winter. In a work by Steel et al. (1997), polar members, compared \nto a normative population, scored higher on all factors of NEOFFI except \nNeuroticism.\nPsychological reaction to long-lasting stressors is assumed to be \neffected by personality characteristics (Palinkas, 1990). The role of \npersonality in response to isolated, confined and hostile environments has \nbeen demonstrated in several extensive studies of Antarctic personnel \n(Taylor, 1987). On studying long duration mission in isolated and confined \nextreme environments, Palinkas et al. (2000) have identified the following \ncharacteristics, low levels of neuroticism, extraversion, conscientiousness \nand a low desire for affection from others.\nFinally, the available studies on personality clearly makes it known \nthat there is no marked changes on personality due to isolation, deprivation, \nconfinement or extreme environment. This review also reveals that among \npersonality traits, neuroticism was low in many of the studies. It is the \ninterest of this study to find whether the personality and the temperament\n\ntraits are consistent with the existing literatures and to assess the interrelation \nof personality and temperament traits in isolated and confined personnel.\nMETHOD\nParticipants: The wintering team at Maitri - the Indian Research Base in \nAntarctica (70°45’S, 11°",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "5] Physiological Sciences",
+    "subcategory": "Personality and Temperament of Indian Antarctic Expedition Members",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:59:18.356115Z"
+  }
+}

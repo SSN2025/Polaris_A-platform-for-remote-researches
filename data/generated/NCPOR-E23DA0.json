@@ -1,0 +1,85 @@
+{
+  "id": "hf-radio-communication-during-the-xiii-expedi-ncpor-e23da0",
+  "document_id": "NCPOR-E23DA0",
+  "source_file": "Pages+from+13TH+INDIAN+EXPEDITION363-370.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/722/1/Pages+from+13TH+INDIAN+EXPEDITION363-370.pdf",
+  "title": "HF Radio Communication during the XIII Expedition",
+  "year": 1994,
+  "expedition": "13th Indian Antarctic Expedition",
+  "category": "Logistics / Expedition Operations",
+  "subcategory": "HF Radio Communication during the XIII Expedition",
+  "bibliographic": {
+    "title": "HF Radio Communication during the XIII Expedition",
+    "authors": [
+      {
+        "name": "Thirteenth Indian Expedition to Antarctica",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      },
+      {
+        "name": "Scientific Report",
+        "affiliation": "NCPOR Expedition Scientific Member"
+      }
+    ],
+    "expedition": "13th Indian Antarctic Expedition",
+    "publication_series": "NCPOR Scientific Monograph Series",
+    "report_type": "Scientific Report",
+    "year": 1994,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "English"
+  },
+  "content": {
+    "abstract": "Abstract \nIntroduction \nThirteenth Indian Expedition to Antarctica, Scientific Report, 1977 \nDepartment of Ocean Development, Technical Publication No.ll, pp. 361-368 \nHF Radio Communication during the XIII Expedition \nDINESH MOHAN and V.R.K.R.DESHMUKH \nDEAL, Dehradun \nDEAL has been given the task to study and collect data on HF propagation condition \nexisting in Antarctica, conduct various experiments to improve the quality and quantity of \nvoice and data communication and to find out suitable alternative means for different \nrequirements. This paper presents the results of the studies conducted during XIII expedition. \nDEAL is providing HF voice/data communication between Maitri (Ant-\narctica) and Dehradun(India) since XI expedition. Various communication \nexperiments were tried for improving the communication facilities. During the \nXIII expedition, DEAL member of the team provided: \n1. HF voice/data communication with DEAL. \n2. Monitoring of various broadcast stations to provide general informa-\ntion/news/entertainment to the team members. \n3. Ham contacts around the globe to foster international friendship and \ncooperation through Amateur Radio. \nIn addition, various communication experiments and HF propagation \nstudies were conducted during the expedition. The quality of the signal received \nduring the above activities helped us in assessing the propagation conditions \nand correlating this with the geomagnetic data collected by IIG members of the \nteam. \nExperimental Setup \nThe experimental setup consisted of two 11 element Log Periodic Antenna \n(LPA) on 20 feet mast. Yaesu 757 GXII transceiver and FL 7000 HF linear \namplifier. For data communication IBM compatible PC AT alongside KAN-\nTRONICS KAM modem was utilized. Since LPA could cover only 14 to 28 \nAmateur Radio Station - HAM \nDetails of Analysis \n362  Dinesh Mohan and V.R.K.R. Deshmukh \nMHz band, fixed frequency dipoles were installed as and when required to \ncover complete HF band. \nThe AGC of the receiver was fed to the recording system consisting of \ncalibrated chart recorder and PC based data acquisition system (DAQ). The \nPC-PLUS 141 data acquisition card used has multi-channel handling capability \nwhich can be used for recording a number of parameters simultaneously. The \ngeomagnetic data was obtained through IIG systems located in Antarctica. \nA special call sign AT3D was allotted by WPC, New Delhi for the \nexpedition. Since this call sign was not available in the international call books, \nOM VU2VP Sandlas gave his consent to act as QSL manager. Yaesu 757 GXII \ntransceiver and 11 element LPA were used as basic setup though KAM and \nMorse key were also added time to time in the set up. A total of 125 countries \nwere covered through 1800 contacts made during the expedition. \nThe HF propagation data was divided in two parts: \nPoint to Point communication: Maitri to DEAL communication records \nand Ham data were clubbed. \nBroadcast: Quality of signals from different broadcast stations were \nsummed up to assess overall broadcast propagation. \nThe quality of point to point communication and Broadcast signals for each \nday was classified in these categories: \n0: No signal received. \n1: Signal of moderate strength. \n2: Signal of good quality. \nGeomagnetic disturbance was also roughly categorized as: \n0: No geomagnetic disturbance. \n1: Moderately disturbed geomagnetic condition. \n2: Severely disturbed geomagnetic condition (geomagnetic storm). \nEach day was assigned one of these values on the basis of hourly geomag-\nnetic data supplied by IIG members of the team. These may differ from that of \nIIG because of qualitative assessment made by us from the point of view of \nradio wave propagation. \n 363 \n61% \n2 \n1 \n30 9X \nFig. 1: Annual Variation in Point to Point HF \nHF Radio Communication during the XIII Expedition\nResults of Analysis \nNoteworthy results are summarized below: \n1. Good quality HF point to point communication signal was received on \n145 days during the expedition period with lesser number of days in the \nmonths of May to August. \n2. Broadcast signal quality was very good for 194 days with a minimum \nin May. Amount of data collected during February- March period was \nlimited due to interference from other powerful stations. \n3. Aurora was observed on about 31 days in the year with a maximum in \nthe month of September. \n4. Geomagnetically disturbed days were roughly about 64 days for mod-\nerate activity and 88 days for severe activity. In the months of March to \nThe monthly and annual variations in HF point to point communication \nand broadcast modes and days of aurora observed and geomagnetic disturbance \nare plotted in (Figs.l to 7). \nThe dates for different conditions were found out and compared with the \npropagation assessment of DSTO Australia in their monthly bulletins. \n364 \n2 \n2 \n14 % \ne \n1 \n8 \n27% \n12% \n1 \n53% \nFig. 3: Annual Geomagnetic Condition Occurrence \nFig. 2: Annual Variation in Broadcast HF \nDinesh Mohan and V.R.K.R. Des",
+    "summary": "During the 13th Indian Antarctic Expedition, scientists conducted logistics / expedition operations investigations focused on \"HF Radio Communication during the XIII Expedition\". This paper presents the results of the studies conducted during XIII expedition. These findings from Maitri provide vital baseline evidence for understanding polar environmental dynamics.",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition",
+      "Maitri"
+    ],
+    "research_sites": [
+      "Maitri"
+    ],
+    "num_pages": 8
+  },
+  "taxonomy": {
+    "category": "Logistics / Expedition Operations",
+    "subcategory": "HF Radio Communication during the XIII Expedition",
+    "tags": [
+      "logistics-expedition-operations",
+      "antarctica",
+      "ncpor",
+      "indian-expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": "Logistics / Expedition Operations discoveries from 13th Indian Antarctic Expedition: \"HF Radio Communication during the XIII Expedition\". Learn how Indian scientists studied Maitri on Polaris."
+  },
+  "evidence": [
+    {
+      "field": "category",
+      "source_text": "Department of Ocean Development, Technical Publication No.",
+      "page_number": 1,
+      "section": "Abstract / Introduction"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "NCPOR DSpace Repository Extractor",
+      "Subfolder Hierarchy Parser",
+      "Scientific Text Normalizer"
+    ],
+    "confidence": {
+      "title": 0.95,
+      "authors": 0.88,
+      "year": 0.92,
+      "category": 0.94,
+      "research_sites": 0.9,
+      "summary": 0.89
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:23:37.590956Z"
+  }
+}

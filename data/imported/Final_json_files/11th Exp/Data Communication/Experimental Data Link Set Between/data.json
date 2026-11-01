@@ -1,0 +1,72 @@
+{
+  "id": "341_345",
+  "document_id": "NCPOR-E6D16B",
+  "source_file": "341-345.pdf",
+  "pdf_url": "http://14.139.119.23:8080/dspace/bitstream/123456789/760/1/341-345.pdf",
+  "bibliographic": {
+    "title": "341-345",
+    "authors": [
+      {
+        "name": "Unknown",
+        "affiliation": null
+      }
+    ],
+    "expedition": "11] Scientific Report Eleventh Indian Expedition To Antarctica",
+    "publication_series": null,
+    "report_type": "Scientific Report",
+    "year": 2026,
+    "page_range": "Unknown",
+    "doi": null,
+    "language": "en"
+  },
+  "content": {
+    "abstract": "Eleventh Indian Expedition to Antarctica, Scientific Report, 1995 \nDepartment of Ocean Development, Technical Publication No. 9, pp.341-345 \nA Note on the Experimental HF Data Link Set Up\nBetween India and Antarctica\nK.Y.SRIKANTH\nResearch & Development Establishment (Engrs.)\nDighi,Pune-411 015\nAbstract\nAn experimental HF data link between India and Antarctica was established during the\neleventh Indian expedition. The system worked satisfactorily during the austral winter of\n1992.\nIntroduction\nHF communication is that area of radio communication where the fre-\nquency falls between 3 and 30 MHz. These waves get ref lected by ionosphere\nseveral times before reaching a distant destination like India from Antarctica.\nThey are reflected from E and F regions of ionosphere and suffer very little\nattenuation in the process. HF communication from polar regions offers prob-\nlems and challenges altogether different than those faced in India. HF data link\nmeans transfer of digital data between computers using HF as the medium.\nAn experimental HF data link was established between India and Antarc-\ntica during the austral summer of 1991-92. The work involved antenna erection,\nsetting up of equipment, testing and initial trials. The programme during ninth\nwintering (1992) was regular communication on data and voice, observations\non various parameters and carrying out experiments to find the circuit avail -\nability at different frequencies round the year.\nAntennas : \nThe main antenna which was used for this project was a Log Periodic\nAntenna (LPA) which has a bandwidth of 14 to 28 MHz. An improvised work\nwas carried out on site to fabricate coupling for the antenna to the mast. The\nantenna was made rotatable by unbolting the antenna plate from the mast plate\nand devising a method to rotate it by either mechanical or electrical means. The\n342 K.Y.Srikanth \nfiring end of the antenna faced N30°E which is approximately the direction\ntowards India from Maitri.\nTwo other antennas were also fabricated and erected. These are two\nchannel dipole and an inverted vee. The latter was erected on a 50 ft mast and\nthe dipole was fixed between the LPA and Inv vee masts since the line between\nthe two masts was perpendicular to N30°E.\nEquipments : \nBesides antennas described above, other equipments used in this project\nare (i) 100 W pep Transreceiver, (ii) 1000 W pep Linear Amplifier, (iii) Radio\nModem and (iv) PC AT.\nDigital Transmission : \nDigital transmission refers to the transfer of computer data over HF using\na radio modem. Three methods were used for data transmission viz., RTTY,\nAMTOR (Mode A - ARO, Mode B - FEC and Mode L - Lamtor) and Packet.\nThe modulation was done by the modem using Audio Frequency Shift Keying\ni.e. shifting the frequency of the single side band transmitter depending upon\nwhether a mark or a space is to be sent.\nRTTY:\nRTTY transmission is by far. the simplest. The transmission rate was 50\nbauds, but the method is highly prone to errors and grabbling. This is because\nconditions between India and Antarctica are not at their best most of the time.\nFurther, there was the restriction in duration of transmission as it had to be kept\nshort so that the set does not get overheated.\nAMTOR:\nAMTOR requires that the Information Sending Station (ISS) synchronises\nwith the Information Receiving Station (IRS). During disturbed conditions, the\ntime taken to establish contact could be quite long (or not at all). There are three\nmodes of AMTOR communication. Its baud rate is 100 baud though the actual\nthroughput might be far less.\nMode A is called ARO and is used between two stations in two way\ncommunication. Messages are sent in blocks of three characters by the ISS.\nError control is by means of control signals sent from the IRS to the ISS,\nsignalling whether a repeat of a block of the signal is required. With this method\nthe chances of overheating are less as transmission alternates with reception.\nMode B is also known as FEC and is used when one station wishes to\nA Note on the Experimental HF Data Link Set Up ... 343\ncommunicate with several others. Here the error correction is via the same text\nbeing sent twice by the ISS, five characters apart. Problem of transmitter\nOverheating like that in the case of RTTY is also faced in this mode. But this\nmethod is the best method to transmit when conditions are bad. Mode L is\nlistening to AMTOR mode A traffic passively.\nPacket:\nCommunication was also tried out on Packet radio. The Packet radio\nfollows the AX-25 standard which implements the physical, data link, network\nand a part of the transport layer of OSI model. There were only very few \nsuccessful connections of Packet between India and Antarctica. However, once\nconnected, Packet offers the best form of data communication. It is error free,\nnot heavy on the transmitter cycles, offers virtually full duplexing and one can\ntransmit both ASCII and Binary files.\nCommunication from a polar region : \nCommunication from polar region offers ",
+    "summary": "Plain-language summary placeholder (Connect LLM here).",
+    "keywords": [
+      "Antarctica",
+      "NCPOR",
+      "Scientific Expedition"
+    ],
+    "research_sites": [
+      "Antarctica"
+    ],
+    "num_pages": 5
+  },
+  "taxonomy": {
+    "category": "6]Data Communication",
+    "subcategory": "A Note on the Experimental HF Data Link Set Up Between India and Antarctica",
+    "tags": [
+      "polar research",
+      "indian expedition"
+    ]
+  },
+  "outreach": {
+    "highlight": false,
+    "social_caption": null
+  },
+  "evidence": [
+    {
+      "field": "research_sites",
+      "source_text": "Automatically extracted from document origin.",
+      "page_number": 1,
+      "section": "Metadata"
+    }
+  ],
+  "pipeline": {
+    "status": "extracted",
+    "methods_used": [
+      "pdf_text_extraction",
+      "regex_hierarchy_parsing"
+    ],
+    "confidence": {
+      "title": 0.9,
+      "authors": 0.0,
+      "year": 0.0,
+      "category": 0.8,
+      "research_sites": 0.5,
+      "summary": 0.0
+    },
+    "reviewed": false,
+    "extracted_at": "2026-09-05T05:18:56.437947Z"
+  }
+}
